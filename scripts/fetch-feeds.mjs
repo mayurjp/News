@@ -94,6 +94,51 @@ function categorize(title, summary) {
   return "News";
 }
 
+// Ordered most-specific-first: company names are stronger signals than
+// generic country words, so they're checked first within each region.
+const REGION_RULES = [
+  {
+    name: "India",
+    pattern:
+      /\b(India|Indian|Bengaluru|Bangalore|Mumbai|New Delhi|Hyderabad|Krutrim|Sarvam|Ola Krutrim|Reliance Jio|Infosys|Wipro|TCS|HCLTech|Zoho)\b/i,
+  },
+  {
+    name: "China",
+    pattern:
+      /\b(China|Chinese|Beijing|Shenzhen|Hangzhou|Alibaba|Baidu|Tencent|Huawei|SenseTime|iFlytek|Zhipu|Moonshot AI|DeepSeek|ByteDance|ByteDance's|Xiaomi|Qwen)\b/i,
+  },
+  {
+    name: "Europe",
+    pattern:
+      /\b(Europe|European|EU\b|Germany|German|France|French|United Kingdom|\bUK\b|Britain|British|London|Berlin|Paris|Mistral|Aleph Alpha|Stability AI|DeepL)\b/i,
+  },
+  {
+    name: "Japan",
+    pattern: /\b(Japan|Japanese|Tokyo|SoftBank|Sakana AI|Preferred Networks|Sony|NTT)\b/i,
+  },
+  {
+    name: "South Korea",
+    pattern: /\b(South Korea|Korean?|Seoul|Samsung|Naver|Kakao|LG (?:AI|Electronics))\b/i,
+  },
+  {
+    name: "Middle East",
+    pattern: /\b(UAE|United Arab Emirates|Saudi(?: Arabia)?|Abu Dhabi|Dubai|Qatar|G42|Falcon LLM)\b/i,
+  },
+  {
+    name: "United States",
+    pattern:
+      /\b(United States|U\.S\.|\bUS\b|America|American|Washington|California|Silicon Valley|OpenAI|Anthropic|Microsoft|Meta\b|Amazon|Apple\b)\b/,
+  },
+];
+
+function detectRegion(title, summary) {
+  const text = `${title} ${summary}`;
+  for (const rule of REGION_RULES) {
+    if (rule.pattern.test(text)) return rule.name;
+  }
+  return "Global";
+}
+
 function toIso(dateStr, fallback) {
   if (dateStr) {
     const d = new Date(dateStr);
@@ -130,7 +175,8 @@ function normalizeRssItem(item, sourceName, runIso) {
   const summary = truncate(stripHtml(rawSummary), SUMMARY_MAX_LEN);
   const date = toIso(item.pubDate ?? item.date, runIso);
   const category = categorize(title, summary);
-  return { source: sourceName, title, summary, link, date, category };
+  const region = detectRegion(title, summary);
+  return { source: sourceName, title, summary, link, date, category, region };
 }
 
 function normalizeAtomEntry(entry, sourceName, runIso) {
@@ -141,7 +187,8 @@ function normalizeAtomEntry(entry, sourceName, runIso) {
   const summary = truncate(stripHtml(rawSummary), SUMMARY_MAX_LEN);
   const date = toIso(entry.updated ?? entry.published, runIso);
   const category = categorize(title, summary);
-  return { source: sourceName, title, summary, link, date, category };
+  const region = detectRegion(title, summary);
+  return { source: sourceName, title, summary, link, date, category, region };
 }
 
 async function fetchWithTimeout(url, opts = {}) {
@@ -163,6 +210,24 @@ async function fetchWithTimeout(url, opts = {}) {
   }
 }
 
+// General (non-AI-scoped) publications — e.g. a country's whole tech section —
+// get an extra relevance pass so phone launches and unrelated stories don't
+// dilute the wire. Feeds already scoped to AI at the source (category/tag
+// URLs) skip this and are trusted as-is.
+const AI_RELEVANCE_PATTERN =
+  /\b(AI\b|A\.I\.|artificial intelligence|machine learning|\bLLM\b|large language model|chatbot|generative AI|neural network|deep learning|GPT-?\d|ChatGPT|Copilot\b|Gemini\b|Claude\b|Llama\b|Mistral\b|Qwen\b|DeepSeek\b|OpenAI|Anthropic|DeepMind|Hugging Face|NVIDIA|Sarvam|Krutrim|robotics?\b|autonomous\b|algorithm(?:s|ic)?\b)/i;
+
+function fetchScopedItems(rawItems, feed, runIso, normalizeFn) {
+  const isBroad = feed.scope === "broad";
+  const cap = isBroad ? MAX_ITEMS_PER_FEED * 6 : MAX_ITEMS_PER_FEED;
+  return asArray(rawItems)
+    .slice(0, cap)
+    .map((raw) => normalizeFn(raw, feed.name, runIso))
+    .filter((it) => it.title && it.link)
+    .filter((it) => !isBroad || AI_RELEVANCE_PATTERN.test(`${it.title} ${it.summary}`))
+    .slice(0, MAX_ITEMS_PER_FEED);
+}
+
 async function fetchFeed(feed, runIso) {
   const res = await fetchWithTimeout(feed.url);
   if (!res.ok) {
@@ -172,25 +237,16 @@ async function fetchFeed(feed, runIso) {
   const doc = parser.parse(xml);
 
   if (doc.rss?.channel) {
-    const items = asArray(doc.rss.channel.item).slice(0, MAX_ITEMS_PER_FEED);
-    return items
-      .map((item) => normalizeRssItem(item, feed.name, runIso))
-      .filter((it) => it.title && it.link);
+    return fetchScopedItems(doc.rss.channel.item, feed, runIso, normalizeRssItem);
   }
 
   if (doc["rdf:RDF"]?.item) {
     // RSS 1.0 (RDF) — rare, but handle it
-    const items = asArray(doc["rdf:RDF"].item).slice(0, MAX_ITEMS_PER_FEED);
-    return items
-      .map((item) => normalizeRssItem(item, feed.name, runIso))
-      .filter((it) => it.title && it.link);
+    return fetchScopedItems(doc["rdf:RDF"].item, feed, runIso, normalizeRssItem);
   }
 
   if (doc.feed) {
-    const entries = asArray(doc.feed.entry).slice(0, MAX_ITEMS_PER_FEED);
-    return entries
-      .map((entry) => normalizeAtomEntry(entry, feed.name, runIso))
-      .filter((it) => it.title && it.link);
+    return fetchScopedItems(doc.feed.entry, feed, runIso, normalizeAtomEntry);
   }
 
   throw new Error("unrecognized feed format");
@@ -222,12 +278,16 @@ async function main() {
     allItems.some((it) => it.category === name)
   );
   if (allItems.some((it) => it.category === "News")) categories.push("News");
+  const regions = [...REGION_RULES.map((r) => r.name), "Global"].filter((name) =>
+    allItems.some((it) => it.region === name)
+  );
 
   const output = {
     updated: runIso,
     count: allItems.length,
     sources,
     categories,
+    regions,
     items: allItems,
   };
 

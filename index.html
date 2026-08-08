@@ -249,6 +249,17 @@
     white-space: nowrap;
   }
 
+  .region-tag {
+    font-size: 0.68rem;
+    font-weight: 500;
+    color: var(--blue-dark);
+    background: #E8F0FE;
+    border: 1px solid #C6DAFC;
+    border-radius: 4px;
+    padding: 0.08rem 0.4rem;
+    white-space: nowrap;
+  }
+
   /* ---------- Layout ---------- */
 
   main {
@@ -365,6 +376,14 @@
     align-items: center;
     gap: 0.45rem;
     min-width: 0;
+  }
+
+  .card-kicker-right {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+    justify-content: flex-end;
   }
 
   .source-dot {
@@ -491,6 +510,12 @@
   </div>
 </nav>
 
+<nav class="category-bar" aria-label="Filter by geography">
+  <div class="category-inner" id="regions">
+    <span class="category-inner-label">Geography</span>
+  </div>
+</nav>
+
 <main>
   <div id="hero-slot"></div>
   <p class="section-label" id="grid-label">More headlines</p>
@@ -512,6 +537,7 @@
   const statePanel = document.getElementById("state-panel");
   const filtersEl = document.getElementById("filters");
   const categoriesEl = document.getElementById("categories");
+  const regionsEl = document.getElementById("regions");
   const updatedText = document.getElementById("updated-text");
   const refreshDot = document.getElementById("refresh-dot");
 
@@ -528,6 +554,7 @@
   let allItems = [];
   let activeSource = "All";
   let activeCategory = "All";
+  let activeRegion = "All";
 
   function escapeHtml(str) {
     const div = document.createElement("div");
@@ -605,9 +632,28 @@
     });
   }
 
+  function renderRegions(regions) {
+    regionsEl.innerHTML = '<span class="category-inner-label">Geography</span>';
+    const options = ["All", ...regions];
+    options.forEach((name) => {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "category-btn" + (name === activeRegion ? " active" : "");
+      btn.textContent = name;
+      btn.setAttribute("aria-pressed", name === activeRegion ? "true" : "false");
+      btn.addEventListener("click", () => {
+        activeRegion = name;
+        renderRegions(regions);
+        renderStories();
+      });
+      regionsEl.appendChild(btn);
+    });
+  }
+
   function heroCardHtml(it) {
     const badge = isNew(it.date) ? '<span class="badge-new">NEW</span>' : "";
     const category = it.category ? '<span class="category-tag">' + escapeHtml(it.category) + '</span>' : "";
+    const region = it.region ? '<span class="region-tag">' + escapeHtml(it.region) + '</span>' : "";
     return (
       '<a class="hero" href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener">' +
         '<span class="hero-kicker">' +
@@ -616,6 +662,7 @@
           '<span class="hero-time">' + relativeTime(it.date) + '</span>' +
           badge +
           category +
+          region +
         '</span>' +
         '<p class="hero-title">' + escapeHtml(it.title) + '</p>' +
         '<p class="hero-summary">' + escapeHtml(it.summary) + '</p>' +
@@ -626,6 +673,7 @@
   function cardHtml(it) {
     const badge = isNew(it.date) ? '<span class="badge-new">NEW</span>' : "";
     const category = it.category ? '<span class="category-tag">' + escapeHtml(it.category) + '</span>' : "";
+    const region = it.region ? '<span class="region-tag">' + escapeHtml(it.region) + '</span>' : "";
     return (
       '<a class="card" href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener">' +
         '<span class="card-kicker">' +
@@ -633,7 +681,7 @@
             '<span class="source-dot" style="background:' + colorForSource(it.source) + '"></span>' +
             '<span class="card-source">' + escapeHtml(it.source) + '</span>' +
           '</span>' +
-          category +
+          '<span class="card-kicker-right">' + category + region + '</span>' +
         '</span>' +
         '<p class="card-title">' + escapeHtml(it.title) + '</p>' +
         '<p class="card-summary">' + escapeHtml(it.summary) + '</p>' +
@@ -648,7 +696,8 @@
   function renderStories() {
     const items = allItems.filter((it) =>
       (activeSource === "All" || it.source === activeSource) &&
-      (activeCategory === "All" || it.category === activeCategory)
+      (activeCategory === "All" || it.category === activeCategory) &&
+      (activeRegion === "All" || it.region === activeRegion)
     );
 
     if (items.length === 0) {
@@ -657,7 +706,7 @@
       gridLabel.style.display = "none";
       statePanel.innerHTML =
         '<div class="state-panel"><div class="state-title">No stories here</div>' +
-        "No items match this source + topic combination.</div>";
+        "No items match this source + topic + geography combination.</div>";
       return;
     }
 
@@ -681,6 +730,7 @@
     gridEl.innerHTML = "";
     gridLabel.style.display = "none";
     categoriesEl.innerHTML = '<span class="category-inner-label">Topic</span>';
+    regionsEl.innerHTML = '<span class="category-inner-label">Geography</span>';
     gridEl.setAttribute("aria-busy", "false");
     statePanel.innerHTML =
       '<div class="state-panel"><div class="state-title">No signal yet</div>' +
@@ -703,10 +753,14 @@
       const categories = Array.isArray(data.categories) && data.categories.length
         ? data.categories
         : [...new Set(allItems.map((it) => it.category).filter(Boolean))];
+      const regions = Array.isArray(data.regions) && data.regions.length
+        ? data.regions
+        : [...new Set(allItems.map((it) => it.region).filter(Boolean))];
 
       renderMeta(data.updated);
       renderFilters(sources);
       renderCategories(categories);
+      renderRegions(regions);
 
       if (allItems.length === 0) {
         showError("The feed file loaded but contains no items yet.");

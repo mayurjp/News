@@ -9,5 +9,9 @@
   { "name": "Wired AI",         "url": "https://www.wired.com/feed/tag/ai/latest/rss" },
   { "name": "Ars Technica AI",  "url": "https://arstechnica.com/ai/feed/" },
   { "name": "MIT Tech Review",  "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/" },
-  { "name": "AI News",          "url": "https://www.artificialintelligence-news.com/feed/" }
+  { "name": "AI News",          "url": "https://www.artificialintelligence-news.com/feed/" },
+  { "name": "MediaNama",        "url": "https://www.medianama.com/feed/",              "scope": "broad" },
+  { "name": "LiveMint Tech",    "url": "https://www.livemint.com/rss/technology",       "scope": "broad" },
+  { "name": "Rest of World",    "url": "https://restofworld.org/feed/latest/",          "scope": "broad" },
+  { "name": "SCMP Tech",        "url": "https://www.scmp.com/rss/91/feed/",             "scope": "broad" }
 ]
