@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Signal — AI news, filtered</title>
+<meta name="description" content="A self-updating wire of AI news headlines, newest first, filterable by source." />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2220%22 fill=%22%230F1420%22/><circle cx=%2250%22 cy=%2250%22 r=%2210%22 fill=%22%23E8A33D%22/><circle cx=%2250%22 cy=%2250%22 r=%2224%22 fill=%22none%22 stroke=%22%23E8A33D%22 stroke-width=%225%22 opacity=%220.6%22/><circle cx=%2250%22 cy=%2250%22 r=%2238%22 fill=%22none%22 stroke=%22%23E8A33D%22 stroke-width=%224%22 opacity=%220.3%22/></svg>" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg:        #0F1420;
+    --bg-raised: #161D2E;
+    --bg-card:   #131A29;
+    --hairline:  #262F45;
+    --ink:       #E9E4D8;
+    --ink-dim:   #A8AFC2;
+    --ink-faint: #6B7389;
+    --signal:    #E8A33D;
+    --signal-dim: #8F6A2E;
+    --teal:      #4FA8A0;
+    --focus:     #E8A33D;
+    --radius: 10px;
+    --font-display: "Fraunces", Georgia, serif;
+    --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--font-body);
+  }
+
+  body {
+    min-height: 100vh;
+    background-image:
+      radial-gradient(circle at 15% 0%, rgba(232, 163, 61, 0.06), transparent 45%),
+      radial-gradient(circle at 85% 10%, rgba(79, 168, 160, 0.05), transparent 40%);
+  }
+
+  a { color: inherit; }
+
+  ::selection { background: var(--signal); color: #1a1206; }
+
+  /* ---------- Masthead ---------- */
+
+  .masthead {
+    border-bottom: 1px solid var(--hairline);
+    padding: 2.25rem 1.5rem 1.5rem;
+  }
+
+  .masthead-inner {
+    max-width: 920px;
+    margin: 0 auto;
+  }
+
+  .masthead-top {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .wordmark {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+  }
+
+  .wordmark h1 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: clamp(2.1rem, 5vw, 3rem);
+    letter-spacing: -0.01em;
+    margin: 0;
+    line-height: 1;
+  }
+
+  .dial {
+    position: relative;
+    width: 1.35rem;
+    height: 1.35rem;
+    flex: none;
+  }
+
+  .dial-ring {
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    border: 2px solid var(--signal-dim);
+  }
+
+  .dial-dot {
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background: var(--signal);
+    box-shadow: 0 0 10px 1px rgba(232, 163, 61, 0.65);
+    animation: pulse 2.6s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.55; transform: scale(0.82); }
+  }
+
+  .tagline {
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+    color: var(--ink-faint);
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .deck {
+    margin: 0.75rem 0 0;
+    font-size: 1rem;
+    color: var(--ink-dim);
+    max-width: 52ch;
+    line-height: 1.5;
+  }
+
+  .meta-row {
+    margin-top: 1.1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    color: var(--ink-faint);
+  }
+
+  .meta-row .refresh-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--teal);
+    flex: none;
+  }
+
+  .meta-row .refresh-dot.stale { background: var(--ink-faint); }
+
+  /* ---------- Filters ---------- */
+
+  .filters-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: rgba(15, 20, 32, 0.92);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--hairline);
+  }
+
+  .filters-inner {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 0.85rem 1.5rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .filter-btn {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    color: var(--ink-dim);
+    background: transparent;
+    border: 1px solid var(--hairline);
+    border-radius: 999px;
+    padding: 0.35rem 0.8rem;
+    cursor: pointer;
+    transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+  }
+
+  .filter-btn:hover {
+    border-color: var(--signal-dim);
+    color: var(--ink);
+  }
+
+  .filter-btn.active {
+    background: var(--signal);
+    border-color: var(--signal);
+    color: #1a1206;
+    font-weight: 500;
+  }
+
+  .filter-btn:focus-visible,
+  .card:focus-visible,
+  a:focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+  }
+
+  /* ---------- Wire / cards ---------- */
+
+  main {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 1.75rem 1.5rem 5rem;
+  }
+
+  .wire {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    background: var(--hairline);
+    border: 1px solid var(--hairline);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+
+  .card {
+    display: block;
+    text-decoration: none;
+    background: var(--bg-card);
+    padding: 1.1rem 1.25rem;
+    display: grid;
+    grid-template-columns: 108px 1fr auto;
+    gap: 1rem;
+    align-items: baseline;
+    transition: background 0.15s ease;
+  }
+
+  .card:hover { background: var(--bg-raised); }
+
+  .card-source {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--teal);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .card-body { min-width: 0; }
+
+  .card-title {
+    font-family: var(--font-display);
+    font-weight: 500;
+    font-size: 1.12rem;
+    line-height: 1.32;
+    margin: 0 0 0.3rem;
+    color: var(--ink);
+  }
+
+  .card-summary {
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--ink-dim);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-side {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 0.4rem;
+    font-family: var(--font-mono);
+  }
+
+  .card-time {
+    font-size: 0.75rem;
+    color: var(--ink-faint);
+    white-space: nowrap;
+  }
+
+  .badge-new {
+    font-size: 0.65rem;
+    letter-spacing: 0.05em;
+    color: #1a1206;
+    background: var(--signal);
+    border-radius: 4px;
+    padding: 0.12rem 0.4rem;
+    font-weight: 600;
+  }
+
+  /* ---------- States ---------- */
+
+  .state-panel {
+    padding: 3.5rem 1.5rem;
+    text-align: center;
+    color: var(--ink-dim);
+    border: 1px dashed var(--hairline);
+    border-radius: var(--radius);
+    font-size: 0.95rem;
+  }
+
+  .state-panel .state-title {
+    font-family: var(--font-display);
+    font-size: 1.3rem;
+    color: var(--ink);
+    margin-bottom: 0.5rem;
+  }
+
+  .state-panel code {
+    font-family: var(--font-mono);
+    background: var(--bg-raised);
+    padding: 0.1rem 0.35rem;
+    border-radius: 4px;
+    font-size: 0.85em;
+  }
+
+  footer {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 0 1.5rem 3rem;
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    color: var(--ink-faint);
+  }
+
+  footer a { color: var(--teal); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  @media (max-width: 620px) {
+    .card {
+      grid-template-columns: 1fr;
+      gap: 0.4rem;
+    }
+    .card-side {
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 0.5rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .dial-dot { animation: none; }
+    .card { transition: none; }
+    .filter-btn { transition: none; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-top">
+      <div class="wordmark">
+        <span class="dial" aria-hidden="true">
+          <span class="dial-ring"></span>
+          <span class="dial-dot"></span>
+        </span>
+        <h1>Signal</h1>
+      </div>
+      <span class="tagline">AI news / no noise</span>
+    </div>
+    <p class="deck">A quiet wire of AI headlines from labs, hardware, and the press — refreshed hourly, linked straight to the source.</p>
+    <div class="meta-row" id="meta-row">
+      <span class="refresh-dot" id="refresh-dot"></span>
+      <span id="updated-text">Loading feed status…</span>
+    </div>
+  </div>
+</header>
+
+<nav class="filters-bar" aria-label="Filter by source">
+  <div class="filters-inner" id="filters"></div>
+</nav>
+
+<main>
+  <div id="wire" class="wire" role="feed" aria-busy="true"></div>
+  <div id="state-panel"></div>
+</main>
+
+<footer>
+  <p>Signal aggregates public headlines and links to original reporting — it does not republish full articles. Source list and refresh cadence live in this repo's <a href="./feeds.json">feeds.json</a> and <a href="./.github/workflows/update-feeds.yml">workflow</a>.</p>
+</footer>
+
+<script>
+(function () {
+  "use strict";
+
+  const wireEl = document.getElementById("wire");
+  const statePanel = document.getElementById("state-panel");
+  const filtersEl = document.getElementById("filters");
+  const updatedText = document.getElementById("updated-text");
+  const refreshDot = document.getElementById("refresh-dot");
+
+  let allItems = [];
+  let activeSource = "All";
+
+  function escapeHtml(str) {
+    const div = document.createElement("div");
+    div.textContent = str ?? "";
+    return div.innerHTML;
+  }
+
+  function relativeTime(iso) {
+    const then = new Date(iso).getTime();
+    if (Number.isNaN(then)) return "";
+    const diffMs = Date.now() - then;
+    const min = Math.round(diffMs / 60000);
+    if (min < 1) return "just now";
+    if (min < 60) return min + "m ago";
+    const hr = Math.round(min / 60);
+    if (hr < 24) return hr + "h ago";
+    const day = Math.round(hr / 24);
+    if (day < 30) return day + "d ago";
+    const month = Math.round(day / 30);
+    if (month < 12) return month + "mo ago";
+    return Math.round(month / 12) + "y ago";
+  }
+
+  function isNew(iso) {
+    const diffMs = Date.now() - new Date(iso).getTime();
+    return diffMs < 24 * 60 * 60 * 1000;
+  }
+
+  function renderMeta(updatedIso) {
+    if (!updatedIso) {
+      updatedText.textContent = "feed status unknown";
+      refreshDot.classList.add("stale");
+      return;
+    }
+    const diffMs = Date.now() - new Date(updatedIso).getTime();
+    const stale = diffMs > 3 * 60 * 60 * 1000; // > 3h since last Action run
+    refreshDot.classList.toggle("stale", stale);
+    updatedText.textContent = "feed refreshed " + relativeTime(updatedIso) +
+      (stale ? " — may be delayed" : "");
+  }
+
+  function renderFilters(sources) {
+    filtersEl.innerHTML = "";
+    const options = ["All", ...sources];
+    options.forEach((name) => {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "filter-btn" + (name === activeSource ? " active" : "");
+      btn.textContent = name;
+      btn.setAttribute("aria-pressed", name === activeSource ? "true" : "false");
+      btn.addEventListener("click", () => {
+        activeSource = name;
+        renderFilters(sources);
+        renderWire();
+      });
+      filtersEl.appendChild(btn);
+    });
+  }
+
+  function renderWire() {
+    const items = activeSource === "All"
+      ? allItems
+      : allItems.filter((it) => it.source === activeSource);
+
+    if (items.length === 0) {
+      wireEl.innerHTML = "";
+      statePanel.innerHTML =
+        '<div class="state-panel"><div class="state-title">No stories here</div>' +
+        "No items from this source in the current feed window.</div>";
+      return;
+    }
+
+    statePanel.innerHTML = "";
+    wireEl.setAttribute("aria-busy", "false");
+    wireEl.innerHTML = items.map((it) => {
+      const badge = isNew(it.date) ? '<span class="badge-new">NEW</span>' : "";
+      return (
+        '<a class="card" href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener">' +
+          '<span class="card-source">' + escapeHtml(it.source) + '</span>' +
+          '<span class="card-body">' +
+            '<p class="card-title">' + escapeHtml(it.title) + '</p>' +
+            '<p class="card-summary">' + escapeHtml(it.summary) + '</p>' +
+          '</span>' +
+          '<span class="card-side">' +
+            '<span class="card-time">' + relativeTime(it.date) + '</span>' +
+            badge +
+          '</span>' +
+        '</a>'
+      );
+    }).join("");
+  }
+
+  function showError(message) {
+    wireEl.innerHTML = "";
+    wireEl.setAttribute("aria-busy", "false");
+    statePanel.innerHTML =
+      '<div class="state-panel"><div class="state-title">No signal yet</div>' +
+      escapeHtml(message) +
+      '<br><br>If you just deployed this, run the <code>Update feeds</code> workflow from the Actions tab.</div>';
+    updatedText.textContent = "feed not available";
+    refreshDot.classList.add("stale");
+  }
+
+  fetch("./data/feed.json", { cache: "no-store" })
+    .then((res) => {
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      return res.json();
+    })
+    .then((data) => {
+      allItems = Array.isArray(data.items) ? data.items : [];
+      const sources = Array.isArray(data.sources) && data.sources.length
+        ? data.sources
+        : [...new Set(allItems.map((it) => it.source))];
+
+      renderMeta(data.updated);
+      renderFilters(sources);
+
+      if (allItems.length === 0) {
+        showError("The feed file loaded but contains no items yet.");
+        return;
+      }
+      renderWire();
+    })
+    .catch((err) => {
+      showError("Couldn't load data/feed.json (" + err.message + ").");
+    });
+})();
+</script>
+
+</body>
+</html>
