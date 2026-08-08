@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T12:21:43.200Z",
-  "count": 189,
+  "updated": "2026-08-08T12:26:11.290Z",
+  "count": 209,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -45,6 +45,15 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "ET Tech",
+      "title": "MeitY asks Meta to revamp algorithms, curb deepfakes and illegal content on platforms: Government sources",
+      "summary": "India's MeitY has urged Meta to revise its algorithms and provide a compliance roadmap. The government seeks stronger detection and removal of harmful and manipulated content. Meta's technical team met with MeitY officials to discuss exist…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/meity-asks-meta-to-revamp-algorithms-submit-compliance-roadmap-to-curb-deepfakes-propaganda-govt-sources/articleshow/133050894.cms",
+      "date": "2026-08-08T11:57:29.000Z",
+      "category": "Policy & Safety",
+      "region": "India"
+    },
     {
       "source": "Hindu BusinessLine",
       "title": "High tokenisation cost will only optimise AI work: ServiceNow’s Sumeet Mathur",
@@ -424,6 +433,15 @@
       "region": "United States"
     },
     {
+      "source": "AI News",
+      "title": "Stanford Evo 2 AI model generates phages against E. coli",
+      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work cen…",
+      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "date": "2026-08-07T15:05:03.000Z",
+      "category": "Research",
+      "region": "Global"
+    },
+    {
       "source": "ET Tech",
       "title": "Govt-Meta meeting enters technical round on day 3; company lists ways to curb deepfakes, CSAM",
       "summary": "After two days of meetings that saw IT Minister Ashwini Vaishnaw questioning Meta's team - led by global affairs head Joel Kaplan - on the content recommendation algorithms and the social media giant's compliance with local laws, day three…",
@@ -431,6 +449,15 @@
       "date": "2026-08-07T14:34:29.000Z",
       "category": "Policy & Safety",
       "region": "United States"
+    },
+    {
+      "source": "AI News",
+      "title": "How AI Is changing Instagram engagement without replacing the human touch",
+      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it’s the whole algorithm. But here’s the p…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+      "date": "2026-08-07T14:33:59.000Z",
+      "category": "Business & Funding",
+      "region": "Global"
     },
     {
       "source": "TechCrunch AI",
@@ -523,15 +550,6 @@
       "region": "United States"
     },
     {
-      "source": "ET Tech",
-      "title": "Retailers tap AI shopping traffic but fight to keep customer data",
-      "summary": "Retailers are adapting websites for AI product discovery and recommendations. They aim to keep customer transactions on their own platforms. This strategy helps them collect valuable data for future sales. AI platforms are driving signific…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/retailers-tap-ai-shopping-traffic-but-fight-to-keep-customer-data/articleshow/133030886.cms",
-      "date": "2026-08-07T10:30:07.000Z",
-      "category": "News",
-      "region": "Global"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Top 10 Skills for Claude Code and Codex CLI",
       "summary": "The real skill isn’t getting AI to answers! But to do so in a manner that fits our budgets and fulfils our requirements. It’s guiding it with clear context and turning its output into useful action. This list is built around a simpler idea…",
@@ -548,6 +566,15 @@
       "date": "2026-08-07T10:00:00.000Z",
       "category": "News",
       "region": "Global"
+    },
+    {
+      "source": "AI News",
+      "title": "Alibaba tests new business model for Qwen open-source AI",
+      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that ge…",
+      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+      "date": "2026-08-07T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "China"
     },
     {
       "source": "OpenAI",
@@ -748,6 +775,15 @@
       "region": "Global"
     },
     {
+      "source": "The Register AI",
+      "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
+      "summary": "You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you?",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
+      "date": "2026-08-06T16:44:29.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
       "source": "Wired AI",
       "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
       "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
@@ -773,6 +809,15 @@
       "date": "2026-08-06T16:04:40.000Z",
       "category": "News",
       "region": "United States"
+    },
+    {
+      "source": "AI News",
+      "title": "Why health AI interfaces must adapt to user expertise",
+      "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI…",
+      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+      "date": "2026-08-06T15:55:37.000Z",
+      "category": "Research",
+      "region": "Global"
     },
     {
       "source": "TechCrunch AI",
@@ -919,6 +964,15 @@
       "region": "Global"
     },
     {
+      "source": "AI News",
+      "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
+      "summary": "Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates thousands of tile embeddings per slide…",
+      "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
+      "date": "2026-08-05T15:26:20.000Z",
+      "category": "News",
+      "region": "United States"
+    },
+    {
       "source": "Analytics Vidhya",
       "title": "Top 5 Claude Skills for Writing (Ranked by GitHub Stars)",
       "summary": "Search “best Claude Skills for writing” and you get lists padded with skills that write commit messages and internal status reports. Useful things. Not writing. This list only includes repositories that exist for writing. Every entry is a…",
@@ -944,6 +998,15 @@
       "date": "2026-08-05T11:16:26.000Z",
       "category": "News",
       "region": "Global"
+    },
+    {
+      "source": "AI News",
+      "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
+      "summary": "Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems. Qwen3.8-Max has 2.4 trillion parameters and uses a mixt…",
+      "link": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
+      "date": "2026-08-05T10:00:00.000Z",
+      "category": "Product",
+      "region": "China"
     },
     {
       "source": "Rest of World",
@@ -1006,6 +1069,15 @@
       "link": "https://www.livemint.com/technology/ai-data-centre-race-builds-1-trillion-lease-burden-for-big-tech-11785863893648.html",
       "date": "2026-08-04T17:18:13.000Z",
       "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "AI News",
+      "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
+      "summary": "Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into production-ready deployment code. The project describes itself as an automated, auditable workflow that connects the “fragmented steps…",
+      "link": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
+      "date": "2026-08-04T16:07:15.000Z",
+      "category": "Open Source",
       "region": "Global"
     },
     {
@@ -1072,6 +1144,15 @@
       "region": "India"
     },
     {
+      "source": "The Register AI",
+      "title": "UK mulls making employers ask before installing bossware",
+      "summary": "Proposals span AI productivity scores, keystroke logging, biometrics, and other ways to watch workers",
+      "link": "https://www.theregister.com/software/2026/08/04/uk-mulls-making-employers-ask-before-installing-bossware/5282440",
+      "date": "2026-08-04T07:30:00.000Z",
+      "category": "News",
+      "region": "Europe"
+    },
+    {
       "source": "ET CIO",
       "title": "Amazon enters $3 trillion club as AI, cloud growth power rally",
       "summary": "Apple, Microsoft, Alphabet and Nvidia are the other companies that have recorded a market value of $3 trillion in the past. Nvidia is currently the world's biggest company ​with a market capitalization close to $5 trillion.",
@@ -1108,6 +1189,15 @@
       "region": "Global"
     },
     {
+      "source": "AI News",
+      "title": "EU AI Act Article 50 transparency rules enter force",
+      "summary": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI tools now have to comply with Article 50, which requires provi…",
+      "link": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+      "date": "2026-08-03T16:09:25.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe"
+    },
+    {
       "source": "Google AI",
       "title": "Inside our 353,000-person vibe coding course",
       "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
@@ -1115,6 +1205,15 @@
       "date": "2026-08-03T15:00:00.000Z",
       "category": "News",
       "region": "Global"
+    },
+    {
+      "source": "AI News",
+      "title": "Why biological data matters more in AI drug discovery",
+      "summary": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assisted drug discovery. Under the agreement, Relation will gener…",
+      "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
+      "date": "2026-08-03T10:00:00.000Z",
+      "category": "Research",
+      "region": "Europe"
     },
     {
       "source": "Rest of World",
@@ -1189,6 +1288,15 @@
       "region": "India"
     },
     {
+      "source": "AI News",
+      "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
+      "summary": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act’s GPAI Code as enforcement approaches. The company has contributed to and endorsed the EU’s General-Purpose AI (GPAI) Code of Practice and the Cod…",
+      "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
+      "date": "2026-07-31T15:04:25.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe"
+    },
+    {
       "source": "Rest of World",
       "title": "Can we train AI to choose safety over speed?",
       "summary": "Delivery platforms use sophisticated weather algorithms to profit from storm demand, while shifting all the physical risk onto workers trapped by pay incentives.",
@@ -1222,6 +1330,15 @@
       "link": "https://www.analyticsvidhya.com/blog/2026/07/hidden-claude-code-cli-commands/",
       "date": "2026-07-30T18:25:00.000Z",
       "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Open source project fools AI scrapers with poisoned font",
+      "summary": "ShieldFont is available today if you've got copy that needs protecting",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
+      "date": "2026-07-30T17:19:23.000Z",
+      "category": "Open Source",
       "region": "Global"
     },
     {
@@ -1279,6 +1396,15 @@
       "region": "Global"
     },
     {
+      "source": "The Register AI",
+      "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
+      "summary": "Capex spending? What? Me worry?",
+      "link": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
+      "date": "2026-07-29T23:17:56.000Z",
+      "category": "Business & Funding",
+      "region": "United States"
+    },
+    {
       "source": "DeepMind",
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "summary": "",
@@ -1320,6 +1446,24 @@
       "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it sh…",
       "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
       "date": "2026-07-29T08:42:57.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives",
+      "summary": "Up to 8 AI models running in the cloud weighing in on ambiguous business issues? Sounds affordable",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/perplexitys-tokenmaxxing-model-council-gives-you-multiple-bot-perspectives/5279972",
+      "date": "2026-07-28T21:26:53.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "The Register AI",
+      "title": "College prof hides prompt to catch AI cheaters, finds human nature is pretty much as we thought",
+      "summary": "",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/college-prof-hides-prompt-to-catch-ai-cheaters-finds-human-nature-is-pretty-much-as-we-thought/5279864",
+      "date": "2026-07-28T16:20:00.000Z",
       "category": "News",
       "region": "Global"
     },
@@ -1383,6 +1527,15 @@
       "summary": "AI-agent development has progressed through overlapping phases: prompt engineering, context engineering, tool use, autonomous loops, memory systems, and multi-agent coordination. A newer focus is graph engineering, which treats AI applicat…",
       "link": "https://www.analyticsvidhya.com/blog/2026/07/graph-engineering/",
       "date": "2026-07-28T06:03:41.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Leading AI models (even Grok) are all a bunch of leftist punks",
+      "summary": "AI seems to have a liberal bias",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/27/leading-ai-models-even-grok-are-all-a-bunch-of-leftist-punks/5279208",
+      "date": "2026-07-27T22:05:00.000Z",
       "category": "News",
       "region": "Global"
     },
@@ -1468,12 +1621,30 @@
       "region": "Global"
     },
     {
+      "source": "The Register AI",
+      "title": "OpenAI won't let some customers export their chats, but this tool will",
+      "summary": "ChatGPT Business and Enterprise users lack the standard chat export option, so third-party utilities like scrapemychats fill the gap",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795",
+      "date": "2026-07-23T20:48:39.000Z",
+      "category": "News",
+      "region": "United States"
+    },
+    {
       "source": "MIT Tech Review",
       "title": "How AI helps scientists design the next generation of medicines",
       "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patien…",
       "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
       "date": "2026-07-23T12:00:00.000Z",
       "category": "Business & Funding",
+      "region": "Global"
+    },
+    {
+      "source": "The Register AI",
+      "title": "IBM insists AI didn't kill software deals, just delayed them",
+      "summary": "Big Blue says customers postponed rather than abandoned major purchases as hardware soaked up enterprise budgets",
+      "link": "https://www.theregister.com/software/2026/07/23/ibm-insists-ai-didnt-kill-software-deals-just-delayed-them/5276977",
+      "date": "2026-07-23T11:34:42.000Z",
+      "category": "News",
       "region": "Global"
     },
     {
@@ -1529,6 +1700,15 @@
       "date": "2026-07-17T15:00:11.000Z",
       "category": "Product",
       "region": "Global"
+    },
+    {
+      "source": "The Register AI",
+      "title": "EU forces Google to share its toys with the other AI and search kids",
+      "summary": "The Chocolate Factory is not amused",
+      "link": "https://www.theregister.com/software/2026/07/16/eu-forces-google-to-share-its-toys-with-the-other-ai-and-search-kids/5273819",
+      "date": "2026-07-16T16:48:41.000Z",
+      "category": "News",
+      "region": "Europe"
     },
     {
       "source": "Google AI",
