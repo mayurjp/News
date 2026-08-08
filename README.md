@@ -1,6 +1,6 @@
 # Signal — a self-updating AI news wire
 
-A static AI-news aggregator hosted on GitHub Pages. Newest headlines first, filterable by source, topic, and geography, each card links out to the original article.
+A static AI-news aggregator hosted on GitHub Pages. Newest headlines first, searchable and filterable by topic and geography, each card links out to the original article and shows its source.
 
 ## Architecture
 

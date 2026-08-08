@@ -183,63 +183,14 @@
 
   .meta-row .refresh-dot.stale { background: var(--ink-faint); }
 
-  /* ---------- Filters (Google News style underline tabs) ---------- */
+  /* ---------- Filters (Google News style chips) ---------- */
 
-  .filters-bar {
+  nav.category-bar:first-of-type {
     position: sticky;
     top: 0;
     z-index: 10;
-    background: var(--bg);
-    border-bottom: 1px solid var(--border);
   }
 
-  .filters-inner {
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 0 1.5rem;
-    display: flex;
-    flex-wrap: wrap;
-    row-gap: 0.1rem;
-    column-gap: 1.5rem;
-  }
-
-  .filter-btn {
-    position: relative;
-    font-family: var(--font-body);
-    font-size: 0.9rem;
-    font-weight: 500;
-    color: var(--ink-dim);
-    background: transparent;
-    border: none;
-    padding: 0.9rem 0.1rem 0.75rem;
-    cursor: pointer;
-    white-space: nowrap;
-    transition: color 0.15s ease;
-  }
-
-  .filter-btn::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    height: 3px;
-    border-radius: 3px 3px 0 0;
-    background: transparent;
-    transition: background 0.15s ease;
-  }
-
-  .filter-btn:hover { color: var(--ink); }
-
-  .filter-btn.active {
-    color: var(--blue);
-  }
-
-  .filter-btn.active::after {
-    background: var(--blue);
-  }
-
-  .filter-btn:focus-visible,
   .category-btn:focus-visible,
   .search-box input:focus-visible,
   .search-clear:focus-visible,
@@ -538,7 +489,7 @@
   }
 
   @media (prefers-reduced-motion: reduce) {
-    .card, .hero, .filter-btn, .filter-btn::after { transition: none; }
+    .card, .hero, .category-btn { transition: none; }
   }
 </style>
 </head>
@@ -571,10 +522,6 @@
   </div>
 </header>
 
-<nav class="filters-bar" aria-label="Filter by source">
-  <div class="filters-inner" id="filters"></div>
-</nav>
-
 <nav class="category-bar" aria-label="Filter by category">
   <div class="category-inner" id="categories">
     <span class="category-inner-label">Topic</span>
@@ -606,7 +553,6 @@
   const gridEl = document.getElementById("grid");
   const gridLabel = document.getElementById("grid-label");
   const statePanel = document.getElementById("state-panel");
-  const filtersEl = document.getElementById("filters");
   const categoriesEl = document.getElementById("categories");
   const regionsEl = document.getElementById("regions");
   const updatedText = document.getElementById("updated-text");
@@ -626,7 +572,6 @@
   }
 
   let allItems = [];
-  let activeSource = "All";
   let activeCategory = "All";
   let activeRegion = "All";
   let searchQuery = "";
@@ -669,24 +614,6 @@
     refreshDot.classList.toggle("stale", stale);
     updatedText.textContent = "Feed refreshed " + relativeTime(updatedIso) +
       (stale ? " — may be delayed" : "");
-  }
-
-  function renderFilters(sources) {
-    filtersEl.innerHTML = "";
-    const options = ["All", ...sources];
-    options.forEach((name) => {
-      const btn = document.createElement("button");
-      btn.type = "button";
-      btn.className = "filter-btn" + (name === activeSource ? " active" : "");
-      btn.textContent = name;
-      btn.setAttribute("aria-pressed", name === activeSource ? "true" : "false");
-      btn.addEventListener("click", () => {
-        activeSource = name;
-        renderFilters(sources);
-        renderStories();
-      });
-      filtersEl.appendChild(btn);
-    });
   }
 
   function renderCategories(categories) {
@@ -771,10 +698,9 @@
   function renderStories() {
     const query = searchQuery.trim().toLowerCase();
     const items = allItems.filter((it) =>
-      (activeSource === "All" || it.source === activeSource) &&
       (activeCategory === "All" || it.category === activeCategory) &&
       (activeRegion === "All" || it.region === activeRegion) &&
-      (query === "" || `${it.title} ${it.summary}`.toLowerCase().includes(query))
+      (query === "" || `${it.source} ${it.title} ${it.summary}`.toLowerCase().includes(query))
     );
 
     if (items.length === 0) {
@@ -784,7 +710,7 @@
       const searchNote = query ? ` matching "${escapeHtml(searchQuery.trim())}"` : "";
       statePanel.innerHTML =
         '<div class="state-panel"><div class="state-title">No stories here</div>' +
-        "No items" + searchNote + " match this source + topic + geography combination.</div>";
+        "No items" + searchNote + " match this topic + geography combination.</div>";
       return;
     }
 
@@ -839,9 +765,6 @@
     })
     .then((data) => {
       allItems = Array.isArray(data.items) ? data.items : [];
-      const sources = Array.isArray(data.sources) && data.sources.length
-        ? data.sources
-        : [...new Set(allItems.map((it) => it.source))];
       const categories = Array.isArray(data.categories) && data.categories.length
         ? data.categories
         : [...new Set(allItems.map((it) => it.category).filter(Boolean))];
@@ -850,7 +773,6 @@
         : [...new Set(allItems.map((it) => it.region).filter(Boolean))];
 
       renderMeta(data.updated);
-      renderFilters(sources);
       renderCategories(categories);
       renderRegions(regions);
 
