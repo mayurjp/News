@@ -30,21 +30,37 @@ const parser = new XMLParser({
   attributeNamePrefix: "@_",
   textNodeName: "#text",
   trimValues: true,
+  // Some legitimate feeds (e.g. long academic blog posts with heavily
+  // HTML-entity-encoded content) exceed fast-xml-parser's default entity
+  // count guard. Raise the count ceiling but keep depth/size limits at their
+  // safe defaults, so a genuine entity-expansion attack is still blocked.
+  processEntities: { maxTotalExpansions: 20_000 },
 });
+
+const NAMED_ENTITIES = {
+  nbsp: " ", amp: "&", lt: "<", gt: ">", quot: '"', apos: "'",
+  rsquo: "’", lsquo: "‘", rdquo: "”", ldquo: "“",
+  mdash: "—", ndash: "–", hellip: "…",
+};
+
+function decodeEntitiesOnce(str) {
+  return str
+    .replace(/&#x([0-9a-f]+);/gi, (_, hex) => String.fromCodePoint(parseInt(hex, 16)))
+    .replace(/&#(\d+);/g, (_, dec) => String.fromCodePoint(parseInt(dec, 10)))
+    .replace(/&(nbsp|amp|lt|gt|quot|apos|rsquo|lsquo|rdquo|ldquo|mdash|ndash|hellip);/g,
+      (_, name) => NAMED_ENTITIES[name]);
+}
 
 function stripHtml(str) {
   if (!str) return "";
-  return String(str)
+  let text = String(str)
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
-    .replace(/<[^>]*>/g, " ")
-    .replace(/&nbsp;/g, " ")
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&#0?39;/g, "'")
-    .replace(/\s+/g, " ")
-    .trim();
+    .replace(/<[^>]*>/g, " ");
+  // Run twice: some CMSes double-encode (e.g. "&amp;nbsp;" unwraps to a
+  // fresh "&nbsp;" after one pass), so a single pass can leave literal
+  // entities behind.
+  text = decodeEntitiesOnce(decodeEntitiesOnce(text));
+  return text.replace(/\s+/g, " ").trim();
 }
 
 function truncate(str, max) {

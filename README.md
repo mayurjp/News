@@ -20,10 +20,11 @@ The repo ships with a real `data/feed.json` from a local test run, so the page i
 
 Edit `feeds.json` — it's a flat list of `{ "name", "url" }` pairs pointing at RSS or Atom feed URLs. Commit the change; the next scheduled run (or a manual trigger) will pick it up.
 
-The list mixes three kinds of sources on purpose:
+The list mixes four kinds of sources on purpose:
 - **Lab/vendor blogs** (OpenAI, DeepMind, Hugging Face, NVIDIA, Google AI) — product and research announcements, already AI-scoped at the source.
-- **General AI-tagged tech press** (TechCrunch AI, VentureBeat AI, Wired AI, Ars Technica AI, MIT Tech Review, AI News) — funding, leadership moves, company strategy, policy. Also already AI-scoped at the source.
-- **Geography-focused general press** (MediaNama, LiveMint Tech, Rest of World, SCMP Tech) — these publications don't have an AI-only RSS feed, so their entries in `feeds.json` carry `"scope": "broad"`. The fetch script pulls a larger batch from those feeds and keeps only the items that actually mention AI (see `AI_RELEVANCE_PATTERN` in `scripts/fetch-feeds.mjs`) before capping at 10 — this keeps phone-launch and unrelated business news out of the wire. Add any other general/regional publication the same way: give it `"scope": "broad"` and it gets the same filter automatically.
+- **Academic research** (BAIR — Berkeley AI Research) — deeper technical write-ups than press coverage.
+- **General AI-tagged tech press** (TechCrunch AI, VentureBeat AI, Wired AI, Ars Technica AI, MIT Tech Review, AI News, The Register AI) — funding, leadership moves, company strategy, policy. Also already AI-scoped at the source.
+- **Broad-scope general press** (MediaNama, LiveMint Tech, Rest of World, SCMP Tech, SiliconANGLE, The Next Web, Analytics Vidhya) — these publications don't have an AI-only RSS feed, so their entries in `feeds.json` carry `"scope": "broad"`. The fetch script pulls a larger batch from those feeds and keeps only the items that actually mention AI (see `AI_RELEVANCE_PATTERN` in `scripts/fetch-feeds.mjs`) before capping at 10 — this keeps phone-launch and unrelated business news out of the wire. Add any other general/regional publication the same way: give it `"scope": "broad"` and it gets the same filter automatically.
 
 Note: several major AI companies — Anthropic, Meta AI, Mistral, Cohere, Perplexity — don't publish an official RSS feed. To include them you'd need to point at a community-maintained mirror feed and add it as a normal entry here. Also note that some publishers only keep a *general* RSS feed and have dropped topic-specific ones (e.g. The Verge's `/rss/artificial-intelligence/` feed now returns zero entries) — if a URL parses but always yields 0 items, check the source's site for a working feed URL before assuming the script is at fault.
 

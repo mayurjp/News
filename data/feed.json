@@ -1,12 +1,14 @@
 {
-  "updated": "2026-08-08T12:01:10.093Z",
-  "count": 134,
+  "updated": "2026-08-08T12:10:37.293Z",
+  "count": 180,
   "sources": [
     "OpenAI",
     "DeepMind",
     "Hugging Face",
     "NVIDIA",
     "Google AI",
+    "BAIR",
+    "The Register AI",
     "TechCrunch AI",
     "VentureBeat AI",
     "Wired AI",
@@ -16,7 +18,10 @@
     "MediaNama",
     "LiveMint Tech",
     "Rest of World",
-    "SCMP Tech"
+    "SCMP Tech",
+    "SiliconANGLE",
+    "The Next Web",
+    "Analytics Vidhya"
   ],
   "categories": [
     "People & Leadership",
@@ -101,6 +106,33 @@
       "region": "China"
     },
     {
+      "source": "SiliconANGLE",
+      "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities",
+      "summary": "OpenAI Group PBC today disclosed that one of its unreleased large language models may pose a significant cybersecurity risk. The algorithm, which is known as Astra, was first detailed last week. OpenAI revealed in a Sunday blog post that t…",
+      "link": "https://siliconangle.com/2026/08/07/openai-reveals-upcoming-astra-model-may-possess-critical-hacking-capabilities/",
+      "date": "2026-08-08T00:58:53.000Z",
+      "category": "Research",
+      "region": "United States"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Cyber risk management redefined through AI-speed detection and zero-day remediation",
+      "summary": "As many organizations struggle to survive by rebuilding their cyber risk management with expediency in mind, Frontier AI is turning newly discovered vulnerabilities into usable weapons within hours. According to Sumedh Thakar (pictured), p…",
+      "link": "https://siliconangle.com/2026/08/07/cyber-risk-management-qualys-roc-blackhat/",
+      "date": "2026-08-07T23:21:57.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Legal AI startup Harvey reportedly raising $500M at $15.5B valuation",
+      "summary": "Harvey AI Corp., a provider of artificial intelligence software for attorneys, is reportedly seeking at least $500 million in new funding. The Information today cited sources as saying that the round could value the startup at $15.5 billio…",
+      "link": "https://siliconangle.com/2026/08/07/legal-ai-startup-harvey-reportedly-raising-500m-15-5b-valuation/",
+      "date": "2026-08-07T23:15:50.000Z",
+      "category": "Business & Funding",
+      "region": "Global"
+    },
+    {
       "source": "TechCrunch AI",
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
@@ -119,12 +151,57 @@
       "region": "Global"
     },
     {
+      "source": "The Next Web",
+      "title": "Cloudflare built a browser for AI agents. It uses 7x less memory than Chromium and runs entirely on Workers.",
+      "summary": "Cloudflare built a browser from scratch for AI agents and launched it today as a free beta inside its Browser Run product. Kitesurf runs entirely on Cloudflare Workers, uses Rust compiled to WebAssembly, and strips out everything a human b…",
+      "link": "https://thenextweb.com/news/cloudflare-kitesurf-browser-ai-agents-workers",
+      "date": "2026-08-07T21:07:07.000Z",
+      "category": "Product",
+      "region": "Global"
+    },
+    {
+      "source": "The Next Web",
+      "title": "NavVis raised €73.7M to build the spatial data layer that factories need before they can deploy AI",
+      "summary": "NavVis, a Munich-based spatial twin platform, raised €73.7 million ($85 million) in a Series D round led by US private equity firm The Jordan Company. Existing investors Yttrium, KOZO KEIKAKU ENGINEERING, and Cipio Partners also participat…",
+      "link": "https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai",
+      "date": "2026-08-07T19:42:08.000Z",
+      "category": "Business & Funding",
+      "region": "United States"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Disney+ and ESPN are testing AI-powered search that lets users describe what they want in plain language",
+      "summary": "Disney is testing AI-powered search inside both ESPN and Disney+, the company announced on Wednesday. ESPN Search lets a small group of users ask sports questions in natural language and receive answers, stats, related content, and recomme…",
+      "link": "https://thenextweb.com/news/disney-espn-ai-search-discovery-beta",
+      "date": "2026-08-07T19:12:10.000Z",
+      "category": "Product",
+      "region": "Global"
+    },
+    {
       "source": "Hugging Face",
       "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
       "summary": "",
       "link": "https://huggingface.co/blog/allenai/tutormoments",
       "date": "2026-08-07T17:53:32.000Z",
       "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Malicious AI ‘skills’ turned agents into credential thieves, at scale",
+      "summary": "Security researchers at Zenity Labs uncovered a credential-stealing campaign on skills.sh, a public registry of add-ons for AI agents run by Vercel. They unveiled the research at the Black Hat conference. Attackers had cloned real skills i…",
+      "link": "https://thenextweb.com/news/zenity-malicious-ai-skills-1-7m-installs-supply-chain-credential-theft",
+      "date": "2026-08-07T17:46:20.000Z",
+      "category": "Research",
+      "region": "Global"
+    },
+    {
+      "source": "The Next Web",
+      "title": "AI boom forces companies to rethink how they measure business value",
+      "summary": "Artificial intelligence has quickly become a boardroom priority, inspiring significant investment across industries. Yet conversations about return on investment often remain tied to familiar software purchasing habits, where success is ju…",
+      "link": "https://thenextweb.com/news/ai-boom-rethink-measure-business-value-profitalize",
+      "date": "2026-08-07T17:45:57.000Z",
+      "category": "Business & Funding",
       "region": "Global"
     },
     {
@@ -135,6 +212,33 @@
       "date": "2026-08-07T17:36:22.000Z",
       "category": "News",
       "region": "United States"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI is slowing down its next model over ‘critical’ cyber risk",
+      "summary": "OpenAI tested Astra, one of its upcoming models, over the past few days. In a post on Friday, it said the results were strong enough that it “cannot rule out” critical cyber capabilities. So it is pausing some internal work on the model an…",
+      "link": "https://thenextweb.com/news/openai-astra-critical-cyber-capabilities-pause-preparedness",
+      "date": "2026-08-07T17:36:17.000Z",
+      "category": "News",
+      "region": "United States"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Harvey is raising at $15.5bn, up 40% in five months",
+      "summary": "The legal-AI startup is in talks to raise at least $500m at a $15.5bn valuation, including the new money, The Information reported. That is a 40% jump on the $11bn it set only five months ago, when it raised $200m. Lightspeed Venture Partn…",
+      "link": "https://thenextweb.com/news/harvey-legal-ai-15-5bn-valuation-500m-raise-vertical-ai",
+      "date": "2026-08-07T17:26:32.000Z",
+      "category": "Business & Funding",
+      "region": "Global"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Fortinet targets network security platform convergence to address AI-era complexity",
+      "summary": "In the rush to adopt AI, enterprise security architectures are diminishing, and the only appropriate response is a network security platform that incorporates networking and security into a single, consistently governed fabric. That’s the…",
+      "link": "https://siliconangle.com/2026/08/07/network-security-platform-ai-governance-fortinet-blackhat/",
+      "date": "2026-08-07T16:41:42.000Z",
+      "category": "News",
+      "region": "Global"
     },
     {
       "source": "TechCrunch AI",
@@ -166,7 +270,7 @@
     {
       "source": "AI News",
       "title": "How AI Is changing Instagram engagement without replacing the human touch",
-      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it&#8217;s the whole algorithm. But here’s…",
+      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it’s the whole algorithm. But here’s the p…",
       "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
       "date": "2026-08-07T14:33:59.000Z",
       "category": "Business & Funding",
@@ -192,8 +296,8 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley&#8217;s leaders are bad sci-fi readers",
-      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&#160;thinking of Twi…",
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new government. And whether you’re thinking of Twitter’s old “town hall in your pocket” or A…",
       "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
       "date": "2026-08-07T14:00:00.000Z",
       "category": "News",
@@ -218,6 +322,24 @@
       "region": "China"
     },
     {
+      "source": "SiliconANGLE",
+      "title": "Menlo Security targets real-time AI agent security with MARS platform",
+      "summary": "As AI agents gain access to enterprise systems and sensitive data, security teams need greater visibility into their actions. Real-time monitoring and policy enforcement are becoming essential as a part of prompt injection technology. With…",
+      "link": "https://siliconangle.com/2026/08/07/prompt-injection-technology-blackhat/",
+      "date": "2026-08-07T13:07:01.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Shared context turns production data into faster risk response",
+      "summary": "Security and engineering teams can no longer operate in silos as software delivery accelerates and adversaries move faster with AI, requiring shared context from production data so both sides can prioritize risk and respond without frictio…",
+      "link": "https://siliconangle.com/2026/08/07/shared-context-unifies-security-engineering-teams-blackhat/",
+      "date": "2026-08-07T12:59:52.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
       "source": "MediaNama",
       "title": "5 key takeaways from ixigo Q1 FY27 earnings",
       "summary": "ixigo is doubling down on AI and hotels as growth engines, while its bus business leads growth, trains face policy headwinds, and high airfares weigh on flight demand. The post 5 key takeaways from ixigo Q1 FY27 earnings appeared first on…",
@@ -234,6 +356,15 @@
       "date": "2026-08-07T11:40:37.000Z",
       "category": "Policy & Safety",
       "region": "United States"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "Top 10 Skills for Claude Code and Codex CLI",
+      "summary": "The real skill isn’t getting AI to answers! But to do so in a manner that fits our budgets and fulfils our requirements. It’s guiding it with clear context and turning its output into useful action. This list is built around a simpler idea…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/08/best-skills-claude-code-codex-cli/",
+      "date": "2026-08-07T10:30:00.000Z",
+      "category": "News",
+      "region": "Global"
     },
     {
       "source": "Wired AI",
@@ -264,8 +395,8 @@
     },
     {
       "source": "MediaNama",
-      "title": "Q1FY27: Bajaj Finance&#8217;s AI bots now handle 71% of DIY customer service, drive Rs 2,500 crores in disbursements",
-      "summary": "&#8220;We are beginning to have confidence to build models using AI, which are faster and give us insight that our&#8230; The post Q1FY27: Bajaj Finance&#8217;s AI bots now handle 71% of DIY customer service, drive Rs 2,500 crores in disbu…",
+      "title": "Q1FY27: Bajaj Finance’s AI bots now handle 71% of DIY customer service, drive Rs 2,500 crores in disbursements",
+      "summary": "“We are beginning to have confidence to build models using AI, which are faster and give us insight that our… The post Q1FY27: Bajaj Finance’s AI bots now handle 71% of DIY customer service, drive Rs 2,500 crores in disbursements appeared…",
       "link": "https://www.medianama.com/2026/08/223-bajaj-finances-71-customer-service-2500-crores-disbursements/",
       "date": "2026-08-07T08:07:08.000Z",
       "category": "News",
@@ -308,6 +439,24 @@
       "region": "India"
     },
     {
+      "source": "SiliconANGLE",
+      "title": "Naïve bags $28.5M in funding to automate the creation and day-to-day running of almost any business",
+      "summary": "Palo Alto-based Naïve Inc., an artificial intelligence lab that’s developing autonomous agents capable of setting up and running entire businesses, said today it has closed on a $28.5 million Series A round of funding. Nexus Venture Partne…",
+      "link": "https://siliconangle.com/2026/08/06/naive-bags-28-5m-funding-automate-creation-day-day-running-almost-business/",
+      "date": "2026-08-07T02:23:24.000Z",
+      "category": "Business & Funding",
+      "region": "Global"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Twilio’s stock jumps on solid earnings and revenue beat and strong momentum in voice AI",
+      "summary": "A solid earnings and revenue beat helped to reignite investor enthusiasm for the communications software maker Twilio Inc. today, and its stock jumped more than 17% in after-hours trading. The company’s second-quarter results were boosted…",
+      "link": "https://siliconangle.com/2026/08/06/twilios-stock-jumps-solid-earnings-revenue-beat-strong-momentum-voice-ai/",
+      "date": "2026-08-07T01:27:21.000Z",
+      "category": "Business & Funding",
+      "region": "Global"
+    },
+    {
       "source": "Wired AI",
       "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
       "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
@@ -315,6 +464,15 @@
       "date": "2026-08-07T01:16:55.000Z",
       "category": "Open Source",
       "region": "China"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Optical networking startup Lumilens launches with $900M in funding",
+      "summary": "Lumilens Inc., a provider of optical networking chips for artificial intelligence clusters, launched today with $900 million in funding. The company raised the bulk of the capital, $700 million, through a Series C round that valued it at $…",
+      "link": "https://siliconangle.com/2026/08/06/optical-networking-startup-lumilens-launches-900m-funding/",
+      "date": "2026-08-07T01:10:39.000Z",
+      "category": "Business & Funding",
+      "region": "Global"
     },
     {
       "source": "LiveMint Tech",
@@ -326,8 +484,17 @@
       "region": "China"
     },
     {
+      "source": "SiliconANGLE",
+      "title": "Report: OpenAI’s upcoming AI speaker will be shaped like a donut and cost around $300",
+      "summary": "More details have emerged from Bloomberg about OpenAI Group PBC’s long-awaited hardware device, which was previously described as an artificial intelligence-enabled speaker that will be a “physical manifestation” of ChatGPT. In its latest…",
+      "link": "https://siliconangle.com/2026/08/06/report-openais-upcoming-ai-speaker-will-shaped-like-donut-cost-around-300/",
+      "date": "2026-08-06T23:40:28.000Z",
+      "category": "News",
+      "region": "United States"
+    },
+    {
       "source": "TechCrunch AI",
-      "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
       "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
       "date": "2026-08-06T22:43:53.000Z",
@@ -407,6 +574,15 @@
       "region": "Global"
     },
     {
+      "source": "The Register AI",
+      "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
+      "summary": "You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you?",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
+      "date": "2026-08-06T16:44:29.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
       "source": "Wired AI",
       "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
       "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
@@ -423,6 +599,15 @@
       "date": "2026-08-06T16:15:30.000Z",
       "category": "Open Source",
       "region": "Global"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "Claude Code Best Practices: 3 Lessons from 400,000 Sessions",
+      "summary": "I used to think Claude Code best practices were a matter of taste. Plan mode or not. Long CLAUDE.md or short. Pick what suits you, move on. Then Anthropic scored roughly 400k sessions from over 235k users against hard evidence of success.…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/08/claude-code-best-practices-analysis/",
+      "date": "2026-08-06T16:04:40.000Z",
+      "category": "News",
+      "region": "United States"
     },
     {
       "source": "AI News",
@@ -471,8 +656,8 @@
     },
     {
       "source": "MediaNama",
-      "title": "India&#8217;s drug regulator has not adopted AI for regulatory approvals: Govt",
-      "summary": "In response to the AI use in drug approval query, J.P. Nadda said CDSCO continues to rely on scientific and technical review for regulatory decisions and the Subject Expert Committee examines clinical trial approvals. The post India&#8217;…",
+      "title": "India’s drug regulator has not adopted AI for regulatory approvals: Govt",
+      "summary": "In response to the AI use in drug approval query, J.P. Nadda said CDSCO continues to rely on scientific and technical review for regulatory decisions and the Subject Expert Committee examines clinical trial approvals. The post India’s drug…",
       "link": "https://www.medianama.com/2026/08/223-india-drug-regulator-not-adopted-ai-approvals/",
       "date": "2026-08-06T12:21:02.000Z",
       "category": "Policy & Safety",
@@ -508,7 +693,7 @@
     {
       "source": "LiveMint Tech",
       "title": "Another AI agent goes rogue? Meta says its model hacked a company",
-      "summary": "Meta's AI models hacked into a third-party company during cybersecurity testing due to a misconfiguration by the security firm Irregular.&nbsp;",
+      "summary": "Meta's AI models hacked into a third-party company during cybersecurity testing due to a misconfiguration by the security firm Irregular.",
       "link": "https://www.livemint.com/technology/tech-news/another-ai-agent-goes-rogue-meta-says-its-model-hacked-a-company-11785981040297.html",
       "date": "2026-08-06T03:20:23.000Z",
       "category": "News",
@@ -576,6 +761,15 @@
       "date": "2026-08-05T15:26:20.000Z",
       "category": "News",
       "region": "United States"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "Top 5 Claude Skills for Writing (Ranked by GitHub Stars)",
+      "summary": "Search “best Claude Skills for writing” and you get lists padded with skills that write commit messages and internal status reports. Useful things. Not writing. This list only includes repositories that exist for writing. Every entry is a…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/08/top-5-claude-writing-skills/",
+      "date": "2026-08-05T15:12:22.000Z",
+      "category": "News",
+      "region": "Global"
     },
     {
       "source": "NVIDIA",
@@ -661,7 +855,7 @@
     {
       "source": "AI News",
       "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
-      "summary": "Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into production-ready deployment code. The project describes itself as an automated, auditable workflow that connects the &#8220;fragmented…",
+      "summary": "Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into production-ready deployment code. The project describes itself as an automated, auditable workflow that connects the “fragmented steps…",
       "link": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
       "date": "2026-08-04T16:07:15.000Z",
       "category": "Open Source",
@@ -731,6 +925,15 @@
       "region": "India"
     },
     {
+      "source": "The Register AI",
+      "title": "UK mulls making employers ask before installing bossware",
+      "summary": "Proposals span AI productivity scores, keystroke logging, biometrics, and other ways to watch workers",
+      "link": "https://www.theregister.com/software/2026/08/04/uk-mulls-making-employers-ask-before-installing-bossware/5282440",
+      "date": "2026-08-04T07:30:00.000Z",
+      "category": "News",
+      "region": "Europe"
+    },
+    {
       "source": "OpenAI",
       "title": "New ways to learn and teach with ChatGPT Work and Codex",
       "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
@@ -751,7 +954,7 @@
     {
       "source": "MIT Tech Review",
       "title": "Trump’s AI protectionism has come for robotics",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite ad…",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advance…",
       "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
       "date": "2026-08-03T18:43:30.000Z",
       "category": "Research",
@@ -821,9 +1024,27 @@
       "region": "United States"
     },
     {
+      "source": "Analytics Vidhya",
+      "title": "Agentic Misalignment Explained: When AI Agents Go Rogue",
+      "summary": "Imagine hiring an AI assistant to handle important tasks, only to find that it quietly ignores your instructions because it believes it knows better. This is known as agentic misalignment, where an AI intentionally pursues its own objectiv…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/08/agentic-misalignment-explained/",
+      "date": "2026-08-02T09:33:49.000Z",
+      "category": "People & Leadership",
+      "region": "Global"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "LanceDB Vector Database Guide: Features, Python Demo",
+      "summary": "Large language models understand text well, but they become less effective when information is scattered across documents or mixed with images and other media. Modern AI systems rely on vector databases, which store embeddings and enable s…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/08/lancedb-vector-database/",
+      "date": "2026-08-01T10:41:05.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
       "source": "AI News",
-      "title": "OpenAI aligns safety practices with EU AI Act&#8217;s GPAI Code",
-      "summary": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act&#8217;s GPAI Code as enforcement approaches. The company has contributed to and endorsed the EU&#8217;s General-Purpose AI (GPAI) Code of Practice…",
+      "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
+      "summary": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act’s GPAI Code as enforcement approaches. The company has contributed to and endorsed the EU’s General-Purpose AI (GPAI) Code of Practice and the Cod…",
       "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
       "date": "2026-07-31T15:04:25.000Z",
       "category": "Policy & Safety",
@@ -836,6 +1057,33 @@
       "link": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "date": "2026-07-31T13:00:00.000Z",
       "category": "Business & Funding",
+      "region": "Global"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "July 2026 AI Releases: A Timeline of Frontier Model Shifts",
+      "summary": "July 2026 was the busiest month for frontier model releases the field has seen. Four major labs shipped flagship or near-flagship models, two well funded newcomers shipped their first, and the largest open weight model ever published went…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/07/july-2026-ai-models-releases/",
+      "date": "2026-07-31T09:01:01.000Z",
+      "category": "Open Source",
+      "region": "Global"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "Claude Code CLI Commands I Wish I Had Known Sooner",
+      "summary": "I used Claude Code daily for months before realizing that claude --help hides many of its most useful capabilities. I kept restarting fresh sessions, repeatedly explaining the same project structure, simply because I did not know a better…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/07/hidden-claude-code-cli-commands/",
+      "date": "2026-07-30T18:25:00.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Open source project fools AI scrapers with poisoned font",
+      "summary": "ShieldFont is available today if you've got copy that needs protecting",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
+      "date": "2026-07-30T17:19:23.000Z",
+      "category": "Open Source",
       "region": "Global"
     },
     {
@@ -884,12 +1132,30 @@
       "region": "China"
     },
     {
+      "source": "The Register AI",
+      "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
+      "summary": "Capex spending? What? Me worry?",
+      "link": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
+      "date": "2026-07-29T23:17:56.000Z",
+      "category": "Business & Funding",
+      "region": "United States"
+    },
+    {
       "source": "DeepMind",
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "summary": "",
       "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
       "date": "2026-07-29T16:02:10.000Z",
       "category": "Product",
+      "region": "Global"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "How to Create Custom Skills in Claude: A Step-by-Step Guide",
+      "summary": "Claude can review data, check code, write reports, and prepare presentations, but teams still end up repeating the same structure, validation rules, company standards, and final-check instructions in every conversation. That repetition was…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/07/how-to-create-custom-skills-in-claude/",
+      "date": "2026-07-29T13:49:28.000Z",
+      "category": "News",
       "region": "Global"
     },
     {
@@ -902,11 +1168,38 @@
       "region": "China"
     },
     {
+      "source": "BAIR",
+      "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
+      "summary": "Figure 1: CUDA-to-MLX optimization translation map. CUDA optimization knowledge can be translated into architecture-native MLX strategies rather than copied instruction-for-instruction. We face a new epoch in computing. Hardware is changin…",
+      "link": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+      "date": "2026-07-29T09:00:00.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States"
+    },
+    {
       "source": "MIT Tech Review",
       "title": "The AI Hype Index: Unsexy AI",
       "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it sh…",
       "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
       "date": "2026-07-29T08:42:57.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives",
+      "summary": "Up to 8 AI models running in the cloud weighing in on ambiguous business issues? Sounds affordable",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/perplexitys-tokenmaxxing-model-council-gives-you-multiple-bot-perspectives/5279972",
+      "date": "2026-07-28T21:26:53.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "The Register AI",
+      "title": "College prof hides prompt to catch AI cheaters, finds human nature is pretty much as we thought",
+      "summary": "",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/college-prof-hides-prompt-to-catch-ai-cheaters-finds-human-nature-is-pretty-much-as-we-thought/5279864",
+      "date": "2026-07-28T16:20:00.000Z",
       "category": "News",
       "region": "Global"
     },
@@ -965,9 +1258,27 @@
       "region": "South Korea"
     },
     {
+      "source": "Analytics Vidhya",
+      "title": "Graph Engineering for AI Agents: Beyond the Single-Agent Loop",
+      "summary": "AI-agent development has progressed through overlapping phases: prompt engineering, context engineering, tool use, autonomous loops, memory systems, and multi-agent coordination. A newer focus is graph engineering, which treats AI applicat…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/07/graph-engineering/",
+      "date": "2026-07-28T06:03:41.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Leading AI models (even Grok) are all a bunch of leftist punks",
+      "summary": "AI seems to have a liberal bias",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/27/leading-ai-models-even-grok-are-all-a-bunch-of-leftist-punks/5279208",
+      "date": "2026-07-27T22:05:00.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
       "source": "MIT Tech Review",
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked…",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into…",
       "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
       "date": "2026-07-27T18:00:00.000Z",
       "category": "Research",
@@ -1028,6 +1339,15 @@
       "region": "Global"
     },
     {
+      "source": "BAIR",
+      "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
+      "summary": ".abbel-fig { display: block; text-align: center; margin: 2.4em 0; line-height: 1.4; max-width: 100%; } .abbel-fig img { display: block; margin: 0.65em auto 0; height: auto; max-width: 100%; } /* Image sizes; captions use a narrower measure…",
+      "link": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "date": "2026-07-26T09:00:00.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
       "source": "Rest of World",
       "title": "Why state-owned AI won’t solve inequality",
       "summary": "Government ownership of AI companies may promise shared wealth, but it risks weakening oversight and accountability.",
@@ -1037,12 +1357,30 @@
       "region": "Global"
     },
     {
+      "source": "The Register AI",
+      "title": "OpenAI won't let some customers export their chats, but this tool will",
+      "summary": "ChatGPT Business and Enterprise users lack the standard chat export option, so third-party utilities like scrapemychats fill the gap",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795",
+      "date": "2026-07-23T20:48:39.000Z",
+      "category": "News",
+      "region": "United States"
+    },
+    {
       "source": "MIT Tech Review",
       "title": "How AI helps scientists design the next generation of medicines",
       "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patien…",
       "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
       "date": "2026-07-23T12:00:00.000Z",
       "category": "Business & Funding",
+      "region": "Global"
+    },
+    {
+      "source": "The Register AI",
+      "title": "IBM insists AI didn't kill software deals, just delayed them",
+      "summary": "Big Blue says customers postponed rather than abandoned major purchases as hardware soaked up enterprise budgets",
+      "link": "https://www.theregister.com/software/2026/07/23/ibm-insists-ai-didnt-kill-software-deals-just-delayed-them/5276977",
+      "date": "2026-07-23T11:34:42.000Z",
+      "category": "News",
       "region": "Global"
     },
     {
@@ -1098,6 +1436,15 @@
       "date": "2026-07-17T15:00:11.000Z",
       "category": "Product",
       "region": "Global"
+    },
+    {
+      "source": "The Register AI",
+      "title": "EU forces Google to share its toys with the other AI and search kids",
+      "summary": "The Chocolate Factory is not amused",
+      "link": "https://www.theregister.com/software/2026/07/16/eu-forces-google-to-share-its-toys-with-the-other-ai-and-search-kids/5273819",
+      "date": "2026-07-16T16:48:41.000Z",
+      "category": "News",
+      "region": "Europe"
     },
     {
       "source": "Google AI",
@@ -1163,6 +1510,15 @@
       "region": "India"
     },
     {
+      "source": "BAIR",
+      "title": "Intelligence is Free, Now What? Data Systems for, of, and by Agents",
+      "summary": "... government of the people, by the people, for the people ... — Abraham Lincoln, Gettysburg Address (1863) The cost of AI is dropping rapidly. GPT-4-class capabilities cost roughly $30 per million tokens in early 2023; today the same run…",
+      "link": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
+      "date": "2026-07-07T09:00:00.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
       "source": "Google AI",
       "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
       "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
@@ -1181,12 +1537,48 @@
       "region": "Global"
     },
     {
+      "source": "BAIR",
+      "title": "2026 BAIR Graduate Showcase",
+      "summary": "Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose curiosity, creativity, and perseverance have pushed the frontiers of ar…",
+      "link": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
+      "date": "2026-07-01T09:00:00.000Z",
+      "category": "Research",
+      "region": "Global"
+    },
+    {
       "source": "VentureBeat AI",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire tha…",
       "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "date": "2026-05-19T17:45:00.000Z",
       "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "BAIR",
+      "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
+      "summary": ".apr-fig { text-align: center; margin: 1.35em 0; line-height: 1.4; } .apr-fig--wide img { display: inline-block; width: 100%; max-width: 100%; height: auto; vertical-align: middle; } .apr-fig--wide-0-8 { max-width: 80%; margin-left: auto;…",
+      "link": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
+      "date": "2026-05-08T09:00:00.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "BAIR",
+      "title": "Gradient-based Planning for World Models at Longer Horizons",
+      "summary": ".grasp-results-table table { font-size: 0.875rem; line-height: 1.35; width: 100%; } .grasp-results-table th, .grasp-results-table td { padding: 0.35rem 0.5rem; } /* Consistent whitespace between major sections (this post is long and hr-hea…",
+      "link": "http://bair.berkeley.edu/blog/2026/04/20/grasp/",
+      "date": "2026-04-20T09:00:00.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "BAIR",
+      "title": "Identifying Interactions at Scale for LLMs",
+      "summary": "--> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research aims to make the decision-making process mo…",
+      "link": "http://bair.berkeley.edu/blog/2026/03/13/spex/",
+      "date": "2026-03-13T09:00:00.000Z",
+      "category": "Research",
       "region": "Global"
     },
     {
@@ -1201,7 +1593,7 @@
     {
       "source": "VentureBeat AI",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive. Claude Code , Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev…",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers wo…",
       "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "date": "2026-01-19T14:00:00.000Z",
       "category": "News",
@@ -1210,7 +1602,7 @@
     {
       "source": "VentureBeat AI",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing bu…",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget…",
       "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
       "date": "2026-01-16T14:01:00.000Z",
       "category": "People & Leadership",
@@ -1219,7 +1611,7 @@
     {
       "source": "VentureBeat AI",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching…",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching ente…",
       "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "date": "2026-01-13T13:00:00.000Z",
       "category": "Product",
@@ -1235,12 +1627,39 @@
       "region": "United States"
     },
     {
+      "source": "BAIR",
+      "title": "Information-Driven Design of Imaging Systems",
+      "summary": "An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how well measurements distinguish objects. Man…",
+      "link": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/",
+      "date": "2026-01-10T09:00:00.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
       "source": "VentureBeat AI",
       "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
       "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in…",
       "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
       "date": "2026-01-07T20:00:00.000Z",
       "category": "Open Source",
+      "region": "Global"
+    },
+    {
+      "source": "BAIR",
+      "title": "RL without TD learning",
+      "summary": "In this post, I’ll introduce a reinforcement learning (RL) algorithm based on an “alternative” paradigm: divide and conquer . Unlike traditional methods, this algorithm is not based on temporal difference (TD) learning (which has scalabili…",
+      "link": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/",
+      "date": "2025-11-01T09:00:00.000Z",
+      "category": "Research",
+      "region": "Global"
+    },
+    {
+      "source": "BAIR",
+      "title": "What exactly does word2vec learn?",
+      "summary": "What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec is a well-known precursor to modern lan…",
+      "link": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/",
+      "date": "2025-09-01T09:00:00.000Z",
+      "category": "News",
       "region": "Global"
     }
   ]
