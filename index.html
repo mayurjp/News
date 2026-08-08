@@ -302,6 +302,16 @@
     transition: box-shadow 0.15s ease, border-color 0.15s ease;
   }
 
+  .hero-thumb {
+    display: block;
+    width: 100%;
+    max-height: 260px;
+    object-fit: cover;
+    border-radius: calc(var(--radius) - 2px);
+    margin-bottom: 1rem;
+    background: var(--bg-page);
+  }
+
   .hero:hover {
     box-shadow: 0 1px 6px rgba(32, 33, 36, 0.12);
     border-color: var(--border-strong);
@@ -370,6 +380,16 @@
     border-radius: var(--radius);
     padding: 1.1rem;
     transition: box-shadow 0.15s ease, border-color 0.15s ease;
+  }
+
+  .card-thumb {
+    display: block;
+    width: calc(100% + 2.2rem);
+    height: 140px;
+    object-fit: cover;
+    margin: -1.1rem -1.1rem 0.85rem;
+    border-radius: calc(var(--radius) - 1px) calc(var(--radius) - 1px) 0 0;
+    background: var(--bg-page);
   }
 
   .card:hover {
@@ -652,12 +672,19 @@
     });
   }
 
+  function thumbHtml(it, cssClass) {
+    if (!it.image) return "";
+    return '<img class="' + cssClass + '" src="' + escapeHtml(it.image) + '" alt="" ' +
+      'loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()" />';
+  }
+
   function heroCardHtml(it) {
     const badge = isNew(it.date) ? '<span class="badge-new">NEW</span>' : "";
     const category = it.category ? '<span class="category-tag">' + escapeHtml(it.category) + '</span>' : "";
     const region = it.region ? '<span class="region-tag">' + escapeHtml(it.region) + '</span>' : "";
     return (
       '<a class="hero" href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener">' +
+        thumbHtml(it, "hero-thumb") +
         '<span class="hero-kicker">' +
           '<span class="source-dot" style="background:' + colorForSource(it.source) + '"></span>' +
           '<span class="source-chip">' + escapeHtml(it.source) + '</span>' +
@@ -678,6 +705,7 @@
     const region = it.region ? '<span class="region-tag">' + escapeHtml(it.region) + '</span>' : "";
     return (
       '<a class="card" href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener">' +
+        thumbHtml(it, "card-thumb") +
         '<span class="card-kicker">' +
           '<span class="card-kicker-left">' +
             '<span class="source-dot" style="background:' + colorForSource(it.source) + '"></span>' +

@@ -186,6 +186,45 @@ function extractAtomLink(linkField) {
   return chosen["@_href"] ?? "";
 }
 
+const IMAGE_TYPE_PATTERN = /^image\//i;
+
+function isHttpUrl(url) {
+  return typeof url === "string" && /^https?:\/\//i.test(url);
+}
+
+// Only pulls images the feed itself offers for syndication (media:thumbnail,
+// media:content, RSS enclosures, Atom enclosure links) — never scrapes the
+// publisher's full article page. Falls back to the first <img> embedded in
+// the feed's own description/content HTML, since many WordPress-style feeds
+// put the lead image there instead of a structured media tag.
+function extractImage(node, rawHtmlForFallback) {
+  const thumb = asArray(node["media:thumbnail"])[0];
+  if (thumb?.["@_url"] && isHttpUrl(thumb["@_url"])) return thumb["@_url"];
+
+  const mediaContents = asArray(node["media:content"]);
+  const mediaImage = mediaContents.find(
+    (m) => m && (m["@_medium"] === "image" || IMAGE_TYPE_PATTERN.test(m["@_type"] ?? ""))
+  );
+  if (mediaImage?.["@_url"] && isHttpUrl(mediaImage["@_url"])) return mediaImage["@_url"];
+
+  const enclosures = asArray(node.enclosure);
+  const enclosureImage = enclosures.find((e) => e && IMAGE_TYPE_PATTERN.test(e["@_type"] ?? ""));
+  if (enclosureImage?.["@_url"] && isHttpUrl(enclosureImage["@_url"])) return enclosureImage["@_url"];
+
+  const linkEnclosures = asArray(node.link).filter((l) => l && typeof l === "object");
+  const linkImage = linkEnclosures.find(
+    (l) => l["@_rel"] === "enclosure" && IMAGE_TYPE_PATTERN.test(l["@_type"] ?? "")
+  );
+  if (linkImage?.["@_href"] && isHttpUrl(linkImage["@_href"])) return linkImage["@_href"];
+
+  if (rawHtmlForFallback) {
+    const match = String(rawHtmlForFallback).match(/<img[^>]+src=["']([^"']+)["']/i);
+    if (match && isHttpUrl(match[1])) return match[1];
+  }
+
+  return null;
+}
+
 function normalizeRssItem(item, sourceName, runIso) {
   const title = stripHtml(item.title?.["#text"] ?? item.title ?? "");
   const link =
@@ -198,7 +237,8 @@ function normalizeRssItem(item, sourceName, runIso) {
   const date = toIso(item.pubDate ?? item.date, runIso);
   const category = categorize(title, summary);
   const region = detectRegion(title, summary);
-  return { source: sourceName, title, summary, link, date, category, region };
+  const image = extractImage(item, rawSummary);
+  return { source: sourceName, title, summary, link, date, category, region, image };
 }
 
 function normalizeAtomEntry(entry, sourceName, runIso) {
@@ -210,7 +250,8 @@ function normalizeAtomEntry(entry, sourceName, runIso) {
   const date = toIso(entry.updated ?? entry.published, runIso);
   const category = categorize(title, summary);
   const region = detectRegion(title, summary);
-  return { source: sourceName, title, summary, link, date, category, region };
+  const image = extractImage(entry, rawSummary);
+  return { source: sourceName, title, summary, link, date, category, region, image };
 }
 
 async function fetchWithTimeout(url, userAgent, opts = {}) {
