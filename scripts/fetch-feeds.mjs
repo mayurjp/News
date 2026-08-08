@@ -52,7 +52,7 @@ const CATEGORY_RULES = [
   {
     name: "People & Leadership",
     pattern:
-      /\b(CEO|CTO|CFO|co-founder|cofounder|founder|chief executive|chief scientist|steps down|stepping down|resigns?|resignation|departs?|departure|ousted|fired|hires?|hiring|hired|appoints?|appointed|joins as|names? .* as|promotes?|promoted|succeeds|board member|executive team|leadership shake-?up)\b/i,
+      /\b(CEO|CTO|CFO|co-founder|cofounder|founder|chief executive|chief scientist|steps down|stepping down|resigns?|resignation|departs?|departure|ousted|fired|hires?|hiring|hired|appoints?|appointed|joins as|names? .* as|promotes?|promoted|succeeds|board member|executive team|leadership shake-?up|Demis Hassabis|Sam Altman|Dario Amodei|Daniela Amodei|Sundar Pichai|Satya Nadella|Mark Zuckerberg|Elon Musk|Jensen Huang|Mustafa Suleyman|Yann LeCun|Ilya Sutskever|Greg Brockman|Mira Murati|Clement Delangue|Arthur Mensch|Jack Dorsey|Reid Hoffman)\b/i,
   },
   {
     name: "Policy & Safety",
