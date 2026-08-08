@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T12:11:49.307Z",
-  "count": 170,
+  "updated": "2026-08-08T12:15:00.104Z",
+  "count": 209,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -21,7 +21,10 @@
     "SCMP Tech",
     "SiliconANGLE",
     "The Next Web",
-    "Analytics Vidhya"
+    "Analytics Vidhya",
+    "ET Tech",
+    "ET CIO",
+    "Hindu BusinessLine"
   ],
   "categories": [
     "People & Leadership",
@@ -42,6 +45,24 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "ET Tech",
+      "title": "MeitY asks Meta to revamp algorithms, curb deepfakes and illegal content on platforms: Government sources",
+      "summary": "India's MeitY has urged Meta to revise its algorithms and provide a compliance roadmap. The government seeks stronger detection and removal of harmful and manipulated content. Meta's technical team met with MeitY officials to discuss exist…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/meity-asks-meta-to-revamp-algorithms-submit-compliance-roadmap-to-curb-deepfakes-propaganda-govt-sources/articleshow/133050894.cms",
+      "date": "2026-08-08T11:57:29.000Z",
+      "category": "Policy & Safety",
+      "region": "India"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "High tokenisation cost will only optimise AI work: ServiceNow’s Sumeet Mathur",
+      "summary": "We have committed to the street that we will have revenue of $1.5 billion by the end of next year, just from our AI related products, says Sumeet Mathur, Senior VP & MD, ServiceNow India Technology & Business Center",
+      "link": "https://www.thehindubusinessline.com/info-tech/high-tokenisation-cost-will-only-optimise-ai-work-servicenows-sumeet-mathur/article71318528.ece",
+      "date": "2026-08-08T11:17:36.000Z",
+      "category": "Business & Funding",
+      "region": "India"
+    },
     {
       "source": "Ars Technica AI",
       "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
@@ -95,6 +116,132 @@
       "date": "2026-08-08T08:00:07.000Z",
       "category": "Business & Funding",
       "region": "China"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "66% of India’s AI workers brace for headcount cuts; engineers feel safer: Blind survey",
+      "summary": "That puts AI/ML right next to the jobs everyone already assumes are most at risk like Sales/Marketing, which leads at 68 per cent %. Product/Design is close behind at 65 per cent %.",
+      "link": "https://www.thehindubusinessline.com/info-tech/66-of-indias-ai-workers-brace-for-headcount-cuts-engineers-feel-safer-blind-survey/article71317642.ece",
+      "date": "2026-08-08T05:06:05.000Z",
+      "category": "News",
+      "region": "India"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Apple and OpenAI escalate legal battle over devices",
+      "summary": "The case comes at a sensitive time for OpenAI, which is worth a reported $852 billion as it works towards a potential IPO. The lab is also locked into a fierce competition with Anthropic, a rival AI lab in San Francisco that was founded by…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/apple-and-openai-escalate-legal-battle-over-devices/articleshow/133046522.cms",
+      "date": "2026-08-08T04:58:41.000Z",
+      "category": "Policy & Safety",
+      "region": "United States"
+    },
+    {
+      "source": "ET CIO",
+      "title": "Real-time vs. batch was the wrong question, the real one is reasoning latency",
+      "summary": "In the evolving landscape of marketing, leaders are prioritizing reasoning latency over mere data velocity. The artificial intelligence revolution is shifting the focus from human reaction times to the efficiency of model inference. Reason…",
+      "link": "https://cio.economictimes.indiatimes.com/news/corporate-news/real-time-vs-batch-was-the-wrong-question-the-real-one-is-reasoning-latency/133046016",
+      "date": "2026-08-08T03:46:24.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Data centre firm Switch confidentially files for US IPO: Bloomberg",
+      "summary": "The company operates ​large-scale data centre campuses that provide power, cooling and connectivity needed for AI computing, enabling cloud providers and enterprises ‌to deploy GPU clusters used to train and run ​AI ​models.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/data-centre-firm-switch-confidentially-files-for-us-ipo-bloomberg/articleshow/133045976.cms",
+      "date": "2026-08-08T03:40:09.000Z",
+      "category": "Business & Funding",
+      "region": "United States"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Center reduces takedown timeline for unlawful content to three hours",
+      "summary": "Intermediaries are also required to ensure clear labelling and traceable metadata for permissible AI-generated content, so that users can easily identify synthetically generated material and prevent deception or misuse",
+      "link": "https://www.thehindubusinessline.com/info-tech/social-media/center-reduces-takedown-timeline-for-unlawful-content-to-three-hours/article71316256.ece",
+      "date": "2026-08-08T03:31:49.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "ByteDance targets mega AI model nearing Anthropic’s Mythos, FT reports",
+      "summary": "",
+      "link": "https://www.thehindubusinessline.com/info-tech/bytedance-targets-mega-ai-model-nearing-anthropics-mythos-ft-reports/article71316305.ece",
+      "date": "2026-08-08T03:30:37.000Z",
+      "category": "News",
+      "region": "China"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Alibaba plans to charge big users of its next open-source AI model, sources say",
+      "summary": "The plans show Chinese AI firms, ​which have shocked markets by releasing open-source models ‌nearly as capable as those from OpenAI and Anthropic, are converging on a business model as they push to take market share from their US rivals",
+      "link": "https://www.thehindubusinessline.com/info-tech/alibaba-plans-to-charge-big-users-of-its-next-open-source-ai-model-sources-say/article71316083.ece",
+      "date": "2026-08-08T03:18:59.000Z",
+      "category": "Open Source",
+      "region": "China"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "OpenAI’s new device will be hockey puck-sized and cost over $300",
+      "summary": "The product — essentially a smart speaker without a display — will be shaped like a doughnut that’s roughly the size of a hockey puck. The idea is to make the device easy to carry around the home with one hand.",
+      "link": "https://www.thehindubusinessline.com/info-tech/openais-new-device-will-be-hockey-puck-sized-and-cost-over-300/article71316095.ece",
+      "date": "2026-08-08T03:16:58.000Z",
+      "category": "News",
+      "region": "United States"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "ai-horizon.io enters pre-Series A round with Source1 Technologies investment",
+      "summary": "ai-horizon.io to use fresh investment to accelerate innovation, expand global footprint",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-horizonio-enters-pre-series-a-round-with-source1-technologies-investment/article71313145.ece",
+      "date": "2026-08-08T02:32:01.000Z",
+      "category": "Business & Funding",
+      "region": "Global"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI infrastructure funding has room to grow as hyperscalers can raise $1.7 trillion more debt: J.P. Morgan",
+      "summary": "The AI and data centre financing universe continues to expand rapidly, now comprising 31 issuers with more than $576 billion in outstanding bonds and over $5 billion in leveraged loans: J.P. Morgan",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-infrastructure-funding-has-room-to-grow-as-hyperscalers-can-raise-17-trillion-more-debt-jp-morgan/article71312577.ece",
+      "date": "2026-08-08T02:22:24.000Z",
+      "category": "Business & Funding",
+      "region": "Global"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "IIFL Capital partners with Flytxt to leverage Agentic AI for AUM growth",
+      "summary": "With over 15 years of AI innovation, Flytxt currently serves more than 80 enterprise customers across 50 countries, helping them transform customer data into actionable intelligence and driving measurable business outcomes",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/iifl-capital-partners-with-flytxt-to-leverage-agentic-ai-for-aum-growth/article71312371.ece",
+      "date": "2026-08-08T02:20:26.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "More than half of children, teens are using AI for personal reasons. This comes with risks",
+      "summary": "Of the 54% who reported using AI for social and personal reasons, 33% asked about physical health, 33% asked for advice about what to do in a particular situation, and 20% asked AI for advice about their mental health and wellbeing",
+      "link": "https://www.thehindubusinessline.com/info-tech/more-than-half-of-children-teens-are-using-ai-for-personal-reasons-this-comes-with-risks/article71312307.ece",
+      "date": "2026-08-08T02:19:10.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Trump-linked fintech firm AI Financial sells unit to Prime Delta",
+      "summary": "AI Financial will receive a $12 million secured promissory note - with $1 million due next ‌week and ⁠the rest ⁠paid over time - and about 11.6 million shares of Prime Delta stock for the ​sale of ALT5 Sigma Canada, an filing with the U.S.…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/trump-linked-fintech-firm-ai-financial-sells-unit-to-prime-delta/articleshow/133045175.cms",
+      "date": "2026-08-08T02:13:55.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Nvidia to invest up to $3 billion in Stargate data centre developer Lancium: The Information",
+      "summary": "Nvidia will get ​a 20% ⁠stake in ‌Lancium ​for ​the first $2 ⁠billion investment, and its stake ​could grow to ​an additional $1 billion if Lancium hits certain thresholds, the ‌Information said, citing people familiar ​with the ​matter.",
+      "link": "https://economictimes.indiatimes.com/tech/funding/nvidia-to-invest-up-to-3-billion-in-lancium-the-information-reports/articleshow/133045158.cms",
+      "date": "2026-08-08T02:11:07.000Z",
+      "category": "Business & Funding",
+      "region": "Global"
     },
     {
       "source": "SCMP Tech",
@@ -178,6 +325,24 @@
       "region": "Global"
     },
     {
+      "source": "ET Tech",
+      "title": "OpenAI’s new device will be hockey puck-sized and cost over $300",
+      "summary": "The product — essentially a smart speaker without a display — will be shaped like a doughnut that’s roughly the size of a hockey puck, said the people, who asked not to be identified because the work is confidential. The idea is to make th…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-new-device-will-be-hockey-puck-sized-and-cost-over-300/articleshow/133040914.cms",
+      "date": "2026-08-07T18:40:53.000Z",
+      "category": "News",
+      "region": "United States"
+    },
+    {
+      "source": "ET Tech",
+      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
+      "summary": "Under OpenAI's safety guidelines, a model reaches the \"critical\" threshold if it can autonomously identify and exploit severe, real-world software vulnerabilities, known ‌as zero-day ⁠exploits, or ⁠execute complex cyberattacks against high…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-flags-possible-critical-cybersecurity-risk-in-upcoming-model-tightens-controls/articleshow/133040002.cms",
+      "date": "2026-08-07T17:55:23.000Z",
+      "category": "News",
+      "region": "United States"
+    },
+    {
       "source": "Hugging Face",
       "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
       "summary": "",
@@ -259,11 +424,56 @@
       "region": "United States"
     },
     {
+      "source": "ET Tech",
+      "title": "Trump says Congress wants to regulate AI industry 'out of business'",
+      "summary": "Trump's remarks underscore a widening debate in Washington over how aggressively to police a fast-moving AI industry that has ‌largely operated ⁠without ⁠new federal rules. Lawmakers have released a range of proposals that have ​not yet mo…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-says-congress-wants-to-regulate-ai-industry-out-of-business/articleshow/133037164.cms",
+      "date": "2026-08-07T15:05:43.000Z",
+      "category": "Policy & Safety",
+      "region": "United States"
+    },
+    {
+      "source": "AI News",
+      "title": "Stanford Evo 2 AI model generates phages against E. coli",
+      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work cen…",
+      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "date": "2026-08-07T15:05:03.000Z",
+      "category": "Research",
+      "region": "Global"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Govt-Meta meeting enters technical round on day 3; company lists ways to curb deepfakes, CSAM",
+      "summary": "After two days of meetings that saw IT Minister Ashwini Vaishnaw questioning Meta's team - led by global affairs head Joel Kaplan - on the content recommendation algorithms and the social media giant's compliance with local laws, day three…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/govt-meta-meeting-enters-technical-round-on-day-3-co-lists-ways-to-curb-deepfakes-csam/articleshow/133036729.cms",
+      "date": "2026-08-07T14:34:29.000Z",
+      "category": "Policy & Safety",
+      "region": "United States"
+    },
+    {
+      "source": "AI News",
+      "title": "How AI Is changing Instagram engagement without replacing the human touch",
+      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it’s the whole algorithm. But here’s the p…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+      "date": "2026-08-07T14:33:59.000Z",
+      "category": "Business & Funding",
+      "region": "Global"
+    },
+    {
       "source": "TechCrunch AI",
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
       "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
       "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
       "date": "2026-08-07T14:22:49.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Financial sector must build safeguards against AI risks before using it: CEA",
+      "summary": "The financial sector cannot afford to ignore emerging AI-related threats until they become a reality, he said at an event organised by industry chamber Assocham here.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/financial-sector-must-build-safeguards-against-ai-risks-before-using-it-cea/articleshow/133036275.cms",
+      "date": "2026-08-07T14:19:28.000Z",
       "category": "News",
       "region": "Global"
     },
@@ -358,6 +568,15 @@
       "region": "Global"
     },
     {
+      "source": "AI News",
+      "title": "Alibaba tests new business model for Qwen open-source AI",
+      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that ge…",
+      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+      "date": "2026-08-07T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "China"
+    },
+    {
       "source": "OpenAI",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
@@ -410,6 +629,15 @@
       "date": "2026-08-07T04:56:43.000Z",
       "category": "Policy & Safety",
       "region": "India"
+    },
+    {
+      "source": "ET CIO",
+      "title": "Kimi K3 release: Impact on Anthropic’s pre-IPO valuation?",
+      "summary": "Kimi K3's arrival raises fresh questions about Anthropic's pre-IPO valuation.",
+      "link": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/kimi-k3-release-impact-on-anthropics-pre-ipo-valuation/133020436",
+      "date": "2026-08-07T03:43:25.000Z",
+      "category": "Business & Funding",
+      "region": "United States"
     },
     {
       "source": "SiliconANGLE",
@@ -583,6 +811,15 @@
       "region": "United States"
     },
     {
+      "source": "AI News",
+      "title": "Why health AI interfaces must adapt to user expertise",
+      "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI…",
+      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+      "date": "2026-08-06T15:55:37.000Z",
+      "category": "Research",
+      "region": "Global"
+    },
+    {
       "source": "TechCrunch AI",
       "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
       "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
@@ -655,6 +892,15 @@
       "region": "United States"
     },
     {
+      "source": "ET CIO",
+      "title": "AI is now finance's decision engine, but data quality is key",
+      "summary": "Artificial intelligence is increasingly driving finance decisions and improving performance. Active AI use in finance has more than doubled, reaching seventy-five percent by 2026. Organizations report significant gains in forecasting and d…",
+      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/ai-is-now-finances-decision-engine-but-data-quality-is-key/132980799",
+      "date": "2026-08-06T03:52:10.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
       "source": "LiveMint Tech",
       "title": "Another AI agent goes rogue? Meta says its model hacked a company",
       "summary": "Meta's AI models hacked into a third-party company during cybersecurity testing due to a misconfiguration by the security firm Irregular.",
@@ -718,6 +964,15 @@
       "region": "Global"
     },
     {
+      "source": "AI News",
+      "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
+      "summary": "Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates thousands of tile embeddings per slide…",
+      "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
+      "date": "2026-08-05T15:26:20.000Z",
+      "category": "News",
+      "region": "United States"
+    },
+    {
       "source": "Analytics Vidhya",
       "title": "Top 5 Claude Skills for Writing (Ranked by GitHub Stars)",
       "summary": "Search “best Claude Skills for writing” and you get lists padded with skills that write commit messages and internal status reports. Useful things. Not writing. This list only includes repositories that exist for writing. Every entry is a…",
@@ -743,6 +998,15 @@
       "date": "2026-08-05T11:16:26.000Z",
       "category": "News",
       "region": "Global"
+    },
+    {
+      "source": "AI News",
+      "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
+      "summary": "Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems. Qwen3.8-Max has 2.4 trillion parameters and uses a mixt…",
+      "link": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
+      "date": "2026-08-05T10:00:00.000Z",
+      "category": "Product",
+      "region": "China"
     },
     {
       "source": "Rest of World",
@@ -772,6 +1036,15 @@
       "region": "Europe"
     },
     {
+      "source": "ET CIO",
+      "title": "Why the real enterprise advantage lies in decision making around AI",
+      "summary": "Companies now face decreasing AI advantages as usage grows. Decision speed and quality differentiate businesses in today's market. Structured design and embedded intelligence improve decision-making processes. Decision memory captures past…",
+      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/harnessing-decision-making-for-ai-success-in-enterprises/132851827",
+      "date": "2026-08-05T02:33:00.000Z",
+      "category": "News",
+      "region": "Global"
+    },
+    {
       "source": "LiveMint Tech",
       "title": "OpenAI, Anthropic AI agents implicated in new security breaches",
       "summary": "OPENAI-ANTHROPIC/CYBERSECURITY (PIX):OpenAI, Anthropic AI agents implicated in new security breaches",
@@ -796,6 +1069,15 @@
       "link": "https://www.livemint.com/technology/ai-data-centre-race-builds-1-trillion-lease-burden-for-big-tech-11785863893648.html",
       "date": "2026-08-04T17:18:13.000Z",
       "category": "News",
+      "region": "Global"
+    },
+    {
+      "source": "AI News",
+      "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
+      "summary": "Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into production-ready deployment code. The project describes itself as an automated, auditable workflow that connects the “fragmented steps…",
+      "link": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
+      "date": "2026-08-04T16:07:15.000Z",
+      "category": "Open Source",
       "region": "Global"
     },
     {
@@ -871,6 +1153,15 @@
       "region": "Europe"
     },
     {
+      "source": "ET CIO",
+      "title": "Amazon enters $3 trillion club as AI, cloud growth power rally",
+      "summary": "Apple, Microsoft, Alphabet and Nvidia are the other companies that have recorded a market value of $3 trillion in the past. Nvidia is currently the world's biggest company ​with a market capitalization close to $5 trillion.",
+      "link": "https://cio.economictimes.indiatimes.com/news/business-analytics/amazon-enters-3-trillion-club-as-ai-cloud-growth-power-rally/132845775",
+      "date": "2026-08-04T03:43:09.000Z",
+      "category": "News",
+      "region": "United States"
+    },
+    {
       "source": "OpenAI",
       "title": "New ways to learn and teach with ChatGPT Work and Codex",
       "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
@@ -898,6 +1189,15 @@
       "region": "Global"
     },
     {
+      "source": "AI News",
+      "title": "EU AI Act Article 50 transparency rules enter force",
+      "summary": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI tools now have to comply with Article 50, which requires provi…",
+      "link": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+      "date": "2026-08-03T16:09:25.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe"
+    },
+    {
       "source": "Google AI",
       "title": "Inside our 353,000-person vibe coding course",
       "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
@@ -905,6 +1205,15 @@
       "date": "2026-08-03T15:00:00.000Z",
       "category": "News",
       "region": "Global"
+    },
+    {
+      "source": "AI News",
+      "title": "Why biological data matters more in AI drug discovery",
+      "summary": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assisted drug discovery. Under the agreement, Relation will gener…",
+      "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
+      "date": "2026-08-03T10:00:00.000Z",
+      "category": "Research",
+      "region": "Europe"
     },
     {
       "source": "Rest of World",
@@ -934,6 +1243,15 @@
       "region": "Global"
     },
     {
+      "source": "ET CIO",
+      "title": "The future of AI-enabled governance: Building smarter, citizen-centric digital public infrastructure",
+      "summary": "India's digital transformation focuses on improving citizen services beyond basic digitization. AI, cloud, and data intelligence are key to building intelligent public infrastructure. Data quality and breaking departmental silos are critic…",
+      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/the-future-of-ai-enabled-governance-building-smarter-citizen-centric-digital-public-infrastructure/132817937",
+      "date": "2026-08-03T03:57:31.000Z",
+      "category": "News",
+      "region": "India"
+    },
+    {
       "source": "OpenAI",
       "title": "Circles powers telco personalization with OpenAI technology",
       "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
@@ -961,6 +1279,24 @@
       "region": "Global"
     },
     {
+      "source": "ET CIO",
+      "title": "AI, data-driven lending to unlock India's ₹100 trillion MSME credit opportunity",
+      "summary": "Lentra convened leaders to explore AI and data for MSME credit access. Industry experts agreed that intelligent underwriting is replacing collateral-based lending. Digital footprints and alternative data are making credit decisions faster…",
+      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/unlocking-100-trillion-msme-credit-the-future-of-ai-and-data-driven-lending-in-india/132780684",
+      "date": "2026-08-01T03:38:40.000Z",
+      "category": "News",
+      "region": "India"
+    },
+    {
+      "source": "AI News",
+      "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
+      "summary": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act’s GPAI Code as enforcement approaches. The company has contributed to and endorsed the EU’s General-Purpose AI (GPAI) Code of Practice and the Cod…",
+      "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
+      "date": "2026-07-31T15:04:25.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe"
+    },
+    {
       "source": "Rest of World",
       "title": "Can we train AI to choose safety over speed?",
       "summary": "Delivery platforms use sophisticated weather algorithms to profit from storm demand, while shifting all the physical risk onto workers trapped by pay incentives.",
@@ -976,6 +1312,15 @@
       "link": "https://www.analyticsvidhya.com/blog/2026/07/july-2026-ai-models-releases/",
       "date": "2026-07-31T09:01:01.000Z",
       "category": "Open Source",
+      "region": "Global"
+    },
+    {
+      "source": "ET CIO",
+      "title": "The rise of AI Control Tower - The next enterprise platform category",
+      "summary": "Enterprises face fragmented AI deployments due to rapid, unchecked adoption across business units. An AI Control Tower emerges as a crucial platform for managing these diverse AI systems. This centralized command center orchestrates, gover…",
+      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/unlocking-the-future-the-emergence-of-ai-control-towers-as-essential-enterprise-platforms/132731699",
+      "date": "2026-07-31T02:30:00.000Z",
+      "category": "News",
       "region": "Global"
     },
     {
@@ -1040,6 +1385,15 @@
       "date": "2026-07-30T10:00:00.000Z",
       "category": "News",
       "region": "China"
+    },
+    {
+      "source": "ET CIO",
+      "title": "Modernizing enterprise applications for an AI-driven future",
+      "summary": "Enterprises are modernizing applications to integrate artificial intelligence capabilities effectively. Legacy systems hinder AI adoption, creating strategic constraints for businesses today. Incremental modernization ensures business cont…",
+      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/modernizing-enterprise-applications-for-an-ai-driven-future/132711272",
+      "date": "2026-07-30T02:31:00.000Z",
+      "category": "Product",
+      "region": "Global"
     },
     {
       "source": "The Register AI",

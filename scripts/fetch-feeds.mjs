@@ -122,7 +122,7 @@ const REGION_RULES = [
   {
     name: "India",
     pattern:
-      /\b(India|Indian|Bengaluru|Bangalore|Mumbai|New Delhi|Hyderabad|Krutrim|Sarvam|Ola Krutrim|Reliance Jio|Infosys|Wipro|TCS|HCLTech|Zoho)\b/i,
+      /\b(India|Indian|Bengaluru|Bangalore|Mumbai|New Delhi|Hyderabad|Pune|Chennai|Gurugram|Gurgaon|Krutrim|Sarvam|Ola Krutrim|Reliance(?: Jio| Industries)?|Adani|Tata(?: Group| Consultancy| Sons)?|TCS|Infosys|Wipro|HCLTech|Zoho|Jio\b|Airtel|Flipkart|Paytm|Byju'?s|Freshworks|MeitY|RBI\b)\b/i,
   },
   {
     name: "China",
