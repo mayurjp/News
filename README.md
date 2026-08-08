@@ -20,7 +20,9 @@ The repo ships with a real `data/feed.json` from a local test run, so the page i
 
 Edit `feeds.json` — it's a flat list of `{ "name", "url" }` pairs pointing at RSS or Atom feed URLs. Commit the change; the next scheduled run (or a manual trigger) will pick it up.
 
-Note: several major AI companies — Anthropic, Meta AI, Mistral, Cohere, Perplexity — don't publish an official RSS feed. To include them you'd need to point at a community-maintained mirror feed and add it as a normal entry here.
+The list currently mixes two kinds of sources on purpose: lab/vendor blogs (OpenAI, DeepMind, Hugging Face, NVIDIA, Google AI) for product and research announcements, and general tech press (TechCrunch AI, VentureBeat AI, Wired AI, Ars Technica AI, MIT Tech Review, AI News) for the less-technical-but-important coverage — funding, leadership moves, company strategy, policy. Lean further into either direction by adding more of that type.
+
+Note: several major AI companies — Anthropic, Meta AI, Mistral, Cohere, Perplexity — don't publish an official RSS feed. To include them you'd need to point at a community-maintained mirror feed and add it as a normal entry here. Also note that some publishers only keep a *general* RSS feed and have dropped topic-specific ones (e.g. The Verge's `/rss/artificial-intelligence/` feed now returns zero entries) — if a URL parses but always yields 0 items, check the source's site for a working feed URL before assuming the script is at fault.
 
 ## Changing the refresh frequency
 

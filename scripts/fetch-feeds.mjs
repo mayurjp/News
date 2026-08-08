@@ -137,7 +137,7 @@ async function fetchFeed(feed, runIso) {
       .filter((it) => it.title && it.link);
   }
 
-  if (doc.feed?.entry) {
+  if (doc.feed) {
     const entries = asArray(doc.feed.entry).slice(0, MAX_ITEMS_PER_FEED);
     return entries
       .map((entry) => normalizeAtomEntry(entry, feed.name, runIso))

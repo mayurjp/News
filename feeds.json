@@ -1,7 +1,13 @@
 [
-  { "name": "OpenAI",        "url": "https://openai.com/news/rss.xml" },
-  { "name": "DeepMind",      "url": "https://deepmind.google/blog/feed/basic/" },
-  { "name": "Hugging Face",  "url": "https://huggingface.co/blog/feed.xml" },
-  { "name": "NVIDIA",        "url": "https://blogs.nvidia.com/feed/" },
-  { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/" }
+  { "name": "OpenAI",           "url": "https://openai.com/news/rss.xml" },
+  { "name": "DeepMind",         "url": "https://deepmind.google/blog/feed/basic/" },
+  { "name": "Hugging Face",     "url": "https://huggingface.co/blog/feed.xml" },
+  { "name": "NVIDIA",           "url": "https://blogs.nvidia.com/feed/" },
+  { "name": "Google AI",        "url": "https://blog.google/technology/ai/rss/" },
+  { "name": "TechCrunch AI",    "url": "https://techcrunch.com/category/artificial-intelligence/feed/" },
+  { "name": "VentureBeat AI",   "url": "https://venturebeat.com/category/ai/feed/" },
+  { "name": "Wired AI",         "url": "https://www.wired.com/feed/tag/ai/latest/rss" },
+  { "name": "Ars Technica AI",  "url": "https://arstechnica.com/ai/feed/" },
+  { "name": "MIT Tech Review",  "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/" },
+  { "name": "AI News",          "url": "https://www.artificialintelligence-news.com/feed/" }
 ]
