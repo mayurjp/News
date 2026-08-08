@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T11:28:18.776Z",
+  "updated": "2026-08-08T11:32:20.458Z",
   "count": 107,
   "sources": [
     "OpenAI",
@@ -14,755 +14,872 @@
     "MIT Tech Review",
     "AI News"
   ],
+  "categories": [
+    "People & Leadership",
+    "Policy & Safety",
+    "Business & Funding",
+    "Open Source",
+    "Hardware & Infra",
+    "Research",
+    "Product",
+    "News"
+  ],
   "items": [
     {
       "source": "Ars Technica AI",
       "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
       "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
       "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-      "date": "2026-08-08T11:05:50.000Z"
+      "date": "2026-08-08T11:05:50.000Z",
+      "category": "Open Source"
     },
     {
       "source": "NVIDIA",
       "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
       "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing a…",
       "link": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-      "date": "2026-08-08T10:24:54.000Z"
+      "date": "2026-08-08T10:24:54.000Z",
+      "category": "Product"
     },
     {
       "source": "Wired AI",
       "title": "How to Disable Gemini in Gmail and Google Docs",
       "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
       "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-      "date": "2026-08-08T10:00:00.000Z"
+      "date": "2026-08-08T10:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "TechCrunch AI",
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
       "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "date": "2026-08-07T22:48:24.000Z"
+      "date": "2026-08-07T22:48:24.000Z",
+      "category": "News"
     },
     {
       "source": "TechCrunch AI",
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
       "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "date": "2026-08-07T21:30:11.000Z"
+      "date": "2026-08-07T21:30:11.000Z",
+      "category": "News"
     },
     {
       "source": "Hugging Face",
       "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
       "summary": "",
       "link": "https://huggingface.co/blog/allenai/tutormoments",
-      "date": "2026-08-07T17:53:32.000Z"
+      "date": "2026-08-07T17:53:32.000Z",
+      "category": "News"
     },
     {
       "source": "Ars Technica AI",
       "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
       "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
       "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "date": "2026-08-07T17:36:22.000Z"
+      "date": "2026-08-07T17:36:22.000Z",
+      "category": "News"
     },
     {
       "source": "TechCrunch AI",
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "date": "2026-08-07T16:16:09.000Z"
+      "date": "2026-08-07T16:16:09.000Z",
+      "category": "Product"
     },
     {
       "source": "OpenAI",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
       "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "date": "2026-08-07T15:20:00.000Z"
+      "date": "2026-08-07T15:20:00.000Z",
+      "category": "News"
     },
     {
       "source": "AI News",
       "title": "Stanford Evo 2 AI model generates phages against E. coli",
       "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work cen…",
       "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
-      "date": "2026-08-07T15:05:03.000Z"
+      "date": "2026-08-07T15:05:03.000Z",
+      "category": "Research"
     },
     {
       "source": "AI News",
       "title": "How AI Is changing Instagram engagement without replacing the human touch",
       "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it&#8217;s the whole algorithm. But here’s…",
       "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
-      "date": "2026-08-07T14:33:59.000Z"
+      "date": "2026-08-07T14:33:59.000Z",
+      "category": "Business & Funding"
     },
     {
       "source": "TechCrunch AI",
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
       "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
       "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "date": "2026-08-07T14:22:49.000Z"
+      "date": "2026-08-07T14:22:49.000Z",
+      "category": "News"
     },
     {
       "source": "Wired AI",
       "title": "Scientists Used AI to Create 16 New Viruses",
       "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
       "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-      "date": "2026-08-07T14:13:57.000Z"
+      "date": "2026-08-07T14:13:57.000Z",
+      "category": "Policy & Safety"
     },
     {
       "source": "TechCrunch AI",
       "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley&#8217;s leaders are bad sci-fi readers",
       "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&#160;thinking of Twi…",
       "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "date": "2026-08-07T14:00:00.000Z"
+      "date": "2026-08-07T14:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "Ars Technica AI",
       "title": "AI chatbots have failed people in crisis. Can that be fixed?",
       "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
       "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-      "date": "2026-08-07T13:49:37.000Z"
+      "date": "2026-08-07T13:49:37.000Z",
+      "category": "Research"
     },
     {
       "source": "Ars Technica AI",
       "title": "ByteDance trains massive AI model in bid to rival Anthropic",
       "summary": "TikTok owner training a model with 10 trillion parameters.",
       "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "date": "2026-08-07T13:29:22.000Z"
+      "date": "2026-08-07T13:29:22.000Z",
+      "category": "News"
     },
     {
       "source": "TechCrunch AI",
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "summary": "Meta's total fine has racked up to $942 million in this case.",
       "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "date": "2026-08-07T11:40:37.000Z"
+      "date": "2026-08-07T11:40:37.000Z",
+      "category": "Policy & Safety"
     },
     {
       "source": "Wired AI",
       "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
       "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
       "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-      "date": "2026-08-07T10:00:00.000Z"
+      "date": "2026-08-07T10:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "AI News",
       "title": "Alibaba tests new business model for Qwen open-source AI",
       "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that ge…",
       "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
-      "date": "2026-08-07T10:00:00.000Z"
+      "date": "2026-08-07T10:00:00.000Z",
+      "category": "Business & Funding"
     },
     {
       "source": "OpenAI",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
       "link": "https://openai.com/index/hsp-gruppe",
-      "date": "2026-08-07T09:00:00.000Z"
+      "date": "2026-08-07T09:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "Wired AI",
       "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
       "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
       "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-      "date": "2026-08-07T01:16:55.000Z"
+      "date": "2026-08-07T01:16:55.000Z",
+      "category": "Open Source"
     },
     {
       "source": "TechCrunch AI",
       "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
       "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
       "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "date": "2026-08-06T22:43:53.000Z"
+      "date": "2026-08-06T22:43:53.000Z",
+      "category": "News"
     },
     {
       "source": "Ars Technica AI",
       "title": "Suno hopes to go legit with watermarks for AI-generated music",
       "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
       "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-      "date": "2026-08-06T20:17:36.000Z"
+      "date": "2026-08-06T20:17:36.000Z",
+      "category": "News"
     },
     {
       "source": "Ars Technica AI",
       "title": "Anthropic will design its own hardware to power Claude",
       "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
       "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "date": "2026-08-06T20:03:44.000Z"
+      "date": "2026-08-06T20:03:44.000Z",
+      "category": "News"
     },
     {
       "source": "Wired AI",
       "title": "Why Normal People Aren’t Using AI Agents",
       "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
       "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-      "date": "2026-08-06T19:55:45.000Z"
+      "date": "2026-08-06T19:55:45.000Z",
+      "category": "News"
     },
     {
       "source": "Wired AI",
       "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
       "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
       "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
-      "date": "2026-08-06T19:30:46.000Z"
+      "date": "2026-08-06T19:30:46.000Z",
+      "category": "News"
     },
     {
       "source": "Ars Technica AI",
       "title": "Large genome models used to design new viruses",
       "summary": "The AI system makes genetically distant versions of a bacteria-killing virus.",
       "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-      "date": "2026-08-06T19:04:57.000Z"
+      "date": "2026-08-06T19:04:57.000Z",
+      "category": "News"
     },
     {
       "source": "TechCrunch AI",
       "title": "ChatGPT brings unlimited text chats to free users",
       "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
       "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "date": "2026-08-06T17:34:42.000Z"
+      "date": "2026-08-06T17:34:42.000Z",
+      "category": "News"
     },
     {
       "source": "TechCrunch AI",
       "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
       "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
       "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "date": "2026-08-06T17:00:37.000Z"
+      "date": "2026-08-06T17:00:37.000Z",
+      "category": "Business & Funding"
     },
     {
       "source": "Wired AI",
       "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
       "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
       "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-      "date": "2026-08-06T16:23:04.000Z"
+      "date": "2026-08-06T16:23:04.000Z",
+      "category": "Research"
     },
     {
       "source": "Ars Technica AI",
       "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
       "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
       "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-      "date": "2026-08-06T16:15:30.000Z"
+      "date": "2026-08-06T16:15:30.000Z",
+      "category": "Open Source"
     },
     {
       "source": "AI News",
       "title": "Why health AI interfaces must adapt to user expertise",
       "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI…",
       "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
-      "date": "2026-08-06T15:55:37.000Z"
+      "date": "2026-08-06T15:55:37.000Z",
+      "category": "Research"
     },
     {
       "source": "TechCrunch AI",
       "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
       "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
       "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "date": "2026-08-06T15:53:03.000Z"
+      "date": "2026-08-06T15:53:03.000Z",
+      "category": "News"
     },
     {
       "source": "DeepMind",
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "summary": "",
       "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "date": "2026-08-06T15:06:15.000Z"
+      "date": "2026-08-06T15:06:15.000Z",
+      "category": "Research"
     },
     {
       "source": "NVIDIA",
       "title": "GeForce NOW Shakes Up August With 26 New Games",
       "summary": "August is here, bringing 26 new games for GeForce NOW members. Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week. In addition, GeForce NO…",
       "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
-      "date": "2026-08-06T13:00:11.000Z"
+      "date": "2026-08-06T13:00:11.000Z",
+      "category": "News"
     },
     {
       "source": "NVIDIA",
       "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
       "summary": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosy…",
       "link": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
-      "date": "2026-08-06T13:00:00.000Z"
+      "date": "2026-08-06T13:00:00.000Z",
+      "category": "Open Source"
     },
     {
       "source": "Ars Technica AI",
       "title": "AI isn’t enough to protect social media communities from AI",
       "summary": "Why humans need to moderate humans.",
       "link": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-      "date": "2026-08-06T11:00:44.000Z"
+      "date": "2026-08-06T11:00:44.000Z",
+      "category": "News"
     },
     {
       "source": "OpenAI",
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
       "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "date": "2026-08-06T10:00:00.000Z"
+      "date": "2026-08-06T10:00:00.000Z",
+      "category": "Product"
     },
     {
       "source": "OpenAI",
       "title": "Working with the American Psychological Association on youth mental health and AI",
       "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
       "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "date": "2026-08-06T06:00:00.000Z"
+      "date": "2026-08-06T06:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "Wired AI",
       "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
       "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
       "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-      "date": "2026-08-06T00:15:04.000Z"
+      "date": "2026-08-06T00:15:04.000Z",
+      "category": "News"
     },
     {
       "source": "OpenAI",
       "title": "From asking to doing: How the world is putting ChatGPT to work",
       "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
       "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "date": "2026-08-06T00:00:00.000Z"
+      "date": "2026-08-06T00:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "Hugging Face",
       "title": "Baseten on Hugging Face Inference Providers 🔥",
       "summary": "",
       "link": "https://huggingface.co/blog/baseten",
-      "date": "2026-08-06T00:00:00.000Z"
+      "date": "2026-08-06T00:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "Wired AI",
       "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
       "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
       "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
-      "date": "2026-08-05T23:30:00.000Z"
+      "date": "2026-08-05T23:30:00.000Z",
+      "category": "Research"
     },
     {
       "source": "Ars Technica AI",
       "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
       "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
       "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "date": "2026-08-05T20:47:11.000Z"
+      "date": "2026-08-05T20:47:11.000Z",
+      "category": "News"
     },
     {
       "source": "Wired AI",
       "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
       "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
       "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
-      "date": "2026-08-05T19:42:12.000Z"
+      "date": "2026-08-05T19:42:12.000Z",
+      "category": "News"
     },
     {
       "source": "AI News",
       "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
       "summary": "Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates thousands of tile embeddings per slide…",
       "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
-      "date": "2026-08-05T15:26:20.000Z"
+      "date": "2026-08-05T15:26:20.000Z",
+      "category": "News"
     },
     {
       "source": "NVIDIA",
       "title": "NVIDIA and Partners Build in America, for America",
       "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger indust…",
       "link": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-      "date": "2026-08-05T13:00:47.000Z"
+      "date": "2026-08-05T13:00:47.000Z",
+      "category": "Business & Funding"
     },
     {
       "source": "AI News",
       "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
       "summary": "Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems. Qwen3.8-Max has 2.4 trillion parameters and uses a mixt…",
       "link": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
-      "date": "2026-08-05T10:00:00.000Z"
+      "date": "2026-08-05T10:00:00.000Z",
+      "category": "Product"
     },
     {
       "source": "OpenAI",
       "title": "Third-party cyber evaluations involving OpenAI models",
       "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "date": "2026-08-04T19:00:00.000Z"
+      "date": "2026-08-04T19:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "AI News",
       "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
       "summary": "Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into production-ready deployment code. The project describes itself as an automated, auditable workflow that connects the &#8220;fragmented…",
       "link": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
-      "date": "2026-08-04T16:07:15.000Z"
+      "date": "2026-08-04T16:07:15.000Z",
+      "category": "Open Source"
     },
     {
       "source": "NVIDIA",
       "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
       "summary": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expert…",
       "link": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
-      "date": "2026-08-04T16:00:56.000Z"
+      "date": "2026-08-04T16:00:56.000Z",
+      "category": "Research"
     },
     {
       "source": "NVIDIA",
       "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
       "summary": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than jus…",
       "link": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
-      "date": "2026-08-04T15:00:49.000Z"
+      "date": "2026-08-04T15:00:49.000Z",
+      "category": "Open Source"
     },
     {
       "source": "NVIDIA",
       "title": "As AI Increases Demands on Memory, Storage Steps Up",
       "summary": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights…",
       "link": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-      "date": "2026-08-04T15:00:47.000Z"
+      "date": "2026-08-04T15:00:47.000Z",
+      "category": "News"
     },
     {
       "source": "Hugging Face",
       "title": "Deploy local agents everywhere with LFM2.5-2.6B",
       "summary": "",
       "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "date": "2026-08-04T13:58:29.000Z"
+      "date": "2026-08-04T13:58:29.000Z",
+      "category": "News"
     },
     {
       "source": "NVIDIA",
       "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
       "summary": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today…",
       "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-      "date": "2026-08-04T13:00:47.000Z"
+      "date": "2026-08-04T13:00:47.000Z",
+      "category": "News"
     },
     {
       "source": "Google AI",
       "title": "The latest AI news we announced in July 2026",
       "summary": "Here are Google’s latest AI updates from July 2026",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "date": "2026-08-04T13:00:00.000Z"
+      "date": "2026-08-04T13:00:00.000Z",
+      "category": "Product"
     },
     {
       "source": "OpenAI",
       "title": "New ways to learn and teach with ChatGPT Work and Codex",
       "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
       "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "date": "2026-08-04T00:00:00.000Z"
+      "date": "2026-08-04T00:00:00.000Z",
+      "category": "Research"
     },
     {
       "source": "OpenAI",
       "title": "Apple is getting this wrong",
       "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
       "link": "https://openai.com/index/apple-is-getting-this-wrong",
-      "date": "2026-08-03T22:00:00.000Z"
+      "date": "2026-08-03T22:00:00.000Z",
+      "category": "Policy & Safety"
     },
     {
       "source": "MIT Tech Review",
       "title": "Trump’s AI protectionism has come for robotics",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite ad…",
       "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "date": "2026-08-03T18:43:30.000Z"
+      "date": "2026-08-03T18:43:30.000Z",
+      "category": "Research"
     },
     {
       "source": "AI News",
       "title": "EU AI Act Article 50 transparency rules enter force",
       "summary": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI tools now have to comply with Article 50, which requires provi…",
       "link": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
-      "date": "2026-08-03T16:09:25.000Z"
+      "date": "2026-08-03T16:09:25.000Z",
+      "category": "Policy & Safety"
     },
     {
       "source": "Google AI",
       "title": "Inside our 353,000-person vibe coding course",
       "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "date": "2026-08-03T15:00:00.000Z"
+      "date": "2026-08-03T15:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "AI News",
       "title": "Why biological data matters more in AI drug discovery",
       "summary": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assisted drug discovery. Under the agreement, Relation will gener…",
       "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
-      "date": "2026-08-03T10:00:00.000Z"
+      "date": "2026-08-03T10:00:00.000Z",
+      "category": "Research"
     },
     {
       "source": "MIT Tech Review",
       "title": "Here’s why AI agents lie and cheat to reach their goals",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face…",
       "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "date": "2026-08-03T08:30:05.000Z"
+      "date": "2026-08-03T08:30:05.000Z",
+      "category": "News"
     },
     {
       "source": "OpenAI",
       "title": "How we built a realtime system for responsive voice AI in six months",
       "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
       "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "date": "2026-08-03T07:00:00.000Z"
+      "date": "2026-08-03T07:00:00.000Z",
+      "category": "Research"
     },
     {
       "source": "OpenAI",
       "title": "Circles powers telco personalization with OpenAI technology",
       "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
       "link": "https://openai.com/index/circles",
-      "date": "2026-08-03T00:00:00.000Z"
+      "date": "2026-08-03T00:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "AI News",
       "title": "OpenAI aligns safety practices with EU AI Act&#8217;s GPAI Code",
       "summary": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act&#8217;s GPAI Code as enforcement approaches. The company has contributed to and endorsed the EU&#8217;s General-Purpose AI (GPAI) Code of Practice…",
       "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
-      "date": "2026-07-31T15:04:25.000Z"
+      "date": "2026-07-31T15:04:25.000Z",
+      "category": "Policy & Safety"
     },
     {
       "source": "Hugging Face",
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "summary": "",
       "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "date": "2026-07-30T15:09:09.000Z"
+      "date": "2026-07-30T15:09:09.000Z",
+      "category": "Hardware & Infra"
     },
     {
       "source": "DeepMind",
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
       "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "date": "2026-07-30T15:00:59.000Z"
+      "date": "2026-07-30T15:00:59.000Z",
+      "category": "News"
     },
     {
       "source": "NVIDIA",
       "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
       "summary": "Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When it’s time to switch fr…",
       "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
-      "date": "2026-07-30T13:00:20.000Z"
+      "date": "2026-07-30T13:00:20.000Z",
+      "category": "News"
     },
     {
       "source": "MIT Tech Review",
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
       "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI confer…",
       "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "date": "2026-07-30T10:15:19.000Z"
+      "date": "2026-07-30T10:15:19.000Z",
+      "category": "Research"
     },
     {
       "source": "DeepMind",
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "summary": "",
       "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "date": "2026-07-29T16:02:10.000Z"
+      "date": "2026-07-29T16:02:10.000Z",
+      "category": "Product"
     },
     {
       "source": "MIT Tech Review",
       "title": "The AI Hype Index: Unsexy AI",
       "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it sh…",
       "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "date": "2026-07-29T08:42:57.000Z"
+      "date": "2026-07-29T08:42:57.000Z",
+      "category": "News"
     },
     {
       "source": "Google AI",
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "date": "2026-07-28T16:00:00.000Z"
+      "date": "2026-07-28T16:00:00.000Z",
+      "category": "Product"
     },
     {
       "source": "NVIDIA",
       "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
       "summary": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Convicti…",
       "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-      "date": "2026-07-28T15:00:19.000Z"
+      "date": "2026-07-28T15:00:19.000Z",
+      "category": "People & Leadership"
     },
     {
       "source": "DeepMind",
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "summary": "",
       "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "date": "2026-07-28T13:21:37.000Z"
+      "date": "2026-07-28T13:21:37.000Z",
+      "category": "News"
     },
     {
       "source": "Google AI",
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
       "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
       "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "date": "2026-07-28T13:00:00.000Z"
+      "date": "2026-07-28T13:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "Google AI",
       "title": "5 ways to host the ultimate dinner party with Google Search",
       "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
       "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "date": "2026-07-28T13:00:00.000Z"
+      "date": "2026-07-28T13:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "MIT Tech Review",
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
       "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application fo…",
       "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "date": "2026-07-28T09:18:57.000Z"
+      "date": "2026-07-28T09:18:57.000Z",
+      "category": "Hardware & Infra"
     },
     {
       "source": "MIT Tech Review",
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked…",
       "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "date": "2026-07-27T18:00:00.000Z"
+      "date": "2026-07-27T18:00:00.000Z",
+      "category": "Research"
     },
     {
       "source": "MIT Tech Review",
       "title": "The path to artificial superintelligence",
       "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge a…",
       "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "date": "2026-07-27T12:00:00.000Z"
+      "date": "2026-07-27T12:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "MIT Tech Review",
       "title": "Closing the data loop in AI-driven drug discovery",
       "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—…",
       "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "date": "2026-07-27T11:40:16.000Z"
+      "date": "2026-07-27T11:40:16.000Z",
+      "category": "News"
     },
     {
       "source": "MIT Tech Review",
       "title": "Building the enterprise environment for agentic AI",
       "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agent…",
       "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "date": "2026-07-27T11:32:58.000Z"
+      "date": "2026-07-27T11:32:58.000Z",
+      "category": "News"
     },
     {
       "source": "Hugging Face",
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
       "summary": "",
       "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "date": "2026-07-27T09:32:20.000Z"
+      "date": "2026-07-27T09:32:20.000Z",
+      "category": "News"
     },
     {
       "source": "Hugging Face",
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
       "summary": "",
       "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "date": "2026-07-27T00:00:00.000Z"
+      "date": "2026-07-27T00:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "MIT Tech Review",
       "title": "How AI helps scientists design the next generation of medicines",
       "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patien…",
       "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "date": "2026-07-23T12:00:00.000Z"
+      "date": "2026-07-23T12:00:00.000Z",
+      "category": "Business & Funding"
     },
     {
       "source": "Hugging Face",
       "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
       "summary": "",
       "link": "https://huggingface.co/blog/nunchaku-diffusers",
-      "date": "2026-07-23T00:00:00.000Z"
+      "date": "2026-07-23T00:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "DeepMind",
       "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
       "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
       "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "date": "2026-07-22T13:38:54.000Z"
+      "date": "2026-07-22T13:38:54.000Z",
+      "category": "News"
     },
     {
       "source": "Google AI",
       "title": "3 Google updates from Galaxy Unpacked 2026",
       "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
       "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "date": "2026-07-22T13:00:00.000Z"
+      "date": "2026-07-22T13:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "DeepMind",
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
       "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "date": "2026-07-21T15:16:30.000Z"
+      "date": "2026-07-21T15:16:30.000Z",
+      "category": "News"
     },
     {
       "source": "Hugging Face",
       "title": "Grabette: an open system to record robot-manipulation data",
       "summary": "",
       "link": "https://huggingface.co/blog/grabette",
-      "date": "2026-07-21T00:00:00.000Z"
+      "date": "2026-07-21T00:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "DeepMind",
       "title": "Introducing Gemini 3.5 Flash Cyber",
       "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
       "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-      "date": "2026-07-17T15:00:11.000Z"
+      "date": "2026-07-17T15:00:11.000Z",
+      "category": "Product"
     },
     {
       "source": "Google AI",
       "title": "Connect more of your apps to Search",
       "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
       "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "date": "2026-07-16T16:00:00.000Z"
+      "date": "2026-07-16T16:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "Google AI",
       "title": "Create, edit and star in videos with two Google Vids updates",
       "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
       "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "date": "2026-07-16T16:00:00.000Z"
+      "date": "2026-07-16T16:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "Hugging Face",
       "title": "Newer Models, Same Advantage",
       "summary": "",
       "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "date": "2026-07-16T11:49:48.000Z"
+      "date": "2026-07-16T11:49:48.000Z",
+      "category": "News"
     },
     {
       "source": "DeepMind",
       "title": "Our approach to bioresilience",
       "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
       "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "date": "2026-07-16T09:30:42.000Z"
+      "date": "2026-07-16T09:30:42.000Z",
+      "category": "News"
     },
     {
       "source": "Hugging Face",
       "title": "Security incident disclosure — July 2026",
       "summary": "",
       "link": "https://huggingface.co/blog/security-incident-july-2026",
-      "date": "2026-07-16T00:00:00.000Z"
+      "date": "2026-07-16T00:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "Google AI",
       "title": "Celebrating 25 years of visual search innovation",
       "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
       "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "date": "2026-07-14T16:00:00.000Z"
+      "date": "2026-07-14T16:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "DeepMind",
       "title": "Empowering India’s next generation of innovators with ATL Saathi",
       "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
       "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "date": "2026-07-13T12:37:28.000Z"
+      "date": "2026-07-13T12:37:28.000Z",
+      "category": "Product"
     },
     {
       "source": "Google AI",
       "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
       "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "date": "2026-07-07T08:54:00.000Z"
+      "date": "2026-07-07T08:54:00.000Z",
+      "category": "Product"
     },
     {
       "source": "DeepMind",
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
       "summary": "",
       "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "date": "2026-07-03T14:25:43.000Z"
+      "date": "2026-07-03T14:25:43.000Z",
+      "category": "Research"
     },
     {
       "source": "VentureBeat AI",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire tha…",
       "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "date": "2026-05-19T17:45:00.000Z"
+      "date": "2026-05-19T17:45:00.000Z",
+      "category": "News"
     },
     {
       "source": "VentureBeat AI",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artifi…",
       "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "date": "2026-01-22T14:00:00.000Z"
+      "date": "2026-01-22T14:00:00.000Z",
+      "category": "Business & Funding"
     },
     {
       "source": "VentureBeat AI",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive. Claude Code , Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev…",
       "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "date": "2026-01-19T14:00:00.000Z"
+      "date": "2026-01-19T14:00:00.000Z",
+      "category": "News"
     },
     {
       "source": "VentureBeat AI",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing bu…",
       "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "date": "2026-01-16T14:01:00.000Z"
+      "date": "2026-01-16T14:01:00.000Z",
+      "category": "People & Leadership"
     },
     {
       "source": "VentureBeat AI",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching…",
       "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "date": "2026-01-13T13:00:00.000Z"
+      "date": "2026-01-13T13:00:00.000Z",
+      "category": "Product"
     },
     {
       "source": "VentureBeat AI",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately…",
       "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "date": "2026-01-12T11:30:00.000Z"
+      "date": "2026-01-12T11:30:00.000Z",
+      "category": "Product"
     },
     {
       "source": "VentureBeat AI",
       "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
       "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in…",
       "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "date": "2026-01-07T20:00:00.000Z"
+      "date": "2026-01-07T20:00:00.000Z",
+      "category": "Open Source"
     }
   ]
 }

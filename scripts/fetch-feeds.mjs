@@ -47,6 +47,53 @@ function truncate(str, max) {
   return str.slice(0, max - 1).trimEnd() + "…";
 }
 
+// Ordered most-specific-first: the first category whose pattern matches wins.
+const CATEGORY_RULES = [
+  {
+    name: "People & Leadership",
+    pattern:
+      /\b(CEO|CTO|CFO|co-founder|cofounder|founder|chief executive|chief scientist|steps down|stepping down|resigns?|resignation|departs?|departure|ousted|fired|hires?|hiring|hired|appoints?|appointed|joins as|names? .* as|promotes?|promoted|succeeds|board member|executive team|leadership shake-?up)\b/i,
+  },
+  {
+    name: "Policy & Safety",
+    pattern:
+      /\b(regulat\w*|lawsuit|sues?|sued|legal battle|ban(?:s|ned)?|antitrust|copyright|lawmakers?|congress|senate|EU AI Act|court(?:s)?\b|fined|penalty|child safety|privacy law|compliance|safety (?:concerns?|risk|threshold)|ethics|misinformation|deepfake|jailbreak|watchdog|FTC|European Commission)\b/i,
+  },
+  {
+    name: "Business & Funding",
+    pattern:
+      /\b(raises?|raised|funding round|series [A-E]\b|valuation|valued at|IPO|acqui(?:res?|sition|red)|merger|invest(?:s|ment|ing)?|venture capital|VC firm|stake in|revenue|earnings|profit|layoffs?|job cuts|billion|million in \w+|market cap|shares? (?:rise|fall|jump))\b/i,
+  },
+  {
+    name: "Open Source",
+    pattern:
+      /\b(open[- ]?source|open[- ]?weights?|open[- ]?model|MIT licen[cs]e|apache licen[cs]e|GitHub repo|weights (?:are )?(?:now )?available|dataset release|releases? the (?:model|weights|code))\b/i,
+  },
+  {
+    name: "Hardware & Infra",
+    pattern:
+      /\b(chip|GPU|TPU|NPU|data ?center|datacentre|server cluster|silicon(?!\s+valley)|semiconductor|processor|accelerator|supercomputer|cloud infrastructure|compute capacity)\b/i,
+  },
+  {
+    name: "Research",
+    pattern:
+      /\b(paper|research(?:ers)?|study finds|arxiv|benchmark|architecture|training data|fine-?tun\w*|breakthrough|algorithm|neural network|reasoning model|model card)\b/i,
+  },
+  {
+    name: "Product",
+    pattern:
+      /\b(launches?|launch(?:ed|ing)?|unveils?|introduces?|announc\w*|rolls? out|rolling out|now available|new feature|update to|beta|preview|integrat\w*)\b/i,
+  },
+];
+
+function categorize(title, summary) {
+  const text = `${title} ${summary}`;
+  for (const rule of CATEGORY_RULES) {
+    if (rule.pattern.test(text)) return rule.name;
+  }
+  return "News";
+}
+
 function toIso(dateStr, fallback) {
   if (dateStr) {
     const d = new Date(dateStr);
@@ -82,7 +129,8 @@ function normalizeRssItem(item, sourceName, runIso) {
     item.description?.["#text"] ?? item.description ?? item["content:encoded"] ?? "";
   const summary = truncate(stripHtml(rawSummary), SUMMARY_MAX_LEN);
   const date = toIso(item.pubDate ?? item.date, runIso);
-  return { source: sourceName, title, summary, link, date };
+  const category = categorize(title, summary);
+  return { source: sourceName, title, summary, link, date, category };
 }
 
 function normalizeAtomEntry(entry, sourceName, runIso) {
@@ -92,7 +140,8 @@ function normalizeAtomEntry(entry, sourceName, runIso) {
     entry.summary?.["#text"] ?? entry.summary ?? entry.content?.["#text"] ?? entry.content ?? "";
   const summary = truncate(stripHtml(rawSummary), SUMMARY_MAX_LEN);
   const date = toIso(entry.updated ?? entry.published, runIso);
-  return { source: sourceName, title, summary, link, date };
+  const category = categorize(title, summary);
+  return { source: sourceName, title, summary, link, date, category };
 }
 
 async function fetchWithTimeout(url, opts = {}) {
@@ -169,11 +218,16 @@ async function main() {
   allItems.sort((a, b) => new Date(b.date) - new Date(a.date));
 
   const sources = feeds.map((f) => f.name);
+  const categories = CATEGORY_RULES.map((r) => r.name).filter((name) =>
+    allItems.some((it) => it.category === name)
+  );
+  if (allItems.some((it) => it.category === "News")) categories.push("News");
 
   const output = {
     updated: runIso,
     count: allItems.length,
     sources,
+    categories,
     items: allItems,
   };
 

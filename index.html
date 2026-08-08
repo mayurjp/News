@@ -179,10 +179,74 @@
   }
 
   .filter-btn:focus-visible,
+  .category-btn:focus-visible,
   .card:focus-visible,
   a:focus-visible {
     outline: 2px solid var(--focus);
     outline-offset: 2px;
+  }
+
+  /* ---------- Category chips ---------- */
+
+  .category-bar {
+    background: var(--bg-page);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .category-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0.6rem 1.5rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .category-inner-label {
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin-right: 0.25rem;
+  }
+
+  .category-btn {
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--ink-dim);
+    background: var(--bg-card);
+    border: 1px solid var(--border-strong);
+    border-radius: 999px;
+    padding: 0.35rem 0.85rem;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+  }
+
+  .category-btn:hover {
+    border-color: var(--blue);
+    color: var(--ink);
+  }
+
+  .category-btn.active {
+    background: #E8F0FE;
+    border-color: var(--blue);
+    color: var(--blue-dark);
+    font-weight: 700;
+  }
+
+  .category-tag {
+    font-size: 0.68rem;
+    font-weight: 500;
+    color: var(--ink-dim);
+    background: var(--bg-page);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 0.08rem 0.4rem;
+    white-space: nowrap;
   }
 
   /* ---------- Layout ---------- */
@@ -421,6 +485,12 @@
   <div class="filters-inner" id="filters"></div>
 </nav>
 
+<nav class="category-bar" aria-label="Filter by category">
+  <div class="category-inner" id="categories">
+    <span class="category-inner-label">Topic</span>
+  </div>
+</nav>
+
 <main>
   <div id="hero-slot"></div>
   <p class="section-label" id="grid-label">More headlines</p>
@@ -441,6 +511,7 @@
   const gridLabel = document.getElementById("grid-label");
   const statePanel = document.getElementById("state-panel");
   const filtersEl = document.getElementById("filters");
+  const categoriesEl = document.getElementById("categories");
   const updatedText = document.getElementById("updated-text");
   const refreshDot = document.getElementById("refresh-dot");
 
@@ -456,6 +527,7 @@
 
   let allItems = [];
   let activeSource = "All";
+  let activeCategory = "All";
 
   function escapeHtml(str) {
     const div = document.createElement("div");
@@ -515,8 +587,27 @@
     });
   }
 
+  function renderCategories(categories) {
+    categoriesEl.innerHTML = '<span class="category-inner-label">Topic</span>';
+    const options = ["All", ...categories];
+    options.forEach((name) => {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "category-btn" + (name === activeCategory ? " active" : "");
+      btn.textContent = name;
+      btn.setAttribute("aria-pressed", name === activeCategory ? "true" : "false");
+      btn.addEventListener("click", () => {
+        activeCategory = name;
+        renderCategories(categories);
+        renderStories();
+      });
+      categoriesEl.appendChild(btn);
+    });
+  }
+
   function heroCardHtml(it) {
     const badge = isNew(it.date) ? '<span class="badge-new">NEW</span>' : "";
+    const category = it.category ? '<span class="category-tag">' + escapeHtml(it.category) + '</span>' : "";
     return (
       '<a class="hero" href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener">' +
         '<span class="hero-kicker">' +
@@ -524,6 +615,7 @@
           '<span class="source-chip">' + escapeHtml(it.source) + '</span>' +
           '<span class="hero-time">' + relativeTime(it.date) + '</span>' +
           badge +
+          category +
         '</span>' +
         '<p class="hero-title">' + escapeHtml(it.title) + '</p>' +
         '<p class="hero-summary">' + escapeHtml(it.summary) + '</p>' +
@@ -533,6 +625,7 @@
 
   function cardHtml(it) {
     const badge = isNew(it.date) ? '<span class="badge-new">NEW</span>' : "";
+    const category = it.category ? '<span class="category-tag">' + escapeHtml(it.category) + '</span>' : "";
     return (
       '<a class="card" href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener">' +
         '<span class="card-kicker">' +
@@ -540,6 +633,7 @@
             '<span class="source-dot" style="background:' + colorForSource(it.source) + '"></span>' +
             '<span class="card-source">' + escapeHtml(it.source) + '</span>' +
           '</span>' +
+          category +
         '</span>' +
         '<p class="card-title">' + escapeHtml(it.title) + '</p>' +
         '<p class="card-summary">' + escapeHtml(it.summary) + '</p>' +
@@ -552,9 +646,10 @@
   }
 
   function renderStories() {
-    const items = activeSource === "All"
-      ? allItems
-      : allItems.filter((it) => it.source === activeSource);
+    const items = allItems.filter((it) =>
+      (activeSource === "All" || it.source === activeSource) &&
+      (activeCategory === "All" || it.category === activeCategory)
+    );
 
     if (items.length === 0) {
       heroSlot.innerHTML = "";
@@ -562,7 +657,7 @@
       gridLabel.style.display = "none";
       statePanel.innerHTML =
         '<div class="state-panel"><div class="state-title">No stories here</div>' +
-        "No items from this source in the current feed window.</div>";
+        "No items match this source + topic combination.</div>";
       return;
     }
 
@@ -585,6 +680,7 @@
     heroSlot.innerHTML = "";
     gridEl.innerHTML = "";
     gridLabel.style.display = "none";
+    categoriesEl.innerHTML = '<span class="category-inner-label">Topic</span>';
     gridEl.setAttribute("aria-busy", "false");
     statePanel.innerHTML =
       '<div class="state-panel"><div class="state-title">No signal yet</div>' +
@@ -604,9 +700,13 @@
       const sources = Array.isArray(data.sources) && data.sources.length
         ? data.sources
         : [...new Set(allItems.map((it) => it.source))];
+      const categories = Array.isArray(data.categories) && data.categories.length
+        ? data.categories
+        : [...new Set(allItems.map((it) => it.category).filter(Boolean))];
 
       renderMeta(data.updated);
       renderFilters(sources);
+      renderCategories(categories);
 
       if (allItems.length === 0) {
         showError("The feed file loaded but contains no items yet.");

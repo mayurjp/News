@@ -1,6 +1,6 @@
 # Signal — a self-updating AI news wire
 
-A static AI-news aggregator hosted on GitHub Pages. Newest headlines first, filterable by source, each card links out to the original article.
+A static AI-news aggregator hosted on GitHub Pages. Newest headlines first, filterable by source and by topic, each card links out to the original article.
 
 ## Architecture
 
@@ -23,6 +23,10 @@ Edit `feeds.json` — it's a flat list of `{ "name", "url" }` pairs pointing at 
 The list currently mixes two kinds of sources on purpose: lab/vendor blogs (OpenAI, DeepMind, Hugging Face, NVIDIA, Google AI) for product and research announcements, and general tech press (TechCrunch AI, VentureBeat AI, Wired AI, Ars Technica AI, MIT Tech Review, AI News) for the less-technical-but-important coverage — funding, leadership moves, company strategy, policy. Lean further into either direction by adding more of that type.
 
 Note: several major AI companies — Anthropic, Meta AI, Mistral, Cohere, Perplexity — don't publish an official RSS feed. To include them you'd need to point at a community-maintained mirror feed and add it as a normal entry here. Also note that some publishers only keep a *general* RSS feed and have dropped topic-specific ones (e.g. The Verge's `/rss/artificial-intelligence/` feed now returns zero entries) — if a URL parses but always yields 0 items, check the source's site for a working feed URL before assuming the script is at fault.
+
+## Topic categories
+
+Each item is auto-tagged with a topic — `People & Leadership`, `Policy & Safety`, `Business & Funding`, `Open Source`, `Hardware & Infra`, `Research`, `Product`, or a `News` catch-all — by matching keyword patterns against its title and summary (see `CATEGORY_RULES` in `scripts/fetch-feeds.mjs`; the first matching rule wins, in that priority order). This runs entirely offline in the fetch script, no API calls or LLM involved, so it's free but occasionally imprecise — a headline that just happens to mention "founder" or "billion" in passing can get misfiled. Adjust or add patterns in `CATEGORY_RULES` to tune it; the site's topic chips are generated automatically from whatever categories are present in `data/feed.json`.
 
 ## Changing the refresh frequency
 
