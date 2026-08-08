@@ -59,3 +59,4 @@ This writes `data/feed.json` and prints a per-feed summary (item count or failur
 - This is an aggregator: cards show title + a short (~240 char) summary + a link out. Full article text is never reproduced.
 - No secrets or API keys are needed — the workflow uses the repo's built-in `GITHUB_TOKEN`.
 - The only runtime dependency is [`fast-xml-parser`](https://www.npmjs.com/package/fast-xml-parser), used to robustly parse both RSS and Atom feeds.
+- The fetch script identifies itself honestly as `SignalNewsBot/1.0 (+https://github.com/mayurjp/News)` rather than spoofing a browser. It only retries with a browser User-Agent as a last resort, for the specific feed request that rejects the honest one — see `BOT_USER_AGENT` / `fetchWithUserAgentFallback` in `scripts/fetch-feeds.mjs`. As of the last test run, none of the 15 current sources needed the fallback.

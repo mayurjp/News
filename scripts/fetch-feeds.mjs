@@ -16,7 +16,13 @@ const OUT_PATH = path.join(ROOT, "data", "feed.json");
 const FETCH_TIMEOUT_MS = 15_000;
 const MAX_ITEMS_PER_FEED = 10;
 const SUMMARY_MAX_LEN = 240;
-const USER_AGENT =
+
+// Identify honestly by default — this is a feed reader fetching public RSS,
+// not a browser. A few publishers 403 unrecognized bots regardless, so as a
+// last resort we retry those specific requests with a browser UA rather than
+// leading with a spoofed identity.
+const BOT_USER_AGENT = "SignalNewsBot/1.0 (+https://github.com/mayurjp/News)";
+const BROWSER_USER_AGENT_FALLBACK =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
 const parser = new XMLParser({
@@ -191,7 +197,7 @@ function normalizeAtomEntry(entry, sourceName, runIso) {
   return { source: sourceName, title, summary, link, date, category, region };
 }
 
-async function fetchWithTimeout(url, opts = {}) {
+async function fetchWithTimeout(url, userAgent, opts = {}) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
   try {
@@ -199,7 +205,7 @@ async function fetchWithTimeout(url, opts = {}) {
       ...opts,
       signal: controller.signal,
       headers: {
-        "User-Agent": USER_AGENT,
+        "User-Agent": userAgent,
         Accept: "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
         ...(opts.headers ?? {}),
       },
@@ -208,6 +214,19 @@ async function fetchWithTimeout(url, opts = {}) {
   } finally {
     clearTimeout(timer);
   }
+}
+
+// Leads with an honest bot identity; only falls back to a browser UA for
+// the specific feeds that reject it (non-2xx or the request failing outright).
+async function fetchWithUserAgentFallback(url) {
+  try {
+    const botRes = await fetchWithTimeout(url, BOT_USER_AGENT);
+    if (botRes.ok) return { res: botRes, usedFallback: false };
+  } catch {
+    // fall through to the browser-UA retry below
+  }
+  const browserRes = await fetchWithTimeout(url, BROWSER_USER_AGENT_FALLBACK);
+  return { res: browserRes, usedFallback: true };
 }
 
 // General (non-AI-scoped) publications — e.g. a country's whole tech section —
@@ -229,27 +248,26 @@ function fetchScopedItems(rawItems, feed, runIso, normalizeFn) {
 }
 
 async function fetchFeed(feed, runIso) {
-  const res = await fetchWithTimeout(feed.url);
+  const { res, usedFallback } = await fetchWithUserAgentFallback(feed.url);
   if (!res.ok) {
     throw new Error(`HTTP ${res.status}`);
   }
   const xml = await res.text();
   const doc = parser.parse(xml);
 
+  let items;
   if (doc.rss?.channel) {
-    return fetchScopedItems(doc.rss.channel.item, feed, runIso, normalizeRssItem);
-  }
-
-  if (doc["rdf:RDF"]?.item) {
+    items = fetchScopedItems(doc.rss.channel.item, feed, runIso, normalizeRssItem);
+  } else if (doc["rdf:RDF"]?.item) {
     // RSS 1.0 (RDF) — rare, but handle it
-    return fetchScopedItems(doc["rdf:RDF"].item, feed, runIso, normalizeRssItem);
+    items = fetchScopedItems(doc["rdf:RDF"].item, feed, runIso, normalizeRssItem);
+  } else if (doc.feed) {
+    items = fetchScopedItems(doc.feed.entry, feed, runIso, normalizeAtomEntry);
+  } else {
+    throw new Error("unrecognized feed format");
   }
 
-  if (doc.feed) {
-    return fetchScopedItems(doc.feed.entry, feed, runIso, normalizeAtomEntry);
-  }
-
-  throw new Error("unrecognized feed format");
+  return { items, usedFallback };
 }
 
 async function main() {
@@ -259,8 +277,9 @@ async function main() {
   const results = await Promise.all(
     feeds.map(async (feed) => {
       try {
-        const items = await fetchFeed(feed, runIso);
-        console.log(`${feed.name}: ${items.length} items`);
+        const { items, usedFallback } = await fetchFeed(feed, runIso);
+        const note = usedFallback ? " (browser-UA fallback)" : "";
+        console.log(`${feed.name}: ${items.length} items${note}`);
         return { feed, items };
       } catch (err) {
         const reason = err.name === "AbortError" ? "timeout" : err.message;
