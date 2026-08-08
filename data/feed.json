@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T11:32:20.458Z",
-  "count": 107,
+  "updated": "2026-08-08T11:35:01.533Z",
+  "count": 97,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -98,22 +98,6 @@
       "category": "News"
     },
     {
-      "source": "AI News",
-      "title": "Stanford Evo 2 AI model generates phages against E. coli",
-      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work cen…",
-      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
-      "date": "2026-08-07T15:05:03.000Z",
-      "category": "Research"
-    },
-    {
-      "source": "AI News",
-      "title": "How AI Is changing Instagram engagement without replacing the human touch",
-      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it&#8217;s the whole algorithm. But here’s…",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
-      "date": "2026-08-07T14:33:59.000Z",
-      "category": "Business & Funding"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
       "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
@@ -168,14 +152,6 @@
       "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
       "date": "2026-08-07T10:00:00.000Z",
       "category": "News"
-    },
-    {
-      "source": "AI News",
-      "title": "Alibaba tests new business model for Qwen open-source AI",
-      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that ge…",
-      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
-      "date": "2026-08-07T10:00:00.000Z",
-      "category": "Business & Funding"
     },
     {
       "source": "OpenAI",
@@ -272,14 +248,6 @@
       "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
       "date": "2026-08-06T16:15:30.000Z",
       "category": "Open Source"
-    },
-    {
-      "source": "AI News",
-      "title": "Why health AI interfaces must adapt to user expertise",
-      "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI…",
-      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
-      "date": "2026-08-06T15:55:37.000Z",
-      "category": "Research"
     },
     {
       "source": "TechCrunch AI",
@@ -386,14 +354,6 @@
       "category": "News"
     },
     {
-      "source": "AI News",
-      "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
-      "summary": "Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates thousands of tile embeddings per slide…",
-      "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
-      "date": "2026-08-05T15:26:20.000Z",
-      "category": "News"
-    },
-    {
       "source": "NVIDIA",
       "title": "NVIDIA and Partners Build in America, for America",
       "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger indust…",
@@ -402,28 +362,12 @@
       "category": "Business & Funding"
     },
     {
-      "source": "AI News",
-      "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
-      "summary": "Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems. Qwen3.8-Max has 2.4 trillion parameters and uses a mixt…",
-      "link": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
-      "date": "2026-08-05T10:00:00.000Z",
-      "category": "Product"
-    },
-    {
       "source": "OpenAI",
       "title": "Third-party cyber evaluations involving OpenAI models",
       "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
       "date": "2026-08-04T19:00:00.000Z",
       "category": "News"
-    },
-    {
-      "source": "AI News",
-      "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
-      "summary": "Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into production-ready deployment code. The project describes itself as an automated, auditable workflow that connects the &#8220;fragmented…",
-      "link": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
-      "date": "2026-08-04T16:07:15.000Z",
-      "category": "Open Source"
     },
     {
       "source": "NVIDIA",
@@ -498,28 +442,12 @@
       "category": "Research"
     },
     {
-      "source": "AI News",
-      "title": "EU AI Act Article 50 transparency rules enter force",
-      "summary": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI tools now have to comply with Article 50, which requires provi…",
-      "link": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
-      "date": "2026-08-03T16:09:25.000Z",
-      "category": "Policy & Safety"
-    },
-    {
       "source": "Google AI",
       "title": "Inside our 353,000-person vibe coding course",
       "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
       "date": "2026-08-03T15:00:00.000Z",
       "category": "News"
-    },
-    {
-      "source": "AI News",
-      "title": "Why biological data matters more in AI drug discovery",
-      "summary": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assisted drug discovery. Under the agreement, Relation will gener…",
-      "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
-      "date": "2026-08-03T10:00:00.000Z",
-      "category": "Research"
     },
     {
       "source": "MIT Tech Review",
@@ -544,14 +472,6 @@
       "link": "https://openai.com/index/circles",
       "date": "2026-08-03T00:00:00.000Z",
       "category": "News"
-    },
-    {
-      "source": "AI News",
-      "title": "OpenAI aligns safety practices with EU AI Act&#8217;s GPAI Code",
-      "summary": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act&#8217;s GPAI Code as enforcement approaches. The company has contributed to and endorsed the EU&#8217;s General-Purpose AI (GPAI) Code of Practice…",
-      "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
-      "date": "2026-07-31T15:04:25.000Z",
-      "category": "Policy & Safety"
     },
     {
       "source": "Hugging Face",
