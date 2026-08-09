@@ -5,6 +5,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Signal — AI news, filtered</title>
 <meta name="description" content="A self-updating wire of AI news headlines, newest first, filterable by source." />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Signal News" />
+<meta property="og:title" content="Signal — AI news, filtered" />
+<meta property="og:description" content="A self-updating wire of AI news headlines from labs, hardware, and the press — newest first, searchable, filterable by topic and geography." />
+<meta property="og:url" content="https://mayurjp.github.io/News/" />
+<meta property="og:image" content="https://mayurjp.github.io/News/og-image.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Signal — AI news, filtered" />
+<meta name="twitter:description" content="A self-updating wire of AI news headlines from labs, hardware, and the press — refreshed hourly." />
+<meta name="twitter:image" content="https://mayurjp.github.io/News/og-image.png" />
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2220%22 fill=%22%23FFFFFF%22/><circle cx=%2232%22 cy=%2250%22 r=%2214%22 fill=%22%234285F4%22/><circle cx=%2268%22 cy=%2250%22 r=%2214%22 fill=%22%23EA4335%22/></svg>" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -439,6 +451,18 @@
     font-weight: 700;
   }
 
+  .badge-trending {
+    font-size: 0.65rem;
+    letter-spacing: 0.02em;
+    color: #7A4A00;
+    background: #FEF3E0;
+    border: 1px solid #FBE0B0;
+    border-radius: 4px;
+    padding: 0.1rem 0.4rem;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
   .hero-title {
     font-size: 1.5rem;
     line-height: 1.32;
@@ -552,6 +576,16 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
     flex: 1;
+  }
+
+  .hero-title mark,
+  .hero-summary mark,
+  .card-title mark,
+  .card-summary mark {
+    background: #FDE293;
+    color: var(--ink);
+    border-radius: 2px;
+    padding: 0 1px;
   }
 
   .card-footer {
@@ -767,6 +801,18 @@
     return div.innerHTML;
   }
 
+  function escapeRegex(str) {
+    return str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  }
+
+  function highlightText(text) {
+    const escaped = escapeHtml(text);
+    const query = searchQuery.trim();
+    if (!query) return escaped;
+    const pattern = new RegExp("(" + escapeRegex(escapeHtml(query)) + ")", "ig");
+    return escaped.replace(pattern, "<mark>$1</mark>");
+  }
+
   function relativeTime(iso) {
     const then = new Date(iso).getTime();
     if (Number.isNaN(then)) return "";
@@ -860,6 +906,12 @@
     return '<span class="also-covered">Also covered by ' + names + '</span>';
   }
 
+  function trendingBadgeHtml(it) {
+    if (!it.relatedSources || it.relatedSources.length === 0) return "";
+    const sourceCount = it.relatedSources.length + 1;
+    return '<span class="badge-trending" title="Covered by ' + sourceCount + ' sources">🔥 Trending</span>';
+  }
+
   function heroCardHtml(it) {
     const badge = isNew(it.date) ? '<span class="badge-new">NEW</span>' : "";
     const category = it.category ? '<span class="category-tag">' + escapeHtml(it.category) + '</span>' : "";
@@ -875,11 +927,12 @@
             '<span class="source-chip">' + escapeHtml(it.source) + '</span>' +
             '<span class="hero-time">' + relativeTime(it.date) + '</span>' +
             badge +
+            trendingBadgeHtml(it) +
             category +
             region +
           '</span>' +
-          '<p class="hero-title">' + escapeHtml(it.title) + '</p>' +
-          '<p class="hero-summary">' + escapeHtml(it.summary) + '</p>' +
+          '<p class="hero-title">' + highlightText(it.title) + '</p>' +
+          '<p class="hero-summary">' + highlightText(it.summary) + '</p>' +
           alsoCoveredHtml(it) +
         '</a>' +
       '</div>'
@@ -903,11 +956,12 @@
             '</span>' +
             '<span class="card-kicker-right">' + category + region + '</span>' +
           '</span>' +
-          '<p class="card-title">' + escapeHtml(it.title) + '</p>' +
-          '<p class="card-summary">' + escapeHtml(it.summary) + '</p>' +
+          '<p class="card-title">' + highlightText(it.title) + '</p>' +
+          '<p class="card-summary">' + highlightText(it.summary) + '</p>' +
           '<span class="card-footer">' +
             '<span class="card-time">' + relativeTime(it.date) + '</span>' +
             badge +
+            trendingBadgeHtml(it) +
           '</span>' +
           alsoCoveredHtml(it) +
         '</a>' +
