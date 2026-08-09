@@ -146,7 +146,7 @@ const REGION_RULES = [
   },
   {
     name: "Japan",
-    pattern: /\b(Japan|Japanese|Tokyo|SoftBank|Sakana AI|Preferred Networks|Sony|NTT)\b/i,
+    pattern: /\b(Japan|Japanese|Tokyo|Osaka|Kyoto|Yokohama|Kumamoto|Fukuoka|Nagoya|Sapporo|Hokkaido|SoftBank|Sakana AI|Preferred Networks|Sony|NTT|RIKEN|Rapidus)\b/i,
   },
   {
     name: "South Korea",
@@ -171,9 +171,9 @@ function detectRegion(title, summary) {
   return "Global";
 }
 
-// Cross-source duplicate detection: the same wire story often runs on
-// multiple outlets with near-identical (sometimes verbatim) headlines. We
-// merge those into one card with the others listed as relatedSources,
+// Duplicate detection: the same wire story often runs on multiple outlets
+// (or even gets re-covered by the same outlet) with near-identical headlines.
+// We merge those into one card with the others listed as relatedSources,
 // rather than showing the same story 2-3 times in the wire.
 const STOPWORDS = new Set([
   "a", "an", "the", "to", "of", "in", "on", "for", "and", "or", "is", "are",
@@ -212,7 +212,7 @@ function dedupeItems(items) {
     const group = [enriched[i].it];
 
     for (let j = i + 1; j < enriched.length; j++) {
-      if (used[j] || enriched[i].it.source === enriched[j].it.source) continue;
+      if (used[j]) continue;
       const dt = Math.abs(new Date(enriched[i].it.date) - new Date(enriched[j].it.date));
       if (dt > DUPLICATE_WINDOW_MS) continue;
       if (jaccard(enriched[i].words, enriched[j].words) >= DUPLICATE_SIMILARITY_THRESHOLD) {
@@ -379,7 +379,7 @@ async function fetchWithUserAgentFallback(url) {
 // dilute the wire. Feeds already scoped to AI at the source (category/tag
 // URLs) skip this and are trusted as-is.
 const AI_RELEVANCE_PATTERN =
-  /\b(AI\b|A\.I\.|artificial intelligence|machine learning|\bLLM\b|large language model|chatbot|generative AI|neural network|deep learning|GPT-?\d|ChatGPT|Copilot\b|Gemini\b|Claude\b|Llama\b|Mistral\b|Qwen\b|DeepSeek\b|OpenAI|Anthropic|DeepMind|Hugging Face|NVIDIA|Sarvam|Krutrim|robotics?\b|autonomous\b|algorithm(?:s|ic)?\b)/i;
+  /\b(AI\b|A\.I\.|artificial intelligence|machine learning|\bLLM\b|large language model|chatbot|generative AI|neural network|deep learning|GPT-?\d|ChatGPT|Copilot\b|Gemini\b|Claude\b|Llama\b|Mistral\b|Qwen\b|DeepSeek\b|OpenAI|Anthropic|DeepMind|Hugging Face|NVIDIA|Sarvam|Krutrim|robotics?\b|autonomous (?:vehicles?|driving|cars?|agents?|systems?|robots?|weapons?)|algorithm(?:s|ic)?\b)/i;
 
 function fetchScopedItems(rawItems, feed, runIso, normalizeFn) {
   const isBroad = feed.scope === "broad";
