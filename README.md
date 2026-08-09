@@ -62,6 +62,20 @@ node scripts/fetch-feeds.mjs
 
 This writes `data/feed.json` and prints a per-feed summary (item count or failure reason). One bad feed never fails the whole run — the script only exits non-zero if *every* feed fails and nothing was written.
 
+## Coverage & limitations
+
+The 📊 Stats toggle on the site (next to the Saved toggle) shows a live breakdown of the current snapshot by topic and geography, computed client-side from the already-loaded `data/feed.json` — no LLM, no extra request, pure aggregation over the `category`/`region`/`relatedSources` fields the fetch script already produces deterministically.
+
+It's also an honesty check, not just a feature: as of the last check, `Global` (no specific region detected) was **60%** of all items, `United States` **22%**, and the rest split thinly across China, India, Europe, South Korea, Middle East, and Japan. **This is not comprehensive coverage of "all AI advancements across all industries globally"** — concretely:
+- **Geography**: zero source coverage for Africa, Latin America, or Southeast Asia — those regions don't have a `REGION_RULES` entry, let alone a dedicated feed.
+- **Industry verticals**: sources are general tech/business press plus one enterprise-IT publication (ET CIO). No dedicated healthcare-AI, legal-AI, manufacturing-AI, agriculture-AI, or defense-AI trade press — those only show up incidentally when general press covers them.
+- **Depth**: academic output is only directly tracked via BAIR (Berkeley); arXiv preprints and conference proceedings (NeurIPS/ICML/ACL) aren't tracked.
+- **Language**: every source is English-language.
+
+None of this is a bug to quietly fix — it's an inherent limit of "25 English-language RSS feeds," and the Stats panel exists so it's visible in the product rather than assumed away.
+
+We also deliberately don't show a "minute read" estimate per article: only 2 of 25 feeds (BAIR, VentureBeat AI) include enough raw content (`content:encoded`) to compute an honest word count — the rest give a short teaser description (often under 300 characters). Estimating read time from a teaser would just be estimating the teaser's read time (always ~1 minute), which would be actively misleading applied uniformly across cards whose linked articles are typically 400–800+ words.
+
 ## Troubleshooting
 
 - **Page shows nothing / "No signal yet"** — check that the `Update feeds` Action ran green (Actions tab) and that `data/feed.json` actually has items in it.
