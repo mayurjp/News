@@ -72,6 +72,11 @@ function truncate(str, max) {
 // Ordered most-specific-first: the first category whose pattern matches wins.
 const CATEGORY_RULES = [
   {
+    name: "Security & Cyber Risk",
+    pattern:
+      /\b(hack(?:ed|ers?|ing)?|breach(?:ed|es)?|cyber\s?(?:risk|attack|security)?|vulnerab\w+|exploit(?:ed|s)?|malware|ransomware|phishing|zero-day|rogue (?:AI|model|agent)|went rogue|security (?:test|risk|threshold|platform|concerns?|breach))\b/i,
+  },
+  {
     name: "People & Leadership",
     pattern:
       /\b(CEO|CTO|CFO|co-founder|cofounder|founder|chief executive|chief scientist|steps down|stepping down|resigns?|resignation|departs?|departure|ousted|fired|hires?|hiring|hired|appoints?|appointed|joins as|names? .* as|promotes?|promoted|succeeds|board member|executive team|leadership shake-?up|Demis Hassabis|Sam Altman|Dario Amodei|Daniela Amodei|Sundar Pichai|Satya Nadella|Mark Zuckerberg|Elon Musk|Jensen Huang|Mustafa Suleyman|Yann LeCun|Ilya Sutskever|Greg Brockman|Mira Murati|Clement Delangue|Arthur Mensch|Jack Dorsey|Reid Hoffman)\b/i,
@@ -84,7 +89,12 @@ const CATEGORY_RULES = [
   {
     name: "Business & Funding",
     pattern:
-      /\b(raises?|raised|funding round|series [A-E]\b|valuation|valued at|IPO|acqui(?:res?|sition|red)|merger|invest(?:s|ment|ing)?|venture capital|VC firm|stake in|revenue|earnings|profit|layoffs?|job cuts|billion|million in \w+|market cap|shares? (?:rise|fall|jump))\b/i,
+      /\b(raises?|raised|funding round|series [A-E]\b|valuation|valued at|IPO|acqui(?:res?|sition|red)|merger|invest(?:s|ment|ing)?|venture capital|VC firm|stake in|revenue|earnings|profit|layoffs?|job cuts|billion|million in \w+|market cap|shares? (?:rise|fall|jump)|bubble|stock market)\b/i,
+  },
+  {
+    name: "Enterprise & Deployment",
+    pattern:
+      /\b(case study|partners? with|partnership with|deploys?|deployment|rolled out internally|adopts? AI|adopting AI|uses? AI to|customer story|in production)\b/i,
   },
   {
     name: "Open Source",
@@ -159,6 +169,70 @@ function detectRegion(title, summary) {
     if (rule.pattern.test(text)) return rule.name;
   }
   return "Global";
+}
+
+// Cross-source duplicate detection: the same wire story often runs on
+// multiple outlets with near-identical (sometimes verbatim) headlines. We
+// merge those into one card with the others listed as relatedSources,
+// rather than showing the same story 2-3 times in the wire.
+const STOPWORDS = new Set([
+  "a", "an", "the", "to", "of", "in", "on", "for", "and", "or", "is", "are",
+  "its", "it", "at", "as", "with", "by", "from", "says", "said", "new",
+  "after", "over", "will",
+]);
+const DUPLICATE_SIMILARITY_THRESHOLD = 0.35;
+const DUPLICATE_WINDOW_MS = 48 * 60 * 60 * 1000;
+
+function titleWords(title) {
+  return new Set(
+    title
+      .toLowerCase()
+      .replace(/[^a-z0-9 ]/g, " ")
+      .split(/\s+/)
+      .filter((w) => w.length > 2 && !STOPWORDS.has(w))
+  );
+}
+
+function jaccard(a, b) {
+  let intersection = 0;
+  for (const w of a) if (b.has(w)) intersection++;
+  const union = a.size + b.size - intersection;
+  return union === 0 ? 0 : intersection / union;
+}
+
+// items must already be sorted newest-first.
+function dedupeItems(items) {
+  const enriched = items.map((it) => ({ it, words: titleWords(it.title) }));
+  const used = new Array(items.length).fill(false);
+  const result = [];
+
+  for (let i = 0; i < enriched.length; i++) {
+    if (used[i]) continue;
+    used[i] = true;
+    const group = [enriched[i].it];
+
+    for (let j = i + 1; j < enriched.length; j++) {
+      if (used[j] || enriched[i].it.source === enriched[j].it.source) continue;
+      const dt = Math.abs(new Date(enriched[i].it.date) - new Date(enriched[j].it.date));
+      if (dt > DUPLICATE_WINDOW_MS) continue;
+      if (jaccard(enriched[i].words, enriched[j].words) >= DUPLICATE_SIMILARITY_THRESHOLD) {
+        used[j] = true;
+        group.push(enriched[j].it);
+      }
+    }
+
+    if (group.length > 1) {
+      const [primary, ...rest] = group;
+      result.push({
+        ...primary,
+        relatedSources: rest.map((r) => ({ source: r.source, link: r.link })),
+      });
+    } else {
+      result.push(group[0]);
+    }
+  }
+
+  return result;
 }
 
 function toIso(dateStr, fallback) {
@@ -346,8 +420,12 @@ async function main() {
     })
   );
 
-  const allItems = results.flatMap((r) => r.items);
-  allItems.sort((a, b) => new Date(b.date) - new Date(a.date));
+  const fetchedItems = results.flatMap((r) => r.items);
+  fetchedItems.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  const allItems = dedupeItems(fetchedItems);
+  const mergedCount = fetchedItems.length - allItems.length;
+  console.log(`Deduped ${fetchedItems.length} → ${allItems.length} items (${mergedCount} merged)`);
 
   const sources = feeds.map((f) => f.name);
   const categories = CATEGORY_RULES.map((r) => r.name).filter((name) =>

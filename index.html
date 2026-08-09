@@ -166,11 +166,19 @@
     padding: 0.5rem 1.5rem;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: 0.5rem;
     font-size: 0.78rem;
     color: var(--ink-faint);
     border-bottom: 1px solid var(--border);
     background: var(--bg);
+  }
+
+  .meta-left {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    min-width: 0;
   }
 
   .meta-row .refresh-dot {
@@ -183,6 +191,35 @@
 
   .meta-row .refresh-dot.stale { background: var(--ink-faint); }
 
+  .saved-toggle {
+    flex: none;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-family: var(--font-body);
+    font-size: 0.76rem;
+    font-weight: 500;
+    color: var(--ink-dim);
+    background: var(--bg-page);
+    border: 1px solid var(--border-strong);
+    border-radius: 999px;
+    padding: 0.28rem 0.7rem;
+    cursor: pointer;
+    transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+  }
+
+  .saved-toggle svg { width: 13px; height: 13px; flex: none; }
+
+  .saved-toggle:hover { border-color: var(--blue); color: var(--ink); }
+
+  .saved-toggle.active {
+    background: #E8F0FE;
+    border-color: var(--blue);
+    color: var(--blue-dark);
+  }
+
+  .saved-toggle.active svg { fill: var(--blue-dark); }
+
   /* ---------- Filters (Google News style chips) ---------- */
 
   nav.category-bar:first-of-type {
@@ -194,7 +231,10 @@
   .category-btn:focus-visible,
   .search-box input:focus-visible,
   .search-clear:focus-visible,
-  .card:focus-visible,
+  .save-btn:focus-visible,
+  .saved-toggle:focus-visible,
+  .hero-link:focus-visible,
+  .card-link:focus-visible,
   a:focus-visible {
     outline: 2px solid var(--focus);
     outline-offset: 2px;
@@ -292,14 +332,66 @@
   /* Hero (top story) */
 
   .hero {
-    display: block;
-    text-decoration: none;
+    position: relative;
     background: var(--bg-card);
     border: 1px solid var(--border);
     border-radius: var(--radius);
     padding: 1.5rem;
     margin-bottom: 1.75rem;
     transition: box-shadow 0.15s ease, border-color 0.15s ease;
+  }
+
+  .hero-link {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .save-btn {
+    position: absolute;
+    top: 0.7rem;
+    right: 0.7rem;
+    z-index: 2;
+    width: 1.9rem;
+    height: 1.9rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.92);
+    box-shadow: 0 1px 3px rgba(32, 33, 36, 0.2);
+    color: var(--ink-faint);
+    cursor: pointer;
+    transition: color 0.15s ease, transform 0.1s ease;
+  }
+
+  .save-btn svg { width: 15px; height: 15px; }
+
+  .save-btn:hover { color: var(--ink); transform: scale(1.08); }
+
+  .save-btn.saved { color: var(--blue); }
+
+  .save-btn.saved svg { fill: var(--blue); }
+
+  .card .save-btn { top: 0.6rem; right: 0.6rem; }
+
+  .also-covered {
+    display: block;
+    margin-top: 0.5rem;
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    color: var(--ink-faint);
+  }
+
+  .hero-link.is-read .hero-title,
+  .card-link.is-read .card-title {
+    color: var(--ink-dim);
+  }
+
+  .hero-link.is-read,
+  .card-link.is-read {
+    opacity: 0.68;
   }
 
   .hero-thumb {
@@ -372,14 +464,20 @@
   }
 
   .card {
-    display: flex;
-    flex-direction: column;
-    text-decoration: none;
+    position: relative;
     background: var(--bg-card);
     border: 1px solid var(--border);
     border-radius: var(--radius);
     padding: 1.1rem;
     transition: box-shadow 0.15s ease, border-color 0.15s ease;
+  }
+
+  .card-link {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    color: inherit;
+    text-decoration: none;
   }
 
   .card-thumb {
@@ -512,6 +610,9 @@
     .search-box { order: 2; flex: none; max-width: none; width: 100%; }
     .deck { display: none; }
     .meta-row { padding: 0.4rem 1rem; }
+    .meta-left #updated-text { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .saved-toggle span { display: none; }
+    .saved-toggle { padding: 0.3rem 0.5rem; }
     .category-inner { padding: 0.45rem 1rem; gap: 0.4rem; }
     .category-inner-label { display: none; }
     .category-btn { padding: 0.28rem 0.7rem; font-size: 0.76rem; }
@@ -550,8 +651,16 @@
     <p class="deck">AI headlines from labs, hardware, and the press — refreshed hourly.</p>
   </div>
   <div class="meta-row" id="meta-row">
-    <span class="refresh-dot" id="refresh-dot"></span>
-    <span id="updated-text">Loading feed status…</span>
+    <span class="meta-left">
+      <span class="refresh-dot" id="refresh-dot"></span>
+      <span id="updated-text">Loading feed status…</span>
+    </span>
+    <button type="button" class="saved-toggle" id="saved-toggle" aria-pressed="false" aria-label="Saved (0)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"></path>
+      </svg>
+      <span id="saved-toggle-label" aria-hidden="true">Saved (0)</span>
+    </button>
   </div>
 </header>
 
@@ -593,6 +702,8 @@
   const searchBox = document.getElementById("search-box");
   const searchInput = document.getElementById("search-input");
   const searchClear = document.getElementById("search-clear");
+  const savedToggle = document.getElementById("saved-toggle");
+  const savedToggleLabel = document.getElementById("saved-toggle-label");
 
   const SOURCE_COLORS = ["#4285F4", "#EA4335", "#FBBC04", "#34A853", "#A142F4", "#00ACC1", "#FF7043", "#9E9D24"];
   const sourceColorMap = new Map();
@@ -604,9 +715,50 @@
     return sourceColorMap.get(name);
   }
 
+  // ---- Read-tracking / save-for-later (localStorage, purely client-side) ----
+  const READ_KEY = "signal:read";
+  const SAVED_KEY = "signal:saved";
+
+  function getReadSet() {
+    try { return new Set(JSON.parse(localStorage.getItem(READ_KEY) || "[]")); }
+    catch { return new Set(); }
+  }
+
+  function markRead(link) {
+    const set = getReadSet();
+    set.add(link);
+    try { localStorage.setItem(READ_KEY, JSON.stringify([...set].slice(-500))); } catch {}
+  }
+
+  function getSavedItems() {
+    try { return JSON.parse(localStorage.getItem(SAVED_KEY) || "[]"); }
+    catch { return []; }
+  }
+
+  function isSaved(link) {
+    return getSavedItems().some((i) => i.link === link);
+  }
+
+  function toggleSaved(item) {
+    let saved = getSavedItems();
+    if (saved.some((i) => i.link === item.link)) {
+      saved = saved.filter((i) => i.link !== item.link);
+    } else {
+      saved = [item, ...saved].slice(0, 200);
+    }
+    try { localStorage.setItem(SAVED_KEY, JSON.stringify(saved)); } catch {}
+  }
+
+  function updateSavedToggleLabel() {
+    const label = "Saved (" + getSavedItems().length + ")";
+    savedToggleLabel.textContent = label;
+    savedToggle.setAttribute("aria-label", label);
+  }
+
   let allItems = [];
   let activeCategory = "All";
   let activeRegion = "All";
+  let showSavedOnly = false;
   let searchQuery = "";
 
   function escapeHtml(str) {
@@ -691,24 +843,46 @@
       'loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()" />';
   }
 
+  const SAVE_ICON =
+    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">' +
+    '<path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"></path></svg>';
+
+  function saveBtnHtml(it) {
+    const saved = isSaved(it.link) ? " saved" : "";
+    const pressed = isSaved(it.link) ? "true" : "false";
+    return '<button type="button" class="save-btn' + saved + '" data-link="' + escapeHtml(it.link) +
+      '" aria-pressed="' + pressed + '" aria-label="Save for later">' + SAVE_ICON + '</button>';
+  }
+
+  function alsoCoveredHtml(it) {
+    if (!it.relatedSources || it.relatedSources.length === 0) return "";
+    const names = it.relatedSources.map((r) => escapeHtml(r.source)).join(", ");
+    return '<span class="also-covered">Also covered by ' + names + '</span>';
+  }
+
   function heroCardHtml(it) {
     const badge = isNew(it.date) ? '<span class="badge-new">NEW</span>' : "";
     const category = it.category ? '<span class="category-tag">' + escapeHtml(it.category) + '</span>' : "";
     const region = it.region ? '<span class="region-tag">' + escapeHtml(it.region) + '</span>' : "";
+    const readClass = getReadSet().has(it.link) ? " is-read" : "";
     return (
-      '<a class="hero" href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener">' +
-        thumbHtml(it, "hero-thumb") +
-        '<span class="hero-kicker">' +
-          '<span class="source-dot" style="background:' + colorForSource(it.source) + '"></span>' +
-          '<span class="source-chip">' + escapeHtml(it.source) + '</span>' +
-          '<span class="hero-time">' + relativeTime(it.date) + '</span>' +
-          badge +
-          category +
-          region +
-        '</span>' +
-        '<p class="hero-title">' + escapeHtml(it.title) + '</p>' +
-        '<p class="hero-summary">' + escapeHtml(it.summary) + '</p>' +
-      '</a>'
+      '<div class="hero">' +
+        saveBtnHtml(it) +
+        '<a class="hero-link' + readClass + '" href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener">' +
+          thumbHtml(it, "hero-thumb") +
+          '<span class="hero-kicker">' +
+            '<span class="source-dot" style="background:' + colorForSource(it.source) + '"></span>' +
+            '<span class="source-chip">' + escapeHtml(it.source) + '</span>' +
+            '<span class="hero-time">' + relativeTime(it.date) + '</span>' +
+            badge +
+            category +
+            region +
+          '</span>' +
+          '<p class="hero-title">' + escapeHtml(it.title) + '</p>' +
+          '<p class="hero-summary">' + escapeHtml(it.summary) + '</p>' +
+          alsoCoveredHtml(it) +
+        '</a>' +
+      '</div>'
     );
   }
 
@@ -716,29 +890,43 @@
     const badge = isNew(it.date) ? '<span class="badge-new">NEW</span>' : "";
     const category = it.category ? '<span class="category-tag">' + escapeHtml(it.category) + '</span>' : "";
     const region = it.region ? '<span class="region-tag">' + escapeHtml(it.region) + '</span>' : "";
+    const readClass = getReadSet().has(it.link) ? " is-read" : "";
     return (
-      '<a class="card" href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener">' +
-        thumbHtml(it, "card-thumb") +
-        '<span class="card-kicker">' +
-          '<span class="card-kicker-left">' +
-            '<span class="source-dot" style="background:' + colorForSource(it.source) + '"></span>' +
-            '<span class="card-source">' + escapeHtml(it.source) + '</span>' +
+      '<div class="card">' +
+        saveBtnHtml(it) +
+        '<a class="card-link' + readClass + '" href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener">' +
+          thumbHtml(it, "card-thumb") +
+          '<span class="card-kicker">' +
+            '<span class="card-kicker-left">' +
+              '<span class="source-dot" style="background:' + colorForSource(it.source) + '"></span>' +
+              '<span class="card-source">' + escapeHtml(it.source) + '</span>' +
+            '</span>' +
+            '<span class="card-kicker-right">' + category + region + '</span>' +
           '</span>' +
-          '<span class="card-kicker-right">' + category + region + '</span>' +
-        '</span>' +
-        '<p class="card-title">' + escapeHtml(it.title) + '</p>' +
-        '<p class="card-summary">' + escapeHtml(it.summary) + '</p>' +
-        '<span class="card-footer">' +
-          '<span class="card-time">' + relativeTime(it.date) + '</span>' +
-          badge +
-        '</span>' +
-      '</a>'
+          '<p class="card-title">' + escapeHtml(it.title) + '</p>' +
+          '<p class="card-summary">' + escapeHtml(it.summary) + '</p>' +
+          '<span class="card-footer">' +
+            '<span class="card-time">' + relativeTime(it.date) + '</span>' +
+            badge +
+          '</span>' +
+          alsoCoveredHtml(it) +
+        '</a>' +
+      '</div>'
     );
+  }
+
+  function getVisibleItems() {
+    if (!showSavedOnly) return allItems;
+    const savedSnapshots = getSavedItems();
+    const liveLinks = new Set(allItems.map((it) => it.link));
+    const staleSaved = savedSnapshots.filter((it) => !liveLinks.has(it.link));
+    const liveSaved = allItems.filter((it) => savedSnapshots.some((s) => s.link === it.link));
+    return [...liveSaved, ...staleSaved];
   }
 
   function renderStories() {
     const query = searchQuery.trim().toLowerCase();
-    const items = allItems.filter((it) =>
+    const items = getVisibleItems().filter((it) =>
       (activeCategory === "All" || it.category === activeCategory) &&
       (activeRegion === "All" || it.region === activeRegion) &&
       (query === "" || `${it.source} ${it.title} ${it.summary}`.toLowerCase().includes(query))
@@ -748,10 +936,16 @@
       heroSlot.innerHTML = "";
       gridEl.innerHTML = "";
       gridLabel.style.display = "none";
-      const searchNote = query ? ` matching "${escapeHtml(searchQuery.trim())}"` : "";
-      statePanel.innerHTML =
-        '<div class="state-panel"><div class="state-title">No stories here</div>' +
-        "No items" + searchNote + " match this topic + geography combination.</div>";
+      if (showSavedOnly && getSavedItems().length === 0) {
+        statePanel.innerHTML =
+          '<div class="state-panel"><div class="state-title">Nothing saved yet</div>' +
+          "Click the bookmark icon on any card to save it for later.</div>";
+      } else {
+        const searchNote = query ? ` matching "${escapeHtml(searchQuery.trim())}"` : "";
+        statePanel.innerHTML =
+          '<div class="state-panel"><div class="state-title">No stories here</div>' +
+          "No items" + searchNote + " match this topic + geography combination.</div>";
+      }
       return;
     }
 
@@ -798,6 +992,40 @@
     searchInput.focus();
     renderStories();
   });
+
+  savedToggle.addEventListener("click", () => {
+    showSavedOnly = !showSavedOnly;
+    savedToggle.classList.toggle("active", showSavedOnly);
+    savedToggle.setAttribute("aria-pressed", showSavedOnly ? "true" : "false");
+    renderStories();
+  });
+
+  function handleWireClick(e) {
+    const saveBtn = e.target.closest(".save-btn");
+    if (saveBtn) {
+      e.preventDefault();
+      const link = saveBtn.dataset.link;
+      const item =
+        allItems.find((i) => i.link === link) ||
+        getSavedItems().find((i) => i.link === link);
+      if (item) toggleSaved(item);
+      updateSavedToggleLabel();
+      renderStories();
+      return;
+    }
+    const itemLink = e.target.closest(".hero-link, .card-link");
+    if (itemLink) {
+      markRead(itemLink.href);
+      itemLink.classList.add("is-read");
+    }
+  }
+
+  heroSlot.addEventListener("click", handleWireClick);
+  heroSlot.addEventListener("auxclick", handleWireClick);
+  gridEl.addEventListener("click", handleWireClick);
+  gridEl.addEventListener("auxclick", handleWireClick);
+
+  updateSavedToggleLabel();
 
   fetch("./data/feed.json", { cache: "no-store" })
     .then((res) => {

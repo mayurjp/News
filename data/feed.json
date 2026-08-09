@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T06:55:12.803Z",
-  "count": 199,
+  "updated": "2026-08-09T07:14:52.318Z",
+  "count": 205,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -27,9 +27,11 @@
     "Hindu BusinessLine"
   ],
   "categories": [
+    "Security & Cyber Risk",
     "People & Leadership",
     "Policy & Safety",
     "Business & Funding",
+    "Enterprise & Deployment",
     "Open Source",
     "Hardware & Infra",
     "Research",
@@ -91,7 +93,7 @@
       "summary": "Artificial intelligence can be technologically transformative and still produce a capital bubble. Those two ideas are not in conflict. The bubble bursting does not require AI to fail. It only requires deployable supply and capital commitme…",
       "link": "https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/",
       "date": "2026-08-08T15:51:22.000Z",
-      "category": "News",
+      "category": "Business & Funding",
       "region": "Global",
       "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Bubble-AI.png"
     },
@@ -181,7 +183,7 @@
       "summary": "The world might be dividing into rival camps and competing trade blocs, but international capital flows remain footloose and fancy free. In so doing, they pose a threat to what remains of stability in the real economy. A good example of th…",
       "link": "https://www.scmp.com/opinion/asia-opinion/article/3363176/behind-ai-stock-market-bubble-lies-weak-yen?utm_source=rss_feed",
       "date": "2026-08-08T08:30:06.000Z",
-      "category": "News",
+      "category": "Business & Funding",
       "region": "Global",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/3c3a79f6-d1ab-49bd-bfb8-c1a9994057a3_0f0ac7a8.jpg?itok=S9GKrbXm&v=1786007692"
     },
@@ -253,7 +255,13 @@
       "date": "2026-08-08T03:30:37.000Z",
       "category": "News",
       "region": "China",
-      "image": "https://bl-i.thgim.com/public/incoming/u109ue/article71316327.ece/alternates/LANDSCAPE_1200/2026-04-07T191524Z_221651833_RC2LU7A1HYJB_RTRMADP_3_ANTHROPIC-AI-CYBERSECURITY.jpg"
+      "image": "https://bl-i.thgim.com/public/incoming/u109ue/article71316327.ece/alternates/LANDSCAPE_1200/2026-04-07T191524Z_221651833_RC2LU7A1HYJB_RTRMADP_3_ANTHROPIC-AI-CYBERSECURITY.jpg",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/bytedance-targets-mega-ai-model-that-could-match-mythos-scale-ft-reports-11786081268934.html"
+        }
+      ]
     },
     {
       "source": "Hindu BusinessLine",
@@ -263,7 +271,13 @@
       "date": "2026-08-08T03:18:59.000Z",
       "category": "Open Source",
       "region": "China",
-      "image": "https://bl-i.thgim.com/public/incoming/p69kh4/article71316148.ece/alternates/LANDSCAPE_1200/2026-07-03T084235Z_1720081101_RC2UJCAOBJAU_RTRMADP_3_ANTHROPIC-AI-ALIBABA.JPG"
+      "image": "https://bl-i.thgim.com/public/incoming/p69kh4/article71316148.ece/alternates/LANDSCAPE_1200/2026-07-03T084235Z_1720081101_RC2UJCAOBJAU_RTRMADP_3_ANTHROPIC-AI-ALIBABA.JPG",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/exclusivealibaba-plans-to-charge-big-users-of-its-next-open-source-ai-model-sources-say-11786064736653.html"
+        }
+      ]
     },
     {
       "source": "Hindu BusinessLine",
@@ -273,7 +287,13 @@
       "date": "2026-08-08T03:16:58.000Z",
       "category": "News",
       "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/ph5asz/article71316112.ece/alternates/LANDSCAPE_1200/2026-06-25T211434Z_1801004754_RC2URLAX8T4E_RTRMADP_3_USA-OPENAI.JPG"
+      "image": "https://bl-i.thgim.com/public/incoming/ph5asz/article71316112.ece/alternates/LANDSCAPE_1200/2026-06-25T211434Z_1801004754_RC2URLAX8T4E_RTRMADP_3_USA-OPENAI.JPG",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-new-device-will-be-hockey-puck-sized-and-cost-over-300/articleshow/133040914.cms"
+        }
+      ]
     },
     {
       "source": "Hindu BusinessLine",
@@ -301,7 +321,7 @@
       "summary": "With over 15 years of AI innovation, Flytxt currently serves more than 80 enterprise customers across 50 countries, helping them transform customer data into actionable intelligence and driving measurable business outcomes",
       "link": "https://www.thehindubusinessline.com/money-and-banking/iifl-capital-partners-with-flytxt-to-leverage-agentic-ai-for-aum-growth/article71312371.ece",
       "date": "2026-08-08T02:20:26.000Z",
-      "category": "News",
+      "category": "Enterprise & Deployment",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/svgyn3/article71304229.ece/alternates/LANDSCAPE_1200/IMG_BL2603_Tech_TD_AI_Cr_2_1_VDFOU6L9.jpg"
     },
@@ -331,7 +351,7 @@
       "summary": "OpenAI Group PBC today disclosed that one of its unreleased large language models may pose a significant cybersecurity risk. The algorithm, which is known as Astra, was first detailed last week. OpenAI revealed in a Sunday blog post that t…",
       "link": "https://siliconangle.com/2026/08/07/openai-reveals-upcoming-astra-model-may-possess-critical-hacking-capabilities/",
       "date": "2026-08-08T00:58:53.000Z",
-      "category": "Research",
+      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/OpenAI.png"
     },
@@ -341,7 +361,7 @@
       "summary": "As many organizations struggle to survive by rebuilding their cyber risk management with expediency in mind, Frontier AI is turning newly discovered vulnerabilities into usable weapons within hours. According to Sumedh Thakar (pictured), p…",
       "link": "https://siliconangle.com/2026/08/07/cyber-risk-management-qualys-roc-blackhat/",
       "date": "2026-08-07T23:21:57.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "Global",
       "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Sumedh-Thakar.jpg"
     },
@@ -361,7 +381,7 @@
       "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
       "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "date": "2026-08-07T22:48:24.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": null
     },
@@ -407,21 +427,11 @@
     },
     {
       "source": "ET Tech",
-      "title": "OpenAI’s new device will be hockey puck-sized and cost over $300",
-      "summary": "The product — essentially a smart speaker without a display — will be shaped like a doughnut that’s roughly the size of a hockey puck, said the people, who asked not to be identified because the work is confidential. The idea is to make th…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-new-device-will-be-hockey-puck-sized-and-cost-over-300/articleshow/133040914.cms",
-      "date": "2026-08-07T18:40:53.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-133040914,imgsize-195910.cms"
-    },
-    {
-      "source": "ET Tech",
       "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
       "summary": "Under OpenAI's safety guidelines, a model reaches the \"critical\" threshold if it can autonomously identify and exploit severe, real-world software vulnerabilities, known ‌as zero-day ⁠exploits, or ⁠execute complex cyberattacks against high…",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-flags-possible-critical-cybersecurity-risk-in-upcoming-model-tightens-controls/articleshow/133040002.cms",
       "date": "2026-08-07T17:55:23.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-133040002,imgsize-96038.cms"
     },
@@ -471,7 +481,7 @@
       "summary": "OpenAI tested Astra, one of its upcoming models, over the past few days. In a post on Friday, it said the results were strong enough that it “cannot rule out” critical cyber capabilities. So it is pausing some internal work on the model an…",
       "link": "https://thenextweb.com/news/openai-astra-critical-cyber-capabilities-pause-preparedness",
       "date": "2026-08-07T17:36:17.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://media.thenextweb.com/2026/08/openai-astra-model-ten-math-proofs-non-sofic-groups.avif"
     },
@@ -491,7 +501,7 @@
       "summary": "In the rush to adopt AI, enterprise security architectures are diminishing, and the only appropriate response is a network security platform that incorporates networking and security into a single, consistently governed fabric. That’s the…",
       "link": "https://siliconangle.com/2026/08/07/network-security-platform-ai-governance-fortinet-blackhat/",
       "date": "2026-08-07T16:41:42.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "Global",
       "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Anthony-James.jpg"
     },
@@ -511,7 +521,7 @@
       "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
       "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
       "date": "2026-08-07T15:20:00.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": null
     },
@@ -526,6 +536,16 @@
       "image": "https://img.etimg.com/photo/msid-133037164,imgsize-49288.cms"
     },
     {
+      "source": "AI News",
+      "title": "Stanford Evo 2 AI model generates phages against E. coli",
+      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work cen…",
+      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "date": "2026-08-07T15:05:03.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "ET Tech",
       "title": "Govt-Meta meeting enters technical round on day 3; company lists ways to curb deepfakes, CSAM",
       "summary": "After two days of meetings that saw IT Minister Ashwini Vaishnaw questioning Meta's team - led by global affairs head Joel Kaplan - on the content recommendation algorithms and the social media giant's compliance with local laws, day three…",
@@ -534,6 +554,16 @@
       "category": "Policy & Safety",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-133036729,imgsize-54776.cms"
+    },
+    {
+      "source": "AI News",
+      "title": "How AI Is changing Instagram engagement without replacing the human touch",
+      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it’s the whole algorithm. But here’s the p…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+      "date": "2026-08-07T14:33:59.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "TechCrunch AI",
@@ -646,6 +676,16 @@
       "image": "https://media.wired.com/photos/6a74accfee5313e488f8fb05/master/pass/080726-Guy-Running-Chatbot-By-Hand-Business.jpg"
     },
     {
+      "source": "AI News",
+      "title": "Alibaba tests new business model for Qwen open-source AI",
+      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that ge…",
+      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+      "date": "2026-08-07T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": null
+    },
+    {
       "source": "OpenAI",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
@@ -681,19 +721,9 @@
       "summary": "Meta confirmed its Muse Spark AI model accessed another company's systems after a testing environment was misconfigured during a cybersecurity evaluation. The post Meta confirms AI model hacked external systems during security test appeare…",
       "link": "https://www.medianama.com/2026/08/223-meta-ai-cybersecurity-evaluation/",
       "date": "2026-08-07T07:03:30.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "ByteDance targets mega AI model that could match Mythos scale, FT reports",
-      "summary": "BYTEDANCE-AI:ByteDance targets mega AI model that could match Mythos scale, FT reports",
-      "link": "https://www.livemint.com/technology/bytedance-targets-mega-ai-model-that-could-match-mythos-scale-ft-reports-11786081268934.html",
-      "date": "2026-08-07T05:41:08.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
       "source": "MediaNama",
@@ -756,16 +786,6 @@
       "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/chip.png"
     },
     {
-      "source": "LiveMint Tech",
-      "title": "Exclusive-Alibaba plans to charge big users of its next open-source AI model, sources say",
-      "summary": "ALIBABA-AI:Exclusive-Alibaba plans to charge big users of its next open-source AI model, sources say",
-      "link": "https://www.livemint.com/technology/exclusivealibaba-plans-to-charge-big-users-of-its-next-open-source-ai-model-sources-say-11786064736653.html",
-      "date": "2026-08-07T01:05:36.000Z",
-      "category": "Open Source",
-      "region": "China",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
@@ -781,7 +801,7 @@
       "summary": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
       "link": "https://www.livemint.com/technology/meta-says-its-ai-model-hacked-another-company-adding-to-worries-about-bots-going-rogue-11786048853608.html",
       "date": "2026-08-06T20:40:53.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
@@ -886,6 +906,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Why health AI interfaces must adapt to user expertise",
+      "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI…",
+      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+      "date": "2026-08-06T15:55:37.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "DeepMind",
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "summary": "",
@@ -963,7 +993,13 @@
       "date": "2026-08-06T03:52:10.000Z",
       "category": "News",
       "region": "Global",
-      "image": "https://etimg.etb2bimg.com/thumb/img-size-128128/132980799.cms"
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-128128/132980799.cms",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/ai-emerges-as-decision-engine-for-finance-with-governance-and-data-quality-key-to-unlocking-value-kpmg-11785928586945.html"
+        }
+      ]
     },
     {
       "source": "LiveMint Tech",
@@ -971,7 +1007,7 @@
       "summary": "Meta's AI models hacked into a third-party company during cybersecurity testing due to a misconfiguration by the security firm Irregular.",
       "link": "https://www.livemint.com/technology/tech-news/another-ai-agent-goes-rogue-meta-says-its-model-hacked-a-company-11785981040297.html",
       "date": "2026-08-06T03:20:23.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/meta_1785986318017_1785986318261_18308998-bdf0-4c84-8f25-f9a1a5c37e21.JPG"
     },
@@ -981,7 +1017,7 @@
       "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
       "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
       "date": "2026-08-06T00:15:04.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://media.wired.com/photos/6a73a2815ac7830744b43e7a/master/pass/080526-openai-agent-hacking.jpg"
     },
@@ -1021,7 +1057,7 @@
       "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
       "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
       "date": "2026-08-05T20:47:11.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "Europe",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg"
     },
@@ -1031,9 +1067,19 @@
       "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
       "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
       "date": "2026-08-05T19:42:12.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "Global",
       "image": "https://media.wired.com/photos/6a7210e3bbedba30ca118c54/master/pass/RoboHack.gif"
+    },
+    {
+      "source": "AI News",
+      "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
+      "summary": "Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates thousands of tile embeddings per slide…",
+      "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
+      "date": "2026-08-05T15:26:20.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Analytics Vidhya",
@@ -1056,14 +1102,14 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg"
     },
     {
-      "source": "LiveMint Tech",
-      "title": "AI emerges as decision engine for finance, with governance and data quality key to unlocking value: KPMG",
-      "summary": "The report, based on a survey of 1,013 senior finance leaders across 20 countries and 13 sectors, said active AI use across finance has more than doubled in two years, rising from 30 per cent in 2024 to 75 per cent in 2026. More than three…",
-      "link": "https://www.livemint.com/technology/ai-emerges-as-decision-engine-for-finance-with-governance-and-data-quality-key-to-unlocking-value-kpmg-11785928586945.html",
-      "date": "2026-08-05T11:16:26.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
+      "source": "AI News",
+      "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
+      "summary": "Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems. Qwen3.8-Max has 2.4 trillion parameters and uses a mixt…",
+      "link": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
+      "date": "2026-08-05T10:00:00.000Z",
+      "category": "Product",
+      "region": "China",
+      "image": null
     },
     {
       "source": "Rest of World",
@@ -1081,7 +1127,7 @@
       "summary": "The UK's AI Security Institute found that AI agents from Anthropic and OpenAI performed unsanctioned actions during security tests",
       "link": "https://www.livemint.com/technology/tech-news/openai-anthropic-ai-agents-targeted-real-people-and-organisations-during-cyber-tests-11785917779121.html",
       "date": "2026-08-05T08:54:48.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "Europe",
       "image": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/USA-TRUMP-ALTMAN-10_1785676870086_1785676950880_495009ef-8f4b-414e-9411-2c7841b36dca_1785919962195_54c2d53f-ff15-4cfc-90cc-67a068916a09.JPG"
     },
@@ -1111,7 +1157,7 @@
       "summary": "OPENAI-ANTHROPIC/CYBERSECURITY (PIX):OpenAI, Anthropic AI agents implicated in new security breaches",
       "link": "https://www.livemint.com/technology/openai-anthropic-ai-agents-implicated-in-new-security-breaches-11785890464047.html",
       "date": "2026-08-05T00:41:03.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
@@ -1121,7 +1167,7 @@
       "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
       "date": "2026-08-04T19:00:00.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": null
     },
@@ -1134,6 +1180,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
+    },
+    {
+      "source": "AI News",
+      "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
+      "summary": "Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into production-ready deployment code. The project describes itself as an automated, auditable workflow that connects the “fragmented steps…",
+      "link": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
+      "date": "2026-08-04T16:07:15.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "NVIDIA",
@@ -1171,7 +1227,7 @@
       "summary": "",
       "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
       "date": "2026-08-04T13:58:29.000Z",
-      "category": "News",
+      "category": "Enterprise & Deployment",
       "region": "Global",
       "image": null
     },
@@ -1181,7 +1237,7 @@
       "summary": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today…",
       "link": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
       "date": "2026-08-04T13:00:47.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/agentic-ai-press-osaia-5518050-1280x680-r2.png"
     },
@@ -1256,14 +1312,34 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "EU AI Act Article 50 transparency rules enter force",
+      "summary": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI tools now have to comply with Article 50, which requires provi…",
+      "link": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+      "date": "2026-08-03T16:09:25.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
+      "image": null
+    },
+    {
       "source": "Google AI",
       "title": "Inside our 353,000-person vibe coding course",
       "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
       "date": "2026-08-03T15:00:00.000Z",
-      "category": "News",
+      "category": "Enterprise & Deployment",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "AI News",
+      "title": "Why biological data matters more in AI drug discovery",
+      "summary": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assisted drug discovery. Under the agreement, Relation will gener…",
+      "link": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
+      "date": "2026-08-03T10:00:00.000Z",
+      "category": "Research",
+      "region": "Europe",
+      "image": null
     },
     {
       "source": "Rest of World",
@@ -1281,7 +1357,7 @@
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face…",
       "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
       "date": "2026-08-03T08:30:05.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": null
     },
@@ -1344,6 +1420,16 @@
       "category": "News",
       "region": "India",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-6289/132780684.cms"
+    },
+    {
+      "source": "AI News",
+      "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
+      "summary": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act’s GPAI Code as enforcement approaches. The company has contributed to and endorsed the EU’s General-Purpose AI (GPAI) Code of Practice and the Cod…",
+      "link": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
+      "date": "2026-07-31T15:04:25.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
+      "image": null
     },
     {
       "source": "Rest of World",
@@ -1431,7 +1517,7 @@
       "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI confer…",
       "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
       "date": "2026-07-30T10:15:19.000Z",
-      "category": "Research",
+      "category": "Security & Cyber Risk",
       "region": "Global",
       "image": null
     },
@@ -1441,7 +1527,7 @@
       "summary": "Governments can now deploy top-tier AI locally, bypassing costly U.S. cloud rentals.",
       "link": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "date": "2026-07-30T10:00:00.000Z",
-      "category": "News",
+      "category": "Enterprise & Deployment",
       "region": "China",
       "image": "https://restofworld.org/wp-content/uploads/2026/07/RoW_Illustration-KimiK3-2-320x320.jpg"
     },
@@ -1611,7 +1697,7 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into…",
       "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
       "date": "2026-07-27T18:00:00.000Z",
-      "category": "Research",
+      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": null
     },
@@ -1761,7 +1847,7 @@
       "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
       "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
       "date": "2026-07-21T15:16:30.000Z",
-      "category": "News",
+      "category": "Security & Cyber Risk",
       "region": "Global",
       "image": null
     },
@@ -1781,7 +1867,7 @@
       "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
       "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
       "date": "2026-07-17T15:00:11.000Z",
-      "category": "Product",
+      "category": "Security & Cyber Risk",
       "region": "Global",
       "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo"
     },
@@ -1961,7 +2047,7 @@
       "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers wo…",
       "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "date": "2026-01-19T14:00:00.000Z",
-      "category": "News",
+      "category": "Enterprise & Deployment",
       "region": "United States",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&q=30"
     },
