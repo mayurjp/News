@@ -299,14 +299,26 @@ function extractImage(node, rawHtmlForFallback) {
   return null;
 }
 
+// Some feeds (e.g. The Register) emit a present-but-blank <description/>
+// with the real text only in <content:encoded> — a plain ?? chain never
+// falls through to it since "" is neither null nor undefined.
+function firstNonBlank(...candidates) {
+  for (const c of candidates) {
+    if (c && stripHtml(c).length > 0) return c;
+  }
+  return "";
+}
+
 function normalizeRssItem(item, sourceName, runIso) {
   const title = stripHtml(item.title?.["#text"] ?? item.title ?? "");
   const link =
     typeof item.link === "string"
       ? item.link
       : item.link?.["#text"] ?? item.link?.["@_href"] ?? "";
-  const rawSummary =
-    item.description?.["#text"] ?? item.description ?? item["content:encoded"] ?? "";
+  const rawSummary = firstNonBlank(
+    item.description?.["#text"] ?? item.description,
+    item["content:encoded"]
+  );
   const summary = truncate(stripHtml(rawSummary), SUMMARY_MAX_LEN);
   const date = toIso(item.pubDate ?? item.date, runIso);
   const category = categorize(title, summary);
@@ -318,8 +330,10 @@ function normalizeRssItem(item, sourceName, runIso) {
 function normalizeAtomEntry(entry, sourceName, runIso) {
   const title = stripHtml(entry.title?.["#text"] ?? entry.title ?? "");
   const link = extractAtomLink(entry.link);
-  const rawSummary =
-    entry.summary?.["#text"] ?? entry.summary ?? entry.content?.["#text"] ?? entry.content ?? "";
+  const rawSummary = firstNonBlank(
+    entry.summary?.["#text"] ?? entry.summary,
+    entry.content?.["#text"] ?? entry.content
+  );
   const summary = truncate(stripHtml(rawSummary), SUMMARY_MAX_LEN);
   const date = toIso(entry.updated ?? entry.published, runIso);
   const category = categorize(title, summary);
