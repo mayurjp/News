@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T22:00:04.988Z",
-  "count": 195,
+  "updated": "2026-08-10T22:58:03.845Z",
+  "count": 206,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -45,10 +45,21 @@
     "China",
     "Europe",
     "South Korea",
+    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "Ars Technica AI",
+      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+      "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "date": "2026-08-10T22:13:03.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg"
+    },
     {
       "source": "The Register AI",
       "title": "Hey, big spender – OpenAI has a new SKU just for you",
@@ -426,6 +437,16 @@
       "image": "https://img.etimg.com/photo/msid-133099235,imgsize-56450.cms"
     },
     {
+      "source": "AI News",
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers…",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "date": "2026-08-10T11:02:38.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Ars Technica AI",
       "title": "Peer review is overwhelmed—can it survive in the AI era?",
       "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
@@ -512,6 +533,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "The limits of physics AI: where Siemens says the human stays in charge",
+      "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safet…",
+      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "date": "2026-08-10T10:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Hindu BusinessLine",
       "title": "Publishers maintaining clear AI-use records better placed to manage legal, commercial risks: Report",
       "summary": "The report said publishers need to implement practical governance measures even as courts and regulators continue to work out the legal principles governing AI training and copyright",
@@ -560,16 +591,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "72% of Hong Kong professionals regularly use AI, double global average: survey",
-      "summary": "More than 70 per cent of Hong Kong working professionals use artificial intelligence (AI) tools on a daily or weekly basis, more than double the global average, but junior staff also harbour deeper anxiety over job security amid its growin…",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363518/72-hong-kong-professionals-use-ai-weekly-double-global-average-survey?utm_source=rss_feed",
-      "date": "2026-08-10T08:09:46.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/9a61a07a-65a2-4012-b098-a21293d5061c_aac9d8df.jpg?itok=dx_VQ-Km&v=1786348650"
     },
     {
       "source": "Hindu BusinessLine",
@@ -706,6 +727,26 @@
       "link": "https://openai.com/index/premium-seats-chatgpt-business",
       "date": "2026-08-10T00:00:00.000Z",
       "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "link": "https://openai.com/index/zapier",
+      "date": "2026-08-10T00:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "date": "2026-08-10T00:00:00.000Z",
+      "category": "Research",
       "region": "Global",
       "image": null
     },
@@ -980,6 +1021,26 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Stanford Evo 2 AI model generates phages against E. coli",
+      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work cen…",
+      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "date": "2026-08-07T15:05:03.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "How AI Is changing Instagram engagement without replacing the human touch",
+      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it’s the whole algorithm. But here’s the p…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+      "date": "2026-08-07T14:33:59.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Wired AI",
       "title": "Scientists Used AI to Create 16 New Viruses",
       "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
@@ -1028,6 +1089,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://media.wired.com/photos/6a74accfee5313e488f8fb05/master/pass/080726-Guy-Running-Chatbot-By-Hand-Business.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Alibaba tests new business model for Qwen open-source AI",
+      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that ge…",
+      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+      "date": "2026-08-07T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": null
     },
     {
       "source": "OpenAI",
@@ -1160,16 +1231,6 @@
       "image": "https://image.theregister.com/?imageId=5251269&width=800"
     },
     {
-      "source": "Ars Technica AI",
-      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
-      "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-      "date": "2026-08-06T16:15:30.000Z",
-      "category": "Open Source",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Cloudflare-logo-1152x648.jpg"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Claude Code Best Practices: 3 Lessons from 400,000 Sessions",
       "summary": "I used to think Claude Code best practices were a matter of taste. Plan mode or not. Long CLAUDE.md or short. Pick what suits you, move on. Then Anthropic scored roughly 400k sessions from over 235k users against hard evidence of success.…",
@@ -1177,6 +1238,16 @@
       "date": "2026-08-06T16:04:40.000Z",
       "category": "News",
       "region": "United States",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Why health AI interfaces must adapt to user expertise",
+      "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI…",
+      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+      "date": "2026-08-06T15:55:37.000Z",
+      "category": "Research",
+      "region": "Global",
       "image": null
     },
     {
@@ -1210,26 +1281,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nv-ov-ito-social-1920x1080-1.jpg"
     },
     {
-      "source": "OpenAI",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "date": "2026-08-06T10:00:00.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-      "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "date": "2026-08-06T06:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "ET CIO",
       "title": "AI is now finance's decision engine, but data quality is key",
       "summary": "Artificial intelligence is increasingly driving finance decisions and improving performance. Active AI use in finance has more than doubled, reaching seventy-five percent by 2026. Organizations report significant gains in forecasting and d…",
@@ -1247,6 +1298,16 @@
       "date": "2026-08-06T00:00:00.000Z",
       "category": "News",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
+      "summary": "Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates thousands of tile embeddings per slide…",
+      "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
+      "date": "2026-08-05T15:26:20.000Z",
+      "category": "News",
+      "region": "United States",
       "image": null
     },
     {
@@ -1270,6 +1331,16 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg"
     },
     {
+      "source": "AI News",
+      "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
+      "summary": "Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems. Qwen3.8-Max has 2.4 trillion parameters and uses a mixt…",
+      "link": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
+      "date": "2026-08-05T10:00:00.000Z",
+      "category": "Product",
+      "region": "China",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "Growth without work: The human cost of the AI revolution",
       "summary": "In an excerpt from his book “The New Divide: Power, Control & the Cost of AI,” writer Jibu Elias examines the technology’s impact on jobs.",
@@ -1288,6 +1359,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-1513703/132851827.cms"
+    },
+    {
+      "source": "AI News",
+      "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
+      "summary": "Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into production-ready deployment code. The project describes itself as an automated, auditable workflow that connects the “fragmented steps…",
+      "link": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
+      "date": "2026-08-04T16:07:15.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "NVIDIA",
@@ -1387,6 +1468,16 @@
       "date": "2026-08-03T18:43:30.000Z",
       "category": "Research",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "EU AI Act Article 50 transparency rules enter force",
+      "summary": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI tools now have to comply with Article 50, which requires provi…",
+      "link": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+      "date": "2026-08-03T16:09:25.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
       "image": null
     },
     {
@@ -2018,6 +2109,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     },
     {
       "source": "BAIR",
