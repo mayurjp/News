@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T08:52:09.768Z",
-  "count": 191,
+  "updated": "2026-08-10T10:37:44.379Z",
+  "count": 193,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -50,6 +50,86 @@
   ],
   "items": [
     {
+      "source": "Wired AI",
+      "title": "The Rise of the 1 am Job Interview",
+      "summary": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
+      "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+      "date": "2026-08-10T10:30:00.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6a74e739068d1e092430bb0d/master/pass/Rise-of-1AM-Interview-Business.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Chinese AI drives price competition among US labs",
+      "summary": "A new generation of cost-efficient, high-performance Chinese AI is putting pressure on Silicon Valley's leading labs to lower prices to grab market share as they try and find ways to turn a profit. New Chinese AI models big and small, from…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-ai-drives-price-competition-among-us-labs/articleshow/133092300.cms",
+      "date": "2026-08-10T10:16:17.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://img.etimg.com/photo/msid-133092300,imgsize-11494.cms"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "summary": "",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "date": "2026-08-10T10:05:36.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Rest of World",
+      "title": "Beijing is forcing a mass breakup with AI lovers",
+      "summary": "Beijing is pioneering regulations that could shape how governments around the world govern emotionally intelligent chatbots.",
+      "link": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "date": "2026-08-10T10:00:17.000Z",
+      "category": "Policy & Safety",
+      "region": "China",
+      "image": "https://restofworld.org/wp-content/uploads/2026/08/Chinese-AI-companions-Final-2-320x320.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Publishers maintaining clear AI-use records better placed to manage legal, commercial risks: Report",
+      "summary": "The report said publishers need to implement practical governance measures even as courts and regulators continue to work out the legal principles governing AI training and copyright",
+      "link": "https://www.thehindubusinessline.com/info-tech/publishers-maintaining-clear-ai-use-records-better-placed-to-manage-legal-commercial-risks-report/article71327680.ece",
+      "date": "2026-08-10T09:43:35.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/pk070o/article71327771.ece/alternates/LANDSCAPE_1200/IMG_IP_2_1_AMEI40M8.jpg"
+    },
+    {
+      "source": "MediaNama",
+      "title": "SEBI is using AI to monitor social media for fraud. India has been here before",
+      "summary": "SEBI's AI powered intelligence system SUDARSAN analyses speech, visuals and regional language content in social media & combines it with behavioural and regulatory parameters to issue alert for further scrutiny. The post SEBI is using AI t…",
+      "link": "https://www.medianama.com/2026/08/223-sebi-ai-monitor-social-media-fraud-india/",
+      "date": "2026-08-10T09:35:59.000Z",
+      "category": "Policy & Safety",
+      "region": "India",
+      "image": null
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "AI for science needs reasoning, not just data",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theore…",
+      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "date": "2026-08-10T09:00:00.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a pap…",
+      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "date": "2026-08-10T09:00:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "LiveMint Tech",
       "title": "AI policies may need to change every few months as technology evolves: CSIR-NIScPR Director",
       "summary": "Policies governing the use of artificial intelligence (AI) in research and publishing may need to be revised every few months as technological capabilities evolve rapidly, CSIR-National Institute of Science Communication and Policy Researc…",
@@ -61,8 +141,8 @@
     },
     {
       "source": "SCMP Tech",
-      "title": "72% of Hong Kong professionals use AI weekly, double the global average: survey",
-      "summary": "More than 70 per cent of Hong Kong working professionals use artificial intelligence (AI) tools on a weekly basis, more than double the global average, but junior staff also harbour deeper anxiety over job security amid its growing adoptio…",
+      "title": "72% of Hong Kong professionals regularly use AI, double global average: survey",
+      "summary": "More than 70 per cent of Hong Kong working professionals use artificial intelligence (AI) tools on a daily or weekly basis, more than double the global average, but junior staff also harbour deeper anxiety over job security amid its growin…",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363518/72-hong-kong-professionals-use-ai-weekly-double-global-average-survey?utm_source=rss_feed",
       "date": "2026-08-10T08:09:46.000Z",
       "category": "News",
@@ -196,16 +276,6 @@
       "category": "Policy & Safety",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-58302/133079963.cms"
-    },
-    {
-      "source": "Japan Times",
-      "title": "North Korean hacking group builds AI tools for cyberattacks, report says",
-      "summary": "The group reportedly collected software that could help automate cyberattacks, analyze stolen material and produce better phishing campaigns.",
-      "link": "https://www.japantimes.co.jp/news/2026/08/10/asia-pacific/north-korea-hacking-ai-tools/",
-      "date": "2026-08-10T03:14:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "South Korea",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/10/thumbs/400x400/556409.jpg"
     },
     {
       "source": "SCMP Tech",
@@ -604,32 +674,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/hd2ok4/article71316282.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UR97D6AI7_R1588691878_0_53476b2f-253e-4d15-8d88-8df751e07dcd.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "ByteDance targets mega AI model nearing Anthropic’s Mythos, FT reports",
-      "summary": "",
-      "link": "https://www.thehindubusinessline.com/info-tech/bytedance-targets-mega-ai-model-nearing-anthropics-mythos-ft-reports/article71316305.ece",
-      "date": "2026-08-08T03:30:37.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://bl-i.thgim.com/public/incoming/u109ue/article71316327.ece/alternates/LANDSCAPE_1200/2026-04-07T191524Z_221651833_RC2LU7A1HYJB_RTRMADP_3_ANTHROPIC-AI-CYBERSECURITY.jpg",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/bytedance-targets-mega-ai-model-that-could-match-mythos-scale-ft-reports-11786081268934.html"
-        }
-      ]
-    },
-    {
-      "source": "ET Tech",
-      "title": "Trump-linked fintech firm AI Financial sells unit to Prime Delta",
-      "summary": "AI Financial will receive a $12 million secured promissory note - with $1 million due next ‌week and ⁠the rest ⁠paid over time - and about 11.6 million shares of Prime Delta stock for the ​sale of ALT5 Sigma Canada, an filing with the U.S.…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/trump-linked-fintech-firm-ai-financial-sells-unit-to-prime-delta/articleshow/133045175.cms",
-      "date": "2026-08-08T02:13:55.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-133045175,imgsize-8780.cms"
-    },
-    {
       "source": "SiliconANGLE",
       "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities",
       "summary": "OpenAI Group PBC today disclosed that one of its unreleased large language models may pose a significant cybersecurity risk. The algorithm, which is known as Astra, was first detailed last week. OpenAI revealed in a Sunday blog post that t…",
@@ -828,6 +872,16 @@
       "category": "Product",
       "region": "United States",
       "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/pexels-photo-6557325_1786085742401_1786085756208_ca951741-65fd-482b-8b9b-c951de49df52.jpeg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "ByteDance targets mega AI model that could match Mythos scale, FT reports",
+      "summary": "BYTEDANCE-AI:ByteDance targets mega AI model that could match Mythos scale, FT reports",
+      "link": "https://www.livemint.com/technology/bytedance-targets-mega-ai-model-that-could-match-mythos-scale-ft-reports-11786081268934.html",
+      "date": "2026-08-07T05:41:08.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
       "source": "ET CIO",
@@ -1034,16 +1088,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-128128/132980799.cms"
-    },
-    {
-      "source": "Wired AI",
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
-      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-      "date": "2026-08-06T00:15:04.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://media.wired.com/photos/6a73a2815ac7830744b43e7a/master/pass/080526-openai-agent-hacking.jpg"
     },
     {
       "source": "OpenAI",
@@ -1606,16 +1650,6 @@
       "image": null
     },
     {
-      "source": "MIT Tech Review",
-      "title": "Building the enterprise environment for agentic AI",
-      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agent…",
-      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "date": "2026-07-27T11:32:58.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "In China, people are renting out their faces to AI",
       "summary": "New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.",
@@ -1674,16 +1708,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://image.theregister.com/?imageId=5277830&width=800"
-    },
-    {
-      "source": "MIT Tech Review",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patien…",
-      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "date": "2026-07-23T12:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "The Register AI",
@@ -1794,16 +1818,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Security incident disclosure — July 2026",
-      "summary": "",
-      "link": "https://huggingface.co/blog/security-incident-july-2026",
-      "date": "2026-07-16T00:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Google AI",
