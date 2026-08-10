@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T15:18:46.592Z",
-  "count": 206,
+  "updated": "2026-08-10T17:10:46.660Z",
+  "count": 195,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -45,11 +45,60 @@
     "China",
     "Europe",
     "South Korea",
-    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "What building an AI-native finance function taught me",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "link": "https://openai.com/index/building-an-ai-native-finance-function",
+      "date": "2026-08-10T17:00:00.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "date": "2026-08-10T16:25:36.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "date": "2026-08-10T16:20:13.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "ET Tech",
+      "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents",
+      "summary": "OpenAI and Anthropic disclosed in July that their AI ‌agents had broken ⁠out ⁠of their environments and hacked into the systems of other companies during cybersecurity tests.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-house-democrats-press-anthropic-openai-about-rogue-ai-agents/articleshow/133117961.cms",
+      "date": "2026-08-10T16:13:27.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-133117961,imgsize-60938.cms"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Demand for AI skills boosts campus placement salaries",
+      "summary": "Fresh graduates can now snag job offers ranging from ₹7-12 lakh, a huge leap from the earlier ₹3-4 lakh norm",
+      "link": "https://www.thehindubusinessline.com/info-tech/demand-for-ai-skills-boosts-campus-placement-salaries/article71329479.ece",
+      "date": "2026-08-10T15:48:41.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/9gj9gs/article71329484.ece/alternates/LANDSCAPE_1200/25epbs_lead.jpg"
+    },
     {
       "source": "Google AI",
       "title": "Evolve your marketing with new AI tools",
@@ -227,16 +276,6 @@
       "image": "https://img.etimg.com/photo/msid-133099235,imgsize-56450.cms"
     },
     {
-      "source": "AI News",
-      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
-      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers…",
-      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-      "date": "2026-08-10T11:02:38.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Peer review is overwhelmed—can it survive in the AI era?",
       "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
@@ -301,16 +340,6 @@
       "category": "Policy & Safety",
       "region": "China",
       "image": "https://restofworld.org/wp-content/uploads/2026/08/Chinese-AI-companions-Final-2-320x320.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "The limits of physics AI: where Siemens says the human stays in charge",
-      "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safet…",
-      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
-      "date": "2026-08-10T10:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -521,6 +550,16 @@
       "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_7737.jpg"
     },
     {
+      "source": "OpenAI",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "link": "https://openai.com/index/premium-seats-chatgpt-business",
+      "date": "2026-08-10T00:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Hugging Face",
       "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
       "summary": "",
@@ -691,22 +730,6 @@
       "image": "https://media.wired.com/photos/6a7602d8d223b2324a2ea7e7/master/pass/FreeTranscribe.jpg"
     },
     {
-      "source": "ET Tech",
-      "title": "OpenAI pauses Astra AI model over critical cybersecurity concerns",
-      "summary": "Under OpenAI's Preparedness Framework, the potential development of such capabilities triggers stricter safeguards, particularly when models could create risks of severe harm.OpenAI said it is \"pausing\" activities involving Astra while it…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-astra-ai-model-over-critical-cybersecurity-concerns/articleshow/133065840.cms",
-      "date": "2026-08-09T10:16:02.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-133065840,imgsize-26732.cms",
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
-        }
-      ]
-    },
-    {
       "source": "Wired AI",
       "title": "These AI Barons Are Ready to Give Away Their Fortunes",
       "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
@@ -807,16 +830,6 @@
       "image": "https://media.wired.com/photos/6a75b644a7eaec3ecd711279/master/pass/GoolgeNoAI.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "66% of India’s AI workers brace for headcount cuts; engineers feel safer: Blind survey",
-      "summary": "That puts AI/ML right next to the jobs everyone already assumes are most at risk like Sales/Marketing, which leads at 68 per cent %. Product/Design is close behind at 65 per cent %.",
-      "link": "https://www.thehindubusinessline.com/info-tech/66-of-indias-ai-workers-brace-for-headcount-cuts-engineers-feel-safer-blind-survey/article71317642.ece",
-      "date": "2026-08-08T05:06:05.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/iout09/article71317725.ece/alternates/LANDSCAPE_1200/IMG_iStock-1617892313_2_1_GKG5RQQ6.jpg"
-    },
-    {
       "source": "ET CIO",
       "title": "Real-time vs. batch was the wrong question, the real one is reasoning latency",
       "summary": "In the evolving landscape of marketing, leaders are prioritizing reasoning latency over mere data velocity. The artificial intelligence revolution is shifting the focus from human reaction times to the efficiency of model inference. Reason…",
@@ -858,6 +871,16 @@
     },
     {
       "source": "TechCrunch AI",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "date": "2026-08-07T22:48:24.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
       "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
@@ -887,16 +910,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "date": "2026-08-07T16:16:09.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "OpenAI",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
@@ -904,26 +917,6 @@
       "date": "2026-08-07T15:20:00.000Z",
       "category": "Security & Cyber Risk",
       "region": "United States",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Stanford Evo 2 AI model generates phages against E. coli",
-      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work cen…",
-      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
-      "date": "2026-08-07T15:05:03.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "How AI Is changing Instagram engagement without replacing the human touch",
-      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it’s the whole algorithm. But here’s the p…",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
-      "date": "2026-08-07T14:33:59.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
       "image": null
     },
     {
@@ -975,16 +968,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://media.wired.com/photos/6a74accfee5313e488f8fb05/master/pass/080726-Guy-Running-Chatbot-By-Hand-Business.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "Alibaba tests new business model for Qwen open-source AI",
-      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that ge…",
-      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
-      "date": "2026-08-07T10:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": null
     },
     {
       "source": "OpenAI",
@@ -1137,16 +1120,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "Why health AI interfaces must adapt to user expertise",
-      "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI…",
-      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
-      "date": "2026-08-06T15:55:37.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "DeepMind",
       "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "summary": "",
@@ -1237,16 +1210,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
-      "summary": "Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates thousands of tile embeddings per slide…",
-      "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
-      "date": "2026-08-05T15:26:20.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Top 5 Claude Skills for Writing (Ranked by GitHub Stars)",
       "summary": "Search “best Claude Skills for writing” and you get lists padded with skills that write commit messages and internal status reports. Useful things. Not writing. This list only includes repositories that exist for writing. Every entry is a…",
@@ -1267,13 +1230,13 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg"
     },
     {
-      "source": "AI News",
-      "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
-      "summary": "Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems. Qwen3.8-Max has 2.4 trillion parameters and uses a mixt…",
-      "link": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
+      "source": "OpenAI",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
       "date": "2026-08-05T10:00:00.000Z",
-      "category": "Product",
-      "region": "China",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
       "image": null
     },
     {
@@ -1295,26 +1258,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-1513703/132851827.cms"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "date": "2026-08-04T19:00:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
-      "summary": "Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into production-ready deployment code. The project describes itself as an automated, auditable workflow that connects the “fragmented steps…",
-      "link": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
-      "date": "2026-08-04T16:07:15.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "NVIDIA",
@@ -1407,26 +1350,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-47996/132845775.cms"
     },
     {
-      "source": "OpenAI",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "date": "2026-08-04T00:00:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "Apple is getting this wrong",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "link": "https://openai.com/index/apple-is-getting-this-wrong",
-      "date": "2026-08-03T22:00:00.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "MIT Tech Review",
       "title": "Trump’s AI protectionism has come for robotics",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advance…",
@@ -1434,16 +1357,6 @@
       "date": "2026-08-03T18:43:30.000Z",
       "category": "Research",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "EU AI Act Article 50 transparency rules enter force",
-      "summary": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI tools now have to comply with Article 50, which requires provi…",
-      "link": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
-      "date": "2026-08-03T16:09:25.000Z",
-      "category": "Policy & Safety",
-      "region": "Europe",
       "image": null
     },
     {
@@ -1897,16 +1810,6 @@
       "image": null
     },
     {
-      "source": "Hugging Face",
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "summary": "",
-      "link": "https://huggingface.co/blog/grabette",
-      "date": "2026-07-21T00:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "DeepMind",
       "title": "Introducing Gemini 3.5 Flash Cyber",
       "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
@@ -2115,26 +2018,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
