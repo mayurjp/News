@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T18:05:11.347Z",
-  "count": 195,
+  "updated": "2026-08-10T19:19:01.845Z",
+  "count": 183,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -43,12 +43,61 @@
   "regions": [
     "India",
     "China",
-    "Europe",
     "South Korea",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "The Next Web",
+      "title": "Nvidia is pulling Wall Street into the AI buildout. Its shares fell on the news",
+      "summary": "A group of financial firms is working with Nvidia on a $500bn funding package for AI infrastructure. The group covers Apollo Global Management, Blackstone, BlackRock’s Global Infrastructure Partners, Brookfield Asset Management, Goldman Sa…",
+      "link": "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
+      "date": "2026-08-10T18:38:46.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/07/nvidia-naver-sk-group-korea-ai-investment.avif"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "How to Install Claude Code: A Step-by-Step Guide",
+      "summary": "You have probably heard by now. Claude Code burns through usage limits! But most of us live in the web app… distant from the terminal app, around which the buzz is about. Maybe that was enough to make you curious. Maybe you already knew ex…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/08/how-to-install-claude-code/",
+      "date": "2026-08-10T18:20:22.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Nvidia to team with Wall Street on US$500 billion package for AI infrastructure projects",
+      "summary": "A group of US investment giants are partnering with Nvidia on US$500 billion in funding for AI infrastructure projects, the Financial Times reported. Apollo Global Management, Blackstone, BlackRock’s Global Infrastructure Partners, Brookfi…",
+      "link": "https://www.scmp.com/news/article/3363577/nvidia-team-wall-street-us500-billion-package-ai-infrastructure-projects?utm_source=rss_feed",
+      "date": "2026-08-10T18:18:48.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/11/3ecc73b3-57f4-4b3c-9c19-182fad6d0a7e_a285b203.jpg?itok=rpFbvsxd&v=1786385629"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI paused a model over cyber risk on Friday. On Monday it shipped one trained to refuse less.",
+      "summary": "OpenAI released GPT-5.6-Cyber on Monday. It is a model built on GPT-5.6 Sol and trained for zero-day discovery and exploit-chain development, and the company says it was also trained to refuse fewer higher-risk dual-use cyber requests. Acc…",
+      "link": "https://thenextweb.com/news/openai-gpt-5-6-cyber-daybreak-expansion-refusal-rate",
+      "date": "2026-08-10T18:14:14.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "House Democrats want AI CEOs under oath. Only Mike Johnson can make it happen.",
+      "summary": "The one everybody covered went to Speaker Mike Johnson. CNBC’s Megan Cassella reported it first. House Democrats want public hearings on the AI security incidents of the past month, and they want the chief executives of the largest AI comp…",
+      "link": "https://thenextweb.com/news/casar-house-democrats-ai-ceos-testify-johnson-hearing",
+      "date": "2026-08-10T17:28:04.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/Greg-Casar.avif"
+    },
     {
       "source": "SiliconANGLE",
       "title": "Graph neural networks are turning hidden fraud into visible networks",
@@ -68,6 +117,16 @@
       "category": "People & Leadership",
       "region": "United States",
       "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "An AI agent deleted a stranger from a gym waitlist. The API let it",
+      "summary": "An Australian man named Andrew asked his AI agent to book him into a popular gym class. The agent booked the class. Then it deleted a stranger. The ABC’s national AI reporter Cam Wilson and the Specialist Reporting Team’s Rhiannon Hobbins…",
+      "link": "https://thenextweb.com/news/openclaw-ai-agent-gym-booking-api-flaw-australia",
+      "date": "2026-08-10T16:49:19.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/georgia-power-demolishing-homes-ai-data-centres-zuckerberg-agents.avif"
     },
     {
       "source": "Hugging Face",
@@ -353,6 +412,16 @@
     },
     {
       "source": "OpenAI",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "date": "2026-08-10T10:00:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
       "title": "Putting frontier cyber models in more trusted hands",
       "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
       "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
@@ -422,16 +491,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/9a61a07a-65a2-4012-b098-a21293d5061c_aac9d8df.jpg?itok=dx_VQ-Km&v=1786348650"
     },
     {
-      "source": "The Next Web",
-      "title": "Moburst reveals AI-powered mobile growth playbook following record campaign performance milestones",
-      "summary": "NEW YORK & TEL AVIV, August 10, 2026 Moburst, a global mobile App marketing agency specializing in creative strategy, performance marketing, and data science, has published its integrated framework for mobile application growth in the AI e…",
-      "link": "https://thenextweb.com/news/moburst-ai-powered-mobile-growth-playbook",
-      "date": "2026-08-10T07:52:58.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/moburst-ai-powered-mobile-growth-playbook.avif"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "AI coding boom puts software testing, verification in focus",
       "summary": "As AI accelerates software development, companies face a new challenge: ensuring machine-generated code performs reliably, safely and as intended",
@@ -488,16 +547,6 @@
       ]
     },
     {
-      "source": "SCMP Tech",
-      "title": "Malaysia seeks to deepen trade ties with South Korea in chips, AI, halal sector",
-      "summary": "Malaysia is seeking to elevate its economic partnership with South Korea beyond traditional manufacturing and trade by positioning itself as a long-term strategic partner in high-value industries, ranging from semiconductors and AI to elec…",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3363493/malaysia-seeks-deepen-trade-ties-south-korea-chips-ai-halal-sector?utm_source=rss_feed",
-      "date": "2026-08-10T05:04:15.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "South Korea",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/95e8cc8c-6c5f-404f-b22c-dd1e1e6f468b_682e10c9.jpg?itok=OOntwWRy&v=1786338254"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Anthropic turns Claude Code’s auto mode on by default: here's what's changing for users",
       "summary": "Anthropic will make Auto mode the default for Pro, Max, and Team users starting August 14.",
@@ -538,16 +587,6 @@
       "category": "Policy & Safety",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-58302/133079963.cms"
-    },
-    {
-      "source": "The Register AI",
-      "title": "NEC tests parking tech that only starts charging once you exit your car",
-      "summary": "PLUS: Infosys to wear Crocs for a decade; Fujifilm may quit printers; 2GW datacenter debuts in western China; and more!",
-      "link": "https://www.theregister.com/software/2026/08/10/nec-tests-parking-tech-that-only-starts-charging-once-you-exit-your-car/5285245",
-      "date": "2026-08-10T01:32:04.000Z",
-      "category": "Hardware & Infra",
-      "region": "India",
-      "image": "https://image.theregister.com/?imageId=239104&width=800"
     },
     {
       "source": "ET Tech",
@@ -630,26 +669,6 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "You can’t regulate your way to AI sovereignty",
-      "summary": "For years, critics of Europe’s AI strategy have made the same argument: while America builds artificial intelligence, Europe writes laws for it. The EU AI Act became the clearest expression of that divide – a landmark attempt to govern AI…",
-      "link": "https://thenextweb.com/news/you-cant-regulate-your-way-to-ai-sovereignty",
-      "date": "2026-08-09T17:00:30.000Z",
-      "category": "Policy & Safety",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/05/GPU.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Cerebras CEO says it’s “mind-boggling” that people think working 38 hours a week leads to greatness",
-      "summary": "Andrew Feldman, cofounder and CEO of AI chip company Cerebras, says it is “mind-boggling” that people believe they can achieve greatness while working 38 hours a week. “This notion that somehow you can build something extraordinary by work…",
-      "link": "https://thenextweb.com/news/cerebras-feldman-work-life-balance-38-hours-mind-boggling",
-      "date": "2026-08-09T16:20:47.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/cerebras-feldman-work-life-balance-38-hours-mind-boggling.avif"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "AI may redraw India’s IT services map; 20-25% of firms could struggle to cross over, says Nasscom chief",
       "summary": "Strong deal pipelines belie market concerns as 6.1% revenue growth outpaces 2.3% headcount growth",
@@ -708,36 +727,6 @@
       "category": "Security & Cyber Risk",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Myspace wants to sell you a feed without an algorithm. Brussels is about to make that mandatory anyway.",
-      "summary": "The Vanderhook brothers, whose company Viant Technology owns Myspace, have confirmed they intend to relaunch the platform. They made the announcement in a documentary titled Myspace, which premiered at Hot Docs in Toronto and also features…",
-      "link": "https://thenextweb.com/news/myspace-relaunch-chronological-feed-regulators",
-      "date": "2026-08-09T13:52:35.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/myspace-relaunch-chronological-feed-regulators.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Three labs, three breaches, one vendor. The AI hacking story was never about the models.",
-      "summary": "Over roughly two weeks, three frontier labs disclosed that their models had reached the open internet during safety testing and compromised outside organisations. Every disclosure named the same evaluation partner: Irregular, a company wit…",
-      "link": "https://thenextweb.com/news/irregular-ai-testing-vendor-openai-anthropic-meta-breaches",
-      "date": "2026-08-09T13:42:35.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/irregular-ai-testing-vendor-openai-anthropic-meta-breaches.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "OpenAI just bought a slide deck startup. It is assembling an office suite one acqui-hire at a time.",
-      "summary": "OpenAI has acquired NextSlide, a startup that turned prompts, notes, documents, and research into finished editable presentations. Financial terms were not disclosed, and the team has moved onto ChatGPT. Founder Ahmed Beshry announced the…",
-      "link": "https://thenextweb.com/news/openai-nextslide-acquisition-office-suite-microsoft",
-      "date": "2026-08-09T13:24:10.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/07/openai-dublin-250-jobs-european-headquarters-expansion.avif"
     },
     {
       "source": "Wired AI",
@@ -1100,16 +1089,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-1152x648.jpg"
     },
     {
-      "source": "The Register AI",
-      "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
-      "summary": "You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you?",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
-      "date": "2026-08-06T16:44:29.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5251269&width=800"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
       "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
@@ -1198,16 +1177,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-128128/132980799.cms"
-    },
-    {
-      "source": "OpenAI",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "date": "2026-08-06T00:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "Hugging Face",
@@ -1330,16 +1299,6 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_ai_salon_sketch_v2-320x320.jpg"
     },
     {
-      "source": "The Register AI",
-      "title": "UK mulls making employers ask before installing bossware",
-      "summary": "Proposals span AI productivity scores, keystroke logging, biometrics, and other ways to watch workers",
-      "link": "https://www.theregister.com/software/2026/08/04/uk-mulls-making-employers-ask-before-installing-bossware/5282440",
-      "date": "2026-08-04T07:30:00.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://image.theregister.com/?imageId=5282473&width=800"
-    },
-    {
       "source": "ET CIO",
       "title": "Amazon enters $3 trillion club as AI, cloud growth power rally",
       "summary": "Apple, Microsoft, Alphabet and Nvidia are the other companies that have recorded a market value of $3 trillion in the past. Nvidia is currently the world's biggest company ​with a market capitalization close to $5 trillion.",
@@ -1460,26 +1419,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-38068/132731699.cms"
     },
     {
-      "source": "Analytics Vidhya",
-      "title": "Claude Code CLI Commands I Wish I Had Known Sooner",
-      "summary": "I used Claude Code daily for months before realizing that claude --help hides many of its most useful capabilities. I kept restarting fresh sessions, repeatedly explaining the same project structure, simply because I did not know a better…",
-      "link": "https://www.analyticsvidhya.com/blog/2026/07/hidden-claude-code-cli-commands/",
-      "date": "2026-07-30T18:25:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "The Register AI",
-      "title": "Open source project fools AI scrapers with poisoned font",
-      "summary": "ShieldFont is available today if you've got copy that needs protecting",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
-      "date": "2026-07-30T17:19:23.000Z",
-      "category": "Open Source",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5281330&width=800"
-    },
-    {
       "source": "Hugging Face",
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "summary": "",
@@ -1530,16 +1469,6 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/07/RoW_Illustration-KimiK3-2-320x320.jpg"
     },
     {
-      "source": "The Register AI",
-      "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
-      "summary": "Capex spending? What? Me worry?",
-      "link": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
-      "date": "2026-07-29T23:17:56.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=256704&width=800"
-    },
-    {
       "source": "DeepMind",
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "summary": "",
@@ -1578,26 +1507,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Register AI",
-      "title": "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives",
-      "summary": "Up to 8 AI models running in the cloud weighing in on ambiguous business issues? Sounds affordable",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/perplexitys-tokenmaxxing-model-council-gives-you-multiple-bot-perspectives/5279972",
-      "date": "2026-07-28T21:26:53.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5279997&width=800"
-    },
-    {
-      "source": "The Register AI",
-      "title": "College prof hides prompt to catch AI cheaters, finds human nature is pretty much as we thought",
-      "summary": "Busted! A college professor who was tired of reading AI responses to essay questions found a unique way to determine if his students were cheating. Sadly but not surprisingly, 32 of the 35 students who took the test fell right into his tra…",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/college-prof-hides-prompt-to-catch-ai-cheaters-finds-human-nature-is-pretty-much-as-we-thought/5279864",
-      "date": "2026-07-28T16:20:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=1684071&width=800"
     },
     {
       "source": "Google AI",
@@ -1658,16 +1567,6 @@
       "category": "Hardware & Infra",
       "region": "South Korea",
       "image": null
-    },
-    {
-      "source": "The Register AI",
-      "title": "Leading AI models (even Grok) are all a bunch of leftist punks",
-      "summary": "AI seems to have a liberal bias",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/27/leading-ai-models-even-grok-are-all-a-bunch-of-leftist-punks/5279208",
-      "date": "2026-07-27T22:05:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5279264&width=800"
     },
     {
       "source": "MIT Tech Review",
@@ -1748,26 +1647,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://restofworld.org/wp-content/uploads/2026/07/illo_dispatch_newsletter_july24_final-320x320.jpg"
-    },
-    {
-      "source": "The Register AI",
-      "title": "OpenAI won't let some customers export their chats, but this tool will",
-      "summary": "ChatGPT Business and Enterprise users lack the standard chat export option, so third-party utilities like scrapemychats fill the gap",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795",
-      "date": "2026-07-23T20:48:39.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=5277830&width=800"
-    },
-    {
-      "source": "The Register AI",
-      "title": "IBM insists AI didn't kill software deals, just delayed them",
-      "summary": "Big Blue says customers postponed rather than abandoned major purchases as hardware soaked up enterprise budgets",
-      "link": "https://www.theregister.com/software/2026/07/23/ibm-insists-ai-didnt-kill-software-deals-just-delayed-them/5276977",
-      "date": "2026-07-23T11:34:42.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=241548&width=800"
     },
     {
       "source": "Hugging Face",
