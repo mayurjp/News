@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T11:59:06.022Z",
-  "count": 205,
+  "updated": "2026-08-11T13:45:03.931Z",
+  "count": 204,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,172 @@
   ],
   "items": [
     {
+      "source": "Hugging Face",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "date": "2026-08-11T13:37:10.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "ET Tech",
+      "title": "BLUE unveils AI-first video analytics infrastructure, targets 10X revenue growth by FY30",
+      "summary": "Bengaluru-based BLUE has unveiled a groundbreaking AI-native video infrastructure platform that leverages a cutting-edge semantic codec to optimize video data encoding. Designed to significantly cut bandwidth and storage expenses for busin…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/blue-unveils-ai-first-video-analytics-infrastructure-targets-10x-revenue-growth-by-fy30/articleshow/133154514.cms",
+      "date": "2026-08-11T13:21:54.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": "https://img.etimg.com/photo/msid-133154514,imgsize-275245.cms"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Wix launches Symphony, a new standalone multi-agent system built for business operations",
+      "summary": "Cloud-based website builder Wix Ltd. today announced the launch of Symphony, a new standalone agentic artificial intelligence platform that proactively learns business values, interests, needs, practices and goals to automate workflows and…",
+      "link": "https://siliconangle.com/2026/08/11/wix-launches-symphony-new-standalone-multi-agent-system-built-business-operations/",
+      "date": "2026-08-11T13:00:46.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/A-pixelated-AI-agent-providing-business-insights-to-a-businessman-wearing-a-suit-in-an-office-muted-.jpeg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Exclusive: ZeroDrift applies small language model to prevent AI-generated compliance violations",
+      "summary": "“This investment is guaranteed to return 12% annually.” A claim like that in an email from an investment adviser is a regulatory disaster. Regulations prohibit financial firms from promising returns and require a proviso that past performa…",
+      "link": "https://siliconangle.com/2026/08/11/exclusive-zerodrift-applies-small-language-model-prevent-ai-generated-compliance-violations/",
+      "date": "2026-08-11T13:00:35.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Data-privacy-compliance.jpg"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source communities moving local…",
+      "link": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+      "date": "2026-08-11T13:00:25.000Z",
+      "category": "Open Source",
+      "region": "Global",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/raig-rolling-blog-local-ai-community-open-source.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Blumira launches Hearth, an AI command center that spans rival security tools",
+      "summary": "Security operations platform startup Blumira Inc. today launched Hearth, a vendor-agnostic artificial intelligence command center that lets security teams investigate and act across their existing tools from a single interface. The product…",
+      "link": "https://siliconangle.com/2026/08/11/blumira-launches-hearth-ai-command-center-spans-rival-security-tools/",
+      "date": "2026-08-11T13:00:16.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/blumirahearth.png"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "China is pitching its AI models to Europe, but is it enough to avoid 2-horse race with US?",
+      "summary": "As the United States and China consolidate their dominance in artificial intelligence, attention is turning to whether Europe can carve out a distinct third pole – a “G3” – or remain in Washington’s technological orbit. The race is rapidly…",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3363649/china-pitching-its-ai-models-europe-it-enough-avoid-2-horse-race-us?utm_source=rss_feed",
+      "date": "2026-08-11T13:00:10.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/11/8ac54e08-79ad-47a4-9144-1a6e3189e14e_3b7eb259.jpg?itok=DBtoe_B-&v=1786437362"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+      "summary": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightni…",
+      "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "date": "2026-08-11T13:00:05.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Nvidia releases Nemotron 3.5 Lightning and NeMo Switchyard to give enterprise AI capability options",
+      "summary": "Artificial intelligence silicon and software giant Nvidia Corp. today announced two new services: a highly customizable Nemotron model and an agentic AI model router named NeMo Switchyard. As enterprises find themselves drowning in artific…",
+      "link": "https://siliconangle.com/2026/08/11/nvidia-releases-nemotron-3-5-lightning-nemo-switchyard-give-enterprise-ai-capability-options/",
+      "date": "2026-08-11T13:00:01.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/03/nemotron-3-release.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "date": "2026-08-11T13:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Wired AI",
+      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+      "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
+      "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+      "date": "2026-08-11T12:37:12.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6a7a4573b0493fdce2877e71/master/pass/Security_ZoomScreensharingBug.gif"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "Claude Now Watermarks Everything It Makes",
+      "summary": "First, pick the line that applies to you. Since August 2nd, 2026, Claude marks all content during generation. For instance, text receives a hidden watermark, while files receive a signature. Anthropic committed to the EU AI Act’s Code of P…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/08/claude-ai-watermarking-explained/",
+      "date": "2026-08-11T12:36:46.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
+      "image": null
+    },
+    {
+      "source": "ET Tech",
+      "title": "Samsung aims to train 20,000 youths in AI in India",
+      "summary": "This will be carried out under the 2026 edition of Samsung Innovation Campus (SIC), the flagship CSR programme dedicated to equipping young people with industry-relevant skills in artificial intelligence (AI), Samsung India said in a state…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-aims-to-train-20000-youths-in-ai-in-india/articleshow/133154203.cms",
+      "date": "2026-08-11T12:17:56.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://img.etimg.com/photo/msid-133154203,imgsize-40350.cms"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Coforge launches new PE business unit",
+      "summary": "New unit to help PE firms drive operational transformation and AI-led value creation across portfolios",
+      "link": "https://www.thehindubusinessline.com/info-tech/coforge-launches-new-pe-business-unit/article71332171.ece",
+      "date": "2026-08-11T12:13:55.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-news/fz0t2f/article71264027.ece/alternates/LANDSCAPE_1200/Coforge-securesGTUGA0PHJ.4.jpg.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster",
+      "summary": "The ‌cluster will ⁠provide ⁠inference for open-source AI models, which have ​gained traction as businesses seek to rein in AI ​costs and weigh concerns about cybersecurity incidents involving models from Anthropic, OpenAI and ​Meta.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ibm-together-ai-ink-240-million-deal-for-nvidia-powered-ai-inference-cluster/articleshow/133154010.cms",
+      "date": "2026-08-11T12:13:48.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-133154010,imgsize-31398.cms"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "date": "2026-08-11T12:13:47.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null,
+      "relatedSources": [
+        {
+          "source": "MediaNama",
+          "link": "https://www.medianama.com/2026/08/223-anthropic-watermark-c2pa-metadata-claude/"
+        }
+      ]
+    },
+    {
       "source": "Hindu BusinessLine",
       "title": "AI push: TCS, Google Cloud launch Gemini Experience center in Mexico",
       "summary": "Located in TCS' Mexico City office, the new facility will enable organisations in the region with advanced AI capabilities",
@@ -63,13 +229,13 @@
     },
     {
       "source": "SCMP Tech",
-      "title": "Alibaba tests paid AI appetite with US$30 annual QwenWork subscription",
-      "summary": "Alibaba Group Holding is asking app users to open their wallets for its artificial intelligence office assistant QwenWork, as the Chinese technology giant tests whether businesses and consumers are ready to pay for its digital assistant. T…",
+      "title": "Alibaba tests paid AI appetite with US$30 annual office-assistant subscription",
+      "summary": "Alibaba Group Holding is asking app users to open their wallets for its artificial intelligence office assistant, as the Chinese technology giant tests whether businesses and consumers are ready to pay for its digital assistant. The e-comm…",
       "link": "https://www.scmp.com/tech/big-tech/article/3363656/alibaba-tests-paid-ai-appetite-us30-annual-qwenwork-subscription?utm_source=rss_feed",
       "date": "2026-08-11T11:30:07.000Z",
       "category": "News",
       "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/11/4d60e16c-23d3-40b0-8448-0fb8a023d5ad_0ce4b06d.jpg?itok=uemBmv87&v=1786438659"
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/11/8df472bb-4645-48f8-93fd-5434fa5aee84_6f077dd7.jpg?itok=fUGuVy_J&v=1786453908"
     },
     {
       "source": "ET Tech",
@@ -96,16 +262,6 @@
       "category": "Policy & Safety",
       "region": "Europe",
       "image": "https://img.etimg.com/photo/msid-133152614,imgsize-58302.cms"
-    },
-    {
-      "source": "MediaNama",
-      "title": "Anthropic to embed watermark and C2PA metadata for AI-generated text and media by Claude",
-      "summary": "Claude now embeds watermarks in text and C2PA provenance metadata in media to comply with the EU AI Act's Article 50(2) Code of Practice, applied worldwide, with detection tools coming soon The post Anthropic to embed watermark and C2PA me…",
-      "link": "https://www.medianama.com/2026/08/223-anthropic-watermark-c2pa-metadata-claude/",
-      "date": "2026-08-11T11:15:18.000Z",
-      "category": "Policy & Safety",
-      "region": "Europe",
-      "image": null
     },
     {
       "source": "The Next Web",
@@ -202,16 +358,6 @@
           "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
         }
       ]
-    },
-    {
-      "source": "The Next Web",
-      "title": "House Democrats want answers from OpenAI and Anthropic on their rogue AI agents",
-      "summary": "US House Democrats have decided that AI agents breaking loose from their test environments is a matter for Congress, and on Monday they put that view in writing. Two letters went out, one to OpenAI and one to Anthropic, each demanding an a…",
-      "link": "https://thenextweb.com/news/house-democrats-press-anthropic-openai-rogue-agents",
-      "date": "2026-08-11T09:48:52.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/Anthropic-and-OpenAI.avif"
     },
     {
       "source": "Wired AI",
@@ -400,36 +546,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-88356/133094388.cms"
     },
     {
-      "source": "ET Tech",
-      "title": "Mark Zuckerberg manifesto sketches out Meta's ambitions for world-changing AI technology",
-      "summary": "In a document derided by critics as fantastical, Zuckerberg said his company is working toward an era where everyone will have the tools to create new businesses, receive Ph.D.-level tutoring and provide personalized lifestyle tips. His 8-…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mark-zuckerberg-manifesto-sketches-out-metas-ambitions-for-world-changing-ai-technology/articleshow/133140500.cms",
-      "date": "2026-08-11T02:23:11.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-133140500,imgsize-48686.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Memphis AI data center fuels pollution fight in Black neighborhood",
-      "summary": "The stench of rotten eggs and burning debris fills the air in Boxtown, a predominantly Black neighborhood in Memphis. Teenager Jasmine Bernard, who lives in a neighborhood bordering Boxtown, has been fighting for two years against the gas…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/memphis-ai-data-center-fuels-pollution-fight-in-black-neighborhood/articleshow/133140455.cms",
-      "date": "2026-08-11T02:17:03.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-133140455,imgsize-128282.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "AI's hunger for power sparks US private gas plant boom",
-      "summary": "As US tech companies race to build the data centers fueling the AI boom, they are increasingly putting up their own power plants -- off the grid and running on gas -- to get online faster. After years of decline, new announced fossil fuel…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/ais-hunger-for-power-sparks-us-private-gas-plant-boom/articleshow/133140372.cms",
-      "date": "2026-08-11T02:08:18.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-133140372,imgsize-86928.cms"
-    },
-    {
       "source": "SiliconANGLE",
       "title": "Nvidia taps Wall Street for a half-trillion dollars to fuel global AI infrastructure buildout",
       "summary": "Some of Wall Street’s biggest financial firms are partnering with Nvidia Corp. to pour a half-trillion dollars of funding into the artificial intelligence industry’s massive infrastructure buildout. Nvidia said today it has struck deals wi…",
@@ -570,16 +686,6 @@
       "image": null
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Graph neural networks are turning hidden fraud into visible networks",
-      "summary": "Graph neural networks are reshaping how enterprises hunt for fraud, moving detection beyond isolated transactions to reveal entire hidden networks of bad actors. As AI adoption accelerates, organizations are discovering that the real break…",
-      "link": "https://siliconangle.com/2026/08/10/graph-neural-networks-uncover-pharmaceutical-fraud-neo4jgraphtalk/",
-      "date": "2026-08-10T17:11:20.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/IMG_8065.jpg"
-    },
-    {
       "source": "OpenAI",
       "title": "What building an AI-native finance function taught me",
       "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
@@ -620,16 +726,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "On theCUBE Pod: Black Hat exposes agentic threat, theCUBE remembers David Floyer",
-      "summary": "Artificial intelligence systems are developing faster than cybersecurity experts — and the energy grid — can keep up with. At the recent Black Hat USA event, security analysts viewed the rise of AI-driven cyberattacks as a “sky is falling”…",
-      "link": "https://siliconangle.com/2026/08/10/agentic-ai-systems-david-floyer-thecubepod/",
-      "date": "2026-08-10T14:26:45.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/John-Furrier-and-Dave-Vellante-theCUBE-Pod-133.png"
-    },
-    {
       "source": "OpenAI",
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
       "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
@@ -658,16 +754,6 @@
       "category": "People & Leadership",
       "region": "China",
       "image": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/LATVIA-BRANDING-60_1786259976193_1786259981658_53cd5bbb-b9d0-41ed-b5d2-5c4757bff658_1786363749695_4b71ab22-5701-4ec9-ac4f-cf80633d29b2.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "AI-native market research automation startup Echovane raises $1M",
-      "summary": "Agentic artificial intelligence startup Echovane Inc. said today it has closed on a $1 million pre-seed funding round to accelerate the development of its AI-native market research platform. Titan Capital and Neon Fund co-led the round, wh…",
-      "link": "https://siliconangle.com/2026/08/10/ai-native-market-research-automation-startup-echovane-raises-1m/",
-      "date": "2026-08-10T12:00:51.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-10-08-35-12.png"
     },
     {
       "source": "OpenAI",
@@ -906,16 +992,6 @@
       "image": "https://image.theregister.com/?imageId=239104&width=800"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Veeam pushes cyber resilience as AI raises data risks",
-      "summary": "As AI agents expand the enterprise attack surface, cybersecurity teams are putting greater emphasis on an AI resilience strategy built around the ability to recover quickly when prevention fails. That shift is also driving organizations to…",
-      "link": "https://siliconangle.com/2026/08/09/ai-resilience-strategy-blackhat/",
-      "date": "2026-08-10T00:28:42.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_7737.jpg"
-    },
-    {
       "source": "OpenAI",
       "title": "Premium seats are coming to ChatGPT Business",
       "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
@@ -966,42 +1042,12 @@
       "image": null
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "AI may redraw India’s IT services map; 20-25% of firms could struggle to cross over, says Nasscom chief",
-      "summary": "Strong deal pipelines belie market concerns as 6.1% revenue growth outpaces 2.3% headcount growth",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-may-redraw-indias-it-services-map-20-25-firms-could-struggle-to-cross-over-says-nasscom-chief/article71324778.ece",
-      "date": "2026-08-09T16:15:56.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/r0feq8/article71324926.ece/alternates/LANDSCAPE_1200/Rajesh%20Nambiar.jpg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "date": "2026-08-09T15:00:00.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Top 5 Claude Skills for Marketing",
       "summary": "Claude can write an ad or email from a prompt. This is usually done manually. Useful, but hardly a coherent system. The work still needs research, positioning, channel planning, quality checks, and reporting. Claude’s marketing skills add…",
       "link": "https://www.analyticsvidhya.com/blog/2026/08/best-claude-marketing-skills/",
       "date": "2026-08-09T14:56:04.000Z",
       "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The AI safety test is becoming a safety risk",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
-      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "date": "2026-08-09T14:30:00.000Z",
-      "category": "Security & Cyber Risk",
       "region": "Global",
       "image": null
     },
@@ -1164,16 +1210,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Wired AI",
-      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-      "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-      "date": "2026-08-07T10:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6a74accfee5313e488f8fb05/master/pass/080726-Guy-Running-Chatbot-By-Hand-Business.jpg"
     },
     {
       "source": "AI News",
@@ -1566,16 +1602,6 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/07/GettyImages-2284107890-320x320.jpg"
     },
     {
-      "source": "Analytics Vidhya",
-      "title": "July 2026 AI Releases: A Timeline of Frontier Model Shifts",
-      "summary": "July 2026 was the busiest month for frontier model releases the field has seen. Four major labs shipped flagship or near-flagship models, two well funded newcomers shipped their first, and the largest open weight model ever published went…",
-      "link": "https://www.analyticsvidhya.com/blog/2026/07/july-2026-ai-models-releases/",
-      "date": "2026-07-31T09:01:01.000Z",
-      "category": "Open Source",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "The Register AI",
       "title": "Open source project fools AI scrapers with poisoned font",
       "summary": "ShieldFont is available today if you've got copy that needs protecting",
@@ -1604,16 +1630,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "NVIDIA",
-      "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
-      "summary": "Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When it’s time to switch fr…",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
-      "date": "2026-07-30T13:00:20.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/gfn-thursday-7-30-bts-nv-blog-1280x680-logo.jpg"
     },
     {
       "source": "MIT Tech Review",
@@ -1714,16 +1730,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "NVIDIA",
-      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-      "summary": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Convicti…",
-      "link": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-      "date": "2026-07-28T15:00:19.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SarahGuo_Jetson_FeaturedImage.png"
     },
     {
       "source": "DeepMind",
@@ -1844,16 +1850,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://image.theregister.com/?imageId=5277830&width=800"
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nunchaku-diffusers",
-      "date": "2026-07-23T00:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "DeepMind",
