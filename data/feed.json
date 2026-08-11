@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T07:39:31.195Z",
-  "count": 186,
+  "updated": "2026-08-11T09:15:51.175Z",
+  "count": 196,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -43,11 +43,99 @@
   "regions": [
     "India",
     "China",
+    "Europe",
+    "Japan",
     "South Korea",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "Wired AI",
+      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+      "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
+      "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
+      "date": "2026-08-11T09:00:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6a74f6a1ee5313e488f90591/master/pass/esquizofrenia.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Six finance giants back Nvidia’s $500bn plan to fund the AI buildout",
+      "summary": "Nvidia has recruited six of the largest names in finance to help turn its chips into something a bank can lend against. The company announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to build what…",
+      "link": "https://thenextweb.com/news/nvidia-500bn-compute-financing-platforms",
+      "date": "2026-08-11T08:55:22.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/02/Nvidias-Q4-results-could-make-or-break-confidence-in-the-AI-hardware-market.avif"
+    },
+    {
+      "source": "ET Tech",
+      "title": "China bets on AI weather forecasting as extreme weather intensifies",
+      "summary": "Artificial intelligence is increasingly being tested during typhoon season in ​East Asia, where even small improvements in track forecasts can help authorities better prepare for flooding, organise evacuations and manage potential transpor…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-bets-on-ai-weather-forecasting-as-extreme-weather-intensifies/articleshow/133147991.cms",
+      "date": "2026-08-11T08:43:17.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://img.etimg.com/photo/msid-133147991,imgsize-59914.cms"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Exclusive: Vienna’s fonio.ai hits $10m ARR less than a year after switching on subscriptions",
+      "summary": "Vienna startup most of the tech world has not heard of just posted numbers that would turn heads anywhere. fonio.ai, a European platform for AI-powered customer calls, says it has surpassed $10m in annual recurring revenue in under twelve…",
+      "link": "https://thenextweb.com/news/fonio-ai-10-million-arr-vienna-voice-ai",
+      "date": "2026-08-11T08:42:02.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/08/fonio.ai-team.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Bios Life leaves stealth with $25M and a Tempus alliance for cancer surveillance",
+      "summary": "A team of BioNTech alumni thinks cancer screening has been stuck in the past, and it has raised $25M to do something about it. Bios Life has emerged from stealth with a plan to replace one-off screening with continuous, AI-driven surveilla…",
+      "link": "https://thenextweb.com/news/bios-life-25m-ai-cancer-surveillance-tempus",
+      "date": "2026-08-11T08:01:44.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/Bios-Life-Founders.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Lovable’s answer to enterprise AI risk is an insurance policy from Lloyd’s",
+      "summary": "Lovable has become the first coding agent platform certified under AIUC-1, a security standard for AI agents that comes with something unusual attached: the certifying body also underwrites the risk. Customers using a certified agent are i…",
+      "link": "https://thenextweb.com/news/lovable-aiuc-1-trust-centers-enterprise-procurement",
+      "date": "2026-08-11T07:44:54.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/06/lovable-ceo-europe-ai-confidence-problem-talent-silicon-valley.avif"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Nvidia taps Wall Street for $500 billion funding commitment",
+      "summary": "US investment giants including Apollo Global Management Inc., Blackstone Inc., BlackRock Inc. and Brookfield Asset Management are coming together ‘to create pools of capital at attractive rates for Nvidia customers’",
+      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-taps-wall-street-for-500-billion-funding-commitment/article71331315.ece",
+      "date": "2026-08-11T07:39:28.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/gxra7y/article71265240.ece/alternates/LANDSCAPE_1200/2026-07-24T181041Z_1627578823_RC2YEMA736K2_RTRMADP_3_USA-AI.JPG",
+      "relatedSources": [
+        {
+          "source": "SCMP Tech",
+          "link": "https://www.scmp.com/news/article/3363577/nvidia-team-wall-street-us500-billion-package-ai-infrastructure-projects?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "source": "Japan Times",
+      "title": "Japan mulls use of domestic AI in SDF command system",
+      "summary": "The government hopes the move will help SDF commanders make decisions, at a time when countries around the world are rushing to adapt to new ways of warfare.",
+      "link": "https://www.japantimes.co.jp/news/2026/08/11/japan/domestic-ai-sdf-command-system/",
+      "date": "2026-08-11T07:35:00.000Z",
+      "category": "News",
+      "region": "Japan",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/11/thumbs/400x400/556634.jpg"
+    },
     {
       "source": "The Next Web",
       "title": "How AI is transforming frontend engineering for modern web applications",
@@ -321,6 +409,16 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg"
     },
     {
+      "source": "The Register AI",
+      "title": "Hey, big spender – OpenAI has a new SKU just for you",
+      "summary": "$125 a month? So, how good are those open-weight models getting, again?",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
+      "date": "2026-08-10T21:25:39.000Z",
+      "category": "Open Source",
+      "region": "United States",
+      "image": "https://image.theregister.com/?imageId=244264&width=800"
+    },
+    {
       "source": "TechCrunch AI",
       "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
       "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
@@ -351,16 +449,6 @@
       "image": "https://media.thenextweb.com/2026/08/paul-edmondson-ceo-Arena-Group.avif"
     },
     {
-      "source": "The Next Web",
-      "title": "Google is testing a homepage without a Search button",
-      "summary": "Google is testing a homepage with no Search button. A small group of signed-out users see three AI shortcuts in its place, and the familiar layout returns the moment they log in. Search Engine Watch spotted the change on Monday and reprodu…",
-      "link": "https://thenextweb.com/news/google-ai-first-homepage-test-search-button-signed-out",
-      "date": "2026-08-10T20:11:52.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/google-assistant-shutdown-september-4-gemini-replacement.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
       "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
@@ -369,16 +457,6 @@
       "category": "Security & Cyber Risk",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Point2 raised $136M to solve AI’s wiring problem. Its RF cables beat copper on reach and optics on latency.",
-      "summary": "Point2 Technology has raised $136 million in total Series B financing to commercialise a new type of cable that could replace both copper and optics inside AI data centres. The latest extension was led by LB Investment, with new strategic…",
-      "link": "https://thenextweb.com/news/point2-136m-series-b-rf-interconnect-ai-data-centre",
-      "date": "2026-08-10T20:00:53.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/point2-136m-series-b-rf-interconnect-ai-data-centre.avif"
     },
     {
       "source": "MIT Tech Review",
@@ -401,26 +479,6 @@
       "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Black-Hat-2026-Show-Wrap-Clean.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "Cybersecurity stocks hit record highs, and one analyst target lasted a morning",
-      "summary": "CrowdStrike and Palo Alto Networks hit record highs on Monday. Each rose more than 5%, after a week in which the Black Hat conference in Las Vegas turned into an argument about AI agents. CNBC’s Samantha Subin reported the move. CrowdStrik…",
-      "link": "https://thenextweb.com/news/crowdstrike-palo-alto-record-highs-black-hat-ai-agents",
-      "date": "2026-08-10T19:33:17.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/CrowdStrike-logo.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "OpenAI is hiring a power trader, because electricity is now a position on its books",
-      "summary": "OpenAI is recruiting a power-trading lead for its data centres. The role will own commodity hedging strategy across the company’s power portfolio. It will have no direct reports at first. Bloomberg’s Julian Hast reported the listing on Mon…",
-      "link": "https://thenextweb.com/news/openai-power-trading-lead-data-centre-hedging",
-      "date": "2026-08-10T19:05:40.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/07/openai-dublin-250-jobs-european-headquarters-expansion.avif"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "How to Install Claude Code: A Step-by-Step Guide",
       "summary": "You have probably heard by now. Claude Code burns through usage limits! But most of us live in the web app… distant from the terminal app, around which the buzz is about. Maybe that was enough to make you curious. Maybe you already knew ex…",
@@ -429,16 +487,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Nvidia to team with Wall Street on US$500 billion package for AI infrastructure projects",
-      "summary": "A group of US investment giants are partnering with Nvidia on US$500 billion in funding for AI infrastructure projects, the Financial Times reported. Apollo Global Management, Blackstone, BlackRock’s Global Infrastructure Partners, Brookfi…",
-      "link": "https://www.scmp.com/news/article/3363577/nvidia-team-wall-street-us500-billion-package-ai-infrastructure-projects?utm_source=rss_feed",
-      "date": "2026-08-10T18:18:48.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/11/3ecc73b3-57f4-4b3c-9c19-182fad6d0a7e_a285b203.jpg?itok=rpFbvsxd&v=1786385629"
     },
     {
       "source": "SiliconANGLE",
@@ -609,16 +657,6 @@
       "category": "People & Leadership",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "ET Tech",
-      "title": "North Korean hacking group builds AI tools for cyberattacks, report says",
-      "summary": "The cybersecurity firm, Genians, said it ‌found evidence ⁠that the ⁠North Korean-linked group Kimsuky had set up tools for running and ​managing AI models locally, including Ollama, GPT4All and Msty, alongside document ​search technology k…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/north-korean-hacking-group-builds-ai-tools-for-cyberattacks-report-says/articleshow/133099235.cms",
-      "date": "2026-08-10T11:04:42.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "South Korea",
-      "image": "https://img.etimg.com/photo/msid-133099235,imgsize-56450.cms"
     },
     {
       "source": "Ars Technica AI",
@@ -807,6 +845,16 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
+      "source": "The Register AI",
+      "title": "NEC tests parking tech that only starts charging once you exit your car",
+      "summary": "PLUS: Infosys to wear Crocs for a decade; Fujifilm may quit printers; 2GW datacenter debuts in western China; and more!",
+      "link": "https://www.theregister.com/software/2026/08/10/nec-tests-parking-tech-that-only-starts-charging-once-you-exit-your-car/5285245",
+      "date": "2026-08-10T01:32:04.000Z",
+      "category": "Hardware & Infra",
+      "region": "India",
+      "image": "https://image.theregister.com/?imageId=239104&width=800"
+    },
+    {
       "source": "SiliconANGLE",
       "title": "Veeam pushes cyber resilience as AI raises data risks",
       "summary": "As AI agents expand the enterprise attack surface, cybersecurity teams are putting greater emphasis on an AI resilience strategy built around the ability to recover quickly when prevention fails. That shift is also driving organizations to…",
@@ -935,16 +983,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://media.wired.com/photos/6a724999f2d8472b4d0de644/master/pass/AI-Barons-Business.gif"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Outcome-based IT services no longer optional: Nasscom’s Rajesh Nambiar",
-      "summary": "In an interview with businessline, Rajesh Nambiar, President of IT industry body Nasscom, discusses how AI is changing the economics of IT services, why outcome-based delivery is becoming inevitable, the industry’s AI readiness, talent and…",
-      "link": "https://www.thehindubusinessline.com/info-tech/outcome-based-it-services-no-longer-optional-nasscoms-rajesh-nambiar/article71318670.ece",
-      "date": "2026-08-09T08:58:23.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/ojeazu/article71318655.ece/alternates/LANDSCAPE_1200/Rajesh%20Nambiar.jpg"
     },
     {
       "source": "Analytics Vidhya",
@@ -1147,16 +1185,6 @@
       "image": "https://media.wired.com/photos/6a73b0755ac7830744b4402a/master/pass/Model-Behavior-Why-Normal-People-Dont-Use-AI-Business.jpg"
     },
     {
-      "source": "Wired AI",
-      "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-      "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
-      "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
-      "date": "2026-08-06T19:30:46.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6a73adcb4d38623d11dd77c4/master/pass/Uncanny-Valley-ICE-DNA-Politics.jpg"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Large genome models used to design new viruses",
       "summary": "The AI system makes genetically distant versions of a bacteria-killing virus.",
@@ -1165,6 +1193,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-1152x648.jpg"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
+      "summary": "You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you?",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
+      "date": "2026-08-06T16:44:29.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5251269&width=800"
     },
     {
       "source": "Analytics Vidhya",
@@ -1337,6 +1375,16 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_ai_salon_sketch_v2-320x320.jpg"
     },
     {
+      "source": "The Register AI",
+      "title": "UK mulls making employers ask before installing bossware",
+      "summary": "Proposals span AI productivity scores, keystroke logging, biometrics, and other ways to watch workers",
+      "link": "https://www.theregister.com/software/2026/08/04/uk-mulls-making-employers-ask-before-installing-bossware/5282440",
+      "date": "2026-08-04T07:30:00.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://image.theregister.com/?imageId=5282473&width=800"
+    },
+    {
       "source": "ET CIO",
       "title": "Amazon enters $3 trillion club as AI, cloud growth power rally",
       "summary": "Apple, Microsoft, Alphabet and Nvidia are the other companies that have recorded a market value of $3 trillion in the past. Nvidia is currently the world's biggest company ​with a market capitalization close to $5 trillion.",
@@ -1447,6 +1495,16 @@
       "image": null
     },
     {
+      "source": "The Register AI",
+      "title": "Open source project fools AI scrapers with poisoned font",
+      "summary": "ShieldFont is available today if you've got copy that needs protecting",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
+      "date": "2026-07-30T17:19:23.000Z",
+      "category": "Open Source",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5281330&width=800"
+    },
+    {
       "source": "Hugging Face",
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "summary": "",
@@ -1497,6 +1555,16 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/07/RoW_Illustration-KimiK3-2-320x320.jpg"
     },
     {
+      "source": "The Register AI",
+      "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
+      "summary": "Capex spending? What? Me worry?",
+      "link": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
+      "date": "2026-07-29T23:17:56.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://image.theregister.com/?imageId=256704&width=800"
+    },
+    {
       "source": "DeepMind",
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "summary": "",
@@ -1535,6 +1603,26 @@
       "category": "News",
       "region": "Global",
       "image": null
+    },
+    {
+      "source": "The Register AI",
+      "title": "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives",
+      "summary": "Up to 8 AI models running in the cloud weighing in on ambiguous business issues? Sounds affordable",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/perplexitys-tokenmaxxing-model-council-gives-you-multiple-bot-perspectives/5279972",
+      "date": "2026-07-28T21:26:53.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5279997&width=800"
+    },
+    {
+      "source": "The Register AI",
+      "title": "College prof hides prompt to catch AI cheaters, finds human nature is pretty much as we thought",
+      "summary": "Busted! A college professor who was tired of reading AI responses to essay questions found a unique way to determine if his students were cheating. Sadly but not surprisingly, 32 of the 35 students who took the test fell right into his tra…",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/college-prof-hides-prompt-to-catch-ai-cheaters-finds-human-nature-is-pretty-much-as-we-thought/5279864",
+      "date": "2026-07-28T16:20:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=1684071&width=800"
     },
     {
       "source": "Google AI",
@@ -1595,6 +1683,16 @@
       "category": "Hardware & Infra",
       "region": "South Korea",
       "image": null
+    },
+    {
+      "source": "The Register AI",
+      "title": "Leading AI models (even Grok) are all a bunch of leftist punks",
+      "summary": "AI seems to have a liberal bias",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/27/leading-ai-models-even-grok-are-all-a-bunch-of-leftist-punks/5279208",
+      "date": "2026-07-27T22:05:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5279264&width=800"
     },
     {
       "source": "MIT Tech Review",
@@ -1665,6 +1763,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://restofworld.org/wp-content/uploads/2026/07/illo_dispatch_newsletter_july24_final-320x320.jpg"
+    },
+    {
+      "source": "The Register AI",
+      "title": "OpenAI won't let some customers export their chats, but this tool will",
+      "summary": "ChatGPT Business and Enterprise users lack the standard chat export option, so third-party utilities like scrapemychats fill the gap",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795",
+      "date": "2026-07-23T20:48:39.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://image.theregister.com/?imageId=5277830&width=800"
     },
     {
       "source": "Hugging Face",
