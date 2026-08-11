@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T09:15:51.175Z",
-  "count": 196,
+  "updated": "2026-08-11T10:14:47.394Z",
+  "count": 207,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -46,10 +46,83 @@
     "Europe",
     "Japan",
     "South Korea",
+    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "The Next Web",
+      "title": "Anthropic signs a $9.1bn, 20-year cloud deal with bitcoin miner Riot Platforms",
+      "summary": "Anthropic has struck another enormous deal to feed its appetite for computing power, and this time the counterparty is a company that until recently made its money digging up bitcoin. The twenty-year arrangement is worth $9.1 billion and g…",
+      "link": "https://thenextweb.com/news/anthropic-riot-9bn-data-centre-deal",
+      "date": "2026-08-11T10:01:08.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/Anthropic-logo.avif"
+    },
+    {
+      "source": "Wired AI",
+      "title": "AI Is Dead. Organoids Are Alive",
+      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
+      "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+      "date": "2026-08-11T10:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6a7a2641ddfb8a809864e7f8/master/pass/IN-LINE_LILAC.png"
+    },
+    {
+      "source": "AI News",
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become No…",
+      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "date": "2026-08-11T10:00:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Rest of World",
+      "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
+      "summary": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
+      "link": "https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "date": "2026-08-11T10:00:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://restofworld.org/wp-content/uploads/2026/07/QA-AI-VC-Final-320x320.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "OpenAI buys back $7 billion of employee shares in tender offer",
+      "summary": "The ChatGPT maker bought back shares from current and former employees rather than tapping outside investors for the tender offer. The deal valued the startup at $852 billion, unchanged from its most recent funding round.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-buys-back-7-billion-of-employee-shares-in-tender-offer/articleshow/133149772.cms",
+      "date": "2026-08-11T09:55:03.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-133149772,imgsize-41819.cms",
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "House Democrats want answers from OpenAI and Anthropic on their rogue AI agents",
+      "summary": "US House Democrats have decided that AI agents breaking loose from their test environments is a matter for Congress, and on Monday they put that view in writing. Two letters went out, one to OpenAI and one to Anthropic, each demanding an a…",
+      "link": "https://thenextweb.com/news/house-democrats-press-anthropic-openai-rogue-agents",
+      "date": "2026-08-11T09:48:52.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/Anthropic-and-OpenAI.avif",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-house-democrats-press-anthropic-openai-about-rogue-ai-agents/articleshow/133117961.cms"
+        }
+      ]
+    },
     {
       "source": "Wired AI",
       "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
@@ -118,13 +191,7 @@
       "date": "2026-08-11T07:39:28.000Z",
       "category": "Business & Funding",
       "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/gxra7y/article71265240.ece/alternates/LANDSCAPE_1200/2026-07-24T181041Z_1627578823_RC2YEMA736K2_RTRMADP_3_USA-AI.JPG",
-      "relatedSources": [
-        {
-          "source": "SCMP Tech",
-          "link": "https://www.scmp.com/news/article/3363577/nvidia-team-wall-street-us500-billion-package-ai-infrastructure-projects?utm_source=rss_feed"
-        }
-      ]
+      "image": "https://bl-i.thgim.com/public/incoming/gxra7y/article71265240.ece/alternates/LANDSCAPE_1200/2026-07-24T181041Z_1627578823_RC2YEMA736K2_RTRMADP_3_USA-AI.JPG"
     },
     {
       "source": "Japan Times",
@@ -177,6 +244,16 @@
       "image": "https://img.etimg.com/photo/msid-133145658,imgsize-11494.cms"
     },
     {
+      "source": "AI News",
+      "title": "How AI is changing the vulnerability response timeline",
+      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recen…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "date": "2026-08-11T07:05:55.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "ET Tech",
       "title": "Explained: Anthropic’s plan to watermark all Claude-generated content, and how it works",
       "summary": "Invisible watermarks will be woven directly into text generated by Claude models. It will not alter the meaning, quality, or readability of a response and can travel with the text when copied elsewhere, potentially persisting through some…",
@@ -194,7 +271,7 @@
       "date": "2026-08-11T06:12:31.000Z",
       "category": "News",
       "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
+      "image": "https://www.livemint.com/lm-img/img/2026/08/11/1600x900/maxresdefault_1786440906502_1786440911766_d32d8a6d-8529-4f47-9324-74c287d89899.jpg"
     },
     {
       "source": "LiveMint Tech",
@@ -344,16 +421,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "summary": "San Francisco's housing market is in trouble again.",
-      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "date": "2026-08-11T00:03:18.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
       "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
       "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
@@ -390,13 +457,7 @@
       "date": "2026-08-10T22:58:29.000Z",
       "category": "Security & Cyber Risk",
       "region": "Global",
-      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Corma-team.-Credit-Avishag-Shaar-Yashuv..jpeg",
-      "relatedSources": [
-        {
-          "source": "The Next Web",
-          "link": "https://thenextweb.com/news/corma-60m-seed-sequoia-defensive-cybersecurity-ai"
-        }
-      ]
+      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Corma-team.-Credit-Avishag-Shaar-Yashuv..jpeg"
     },
     {
       "source": "Ars Technica AI",
@@ -437,16 +498,6 @@
       "category": "Hardware & Infra",
       "region": "United States",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2267221283-1152x648.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "The Arena Group is renaming itself Paradium.AI, and its revenue just halved",
-      "summary": "The Arena Group is renaming itself Paradium.AI. The publisher of TheStreet, Parade and Men’s Journal expects the change to finish by the end of August. Business Insider had it first. Steven Tweedie and Ben Shimkus obtained a staff memo fro…",
-      "link": "https://thenextweb.com/news/arena-group-paradium-ai-rebrand-q2-2026-results",
-      "date": "2026-08-10T20:27:18.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/paul-edmondson-ceo-Arena-Group.avif"
     },
     {
       "source": "TechCrunch AI",
@@ -529,16 +580,6 @@
       "image": null
     },
     {
-      "source": "ET Tech",
-      "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents",
-      "summary": "OpenAI and Anthropic disclosed in July that their AI ‌agents had broken ⁠out ⁠of their environments and hacked into the systems of other companies during cybersecurity tests.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-house-democrats-press-anthropic-openai-about-rogue-ai-agents/articleshow/133117961.cms",
-      "date": "2026-08-10T16:13:27.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-133117961,imgsize-60938.cms"
-    },
-    {
       "source": "Google AI",
       "title": "Evolve your marketing with new AI tools",
       "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
@@ -577,16 +618,6 @@
       "category": "Hardware & Infra",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-133108749,imgsize-94816.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Mark Zuckerberg dispels doomsday fears, heralds a rosy AI dawn",
-      "summary": "In a blog post, Zuckerberg said, \"I do not understand why anyone who believes that AI will eliminate most jobs and much of humanity's relevance would rush to build that future. The notion that AI is so dangerous that the only safe path is…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mark-zuckerberg-dispels-doomsday-fears-heralds-a-rosy-ai-dawn/articleshow/133108717.cms",
-      "date": "2026-08-10T13:12:24.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-133108717,imgsize-32958.cms"
     },
     {
       "source": "MediaNama",
@@ -659,6 +690,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers…",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "date": "2026-08-10T11:02:38.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Ars Technica AI",
       "title": "Peer review is overwhelmed—can it survive in the AI era?",
       "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
@@ -726,6 +767,16 @@
       "date": "2026-08-10T10:00:00.000Z",
       "category": "Security & Cyber Risk",
       "region": "United States",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "The limits of physics AI: where Siemens says the human stays in charge",
+      "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safet…",
+      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "date": "2026-08-10T10:00:00.000Z",
+      "category": "News",
+      "region": "Global",
       "image": null
     },
     {
@@ -1065,6 +1116,26 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Stanford Evo 2 AI model generates phages against E. coli",
+      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work cen…",
+      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "date": "2026-08-07T15:05:03.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "How AI Is changing Instagram engagement without replacing the human touch",
+      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it’s the whole algorithm. But here’s the p…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+      "date": "2026-08-07T14:33:59.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Wired AI",
       "title": "Scientists Used AI to Create 16 New Viruses",
       "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
@@ -1113,6 +1184,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://media.wired.com/photos/6a74accfee5313e488f8fb05/master/pass/080726-Guy-Running-Chatbot-By-Hand-Business.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Alibaba tests new business model for Qwen open-source AI",
+      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that ge…",
+      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+      "date": "2026-08-07T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": null
     },
     {
       "source": "OpenAI",
@@ -1175,16 +1256,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/amodei_header_1-1152x648.jpg"
     },
     {
-      "source": "Wired AI",
-      "title": "Why Normal People Aren’t Using AI Agents",
-      "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-      "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-      "date": "2026-08-06T19:55:45.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6a73b0755ac7830744b4402a/master/pass/Model-Behavior-Why-Normal-People-Dont-Use-AI-Business.jpg"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Large genome models used to design new viruses",
       "summary": "The AI system makes genetically distant versions of a bacteria-killing virus.",
@@ -1212,6 +1283,16 @@
       "date": "2026-08-06T16:04:40.000Z",
       "category": "News",
       "region": "United States",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Why health AI interfaces must adapt to user expertise",
+      "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI…",
+      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+      "date": "2026-08-06T15:55:37.000Z",
+      "category": "Research",
+      "region": "Global",
       "image": null
     },
     {
@@ -1265,6 +1346,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
+      "summary": "Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates thousands of tile embeddings per slide…",
+      "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
+      "date": "2026-08-05T15:26:20.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Analytics Vidhya",
       "title": "Top 5 Claude Skills for Writing (Ranked by GitHub Stars)",
       "summary": "Search “best Claude Skills for writing” and you get lists padded with skills that write commit messages and internal status reports. Useful things. Not writing. This list only includes repositories that exist for writing. Every entry is a…",
@@ -1283,6 +1374,16 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
+      "summary": "Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems. Qwen3.8-Max has 2.4 trillion parameters and uses a mixt…",
+      "link": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
+      "date": "2026-08-05T10:00:00.000Z",
+      "category": "Product",
+      "region": "China",
+      "image": null
     },
     {
       "source": "Rest of World",
@@ -1755,16 +1856,6 @@
       "image": "https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png"
     },
     {
-      "source": "Rest of World",
-      "title": "Why state-owned AI won’t solve inequality",
-      "summary": "Government ownership of AI companies may promise shared wealth, but it risks weakening oversight and accountability.",
-      "link": "https://restofworld.org/2026/ai-government-ownership/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "date": "2026-07-24T13:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://restofworld.org/wp-content/uploads/2026/07/illo_dispatch_newsletter_july24_final-320x320.jpg"
-    },
-    {
       "source": "The Register AI",
       "title": "OpenAI won't let some customers export their chats, but this tool will",
       "summary": "ChatGPT Business and Enterprise users lack the standard chat export option, so third-party utilities like scrapemychats fill the gap",
@@ -2023,6 +2114,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     },
     {
       "source": "BAIR",
