@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T21:04:53.032Z",
+  "updated": "2026-08-12T22:04:47.612Z",
   "count": 207,
   "sources": [
     "OpenAI",
@@ -51,6 +51,36 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "Ars Technica AI",
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "date": "2026-08-12T21:43:21.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Google launches five new Pixel devices, array of Gemini Intelligence features",
+      "summary": "Google LLC today expanded its Pixel consumer hardware line with a foldable handset, three smartphones and a smartwatch. The devices will ship with an upgraded version of the company’s Gemini Intelligence software. It’s a set of artificial…",
+      "link": "https://siliconangle.com/2026/08/12/google-launches-five-new-pixel-devices-array-gemini-intelligence-features/",
+      "date": "2026-08-12T21:18:35.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Google.png"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "date": "2026-08-12T21:00:30.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg"
+    },
     {
       "source": "Wired AI",
       "title": "The White House Is Going to Expand Its AI Policy",
@@ -684,14 +714,14 @@
       "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IBM.png"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "CoreWeave coasts to a solid earnings beat, sending its stock higher after-hours",
-      "summary": "Shares of the artificial intelligence data center firm CoreWeave Inc. jumped more than 14% in extended trading today after it delivered solid financial results that easily beat Wall Street’s projections. The company reported a second-quart…",
-      "link": "https://siliconangle.com/2026/08/11/coreweave-coasts-solid-earnings-beat-sending-stock-higher-hours/",
-      "date": "2026-08-12T00:28:52.000Z",
-      "category": "Business & Funding",
+      "source": "OpenAI",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "link": "https://openai.com/index/ringcentral",
+      "date": "2026-08-12T00:00:00.000Z",
+      "category": "News",
       "region": "Global",
-      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/Screenshot-from-2025-11-11-06-32-30-768x465.png"
+      "image": null
     },
     {
       "source": "Ars Technica AI",
@@ -1245,19 +1275,9 @@
     },
     {
       "source": "OpenAI",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "date": "2026-08-10T00:00:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "Premium seats are coming to ChatGPT Business",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "link": "https://openai.com/index/premium-seats-chatgpt-business",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "link": "https://openai.com/index/zapier",
       "date": "2026-08-10T00:00:00.000Z",
       "category": "News",
       "region": "Global",
@@ -1364,16 +1384,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mentalhealthaichat-1152x648.jpg"
     },
     {
-      "source": "Ars Technica AI",
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "summary": "TikTok owner training a model with 10 trillion parameters.",
-      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "date": "2026-08-07T13:29:22.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/bytedance-1152x648.jpg"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Top 10 Skills for Claude Code and Codex CLI",
       "summary": "The real skill isn’t getting AI to answers! But to do so in a manner that fits our budgets and fulfils our requirements. It’s guiding it with clear context and turning its output into useful action. This list is built around a simpler idea…",
@@ -1402,16 +1412,6 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-19103/133020436.cms"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Suno hopes to go legit with watermarks for AI-generated music",
-      "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
-      "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-      "date": "2026-08-06T20:17:36.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/singing_robot_hero-1152x648.jpg"
     },
     {
       "source": "The Register AI",
