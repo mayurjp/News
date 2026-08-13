@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T10:29:49.835Z",
-  "count": 190,
+  "updated": "2026-08-13T12:01:05.236Z",
+  "count": 194,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -50,6 +50,56 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "Ars Technica AI",
+      "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+      "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "date": "2026-08-13T11:10:18.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "AI demand drives triple-digit profit growth for Chinese chip foundries SMIC, Hua Hong",
+      "summary": "China’s top two contract chipmakers, Semiconductor Manufacturing International Corporation (SMIC) and Hua Hong Grace Semiconductor, saw their profits surge by triple digits in the second quarter, amid a spike in demand for domestic artific…",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3363929/ai-demand-drives-triple-digit-quarterly-profit-growth-chinese-foundries-smic-hua-hong?utm_source=rss_feed",
+      "date": "2026-08-13T11:00:10.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/13/3fcf305f-73af-475a-9254-726f2b3a4819_c0c03e48.jpg?itok=HDi9Gn0x&v=1786618675"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Legora is reportedly chasing a $10bn valuation, barely a season after its last raise",
+      "summary": "Legora, the Swedish legal-AI company that has become one of Europe’s fastest-rising startups, is reportedly seeking to raise fresh funds at a valuation of more than $10bn. If it lands, the deal would roughly double the figure investors put…",
+      "link": "https://thenextweb.com/news/legora-legal-ai-10bn-valuation-raise",
+      "date": "2026-08-13T10:51:02.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/08/Legora-founders.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Oracle plans fresh August layoffs as its AI spending spree bites",
+      "summary": "Oracle is planning another round of job cuts this month, according to Business Insider, with some teams reportedly facing double-digit-percentage reductions. Managers have been told to identify the employees affected, and the goal is to tr…",
+      "link": "https://thenextweb.com/news/oracle-august-2026-layoffs-ai-capex",
+      "date": "2026-08-13T10:36:37.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/06/Oracle.avif"
+    },
+    {
+      "source": "MediaNama",
+      "title": "WhatsApp tests on-device scam detection as India pushes OTT apps into spam rules",
+      "summary": "Meta’s Scam Alert uses an on-device machine learning model to flag likely WhatsApp scams without sending message content to Meta. The post WhatsApp tests on-device scam detection as India pushes OTT apps into spam rules appeared first on M…",
+      "link": "https://www.medianama.com/2026/08/223-meta-on-device-scam-detection-whatsapp/",
+      "date": "2026-08-13T10:28:46.000Z",
+      "category": "News",
+      "region": "India",
+      "image": null
+    },
     {
       "source": "The Next Web",
       "title": "Mark Zuckerberg’s ‘personal superintelligence’ pitch lands as a Rorschach test",
@@ -111,22 +161,6 @@
       "image": "https://media.thenextweb.com/2026/05/Taiwan-flag.avif"
     },
     {
-      "source": "The Next Web",
-      "title": "Anthropic is reportedly in talks to buy Decart for $6bn, its biggest deal yet",
-      "summary": "Anthropic is reportedly in talks to acquire Decart, an Israeli AI startup, for roughly $6bn, according to reports attributed to Reuters. If it happens, it would be the largest deal in Anthropic’s history. The talks are not final, both comp…",
-      "link": "https://thenextweb.com/news/anthropic-decart-6bn-acquisition-talks",
-      "date": "2026-08-13T08:08:57.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/04/Anthropic.avif",
-      "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-to-buy-startup-decart-ai-for-6-billion/articleshow/133196950.cms"
-        }
-      ]
-    },
-    {
       "source": "MediaNama",
       "title": "Delhi HC Justice Prathiba Singh questions mandatory AI disclosure for lawyers",
       "summary": "Delhi HC Justice Prathiba M Singh questions mandatory AI-use disclosure by lawyers, warning it may add compliance without improving accountability. The post Delhi HC Justice Prathiba Singh questions mandatory AI disclosure for lawyers appe…",
@@ -185,6 +219,16 @@
       "category": "Business & Funding",
       "region": "India",
       "image": null
+    },
+    {
+      "source": "ET Tech",
+      "title": "Anthropic in talks to buy startup Decart AI for $6 billion",
+      "summary": "Decart’s software can reduce the cost of training artificial intelligence models by helping chips work more efficiently. That technology could help Anthropic’s existing infrastructure absorb more demand, according to a person familiar with…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-to-buy-startup-decart-ai-for-6-billion/articleshow/133196950.cms",
+      "date": "2026-08-13T03:39:11.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-133196950,imgsize-25480.cms"
     },
     {
       "source": "ET Tech",
@@ -1198,11 +1242,11 @@
     },
     {
       "source": "OpenAI",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "link": "https://openai.com/index/premium-seats-chatgpt-business",
       "date": "2026-08-10T00:00:00.000Z",
-      "category": "Research",
+      "category": "News",
       "region": "Global",
       "image": null
     },
@@ -1265,16 +1309,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-40930/133046016.cms"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-      "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
-      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "date": "2026-08-07T17:36:22.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg"
     },
     {
       "source": "Analytics Vidhya",
