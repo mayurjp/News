@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T08:44:55.365Z",
+  "updated": "2026-08-13T10:29:49.835Z",
   "count": 190,
   "sources": [
     "OpenAI",
@@ -46,11 +46,70 @@
     "Europe",
     "Japan",
     "South Korea",
-    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "The Next Web",
+      "title": "Mark Zuckerberg’s ‘personal superintelligence’ pitch lands as a Rorschach test",
+      "summary": "In a roughly 6,500-word essay published a couple of weeks ago, Meta’s chief executive, Mark Zuckerberg, laid out a vision of “personal superintelligence”, an artificial intelligence built for everyone rather than a centralised system that…",
+      "link": "https://thenextweb.com/news/zuckerberg-personal-superintelligence-essay",
+      "date": "2026-08-13T10:12:09.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/meta-zuckerberg-ai-cloud-business-makes-sense.avif"
+    },
+    {
+      "source": "Rest of World",
+      "title": "Mozilla’s CTO thinks AI should be built like the internet",
+      "summary": "Raffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.",
+      "link": "https://restofworld.org/2026/open-source-ai-infrastructure-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "date": "2026-08-13T10:00:00.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://restofworld.org/wp-content/uploads/2026/08/sketch_ai_open_source_sketch_v5-320x320.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "L&T secures AI data centre order worth up to ₹15,000 crore",
+      "summary": "The centre, hosted at the firm’s ⁠Vyoma.AI unit in Chennai, will have a capacity of 10,000 NVIDIA B300 chips.",
+      "link": "https://www.thehindubusinessline.com/companies/lt-secures-ai-data-centre-order-worth-up-to-15000-crore/article71339801.ece",
+      "date": "2026-08-13T09:23:02.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/1rqj9j/article71340345.ece/alternates/LANDSCAPE_1200/2026-07-28T122924Z_982450806_RC282DAQSCE7_RTRMADP_3_L-T-RESULTS.JPG"
+    },
+    {
+      "source": "Wired AI",
+      "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+      "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
+      "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+      "date": "2026-08-13T09:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6a7a380554cb34d4d120f360/master/pass/Theres-a-Fatty-Liver-Epidemic-Science.jpg"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "How kids feel about AI, in their own words",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formul…",
+      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "date": "2026-08-13T09:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Taiwan says AI agents helped hack its government in four days",
+      "summary": "Taiwan says it spent part of last month fending off a hacking campaign that leaned on artificial intelligence to do the heavy lifting. The island’s Ministry of Digital Affairs, through its National Institute of Cyber Security, disclosed th…",
+      "link": "https://thenextweb.com/news/taiwan-ai-driven-hacking-campaign-open-claw",
+      "date": "2026-08-13T08:46:50.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/05/Taiwan-flag.avif"
+    },
     {
       "source": "The Next Web",
       "title": "Anthropic is reportedly in talks to buy Decart for $6bn, its biggest deal yet",
@@ -298,16 +357,6 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "YouTube star Cliff Tan apologises to 2.4 million fans after promoting an AI design tool",
-      "summary": "Interior design creator Cliff Tan has apologised to his 2.4 million YouTube subscribers for a paid advertisement for Dreamina, ByteDance’s AI creative tool. It is the second creator apology in a week, after Hank Green walked back his use o…",
-      "link": "https://thenextweb.com/news/cliff-tan-dear-modern-ai-ad-apology-dreamina",
-      "date": "2026-08-12T19:39:10.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/08/cliff-tan-dear-modern-ai-ad-apology-dreamina.avif"
-    },
-    {
       "source": "Wired AI",
       "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
       "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
@@ -386,6 +435,16 @@
       "category": "News",
       "region": "Global",
       "image": null
+    },
+    {
+      "source": "The Register AI",
+      "title": "OpenWALDO aims to blow the doors off proprietary AI training models",
+      "summary": "Contributors wanted: 167B transparent tokens have a long way to go against AI giants' trillions",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/openwaldo-aims-to-blow-the-doors-off-proprietary-ai-training-models/5286864",
+      "date": "2026-08-12T16:57:33.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5286886&width=800"
     },
     {
       "source": "MIT Tech Review",
@@ -486,16 +545,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-133186530,imgsize-7560.cms"
-    },
-    {
-      "source": "AI News",
-      "title": "Google tests AMIE for clinical video consultations",
-      "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen…",
-      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
-      "date": "2026-08-12T14:56:18.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "TechCrunch AI",
@@ -838,16 +887,6 @@
       "image": "https://media.wired.com/photos/6a7a2641ddfb8a809864e7f8/master/pass/IN-LINE_LILAC.png"
     },
     {
-      "source": "AI News",
-      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
-      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become No…",
-      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
-      "date": "2026-08-11T10:00:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
       "summary": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
@@ -856,16 +895,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://restofworld.org/wp-content/uploads/2026/07/QA-AI-VC-Final-320x320.jpg"
-    },
-    {
-      "source": "Wired AI",
-      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
-      "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
-      "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
-      "date": "2026-08-11T09:00:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6a74f6a1ee5313e488f90591/master/pass/esquizofrenia.jpg"
     },
     {
       "source": "Hindu BusinessLine",
@@ -888,16 +917,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/uhrnqr/article71331433.ece/alternates/LANDSCAPE_1200/2026-05-29T034603Z_1308592796_RC296GA9F5HJ_RTRMADP_3_WIPRO-LTD-STOCKS.JPG"
     },
     {
-      "source": "AI News",
-      "title": "How AI is changing the vulnerability response timeline",
-      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recen…",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
-      "date": "2026-08-11T07:05:55.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "LiveMint Tech",
       "title": "India must shape its AI journey rather than be shaped by default: RBI Governor Sanjay Malhotra",
       "summary": "Reserve Bank of India (RBI) Governor Sanjay Malhotra stated that India needs to shape its artificial intelligence (AI) journey rather than letting the technology shape the financial sector by default. Speaking at the FIBAC 2026 conference…",
@@ -916,16 +935,6 @@
       "category": "People & Leadership",
       "region": "United States",
       "image": "https://www.livemint.com/lm-img/img/2026/08/11/1600x900/maxresdefault_1786469918717_1786469924692_0217bff3-c2a5-4ab7-ac4b-549c414d5d0d.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Meta opens Muse Glimmer AI model weights to developers",
-      "summary": "The move gives developers greater flexibility to build AI applications locally, while Meta prepares another model for broader developer access",
-      "link": "https://www.thehindubusinessline.com/info-tech/meta-opens-muse-glimmer-ai-model-weights-to-developers/article71331137.ece",
-      "date": "2026-08-11T05:24:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/c9tc7w/article71331147.ece/alternates/LANDSCAPE_1200/2026-07-29T023335Z_1586007670_RC2KAMASR3WO_RTRMADP_3_USA-CHINA-AI-META.JPG"
     },
     {
       "source": "LiveMint Tech",
@@ -956,6 +965,16 @@
       "category": "News",
       "region": "United States",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Hey, big spender – OpenAI has a new SKU just for you",
+      "summary": "$125 a month? So, how good are those open-weight models getting, again?",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
+      "date": "2026-08-10T21:25:39.000Z",
+      "category": "Open Source",
+      "region": "United States",
+      "image": "https://image.theregister.com/?imageId=244264&width=800"
     },
     {
       "source": "Ars Technica AI",
@@ -1048,16 +1067,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
-      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers…",
-      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-      "date": "2026-08-10T11:02:38.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Peer review is overwhelmed—can it survive in the AI era?",
       "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
@@ -1105,16 +1114,6 @@
       "date": "2026-08-10T10:00:00.000Z",
       "category": "Security & Cyber Risk",
       "region": "United States",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "The limits of physics AI: where Siemens says the human stays in charge",
-      "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safet…",
-      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
-      "date": "2026-08-10T10:00:00.000Z",
-      "category": "News",
-      "region": "Global",
       "image": null
     },
     {
@@ -1186,6 +1185,16 @@
       "category": "Policy & Safety",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-58302/133079963.cms"
+    },
+    {
+      "source": "The Register AI",
+      "title": "NEC tests parking tech that only starts charging once you exit your car",
+      "summary": "PLUS: Infosys to wear Crocs for a decade; Fujifilm may quit printers; 2GW datacenter debuts in western China; and more!",
+      "link": "https://www.theregister.com/software/2026/08/10/nec-tests-parking-tech-that-only-starts-charging-once-you-exit-your-car/5285245",
+      "date": "2026-08-10T01:32:04.000Z",
+      "category": "Hardware & Infra",
+      "region": "India",
+      "image": "https://image.theregister.com/?imageId=239104&width=800"
     },
     {
       "source": "OpenAI",
@@ -1268,26 +1277,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg"
     },
     {
-      "source": "AI News",
-      "title": "Stanford Evo 2 AI model generates phages against E. coli",
-      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work cen…",
-      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
-      "date": "2026-08-07T15:05:03.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "How AI Is changing Instagram engagement without replacing the human touch",
-      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it’s the whole algorithm. But here’s the p…",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
-      "date": "2026-08-07T14:33:59.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Top 10 Skills for Claude Code and Codex CLI",
       "summary": "The real skill isn’t getting AI to answers! But to do so in a manner that fits our budgets and fulfils our requirements. It’s guiding it with clear context and turning its output into useful action. This list is built around a simpler idea…",
@@ -1295,16 +1284,6 @@
       "date": "2026-08-07T10:30:00.000Z",
       "category": "News",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Alibaba tests new business model for Qwen open-source AI",
-      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that ge…",
-      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
-      "date": "2026-08-07T10:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "China",
       "image": null
     },
     {
@@ -1318,6 +1297,16 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-19103/133020436.cms"
     },
     {
+      "source": "The Register AI",
+      "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
+      "summary": "You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you?",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
+      "date": "2026-08-06T16:44:29.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5251269&width=800"
+    },
+    {
       "source": "Analytics Vidhya",
       "title": "Claude Code Best Practices: 3 Lessons from 400,000 Sessions",
       "summary": "I used to think Claude Code best practices were a matter of taste. Plan mode or not. Long CLAUDE.md or short. Pick what suits you, move on. Then Anthropic scored roughly 400k sessions from over 235k users against hard evidence of success.…",
@@ -1325,16 +1314,6 @@
       "date": "2026-08-06T16:04:40.000Z",
       "category": "News",
       "region": "United States",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Why health AI interfaces must adapt to user expertise",
-      "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI…",
-      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
-      "date": "2026-08-06T15:55:37.000Z",
-      "category": "Research",
-      "region": "Global",
       "image": null
     },
     {
@@ -1385,16 +1364,6 @@
       "date": "2026-08-06T00:00:00.000Z",
       "category": "News",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
-      "summary": "Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates thousands of tile embeddings per slide…",
-      "link": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
-      "date": "2026-08-05T15:26:20.000Z",
-      "category": "News",
-      "region": "United States",
       "image": null
     },
     {
@@ -1468,6 +1437,16 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_ai_salon_sketch_v2-320x320.jpg"
     },
     {
+      "source": "The Register AI",
+      "title": "UK mulls making employers ask before installing bossware",
+      "summary": "Proposals span AI productivity scores, keystroke logging, biometrics, and other ways to watch workers",
+      "link": "https://www.theregister.com/software/2026/08/04/uk-mulls-making-employers-ask-before-installing-bossware/5282440",
+      "date": "2026-08-04T07:30:00.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://image.theregister.com/?imageId=5282473&width=800"
+    },
+    {
       "source": "ET CIO",
       "title": "Amazon enters $3 trillion club as AI, cloud growth power rally",
       "summary": "Apple, Microsoft, Alphabet and Nvidia are the other companies that have recorded a market value of $3 trillion in the past. Nvidia is currently the world's biggest company ​with a market capitalization close to $5 trillion.",
@@ -1538,6 +1517,16 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/07/GettyImages-2284107890-320x320.jpg"
     },
     {
+      "source": "The Register AI",
+      "title": "Open source project fools AI scrapers with poisoned font",
+      "summary": "ShieldFont is available today if you've got copy that needs protecting",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
+      "date": "2026-07-30T17:19:23.000Z",
+      "category": "Open Source",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5281330&width=800"
+    },
+    {
       "source": "Hugging Face",
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "summary": "",
@@ -1578,6 +1567,16 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/07/RoW_Illustration-KimiK3-2-320x320.jpg"
     },
     {
+      "source": "The Register AI",
+      "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
+      "summary": "Capex spending? What? Me worry?",
+      "link": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
+      "date": "2026-07-29T23:17:56.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://image.theregister.com/?imageId=256704&width=800"
+    },
+    {
       "source": "DeepMind",
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "summary": "",
@@ -1616,6 +1615,26 @@
       "category": "News",
       "region": "Global",
       "image": null
+    },
+    {
+      "source": "The Register AI",
+      "title": "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives",
+      "summary": "Up to 8 AI models running in the cloud weighing in on ambiguous business issues? Sounds affordable",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/perplexitys-tokenmaxxing-model-council-gives-you-multiple-bot-perspectives/5279972",
+      "date": "2026-07-28T21:26:53.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5279997&width=800"
+    },
+    {
+      "source": "The Register AI",
+      "title": "College prof hides prompt to catch AI cheaters, finds human nature is pretty much as we thought",
+      "summary": "Busted! A college professor who was tired of reading AI responses to essay questions found a unique way to determine if his students were cheating. Sadly but not surprisingly, 32 of the 35 students who took the test fell right into his tra…",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/28/college-prof-hides-prompt-to-catch-ai-cheaters-finds-human-nature-is-pretty-much-as-we-thought/5279864",
+      "date": "2026-07-28T16:20:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=1684071&width=800"
     },
     {
       "source": "Google AI",
@@ -1668,14 +1687,14 @@
       "image": null
     },
     {
-      "source": "MIT Tech Review",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into…",
-      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "date": "2026-07-27T18:00:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": null
+      "source": "The Register AI",
+      "title": "Leading AI models (even Grok) are all a bunch of leftist punks",
+      "summary": "AI seems to have a liberal bias",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/27/leading-ai-models-even-grok-are-all-a-bunch-of-leftist-punks/5279208",
+      "date": "2026-07-27T22:05:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5279264&width=800"
     },
     {
       "source": "Hugging Face",
@@ -1926,26 +1945,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
