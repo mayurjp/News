@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T16:13:43.194Z",
-  "count": 206,
+  "updated": "2026-08-13T17:16:01.719Z",
+  "count": 194,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -46,11 +46,90 @@
     "Europe",
     "Japan",
     "South Korea",
-    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "The Next Web",
+      "title": "OpenAI is not just replacing its revenue chief, it is rebuilding the sales operation",
+      "summary": "OpenAI chief revenue officer Denise Dresser is leaving after eight months, replaced by Dali Rajic, formerly president and chief operating officer of Wiz. The company has also hired recruiters to rebuild its go-to-market team, two days afte…",
+      "link": "https://thenextweb.com/news/openai-denise-dresser-exit-dali-rajic-cro",
+      "date": "2026-08-13T17:10:43.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "date": "2026-08-13T17:07:13.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "DeepMind",
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "date": "2026-08-13T17:04:18.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "date": "2026-08-13T17:00:13.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Anthropic’s $2trn IPO is priced below what AI stocks already fetch",
+      "summary": "The number comes from investors, not the company. Six backers told the Financial Times that rising revenue would let the five-year-old lab more than double its valuation in an autumn listing. At $2 trillion it would eclipse SpaceX, which w…",
+      "link": "https://thenextweb.com/news/anthropic-ipo-2-trillion-october-revenue-multiple",
+      "date": "2026-08-13T16:40:23.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "DeepSeek built a Claude Code rival, then quadrupled its prices",
+      "summary": "Start with the money, because it is the part every developer noticed. From 16 August, a million output tokens through DeepSeek-V4-Pro costs $3.96 at peak, up from $0.87. V4-Flash goes from $0.28 to $1.32, Bloomberg reported. Off-peak rates…",
+      "link": "https://thenextweb.com/news/deepseek-price-increase-harness-claude-code-rival-v4-pro",
+      "date": "2026-08-13T16:24:20.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/07/deepseek-funding-pause-viral-posts-liang-wenfeng.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "ClickHouse and Hud build a runtime feedback loop for AI-generated software",
+      "summary": "The growing use of AI in software development is changing the bottleneck for engineering teams. Generating code is becoming faster, but reviewing its potential impact, validating releases, and responding to unexpected behavior still requir…",
+      "link": "https://thenextweb.com/news/clickhouse-hud-runtime-feedback-loop-ai-generated-code",
+      "date": "2026-08-13T16:17:37.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/clickhouse-hud-runtime-feedback-loop-ai-generated-code.avif"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Samsung strengthens AI data centre cooling solutions with new FläktGroup manufacturing facility in Pune",
+      "summary": "The Pune facility is the first new FläktGroup manufacturing facility to become operational since Samsung Electronics completed its acquisition of the global HVAC specialist in November 2025",
+      "link": "https://www.thehindubusinessline.com/info-tech/samsung-strengthens-ai-data-centre-cooling-solutions-with-new-flaktgroup-manufacturing-facility-in-pune/article71340852.ece",
+      "date": "2026-08-13T16:15:28.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/3q2rkn/article71340854.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-13%20at%205.01.57%20PM.jpeg"
+    },
     {
       "source": "ET Tech",
       "title": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding",
@@ -122,16 +201,6 @@
       "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/rubrikglasswing.png"
     },
     {
-      "source": "The Next Web",
-      "title": "An AI-written article needs no label. Your proofread email gets one",
-      "summary": "Start with what the mark actually is, because it is not a stamp on the page. When a model writes, it picks each word from a set of reasonable options. A watermark quietly splits those options into two groups using a secret key, then nudges…",
-      "link": "https://thenextweb.com/news/claude-watermark-eu-ai-act-exemptions-detection-api",
-      "date": "2026-08-13T14:40:21.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Apple in talks to pay publishers to provide Siri with current news: report",
       "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
@@ -140,26 +209,6 @@
       "category": "News",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "SK Hynix is spending $720bn as its shares fall by half",
-      "summary": "High-bandwidth memory is the part of an AI system that nobody photographs. It sits next to the processor and feeds it data, and if it is too slow the expensive chip waits. It is made by stacking ordinary DRAM, the same memory that goes int…",
-      "link": "https://thenextweb.com/news/sk-hynix-720bn-memory-fabs-yongin-peak-memory",
-      "date": "2026-08-13T14:18:30.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/06/SK-Hynix.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Josh Kushner raised $2bn to buy the companies AI is coming for",
-      "summary": "Almost every AI business sells a product. Someone builds a model or a tool, licenses it, and hopes the customer works out what to do with it. Thrive Holdings inverts that. It buys accounting firms and IT services companies outright, puts i…",
-      "link": "https://thenextweb.com/news/thrive-holdings-2bn-12bn-valuation-softbank-ai-rollup",
-      "date": "2026-08-13T14:09:10.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/thriveholdings.avif"
     },
     {
       "source": "SiliconANGLE",
@@ -190,16 +239,6 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "CodeRabbit raised $143m to read the code AI wrote",
-      "summary": "Code review is the step where somebody reads a change before it ships. A developer proposes an edit, opens what the trade calls a pull request, and a colleague checks it for bugs and security holes. It is slow and unglamorous work. Until r…",
-      "link": "https://thenextweb.com/news/coderabbit-raised-143m-to-read-the-code-ai-wrote",
-      "date": "2026-08-13T13:57:58.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/coderabbit-founders.avif"
     },
     {
       "source": "ET Tech",
@@ -368,6 +407,16 @@
       "image": null
     },
     {
+      "source": "OpenAI",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "link": "https://openai.com/index/previewing-ultrafast",
+      "date": "2026-08-13T10:00:00.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "Mozilla’s CTO thinks AI should be built like the internet",
       "summary": "Raffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.",
@@ -386,16 +435,6 @@
       "category": "News",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/1rqj9j/article71340345.ece/alternates/LANDSCAPE_1200/2026-07-28T122924Z_982450806_RC282DAQSCE7_RTRMADP_3_L-T-RESULTS.JPG"
-    },
-    {
-      "source": "AI News",
-      "title": "Okta targets AI agent token costs with MCP scoping",
-      "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta cal…",
-      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
-      "date": "2026-08-13T09:22:06.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "OpenAI",
@@ -506,6 +545,16 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/08/IMG_6458.jpg"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "summary": "",
+      "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "date": "2026-08-13T00:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "SiliconANGLE",
@@ -668,16 +717,6 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a…",
-      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "date": "2026-08-12T16:46:02.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Hugging Face",
       "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
       "summary": "",
@@ -696,16 +735,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-1152x648.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "Google tests AMIE for clinical video consultations",
-      "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen…",
-      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
-      "date": "2026-08-12T14:56:18.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "DeepMind",
@@ -1018,16 +1047,6 @@
       "image": "https://media.wired.com/photos/6a7a2641ddfb8a809864e7f8/master/pass/IN-LINE_LILAC.png"
     },
     {
-      "source": "AI News",
-      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
-      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become No…",
-      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
-      "date": "2026-08-11T10:00:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
       "summary": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
@@ -1036,26 +1055,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://restofworld.org/wp-content/uploads/2026/07/QA-AI-VC-Final-320x320.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Nvidia taps Wall Street for $500 billion funding commitment",
-      "summary": "US investment giants including Apollo Global Management Inc., Blackstone Inc., BlackRock Inc. and Brookfield Asset Management are coming together ‘to create pools of capital at attractive rates for Nvidia customers’",
-      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-taps-wall-street-for-500-billion-funding-commitment/article71331315.ece",
-      "date": "2026-08-11T07:39:28.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/gxra7y/article71265240.ece/alternates/LANDSCAPE_1200/2026-07-24T181041Z_1627578823_RC2YEMA736K2_RTRMADP_3_USA-AI.JPG"
-    },
-    {
-      "source": "AI News",
-      "title": "How AI is changing the vulnerability response timeline",
-      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recen…",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
-      "date": "2026-08-11T07:05:55.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "LiveMint Tech",
@@ -1208,26 +1207,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
-      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers…",
-      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-      "date": "2026-08-10T11:02:38.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Peer review is overwhelmed—can it survive in the AI era?",
-      "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
-      "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-      "date": "2026-08-10T11:00:47.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-1152x648.jpg"
-    },
-    {
       "source": "Hugging Face",
       "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
       "summary": "",
@@ -1255,26 +1234,6 @@
       "date": "2026-08-10T10:00:00.000Z",
       "category": "Security & Cyber Risk",
       "region": "United States",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "date": "2026-08-10T10:00:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "The limits of physics AI: where Siemens says the human stays in charge",
-      "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safet…",
-      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
-      "date": "2026-08-10T10:00:00.000Z",
-      "category": "News",
-      "region": "Global",
       "image": null
     },
     {
@@ -1408,26 +1367,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-40930/133046016.cms"
     },
     {
-      "source": "AI News",
-      "title": "Stanford Evo 2 AI model generates phages against E. coli",
-      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work cen…",
-      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
-      "date": "2026-08-07T15:05:03.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "How AI Is changing Instagram engagement without replacing the human touch",
-      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it’s the whole algorithm. But here’s the p…",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
-      "date": "2026-08-07T14:33:59.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Top 10 Skills for Claude Code and Codex CLI",
       "summary": "The real skill isn’t getting AI to answers! But to do so in a manner that fits our budgets and fulfils our requirements. It’s guiding it with clear context and turning its output into useful action. This list is built around a simpler idea…",
@@ -1435,16 +1374,6 @@
       "date": "2026-08-07T10:30:00.000Z",
       "category": "News",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Alibaba tests new business model for Qwen open-source AI",
-      "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that ge…",
-      "link": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
-      "date": "2026-08-07T10:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "China",
       "image": null
     },
     {
@@ -1475,16 +1404,6 @@
       "date": "2026-08-06T16:04:40.000Z",
       "category": "News",
       "region": "United States",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Why health AI interfaces must adapt to user expertise",
-      "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI…",
-      "link": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
-      "date": "2026-08-06T15:55:37.000Z",
-      "category": "Research",
-      "region": "Global",
       "image": null
     },
     {
@@ -1848,16 +1767,6 @@
       "image": null
     },
     {
-      "source": "Hugging Face",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "summary": "",
-      "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "date": "2026-07-27T00:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "BAIR",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "summary": ".abbel-fig { display: block; text-align: center; margin: 2.4em 0; line-height: 1.4; max-width: 100%; } .abbel-fig img { display: block; margin: 0.65em auto 0; height: auto; max-width: 100%; } /* Image sizes; captions use a narrower measure…",
@@ -1936,16 +1845,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "source": "DeepMind",
-      "title": "Empowering India’s next generation of innovators with ATL Saathi",
-      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-      "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "date": "2026-07-13T12:37:28.000Z",
-      "category": "Product",
-      "region": "India",
-      "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo"
     },
     {
       "source": "BAIR",
@@ -2086,26 +1985,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
