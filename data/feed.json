@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T10:18:27.177Z",
+  "updated": "2026-08-14T11:58:51.310Z",
   "count": 197,
   "sources": [
     "OpenAI",
@@ -50,6 +50,46 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "The Next Web",
+      "title": "Lightspeed is selling its OpenAI stake to a fund it will also run",
+      "summary": "The firm calls the deal Project Mercury, Bloomberg reported, citing people familiar with it. It gathers assets from two Lightspeed funds, Select V and Opportunity II, plus a separately managed account. OpenAI is the anchor. Coller Capital…",
+      "link": "https://thenextweb.com/news/lightspeed-continuation-fund-openai-anthropic-project-mercury",
+      "date": "2026-08-14T11:38:45.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/Lightspeed-logo.avif"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "NVIDIA Nemotron 3.5 Lightning: The AI Agent Workhorse",
+      "summary": "Long-running AI agents often spend most of their time on routine execution rather than difficult reasoning. After making a plan, they may perform hundreds of tool calls, file reads, validations, commands, and formatting steps, so using a f…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/08/nvidia-nemotron-3-5-lightning/",
+      "date": "2026-08-14T11:08:54.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI startup Discovered Materials bags $9 million to speed up chip material discovery",
+      "summary": "The startup has also released hundreds of materials identified using AI and launched Material Discovery Bench, a benchmark designed to test AI agents on real-world semiconductor material problems",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-startup-discovered-materials-bags-9-million-to-speed-up-chip-material-discovery/article71329001.ece",
+      "date": "2026-08-14T11:07:31.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/67yzsg/article71324434.ece/alternates/LANDSCAPE_1200/PO02_Stack_coins.jpg"
+    },
+    {
+      "source": "Wired AI",
+      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
+      "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+      "date": "2026-08-14T10:45:00.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6a550ca43f29786234525e20/master/pass/Culture_AI%20Masturbation%20Consultants_v1.jpg"
+    },
     {
       "source": "Wired AI",
       "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
@@ -197,56 +237,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/Apple_Intelligence_1780947536140_1780947536355_73a4dde1-0f9f-4db2-9781-d050aafccc10_1786689087802_b63d9b16-1192-4a85-ad78-0c4f59435a95.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "Apple trained its own AI model for China, and handed the brain to Alibaba",
-      "summary": "Apple has trained its own large language model for the Chinese market with Alibaba’s support, a striking break from the company’s usual habit of leaning on other people’s models. According to a Reuters report, Apple is the first foreign fi…",
-      "link": "https://thenextweb.com/news/apple-china-ai-model-alibaba-qwen",
-      "date": "2026-08-14T06:08:53.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/07/apple-upgrade-klarna-device-leasing-program.avif",
-      "relatedSources": [
-        {
-          "source": "Japan Times",
-          "link": "https://www.japantimes.co.jp/business/2026/08/14/apple-ai-model-china-alibaba/"
-        },
-        {
-          "source": "Hindu BusinessLine",
-          "link": "https://www.thehindubusinessline.com/info-tech/apple-trains-its-own-ai-model-for-china-market-with-alibabas-support/article71344084.ece"
-        },
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-trains-its-own-ai-model-for-china-market-with-alibabas-support/articleshow/133229112.cms"
-        }
-      ]
-    },
-    {
-      "source": "The Next Web",
-      "title": "OpenAI’s new Ultrafast mode runs GPT-5.6 Sol 14 times faster, on Cerebras chips",
-      "summary": "OpenAI wants its cleverest model to also be its quickest. The company has previewed Ultrafast, a new tier of its API that runs the flagship GPT-5.6 Sol at up to 14 times the usual speed, reaching around 750 output tokens a second, on hardw…",
-      "link": "https://thenextweb.com/news/openais-new-ultrafast-mode-runs-gpt-5-6-sol-14-times-faster-on-cerebras-chips",
-      "date": "2026-08-14T06:03:08.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "This Bengaluru startup is training dogs and AI to sniff out cancer early",
-      "summary": "Dognosis pairs trained sniffer dogs with artificial intelligence to flag cancer from a breath sample. It is a charming idea aimed at a real problem, with equally real caveats: this is prescreening in trials, not a proven diagnostic. A dog’…",
-      "link": "https://thenextweb.com/news/dognosis-cancer-sniffing-dogs-ai",
-      "date": "2026-08-14T05:56:00.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://media.thenextweb.com/2026/08/Dognosis.avif",
-      "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/startups/bengaluru-based-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection/articleshow/133228334.cms"
-        }
-      ]
-    },
-    {
       "source": "ET Tech",
       "title": "HCLTech, NetApp expand partnership to deliver hybrid cloud storage-as-a-service for enterprise AI",
       "summary": "HCLTech and NetApp expanded their partnership for hybrid cloud storage-as-a-service (STaaS) to accelerate enterprise AI adoption. The initiative is designed to assist organisations in scaling artificial intelligence alongside traditional e…",
@@ -257,6 +247,30 @@
       "image": "https://img.etimg.com/photo/msid-133230235,imgsize-16268.cms"
     },
     {
+      "source": "Japan Times",
+      "title": "Apple trains its own AI model for China market with Alibaba’s support, sources say",
+      "summary": "The move is a departure from the iPhone maker's strategy of relying on third-party models to power AI features in the country.",
+      "link": "https://www.japantimes.co.jp/business/2026/08/14/apple-ai-model-china-alibaba/",
+      "date": "2026-08-14T05:37:00.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/14/thumbs/400x400/557325.jpg",
+      "relatedSources": [
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/apple-trains-its-own-ai-model-for-china-market-with-alibabas-support/article71344084.ece"
+        },
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-trains-its-own-ai-model-for-china-market-with-alibabas-support/articleshow/133229112.cms"
+        },
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/exclusiveapple-trains-its-own-ai-model-for-china-market-with-alibabas-support-sources-say-11786681640581.html"
+        }
+      ]
+    },
+    {
       "source": "SCMP Tech",
       "title": "SMIC weighs more capacity as AI-related chip demand exceeds forecasts",
       "summary": "Semiconductor Manufacturing International Corporation (SMIC) is actively looking at adding equipment in its factories after demand for mature-node chips used alongside AI processors surged beyond expectations, according to company manageme…",
@@ -265,16 +279,6 @@
       "category": "Hardware & Infra",
       "region": "Global",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/41579b2a-2b6b-4304-b9bb-39f998beb4b4_acaf5d59.jpg?itok=zOSfnFbn&v=1786683370"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Exclusive-Apple trains its own AI model for China market with Alibabas support, sources say",
-      "summary": "APPLE-ALIBABA-AI:Exclusive-Apple trains its own AI model for China market with Alibaba's support, sources say",
-      "link": "https://www.livemint.com/technology/exclusiveapple-trains-its-own-ai-model-for-china-market-with-alibabas-support-sources-say-11786681640581.html",
-      "date": "2026-08-14T04:27:20.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
       "source": "SCMP Tech",
@@ -295,6 +299,16 @@
       "category": "News",
       "region": "Global",
       "image": null
+    },
+    {
+      "source": "ET Tech",
+      "title": "Bengaluru-based startup leans on cancer-sniffing dogs and AI for early detection",
+      "summary": "Billy, Jessie and Banu are part of a team of beagles, labradors, Dutch shepherds and other dog breeds being trained by startup Dognosis to sniff out traces of cancer in human breath.",
+      "link": "https://economictimes.indiatimes.com/tech/startups/bengaluru-based-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection/articleshow/133228334.cms",
+      "date": "2026-08-14T03:41:25.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://img.etimg.com/photo/msid-133228334,imgsize-63920.cms"
     },
     {
       "source": "ET Tech",
@@ -899,16 +913,6 @@
       "image": "https://media.wired.com/photos/6a7b77e36e37f6db6a06a372/master/pass/AI-Lab-Why-Are-AI-Agents-So-Naughty-Business.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Google Pixel 11 lineup launched with prices starting at $899",
-      "summary": "The Pixel 11 series brings upgraded cameras, brighter displays and enhanced Gemini AI, while Google also expands its foldable smartphone lineup",
-      "link": "https://www.thehindubusinessline.com/info-tech/google-pixel-11-lineup-launched-with-prices-starting-at-899/article71338193.ece",
-      "date": "2026-08-12T17:49:15.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/f2uu79/article71338207.ece/alternates/LANDSCAPE_1200/Google%20Pixel%2011.jpg"
-    },
-    {
       "source": "The Register AI",
       "title": "OpenWALDO aims to blow the doors off proprietary AI training models",
       "summary": "Contributors wanted: 167B transparent tokens have a long way to go against AI giants' trillions",
@@ -1047,16 +1051,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_AI_election_sketch_v4_final-320x320.jpg"
-    },
-    {
-      "source": "Wired AI",
-      "title": "You’re Thinking About Online Trends All Wrong",
-      "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
-      "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
-      "date": "2026-08-12T09:30:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6a7214474c4d0e2f2b5457a0/master/pass/Internet-Trends-We-Keep-Getting-Wrong-Culture.gif"
     },
     {
       "source": "OpenAI",
