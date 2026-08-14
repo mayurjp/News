@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T05:04:50.166Z",
-  "count": 211,
+  "updated": "2026-08-14T06:44:43.957Z",
+  "count": 208,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,86 @@
   ],
   "items": [
     {
+      "source": "LiveMint Tech",
+      "title": "Apple Intelligence may finally launch in China with Apple's own AI model: Report",
+      "summary": "Apple is reportedly preparing to enter the Chinese market with its own large language model (LLM), collaborating with Alibaba.",
+      "link": "https://www.livemint.com/technology/tech-news/apple-intelligence-may-finally-launch-in-china-with-apples-own-ai-model-report-11786687959523.html",
+      "date": "2026-08-14T06:32:45.000Z",
+      "category": "Product",
+      "region": "China",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/Apple_Intelligence_1780947536140_1780947536355_73a4dde1-0f9f-4db2-9781-d050aafccc10_1786689087802_b63d9b16-1192-4a85-ad78-0c4f59435a95.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Apple trained its own AI model for China, and handed the brain to Alibaba",
+      "summary": "Apple has trained its own large language model for the Chinese market with Alibaba’s support, a striking break from the company’s usual habit of leaning on other people’s models. According to a Reuters report, Apple is the first foreign fi…",
+      "link": "https://thenextweb.com/news/apple-china-ai-model-alibaba-qwen",
+      "date": "2026-08-14T06:08:53.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/07/apple-upgrade-klarna-device-leasing-program.avif",
+      "relatedSources": [
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/08/14/apple-ai-model-china-alibaba/"
+        },
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/apple-trains-its-own-ai-model-for-china-market-with-alibabas-support/article71344084.ece"
+        },
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-trains-its-own-ai-model-for-china-market-with-alibabas-support/articleshow/133229112.cms"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI’s new Ultrafast mode runs GPT-5.6 Sol 14 times faster, on Cerebras chips",
+      "summary": "OpenAI wants its cleverest model to also be its quickest. The company has previewed Ultrafast, a new tier of its API that runs the flagship GPT-5.6 Sol at up to 14 times the usual speed, reaching around 750 output tokens a second, on hardw…",
+      "link": "https://thenextweb.com/news/openais-new-ultrafast-mode-runs-gpt-5-6-sol-14-times-faster-on-cerebras-chips",
+      "date": "2026-08-14T06:03:08.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "This Bengaluru startup is training dogs and AI to sniff out cancer early",
+      "summary": "Dognosis pairs trained sniffer dogs with artificial intelligence to flag cancer from a breath sample. It is a charming idea aimed at a real problem, with equally real caveats: this is prescreening in trials, not a proven diagnostic. A dog’…",
+      "link": "https://thenextweb.com/news/dognosis-cancer-sniffing-dogs-ai",
+      "date": "2026-08-14T05:56:00.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://media.thenextweb.com/2026/08/Dognosis.avif",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/startups/bengaluru-based-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection/articleshow/133228334.cms"
+        }
+      ]
+    },
+    {
+      "source": "ET Tech",
+      "title": "HCLTech, NetApp expand partnership to deliver hybrid cloud storage-as-a-service for enterprise AI",
+      "summary": "HCLTech and NetApp expanded their partnership for hybrid cloud storage-as-a-service (STaaS) to accelerate enterprise AI adoption. The initiative is designed to assist organisations in scaling artificial intelligence alongside traditional e…",
+      "link": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-netapp-expand-partnership-to-deliver-hybrid-cloud-storage-as-a-service-for-enterprise-ai/articleshow/133230235.cms",
+      "date": "2026-08-14T05:47:30.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://img.etimg.com/photo/msid-133230235,imgsize-16268.cms"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Writer bets on cheaper AI agents with Palmyra X6 and a leaner harness",
+      "summary": "Writer, the enterprise AI company, has launched Palmyra X6, its new flagship model, alongside an upgraded “harness” built to do something the industry has been curiously reluctant to promise: spend fewer tokens. The model is a post-trainin…",
+      "link": "https://thenextweb.com/news/writer-palmyra-x6-harness-token-costs",
+      "date": "2026-08-14T05:36:57.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/Writer-has-launched-Palmyra-X6.avif"
+    },
+    {
       "source": "SCMP Tech",
       "title": "SMIC weighs more capacity as AI-related chip demand exceeds forecasts",
       "summary": "Semiconductor Manufacturing International Corporation (SMIC) is actively looking at adding equipment in its factories after demand for mature-node chips used alongside AI processors surged beyond expectations, according to company manageme…",
@@ -61,24 +141,14 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/14/41579b2a-2b6b-4304-b9bb-39f998beb4b4_acaf5d59.jpg?itok=zOSfnFbn&v=1786683370"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Apple trains its own AI model for China market with Alibaba’s support",
-      "summary": "Apple Intelligence, the company’s suite of AI tools, is expected to launch ⁠in China in the coming months after an update to its iOS operating system, the people said.",
-      "link": "https://www.thehindubusinessline.com/info-tech/apple-trains-its-own-ai-model-for-china-market-with-alibabas-support/article71344084.ece",
-      "date": "2026-08-14T04:39:16.000Z",
-      "category": "Product",
+      "source": "LiveMint Tech",
+      "title": "Exclusive-Apple trains its own AI model for China market with Alibabas support, sources say",
+      "summary": "APPLE-ALIBABA-AI:Exclusive-Apple trains its own AI model for China market with Alibaba's support, sources say",
+      "link": "https://www.livemint.com/technology/exclusiveapple-trains-its-own-ai-model-for-china-market-with-alibabas-support-sources-say-11786681640581.html",
+      "date": "2026-08-14T04:27:20.000Z",
+      "category": "News",
       "region": "China",
-      "image": "https://bl-i.thgim.com/public/incoming/ld6yqi/article71344091.ece/alternates/LANDSCAPE_1200/2026-01-29T172411Z_1155693906_RC2LEGA3WUYQ_RTRMADP_3_APPLE-RESULTS.JPG",
-      "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-trains-its-own-ai-model-for-china-market-with-alibabas-support/articleshow/133229112.cms"
-        },
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/exclusiveapple-trains-its-own-ai-model-for-china-market-with-alibabas-support-sources-say-11786681640581.html"
-        }
-      ]
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
       "source": "SCMP Tech",
@@ -99,16 +169,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "ET Tech",
-      "title": "Bengaluru-based startup leans on cancer-sniffing dogs and AI for early detection",
-      "summary": "Billy, Jessie and Banu are part of a team of beagles, labradors, Dutch shepherds and other dog breeds being trained by startup Dognosis to sniff out traces of cancer in human breath.",
-      "link": "https://economictimes.indiatimes.com/tech/startups/bengaluru-based-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection/articleshow/133228334.cms",
-      "date": "2026-08-14T03:41:25.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://img.etimg.com/photo/msid-133228334,imgsize-63920.cms"
     },
     {
       "source": "ET Tech",
@@ -323,16 +383,6 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "Twitch will train Amazon’s AI on your streams unless you find the setting",
-      "summary": "Twitch has added a setting letting streamers stop Amazon using their streams, clips and chat to train generative AI, buried in security settings and off by default. Chief product officer Mike Minton explained the default plainly, saying th…",
-      "link": "https://thenextweb.com/news/twitch-amazon-ai-training-opt-out-default",
-      "date": "2026-08-13T17:35:39.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/twitch-amazon-ai-training-opt-out-default.avif"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "The new Instagram logo is the perfect embodiment of AI slop",
       "summary": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
@@ -351,16 +401,6 @@
       "category": "Enterprise & Deployment",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "OpenAI is not just replacing its revenue chief, it is rebuilding the sales operation",
-      "summary": "OpenAI chief revenue officer Denise Dresser is leaving after eight months, replaced by Dali Rajic, formerly president and chief operating officer of Wiz. The company has also hired recruiters to rebuild its go-to-market team, two days afte…",
-      "link": "https://thenextweb.com/news/openai-denise-dresser-exit-dali-rajic-cro",
-      "date": "2026-08-13T17:10:43.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.avif"
     },
     {
       "source": "TechCrunch AI",
@@ -401,36 +441,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Anthropic’s $2trn IPO is priced below what AI stocks already fetch",
-      "summary": "The number comes from investors, not the company. Six backers told the Financial Times that rising revenue would let the five-year-old lab more than double its valuation in an autumn listing. At $2 trillion it would eclipse SpaceX, which w…",
-      "link": "https://thenextweb.com/news/anthropic-ipo-2-trillion-october-revenue-multiple",
-      "date": "2026-08-13T16:40:23.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "DeepSeek built a Claude Code rival, then quadrupled its prices",
-      "summary": "Start with the money, because it is the part every developer noticed. From 16 August, a million output tokens through DeepSeek-V4-Pro costs $3.96 at peak, up from $0.87. V4-Flash goes from $0.28 to $1.32, Bloomberg reported. Off-peak rates…",
-      "link": "https://thenextweb.com/news/deepseek-price-increase-harness-claude-code-rival-v4-pro",
-      "date": "2026-08-13T16:24:20.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/07/deepseek-funding-pause-viral-posts-liang-wenfeng.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "ClickHouse and Hud build a runtime feedback loop for AI-generated software",
-      "summary": "The growing use of AI in software development is changing the bottleneck for engineering teams. Generating code is becoming faster, but reviewing its potential impact, validating releases, and responding to unexpected behavior still requir…",
-      "link": "https://thenextweb.com/news/clickhouse-hud-runtime-feedback-loop-ai-generated-code",
-      "date": "2026-08-13T16:17:37.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/clickhouse-hud-runtime-feedback-loop-ai-generated-code.avif"
     },
     {
       "source": "Hindu BusinessLine",
@@ -623,16 +633,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-13-blog-1920x1080-logo.jpg"
     },
     {
-      "source": "ET Tech",
-      "title": "Rise of AI shopping pushes merchants to protect loyalty, Adyen says",
-      "summary": "Adyen co-CEO Pieter van der Does told Reuters that a merchant he spoke with this ​week generated 70% of its volume through direct channels and wanted to retain that share as shoppers increasingly begin their searches through chatbots.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/rise-of-ai-shopping-pushes-merchants-to-protect-loyalty-adyen-says/articleshow/133212764.cms",
-      "date": "2026-08-13T12:57:44.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-133212764,imgsize-373992.cms"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "How Baidu Unlimited-OCR Works: Solving Long-Document Transcription",
       "summary": "About a month ago, Baidu (often called the “Google of China”) introduced Unlimited-OCR, an advancement over DeepSeek OCR. The model was designed to transcribe long, multi-page documents with high accuracy while delivering fast and stable i…",
@@ -651,16 +651,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "AI demand drives triple-digit profit growth for Chinese chip foundries SMIC, Hua Hong",
-      "summary": "China’s top two contract chipmakers, Semiconductor Manufacturing International Corporation (SMIC) and Hua Hong Grace Semiconductor, saw their profits surge by triple digits in the second quarter, amid a spike in demand for domestic artific…",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3363929/ai-demand-drives-triple-digit-quarterly-profit-growth-chinese-foundries-smic-hua-hong?utm_source=rss_feed",
-      "date": "2026-08-13T11:00:10.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/13/3fcf305f-73af-475a-9254-726f2b3a4819_c0c03e48.jpg?itok=HDi9Gn0x&v=1786618675"
     },
     {
       "source": "OpenAI",
@@ -1431,16 +1421,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Chinese users of AI companions bereft after government tightens regulations",
-      "summary": "Chinese users of AI companions bereft after government tightens regulations",
-      "link": "https://www.livemint.com/technology/chinese-users-of-ai-companions-bereft-after-government-tightens-regulations-11786339020074.html",
-      "date": "2026-08-10T05:16:59.000Z",
-      "category": "Policy & Safety",
-      "region": "China",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
       "source": "ET CIO",
