@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T04:02:39.755Z",
-  "count": 207,
+  "updated": "2026-08-16T04:51:42.373Z",
+  "count": 208,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -45,10 +45,27 @@
     "China",
     "Europe",
     "South Korea",
+    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power",
+      "summary": "Amodei argued that fair institutional processes can constrain corporate power and protect individuals, while regulation can be designed to place greater burdens on the most advanced AI companies than on smaller challengers",
+      "link": "https://www.thehindubusinessline.com/info-tech/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power/article71351997.ece",
+      "date": "2026-08-16T04:40:10.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/f138z1/article71275427.ece/alternates/LANDSCAPE_1200/Amazon-deepens-G3BFSO9P1.4.jpg.jpg",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power-11786854040200.html"
+        }
+      ]
+    },
     {
       "source": "SCMP Tech",
       "title": "Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent",
@@ -822,16 +839,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Samsung strengthens AI data centre cooling solutions with new FläktGroup manufacturing facility in Pune",
-      "summary": "The Pune facility is the first new FläktGroup manufacturing facility to become operational since Samsung Electronics completed its acquisition of the global HVAC specialist in November 2025",
-      "link": "https://www.thehindubusinessline.com/info-tech/samsung-strengthens-ai-data-centre-cooling-solutions-with-new-flaktgroup-manufacturing-facility-in-pune/article71340852.ece",
-      "date": "2026-08-13T16:15:28.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/3q2rkn/article71340854.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-13%20at%205.01.57%20PM.jpeg"
-    },
-    {
       "source": "SiliconANGLE",
       "title": "What to expect during CrowdStrike’s Fal.Con: Join theCUBE Aug. 31-Sept. 2",
       "summary": "AI attacks on enterprise systems are picking up speed. The just-released CrowdStrike “2026 Threat Hunting Report” documented that China-nexus adversaries exploited critical vulnerabilities within 24 hours of public proof-of-concept release…",
@@ -1410,16 +1417,6 @@
       "category": "News",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Meta launches Muse Glimmer as Zuckerberg calls for fewer US AI curbs to beat China",
-      "summary": "Meta has launched Muse Glimmer, a new open-weight artificial intelligence model designed to run on a single graphics card, as chief executive Mark Zuckerberg called for fewer US restrictions on open AI technology t",
-      "link": "https://www.livemint.com/technology/tech-news/meta-launches-muse-glimmer-zuckerberg-urges-us-to-ease-ai-curbs-to-compete-with-china-11786363574645.html",
-      "date": "2026-08-10T12:14:12.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/11/1600x900/maxresdefault_1786469925536_1786469931803_cd752a84-9fd3-4017-908c-f0021805df91.jpg"
     },
     {
       "source": "OpenAI",
@@ -2120,6 +2117,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     },
     {
       "source": "BAIR",
