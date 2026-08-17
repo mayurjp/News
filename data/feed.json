@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T16:47:54.090Z",
-  "count": 211,
+  "updated": "2026-08-17T17:47:10.439Z",
+  "count": 212,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,36 @@
   ],
   "items": [
     {
+      "source": "SCMP Tech",
+      "title": "Nvidia to provide up to US$105 billion guarantee for OpenAI’s Ohio data centre",
+      "summary": "Nvidia has agreed to ⁠guarantee as much as US$105 billion ⁠in lease payments to help ⁠OpenAI secure a sprawling data centre in Ohio being developed by SoftBank-backed SB Energy, in one of the chipmaker’s largest infrastructure financing co…",
+      "link": "https://www.scmp.com/tech/big-tech/article/3364341/nvidia-provide-us105-billion-guarantee-openais-ohio-data-centre?utm_source=rss_feed",
+      "date": "2026-08-17T17:30:11.000Z",
+      "category": "Business & Funding",
+      "region": "Japan",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/3f26d988-100e-402c-899a-6bf25f091ba8_708e3b7e.jpg?itok=_xL8auP6&v=1786987715"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Synchrony wants your Amazon and Walmart store cards inside ChatGPT",
+      "summary": "Synchrony Financial, which issues store credit cards for Amazon, Walmart and Lowe’s, is working with OpenAI so shoppers can buy inside ChatGPT using those cards. Its chief strategy officer says general-purpose cards will take six to twelve…",
+      "link": "https://thenextweb.com/news/synchrony-openai-chatgpt-shopping-cards-agentic-commerce",
+      "date": "2026-08-17T16:54:15.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/06/chatgpt-lockdown-mode-prompt-injection.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "ByteDance signs a copyright pact with Hollywood’s MPA to rein in its Seedance AI video tool",
+      "summary": "The TikTok owner has agreed a pact with the Motion Picture Association, the trade body for the major US studios, to tighten copyright protections on its AI image and video generators, ending, at least officially, a standoff that began when…",
+      "link": "https://thenextweb.com/news/bytedance-mpa-ai-copyright-pact-seedance",
+      "date": "2026-08-17T16:53:41.000Z",
+      "category": "Policy & Safety",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/06/ByteDance.avif"
+    },
+    {
       "source": "The Next Web",
       "title": "Jeff Gundlach says making AI chips an asset class looks like a market top",
       "summary": "Jeff Gundlach has criticised Nvidia’s plan with six asset managers to mobilise more than $500bn for AI infrastructure, asking why assets of unknown life are collateral for long-term debt. Mark Cuban compared chips as an asset class to cryp…",
@@ -63,7 +93,7 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
       "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "date": "2026-08-17T16:38:44.000Z",
@@ -104,7 +134,7 @@
     {
       "source": "SiliconANGLE",
       "title": "Higgsfield raises $400M at $5.4 billion valuation to scale video and image generation platform",
-      "summary": "Generative artificial intelligence video and image creation platform for professionals Higgsfield Inc. today announced that it raised $400 million in early-stage funding, quadrupling the company’s valuation to $5.4 billion since its previo…",
+      "summary": "Higgsfield Inc., a generative artificial intelligence video and image creation platform for professionals, today announced that it has raised $400 million in early-stage funding, quadrupling the company’s valuation to $5.4 billion since it…",
       "link": "https://siliconangle.com/2026/08/17/higgsfield-raises-400m-at-5-4-billion-valuation-to-scale-video-and-image-generation-platform/",
       "date": "2026-08-17T15:50:29.000Z",
       "category": "Business & Funding",
@@ -154,7 +184,7 @@
     {
       "source": "SiliconANGLE",
       "title": "Wispr raises $280M to power up natural speech-to-text using AI",
-      "summary": "Wispr AI Inc., the developer of a cross-platform, AI-powered dictation platform, today announced it raised $280 million in Series B funding at a $2 billion valuation. Menlo Ventures led the round alongside existing investors Notable Capita…",
+      "summary": "Wispr AI Inc., the developer of a cross-platform, AI-powered dictation platform, today announced it has raised $280 million in a Series B funding at a $2 billion valuation. Menlo Ventures led the round alongside existing investors Notable…",
       "link": "https://siliconangle.com/2026/08/17/wispr-raises-280m-to-power-up-natural-speech-to-text-using-ai/",
       "date": "2026-08-17T15:20:58.000Z",
       "category": "Business & Funding",
@@ -180,16 +210,6 @@
       "category": "News",
       "region": "China",
       "image": "https://media.thenextweb.com/2026/08/Unitree-Robotics.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "The AI maths breakthroughs everyone quotes are counterexamples, not proofs",
-      "summary": "A counterexample and a proof are not the same kind of achievement. A proof shows that something is always true. A counterexample shows that something claimed to be always true is not, by producing one object where it fails. Both settle a q…",
-      "link": "https://thenextweb.com/news/gowers-llm-maths-counterexamples-not-proofs",
-      "date": "2026-08-17T14:58:52.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/Timothy-Gowers-Washington-2009.avif"
     },
     {
       "source": "LiveMint Tech",
@@ -1716,16 +1736,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://image.theregister.com/?imageId=5251269&width=800"
-    },
-    {
-      "source": "Analytics Vidhya",
-      "title": "Claude Code Best Practices: 3 Lessons from 400,000 Sessions",
-      "summary": "I used to think Claude Code best practices were a matter of taste. Plan mode or not. Long CLAUDE.md or short. Pick what suits you, move on. Then Anthropic scored roughly 400k sessions from over 235k users against hard evidence of success.…",
-      "link": "https://www.analyticsvidhya.com/blog/2026/08/claude-code-best-practices-analysis/",
-      "date": "2026-08-06T16:04:40.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "DeepMind",
