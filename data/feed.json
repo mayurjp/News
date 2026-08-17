@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T11:42:56.670Z",
-  "count": 200,
+  "updated": "2026-08-17T13:07:59.335Z",
+  "count": 212,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -46,14 +46,75 @@
     "Europe",
     "Japan",
     "South Korea",
+    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
     {
+      "source": "SiliconANGLE",
+      "title": "Gravis Robotics gets $200M from SoftBank to retrofit excavators with self-driving AI systems",
+      "summary": "Gravis Robotics AG said today it has bagged $200 million in funding from SoftBank Group Corp. in what is the largest-ever Series A round for a construction robotics startup. The startup was founded in 2022 after being spun out of the Swiss…",
+      "link": "https://siliconangle.com/2026/08/17/gravis-robotics-gets-200m-funding-softbank-retrofit-excavators-self-driving-ai-systems/",
+      "date": "2026-08-17T13:00:17.000Z",
+      "category": "Business & Funding",
+      "region": "Japan",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-12-09-13-53.png"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "QualityKiosk sets up engineering hub",
+      "summary": "The facility will support QualityKiosk’s team of over 40 delivery leaders, banking and capital markets experts, and AI quality engineers",
+      "link": "https://www.thehindubusinessline.com/info-tech/qualitykiosk-sets-up-engineering-hub/article71356199.ece",
+      "date": "2026-08-17T12:41:19.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/llx0f4/article71356274.ece/alternates/LANDSCAPE_1200/qualitykiosk_technologies_logo.jfif"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "Securing the Infrastructure of Intelligence",
+      "summary": "AI factories are the defining infrastructure of the AI era—where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stac…",
+      "link": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+      "date": "2026-08-17T12:34:51.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "America is arguing over the wrong AI obstacle",
+      "summary": "Last month, two Chinese companies released artificial intelligence models most people outside the industry know little about: Kimi K3 by Moonshot AI and Qwen3.8-Max by Alibaba Group Holding (which owns the South China Morning Post). The ma…",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3363909/america-arguing-over-wrong-ai-obstacle?utm_source=rss_feed",
+      "date": "2026-08-17T12:30:08.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/13/5da75849-afbe-4393-a604-dc7403811581_e5fc3e69.jpg?itok=5R9UsyLa&v=1786611543"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Serve Robotics partners with Grubhub, becoming the shared robot layer for US food delivery",
+      "summary": "Serve Robotics, the sidewalk-delivery company that spun out of Uber, has added Grubhub to its roster of partners, a move that quietly turns it into something close to the neutral plumbing of America’s food-delivery robot business. Through…",
+      "link": "https://thenextweb.com/news/serve-robotics-grubhub-wonder-delivery-2000-robots",
+      "date": "2026-08-17T12:17:05.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/Serve-Robotics.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "A Trump-backed crypto firm is helping sell the very Chinese AI his government is trying to block",
+      "summary": "A crypto venture backed by Donald Trump and his family is helping to bankroll a platform that resells artificial intelligence from Chinese companies the US government has blacklisted, an arrangement that sits awkwardly beside the administr…",
+      "link": "https://thenextweb.com/news/trump-world-liberty-worldclaw-chinese-ai-reseller",
+      "date": "2026-08-17T11:57:52.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/08/Eric-Trump-American-Bitconin.avif"
+    },
+    {
       "source": "SCMP Tech",
       "title": "Hong Kong halves environmental impact review times with AI in efficiency drive",
-      "summary": "Hong Kong authorities have slashed the time required for environmental impact assessments by up to half using artificial intelligence (AI), as part of flagship initiatives in the first batch of projects aimed at enhancing efficiency. The f…",
+      "summary": "Hong Kong authorities have slashed the time required for environmental impact assessments by up to half using artificial intelligence, with an official saying that AI adoption reduced wait times for some public services by up to 90 per cen…",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3364317/hong-kong-halves-environmental-impact-review-times-ai-efficiency-drive?utm_source=rss_feed",
       "date": "2026-08-17T11:20:56.000Z",
       "category": "News",
@@ -227,16 +288,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
     },
     {
-      "source": "The Next Web",
-      "title": "Stripe reportedly acquires OpenRouter, the AI model router, for over $7bn",
-      "summary": "Stripe has, according to Bloomberg, finalised a deal to buy OpenRouter for more than $7bn. The payments giant declined to comment, and the sum is not officially confirmed, but the reported number tells its own story about where the smart m…",
-      "link": "https://thenextweb.com/news/stripe-openrouter-7bn-acquisition",
-      "date": "2026-08-17T07:48:04.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/Stripe-logo.avif"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Anthropic’s fight with Pentagon shows how AI could threaten a crucial safeguard of democracy",
       "summary": "At the centre of the dispute were two uses that Anthropic said it would not permit: fully autonomous weapons and the mass surveillance of Americans.",
@@ -267,22 +318,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/93722640-d67c-49b2-b6e1-0dd7602366c1_869c6790.jpg?itok=F6GjiqTn&v=1786947594"
     },
     {
-      "source": "The Next Web",
-      "title": "Anthropic’s near-$2tn IPO rests on a revenue forecast for 2028",
-      "summary": "According to a Reuters exclusive, the AI lab’s initial public offering hinges on an internal forecast that it will book between $190bn and $200bn of revenue in 2028, a previously unreported figure that bankers and investors are already lea…",
-      "link": "https://thenextweb.com/news/anthropic-ipo-190-200bn-2028-revenue-forecast",
-      "date": "2026-08-17T06:59:39.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/07/Anthropic-logo.avif",
-      "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast/articleshow/133259667.cms"
-        }
-      ]
-    },
-    {
       "source": "SCMP Tech",
       "title": "AI chipmaker Biren projects up to 22-fold revenue surge amid China’s hi-tech boom",
       "summary": "Chinese artificial intelligence chipmaker Biren Technology projects that its first-half revenue could shoot up by up to 2,107 per cent amid the AI hardware boom, joining industry peers like Hygon Information Technology and Cambricon Techno…",
@@ -291,6 +326,16 @@
       "category": "Business & Funding",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/16a6aaa2-3ea8-4da6-8252-76d61ad9962c_7efad1b3.jpg?itok=xwqGwDVw&v=1786948779"
+    },
+    {
+      "source": "OpenAI",
+      "title": "The Defender’s Window",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "link": "https://openai.com/index/the-defenders-window",
+      "date": "2026-08-17T05:30:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Japan Times",
@@ -311,6 +356,16 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/Geoffrey_Hinton_1756011255059_1756011255223_1786942193163_bab98356-c6a7-4850-b76d-72688f884bd7.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI joins PORTS-Pike project",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "link": "https://openai.com/index/openai-joins-ports-pike-project",
+      "date": "2026-08-17T05:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "ET Tech",
@@ -387,16 +442,6 @@
       "category": "Open Source",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/16/9b871185-72ee-42f5-afe9-2da01b072fc4_b4954979.jpg?itok=094W5vOM&v=1786876767"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Dario Amodei admits AI companies have not delivered on their promises",
-      "summary": "Dario Amodei wrote on X that the most accurate criticism of AI companies including Anthropic is that they have not yet delivered on their promises, and that only genuine breakthroughs will win public trust. It lands as Anthropic prepares a…",
-      "link": "https://thenextweb.com/news/dario-amodei-ai-public-trust-cure-cancer-ipo",
-      "date": "2026-08-16T21:01:31.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/07/anthropic-dario-amodei-open-weights-position-not-ban.avif"
     },
     {
       "source": "TechCrunch AI",
@@ -589,6 +634,16 @@
       "image": "https://bl-i.thgim.com/public/incoming/jdt4jy/article71000815.ece/alternates/LANDSCAPE_1200/2026-03-18T072945Z_1717338422_RC2MSCAD1XVT_RTRMADP_3_ALIBABA-AI.JPG"
     },
     {
+      "source": "ET Tech",
+      "title": "Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast",
+      "summary": "Anthropic is projecting 2028 revenue of roughly $190 billion to $200 billion, according to two people familiar ​with the company's financials, a figure that has not previously been reported. The projection dwarfs the $47 billion revenue \"r…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ipo-valuation-hinges-on-190-200-billion-2028-revenue-forecast/articleshow/133259667.cms",
+      "date": "2026-08-15T09:21:56.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-133259667,imgsize-17066.cms"
+    },
+    {
       "source": "Wired AI",
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
       "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
@@ -729,16 +784,6 @@
       "image": null
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "AI becomes a measurable revenue pool for Indian IT firms, but not yet a growth engine",
-      "summary": "Beyond revenue, AI and GenAI are improving IT service delivery efficiency by automating routine tasks",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-becomes-a-measurable-revenue-pool-for-indian-it-firms-but-not-yet-a-growth-engine/article71345558.ece",
-      "date": "2026-08-14T14:35:51.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/tiui9f/article71346177.ece/alternates/LANDSCAPE_1200/IMG_iStock-1617892313_2_1_GKG5RQQ6.jpg"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
@@ -779,13 +824,13 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/AI-Party-Cartoon.png"
     },
     {
-      "source": "MediaNama",
-      "title": "French publishers want Google to pay for AI news summaries",
-      "summary": "A French press association has asked France’s competition regulator to act against Google’s AI Overviews and AI Mode, alleging unpaid use of news content and significant declines in publisher traffic. The post French publishers want Google…",
-      "link": "https://www.medianama.com/2026/08/223-french-publishers-google-pay-ai-summaries/",
-      "date": "2026-08-14T12:04:25.000Z",
-      "category": "Policy & Safety",
-      "region": "Europe",
+      "source": "AI News",
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "summary": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. Th…",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "date": "2026-08-14T13:30:10.000Z",
+      "category": "Research",
+      "region": "South Korea",
       "image": null
     },
     {
@@ -817,6 +862,16 @@
       "category": "Policy & Safety",
       "region": "United States",
       "image": "https://media.wired.com/photos/6a7a320341c2687d2f60b612/master/pass/Humans-Are-Marrying-Chatbots-Culture-AB12034.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Google AI health coach to use Abbott glucose data",
+      "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data f…",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+      "date": "2026-08-14T10:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "LiveMint Tech",
@@ -917,16 +972,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://media.wired.com/photos/6a7cd92daf899556c1dfa8f2/master/pass/Uncanny-Valley-Zuckerberg-AI-manifesto-Business.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Industry experts weigh in as AI moves from proof of concept to production",
-      "summary": "“We’ve proven AI works, now what?” This common question is being echoed in the halls of numerous enterprise organizations around the globe. It highlights how the path from proof of concept to AI production remains a major challenge for ent…",
-      "link": "https://siliconangle.com/2026/08/13/ai-production-industry-collaboration-thecube-supermicroopenstoragesummit/",
-      "date": "2026-08-13T19:14:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Supermicro-Panel-5.jpg"
     },
     {
       "source": "Ars Technica AI",
@@ -1057,6 +1102,16 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://restofworld.org/wp-content/uploads/2026/08/sketch_ai_open_source_sketch_v5-320x320.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Okta targets AI agent token costs with MCP scoping",
+      "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta cal…",
+      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+      "date": "2026-08-13T09:22:06.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "OpenAI",
@@ -1197,6 +1252,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-1152x648.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Google tests AMIE for clinical video consultations",
+      "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen…",
+      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+      "date": "2026-08-12T14:56:18.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "DeepMind",
@@ -1389,6 +1454,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become No…",
+      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "date": "2026-08-11T10:00:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
       "summary": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
@@ -1397,6 +1472,16 @@
       "category": "Research",
       "region": "Global",
       "image": "https://restofworld.org/wp-content/uploads/2026/07/QA-AI-VC-Final-320x320.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "How AI is changing the vulnerability response timeline",
+      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recen…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "date": "2026-08-11T07:05:55.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "ET CIO",
@@ -1459,23 +1544,13 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
     },
     {
-      "source": "OpenAI",
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "date": "2026-08-10T14:00:00.000Z",
-      "category": "News",
+      "source": "AI News",
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers…",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "date": "2026-08-10T11:02:38.000Z",
+      "category": "Business & Funding",
       "region": "United States",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-      "link": "https://openai.com/index/model-ml",
-      "date": "2026-08-10T12:00:00.000Z",
-      "category": "Research",
-      "region": "Global",
       "image": null
     },
     {
@@ -1497,6 +1572,16 @@
       "category": "Policy & Safety",
       "region": "China",
       "image": "https://restofworld.org/wp-content/uploads/2026/08/Chinese-AI-companions-Final-2-320x320.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "The limits of physics AI: where Siemens says the human stays in charge",
+      "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safet…",
+      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "date": "2026-08-10T10:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "MIT Tech Review",
@@ -1589,6 +1674,26 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-40930/133046016.cms"
     },
     {
+      "source": "AI News",
+      "title": "Stanford Evo 2 AI model generates phages against E. coli",
+      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work cen…",
+      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "date": "2026-08-07T15:05:03.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "How AI Is changing Instagram engagement without replacing the human touch",
+      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it’s the whole algorithm. But here’s the p…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+      "date": "2026-08-07T14:33:59.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Analytics Vidhya",
       "title": "Top 10 Skills for Claude Code and Codex CLI",
       "summary": "The real skill isn’t getting AI to answers! But to do so in a manner that fits our budgets and fulfils our requirements. It’s guiding it with clear context and turning its output into useful action. This list is built around a simpler idea…",
@@ -1647,16 +1752,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-6-nv-blog-1280x680-logo.jpg"
-    },
-    {
-      "source": "NVIDIA",
-      "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
-      "summary": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosy…",
-      "link": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
-      "date": "2026-08-06T13:00:00.000Z",
-      "category": "Open Source",
-      "region": "United States",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nv-ov-ito-social-1920x1080-1.jpg"
     },
     {
       "source": "Hugging Face",
@@ -2067,6 +2162,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     },
     {
       "source": "BAIR",
