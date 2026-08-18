@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T09:50:03.208Z",
-  "count": 209,
+  "updated": "2026-08-18T10:48:14.204Z",
+  "count": 195,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -46,14 +46,53 @@
     "Europe",
     "Japan",
     "South Korea",
-    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
     {
+      "source": "The Next Web",
+      "title": "How many cars’ worth of CO2 will US data centres really emit?",
+      "summary": "A new study out of Cornell has handed the AI industry’s climate critics a fresh statistic to wield, and the internet has duly rounded it up. Planned US data centres, one widely shared headline announced, are set to produce as much carbon d…",
+      "link": "https://thenextweb.com/news/us-data-centres-co2-24-million-cars",
+      "date": "2026-08-18T10:18:02.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/Meta-el-paso-data-center.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "CISA orders a three-day patch after a flaw in the Ray AI framework comes under active attack",
+      "summary": "America’s cyber-defence agency has added a single vulnerability in Ray, the open-source framework that powers a large slice of the world’s AI training and inference, to its Known Exploited Vulnerabilities catalogue, confirming that the fla…",
+      "link": "https://thenextweb.com/news/cisa-kev-ray-ai-framework",
+      "date": "2026-08-18T10:11:12.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/CISA.avif"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "We still don’t know how people are really using AI",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corrobora…",
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "date": "2026-08-18T10:06:43.000Z",
+      "category": "Research",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "An analysis links violent AI ‘slop’ to ‘brain rot’ and violence in children",
+      "summary": "Awarning that AI “slop” is fuelling cognitive decline and violent tendencies in children has ricocheted across the internet this week, carried by headlines that present the harm as settled fact. The document underneath is more modest, and…",
+      "link": "https://thenextweb.com/news/ai-slop-children-cognitive-decline-study",
+      "date": "2026-08-18T10:05:40.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/AI-fruit-gore.avif"
+    },
+    {
       "source": "SCMP Tech",
-      "title": "Baidu quarterly revenue drops 4% as AI cloud surge fails to offset advertising slump",
+      "title": "Baidu’s quarterly revenue drops 4% as AI cloud surge fails to offset advertising slump",
       "summary": "Chinese tech giant Baidu on Tuesday posted a 4 per cent year-on-year decline in second-quarter revenue, as continued weakness in advertising outweighed growth in its artificial intelligence cloud operations, highlighting intensifying compe…",
       "link": "https://www.scmp.com/tech/big-tech/article/3364436/baidu-quarterly-revenue-drops-4-ai-cloud-surge-fails-offset-advertising-slump?utm_source=rss_feed",
       "date": "2026-08-18T09:45:49.000Z",
@@ -110,6 +149,16 @@
       "category": "Security & Cyber Risk",
       "region": "China",
       "image": "https://media.wired.com/photos/6a834e67effc1720d3a37bb8/master/pass/ZAI-Most-Skilled-AI-Yet-Business-1044672050.jpg"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forec…",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "date": "2026-08-18T09:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "The Next Web",
@@ -238,16 +287,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/e8df6cdc-4db4-4d0a-8b9c-dc991af8d52e_54974d48.jpg?itok=yhGM_t5n&v=1786967174"
     },
     {
-      "source": "MediaNama",
-      "title": "Claude’s Text Watermarking Will Be Misinterpreted",
-      "summary": "Anthropic’s AI text watermarking may help identify Claude-generated writing, but false positives, easy workarounds, and legitimate uses of AI raise questions about what such detection really solves. The post Claude’s Text Watermarking Will…",
-      "link": "https://www.medianama.com/2026/08/223-claudes-text-watermarking-misinterpreted/",
-      "date": "2026-08-18T03:30:00.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "SCMP Tech",
       "title": "Zhipu AI’s answer to Project Glasswing marks shift for Chinese cyber safety: researcher",
       "summary": "Zhipu AI’s launch of China’s first answer to Project Glasswing signals a shift in how the country’s top artificial intelligence labs approach global cybersecurity, according to a researcher. The Beijing-based firm – now known international…",
@@ -338,16 +377,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/17/6092fe24-d47f-413b-8b7f-eb7ddb68474a_d5084e19.jpg?itok=WESIJv6e&v=1786959970"
     },
     {
-      "source": "The Next Web",
-      "title": "GitHub disputes Wiz’s claim that Copilot Autofix wrote a Snowflake flaw",
-      "summary": "A security company said on Monday that an AI wrote a critical flaw into Snowflake’s code, and that another AI found it and broke in. The second half holds up. The first half came apart in about eight hours. What is left is still worth your…",
-      "link": "https://thenextweb.com/news/snowflake-copilot-autofix-wiz-red-agent-github-dispute",
-      "date": "2026-08-18T00:07:52.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/05/Snowflake.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Anthropic’s annualized revenue surges to $65B",
       "summary": "The model maker added $18 billion in annualized revenue in two months.",
@@ -376,16 +405,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Groq-LPU.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Greg Brockman says OpenAI underestimated its own models’ cyber skills",
-      "summary": "Greg Brockman went on CNBC on Monday to say the executive departures at OpenAI are not unusual. “I actually think that the difference between OpenAI and other organizations is that we are so much in the spotlight, so every departure gets s…",
-      "link": "https://thenextweb.com/news/greg-brockman-openai-underestimated-cyber-capabilities-defenders-window",
-      "date": "2026-08-17T23:35:01.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/05/openai-trial-brockman-journals-nonprofit-settlement.avif"
     },
     {
       "source": "SiliconANGLE",
@@ -565,16 +584,6 @@
       "date": "2026-08-17T15:16:24.000Z",
       "category": "Business & Funding",
       "region": "Japan",
-      "image": null
-    },
-    {
-      "source": "MediaNama",
-      "title": "Lenskart rolls out AI self-eye testing, raising privacy concerns",
-      "summary": "Lenskart is piloting AI-enabled self-eye tests at select stores, founder and CEO Peyush Bansal said. The eyewear startup collects facial recognition data and feeds customer fitting data into AI models, raising privacy concerns. The post Le…",
-      "link": "https://www.medianama.com/2026/08/223-lenskart-ai-eye-testing-privacy-concerns/",
-      "date": "2026-08-17T13:24:19.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
       "image": null
     },
     {
@@ -928,16 +937,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg"
     },
     {
-      "source": "AI News",
-      "title": "Samsung health AI models analyse wearable biosignal data",
-      "summary": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. Th…",
-      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
-      "date": "2026-08-14T13:30:10.000Z",
-      "category": "Research",
-      "region": "South Korea",
-      "image": null
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "NVIDIA Nemotron 3.5 Lightning: The AI Agent Workhorse",
       "summary": "Long-running AI agents often spend most of their time on routine execution rather than difficult reasoning. After making a plan, they may perform hundreds of tool calls, file reads, validations, commands, and formatting steps, so using a f…",
@@ -966,16 +965,6 @@
       "category": "Policy & Safety",
       "region": "United States",
       "image": "https://media.wired.com/photos/6a7a320341c2687d2f60b612/master/pass/Humans-Are-Marrying-Chatbots-Culture-AB12034.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "Google AI health coach to use Abbott glucose data",
-      "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data f…",
-      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
-      "date": "2026-08-14T10:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "LiveMint Tech",
@@ -1178,16 +1167,6 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/08/sketch_ai_open_source_sketch_v5-320x320.jpg"
     },
     {
-      "source": "AI News",
-      "title": "Okta targets AI agent token costs with MCP scoping",
-      "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta cal…",
-      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
-      "date": "2026-08-13T09:22:06.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "OpenAI",
       "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
@@ -1294,16 +1273,6 @@
       "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
       "date": "2026-08-12T16:14:36.000Z",
       "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Google tests AMIE for clinical video consultations",
-      "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen…",
-      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
-      "date": "2026-08-12T14:56:18.000Z",
-      "category": "Research",
       "region": "Global",
       "image": null
     },
@@ -1478,16 +1447,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
-      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become No…",
-      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
-      "date": "2026-08-11T10:00:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
       "summary": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
@@ -1496,16 +1455,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://restofworld.org/wp-content/uploads/2026/07/QA-AI-VC-Final-320x320.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "How AI is changing the vulnerability response timeline",
-      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recen…",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
-      "date": "2026-08-11T07:05:55.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "ET CIO",
@@ -1568,16 +1517,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
     },
     {
-      "source": "AI News",
-      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
-      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers…",
-      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-      "date": "2026-08-10T11:02:38.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Hugging Face",
       "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
       "summary": "",
@@ -1596,16 +1535,6 @@
       "category": "Policy & Safety",
       "region": "China",
       "image": "https://restofworld.org/wp-content/uploads/2026/08/Chinese-AI-companions-Final-2-320x320.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "The limits of physics AI: where Siemens says the human stays in charge",
-      "summary": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safet…",
-      "link": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
-      "date": "2026-08-10T10:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "MIT Tech Review",
@@ -1698,26 +1627,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-40930/133046016.cms"
     },
     {
-      "source": "AI News",
-      "title": "Stanford Evo 2 AI model generates phages against E. coli",
-      "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work cen…",
-      "link": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
-      "date": "2026-08-07T15:05:03.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "How AI Is changing Instagram engagement without replacing the human touch",
-      "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it’s the whole algorithm. But here’s the p…",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
-      "date": "2026-08-07T14:33:59.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "The Register AI",
       "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
       "summary": "You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you?",
@@ -1788,16 +1697,6 @@
       "image": "https://image.theregister.com/?imageId=5282473&width=800"
     },
     {
-      "source": "MIT Tech Review",
-      "title": "Trump’s AI protectionism has come for robotics",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advance…",
-      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "date": "2026-08-03T18:43:30.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Google AI",
       "title": "Inside our 353,000-person vibe coding course",
       "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
@@ -1816,26 +1715,6 @@
       "category": "Open Source",
       "region": "China",
       "image": "https://restofworld.org/wp-content/uploads/2026/07/illo_opensource_AI_divide_final-320x320.jpg"
-    },
-    {
-      "source": "MIT Tech Review",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face…",
-      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "date": "2026-08-03T08:30:05.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "Rest of World",
-      "title": "Can we train AI to choose safety over speed?",
-      "summary": "Delivery platforms use sophisticated weather algorithms to profit from storm demand, while shifting all the physical risk onto workers trapped by pay incentives.",
-      "link": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "date": "2026-07-31T13:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://restofworld.org/wp-content/uploads/2026/07/GettyImages-2284107890-320x320.jpg"
     },
     {
       "source": "The Register AI",
@@ -2126,26 +2005,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
