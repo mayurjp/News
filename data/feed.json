@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T09:50:28.371Z",
-  "count": 203,
+  "updated": "2026-08-19T10:47:44.446Z",
+  "count": 206,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,12 +44,79 @@
     "India",
     "China",
     "Europe",
+    "Japan",
     "South Korea",
     "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "MediaNama",
+      "title": "List of AI companies turning to old and rare books for AI training",
+      "summary": "Amazon is buying rare and obscure physical books, cutting off their bindings and scanning the pages for AI-related use, raising concerns about the loss of difficult-to-replace works. The post List of AI companies turning to old and rare bo…",
+      "link": "https://www.medianama.com/2026/08/223-companies-rare-books-ai-training/",
+      "date": "2026-08-19T10:25:13.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Gujarat CM on US tour meets Micron, Google, Perplexity CEOs; pitches state as AI, semiconductor hub",
+      "summary": "Meetings focus on semiconductors, artificial intelligence, data infrastructure, skilling and potential investments in Gujarat",
+      "link": "https://www.thehindubusinessline.com/news/national/gujarat-cm-on-us-tour-meets-micron-google-perplexity-ceos-pitches-state-as-ai-semiconductor-hub/article71364355.ece",
+      "date": "2026-08-19T10:25:08.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/2cj50o/article71364383.ece/alternates/LANDSCAPE_1200/PTI08_17_2026_000205B.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "A Turing Award winner says the industry’s fix for running out of data is ‘a big mistake’",
+      "summary": "Richard Sutton thinks the AI industry’s answer to running out of training data is a mistake, and he has picked a blunt word for it. “ That’s just a big mistake,” he said of the turn to synthetic data on Sequoia Capital’s Training Data podc…",
+      "link": "https://thenextweb.com/news/richard-sutton-synthetic-data-big-mistake-experiential-learning",
+      "date": "2026-08-19T10:13:06.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/07/Richard_Sutton.avif"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "SAP sees India as showcase for AI-led ‘autonomous enterprise economy’",
+      "summary": "SAP is expanding its AI ambitions in India, where strong technology talent, innovation and customer adoption offer significant growth opportunities.",
+      "link": "https://www.thehindubusinessline.com/info-tech/sap-sees-india-as-showcase-for-ai-led-autonomous-enterprise-economy/article71364066.ece",
+      "date": "2026-08-19T10:01:52.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/ouiaig/article71364269.ece/alternates/LANDSCAPE_1200/Verena%20Siow%20SAP.jpg",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/technology/india-an-innovation-powerhouse-can-showcase-ai-led-autonomous-enterprise-vision-sap-apac-president/articleshow/133343024.cms"
+        }
+      ]
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "As Xi’s US visit approaches, basic details of planned AI talks remain uncertain",
+      "summary": "With Chinese President Xi Jinping’s planned visit to the United States just weeks away, Washington and Beijing are still struggling to arrange a hoped-for dialogue on artificial intelligence, with the venue, participants and scope of the t…",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3364549/xis-us-visit-approaches-basic-details-planned-ai-talks-remain-uncertain?utm_source=rss_feed",
+      "date": "2026-08-19T10:00:15.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/e16723b4-802b-486c-a2ce-64775d123fa3_0d9fa716.jpg?itok=4Bzg-vRD&v=1787127046"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "date": "2026-08-19T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
     {
       "source": "Hindu BusinessLine",
       "title": "Samsung raises advanced chipmaking prices by up to 15% as AI demand tightens capacity",
@@ -71,16 +138,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/logo/OpenAI-AP-0_1695726945523_1787129318857_0b5a18f2-bdc2-4b26-b680-0dd9d2b6646e.jpg"
     },
     {
-      "source": "ET Tech",
-      "title": "India an innovation powerhouse; can showcase AI-led autonomous enterprise vision: SAP APAC President",
-      "summary": "Siow - who was named President for SAP Asia Pacific region last month - told PTI in an interview that the company views India through a broader lens that goes beyond its customer base and revenue growth, given the country's large partner e…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/india-an-innovation-powerhouse-can-showcase-ai-led-autonomous-enterprise-vision-sap-apac-president/articleshow/133343024.cms",
-      "date": "2026-08-19T09:03:35.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://img.etimg.com/photo/msid-133343024,imgsize-26264.cms"
-    },
-    {
       "source": "Wired AI",
       "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
       "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
@@ -99,6 +156,16 @@
       "category": "News",
       "region": "China",
       "image": "https://media.thenextweb.com/2026/06/US-China-AI.avif"
+    },
+    {
+      "source": "Japan Times",
+      "title": "Chinese AI video is coming for more than Hollywood",
+      "summary": "Outside of Alphabet's Google, nearly all of the leading video-generation models are Chinese.",
+      "link": "https://www.japantimes.co.jp/commentary/2026/08/19/world/chinese-ai-video-dominates/",
+      "date": "2026-08-19T08:39:00.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/19/thumbs/400x400/556538.jpg"
     },
     {
       "source": "SCMP Tech",
@@ -247,6 +314,16 @@
       "image": null
     },
     {
+      "source": "Japan Times",
+      "title": "Japan to require AI firms to disclose training data",
+      "summary": "A draft code has been drawn up amid growing concerns that texts and images may be used to train AI models without consent, potentially infringing on copyrights.",
+      "link": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+      "date": "2026-08-19T05:07:00.000Z",
+      "category": "Research",
+      "region": "Japan",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/19/thumbs/400x400/558210.jpg"
+    },
+    {
       "source": "ET Tech",
       "title": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
       "summary": "Shares in Chinese robotics pioneer Unitree soared more than 600 percent on its debut in Shanghai on Wednesday, after raising more than $900 million in its initial public offering. On its debut Wednesday, the company's stock spiked as much…",
@@ -266,10 +343,6 @@
       "region": "United States",
       "image": "https://bl-i.thgim.com/public/incoming/utur2q/article71343878.ece/alternates/LANDSCAPE_1200/2026-08-07T230857Z_1965641140_RC2URLAEHNZO_RTRMADP_3_OPENAI-ASTRA.JPG",
       "relatedSources": [
-        {
-          "source": "The Next Web",
-          "link": "https://thenextweb.com/news/openai-preparedness-framework-rewrite-astra-monitoring"
-        },
         {
           "source": "TechCrunch AI",
           "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
@@ -657,16 +730,6 @@
       "image": null
     },
     {
-      "source": "MediaNama",
-      "title": "Spotify will label AI artists; India’s rules demand labels on the music too",
-      "summary": "Spotify is introducing AI Persona labels for synthetic artists. India’s rules take a different approach by requiring disclosures on synthetic content itself. The post Spotify will label AI artists; India’s rules demand labels on the music…",
-      "link": "https://www.medianama.com/2026/08/223-spotify-ai-persona-label-india/",
-      "date": "2026-08-18T10:50:23.000Z",
-      "category": "News",
-      "region": "India",
-      "image": null
-    },
-    {
       "source": "MIT Tech Review",
       "title": "We still don’t know how people are really using AI",
       "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corrobora…",
@@ -847,16 +910,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "date": "2026-08-17T16:38:44.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "The Register AI",
       "title": "Mozilla adds ad blocking to Firefox for iOS",
       "summary": "Experimental feature to block some, but not all, ads",
@@ -927,16 +980,6 @@
       "image": "https://image.theregister.com/?imageId=5269830&width=800"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "AI emerges as key driver of Indian IT acquisitions",
-      "summary": "Indian technology companies are increasingly looking overseas for specialist talent, platforms and intellectual property as enterprise demand for AI accelerates",
-      "link": "https://www.thehindubusinessline.com/economy/ai-emerges-as-key-driver-of-indian-it-acquisitions/article71355837.ece",
-      "date": "2026-08-17T10:27:42.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/mxk7cj/article70884006.ece/alternates/LANDSCAPE_1200/IMG_Bl12_mergers-and-acq_2_1_7ED1TNTK.jpg"
-    },
-    {
       "source": "MIT Tech Review",
       "title": "What happens when a kid’s robot best friend dies?",
       "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to bo…",
@@ -955,16 +998,6 @@
       "category": "Enterprise & Deployment",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Anthropic’s fight with Pentagon shows how AI could threaten a crucial safeguard of democracy",
-      "summary": "At the centre of the dispute were two uses that Anthropic said it would not permit: fully autonomous weapons and the mass surveillance of Americans.",
-      "link": "https://www.thehindubusinessline.com/news/world/anthropics-fight-with-pentagon-shows-how-ai-could-threaten-a-crucial-safeguard-of-democracy/article71355170.ece",
-      "date": "2026-08-17T07:09:44.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/3bh6ql/article71316327.ece/alternates/LANDSCAPE_1200/2026-04-07T191524Z_221651833_RC2LU7A1HYJB_RTRMADP_3_ANTHROPIC-AI-CYBERSECURITY.jpg"
     },
     {
       "source": "OpenAI",
