@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T01:54:29.770Z",
-  "count": 187,
+  "updated": "2026-08-19T03:12:25.703Z",
+  "count": 202,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -45,14 +45,55 @@
     "China",
     "Europe",
     "South Korea",
+    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
     {
+      "source": "LiveMint Tech",
+      "title": "OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns",
+      "summary": "OpenAI has paused some frontier reinforcement learning (RL) training as the rapid pace of AI model development risks outstripping the company's safety, alignment, security and monitoring standards, CEO Sam Altman said.",
+      "link": "https://www.livemint.com/technology/openai-pauses-frontier-reinforcement-learning-as-rapid-ai-progress-raises-safety-alignment-concerns-11787107850251.html",
+      "date": "2026-08-19T02:50:49.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
+    },
+    {
+      "source": "ET Tech",
+      "title": "OpenAI slows advanced AI development after cyberattack",
+      "summary": "ChatGPT creator OpenAI said Tuesday that it was tapping the brakes on development of its most advanced AI model and tightening internal controls, a month after revealing a cyberattack carried out by one of its rogue models. OpenAI also sai…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-slows-advanced-ai-development-after-cyberattack/articleshow/133335485.cms",
+      "date": "2026-08-19T02:23:23.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-133335485,imgsize-29004.cms"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Chinese coastguard proposes turning South China Sea isles into robotic fortress",
+      "summary": "The South China Sea’s contested islands could be transformed into autonomous, robotic fortresses, according to a defence proposal by the Chinese coastguard. The plan, which was detailed in a Chinese-language journal supervised by the state…",
+      "link": "https://www.scmp.com/news/china/science/article/3364440/chinese-coastguard-proposes-turning-south-china-sea-isles-robotic-fortress?utm_source=rss_feed",
+      "date": "2026-08-19T02:00:11.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/3331f4e7-f1a6-4e17-9fbc-ab9ecab98331_05d25af2.jpg?itok=_YTWNrJs&v=1787047982"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Unitree Robotics surges 629% to US$66 billion valuation in Shanghai share debut",
+      "summary": "Shares of Unitree Robotics surged 629 per cent above their initial public offering price to open at 1,100 yuan in their Shanghai trading debut on Wednesday, giving China’s best-known humanoid robot maker a market capitalisation of about 44…",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut?utm_source=rss_feed",
+      "date": "2026-08-19T01:57:38.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/a1a2f383-9c72-4fd5-ae2b-1ffb2911655f_bdd440ae.jpg?itok=a7D2AOEn&v=1787104657"
+    },
+    {
       "source": "SiliconANGLE",
       "title": "OpenAI’s junior version of ChatGPT with guardrails has launched",
-      "summary": "OpenAI Group PBC today announced that it is rolling out a stricter version of its ChatGPT chatbot created for younger users. The announcement of “ChatGPT for Teens” follows scrutiny over how generative artificial intelligence, whether the…",
+      "summary": "OpenAI Group PBC today announced it’s rolling out a stricter version of its ChatGPT chatbot created for younger users. The announcement of “ChatGPT for Teens” follows scrutiny over how generative artificial intelligence, whether the produc…",
       "link": "https://siliconangle.com/2026/08/18/openais-junior-version-of-chatgpt-with-guardrails-has-launched/",
       "date": "2026-08-19T01:43:18.000Z",
       "category": "Product",
@@ -286,6 +327,16 @@
       "image": "https://bl-i.thgim.com/public/incoming/6vjo4f/article71361379.ece/alternates/LANDSCAPE_1200/As-Vikram-1-reaGO2G94BPD.3.jpg.jpg"
     },
     {
+      "source": "AI News",
+      "title": "OpenAI president urges enterprises to hasten AI security defences",
+      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to…",
+      "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+      "date": "2026-08-18T14:58:27.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Hindu BusinessLine",
       "title": "Sonata Software announces Hariprasad Rebala as Chief AI Officer",
       "summary": "Hari brings more than three decades of experience spanning IT services, enterprise technology and the start-up ecosystem",
@@ -386,6 +437,16 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/84a630f9-de24-4ec6-96e0-6025c5b846df_fcffa6e4.jpg?itok=Joui-SrC&v=1787037283"
     },
     {
+      "source": "AI News",
+      "title": "Alvys launches AI agents for freight TMS workflows",
+      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-…",
+      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+      "date": "2026-08-18T12:00:00.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "ET Tech",
       "title": "OpenAI introduces 'ChatGPT for Teens' amid legal pressure",
       "summary": "Most of the safeguards utilised in the ChatGPT for Teens model already existed for ChatGPT accounts belonging to minors, such as restrictions when dealing with content related to self-harm, violence, eating disorders and graphic sexuality.…",
@@ -463,6 +524,16 @@
       "date": "2026-08-18T10:06:43.000Z",
       "category": "Research",
       "region": "United States",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Reading Zhipu’s GLM-5.3 results past the headline number",
+      "summary": "Zhipu’s release note for GLM-5.3 contains a sentence that did not make it into most of the coverage. Describing its own cybersecurity results, the Beijing company writes that capability “is growing fastest exactly where we are furthest beh…",
+      "link": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
+      "date": "2026-08-18T10:00:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "China",
       "image": null
     },
     {
@@ -576,22 +647,6 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
-      "source": "ET Tech",
-      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
-      "summary": "WorldClaw, founded earlier this year, offers customers access to a suite of AI models and accepts World Liberty's crypto ​tokens as payment. The Trump family, through its ownership stake, earns revenue from the use of World Liberty's ​toke…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies/articleshow/133312302.cms",
-      "date": "2026-08-18T05:17:42.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://img.etimg.com/photo/msid-133312302,imgsize-1144707.cms",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies-11786978639626.html"
-        }
-      ]
-    },
-    {
       "source": "LiveMint Tech",
       "title": "AI infrastructure, not algorithms, emerging as key AI growth constraint: Nvidias Jensen Huang",
       "summary": "Nvidia CEO Jensen Huang has sought to underline the growing importance of physical infrastructure for the next phase of artificial intelligence, arguing that access to land, power and data-centre shells is increasingly becoming as critical…",
@@ -599,7 +654,7 @@
       "date": "2026-08-18T04:40:20.000Z",
       "category": "People & Leadership",
       "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
+      "image": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/maxresdefault_1787107448997_1787107467578_fe4ee6bb-da42-441f-9417-51251701ee82.jpg"
     },
     {
       "source": "MediaNama",
@@ -740,6 +795,16 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/u1l49m/article71357342.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UO73NLJJ4_R1522676018_4_bd21c16b-74bb-4463-bb2b-fe16e31cf676.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+      "summary": "USA-TRUMP-WORLDCLAW:Trump crypto firm backs venture offering AI from restricted Chinese companies",
+      "link": "https://www.livemint.com/technology/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies-11786978639626.html",
+      "date": "2026-08-17T14:57:19.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
       "source": "Hindu BusinessLine",
@@ -902,16 +967,6 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
-      "source": "LiveMint Tech",
-      "title": "Global AI investment $1 tln in 2026, to reach 1.4 pc global GDP by 2028: Goldman Sachs",
-      "summary": "Global investment in artificial intelligence is projected to reach around $1 trillion in 2026, with AI-related capital expenditure expected to remain robust in the near term, according to Goldman Sachs Research. The investment is forecast…",
-      "link": "https://www.livemint.com/technology/global-ai-investment-1-tln-in-2026-to-reach-1-4-pc-global-gdp-by-2028-goldman-sachs-11786858002513.html",
-      "date": "2026-08-16T05:26:42.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "How to Install Codex CLI: A Step-by-Step Guide",
       "summary": "If you have already used Codex in ChatGPT, the Codex CLI will feel familiar. It brings the same AI assistance directly into your local development environment, where it can work with your repository, shell, tests, and other tools. Installa…",
@@ -982,6 +1037,16 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg"
     },
     {
+      "source": "AI News",
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "summary": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. Th…",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "date": "2026-08-14T13:30:10.000Z",
+      "category": "Research",
+      "region": "South Korea",
+      "image": null
+    },
+    {
       "source": "Analytics Vidhya",
       "title": "NVIDIA Nemotron 3.5 Lightning: The AI Agent Workhorse",
       "summary": "Long-running AI agents often spend most of their time on routine execution rather than difficult reasoning. After making a plan, they may perform hundreds of tool calls, file reads, validations, commands, and formatting steps, so using a f…",
@@ -1010,6 +1075,16 @@
       "category": "Policy & Safety",
       "region": "United States",
       "image": "https://media.wired.com/photos/6a7a320341c2687d2f60b612/master/pass/Humans-Are-Marrying-Chatbots-Culture-AB12034.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Google AI health coach to use Abbott glucose data",
+      "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data f…",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+      "date": "2026-08-14T10:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "ET CIO",
@@ -1172,6 +1247,16 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/08/sketch_ai_open_source_sketch_v5-320x320.jpg"
     },
     {
+      "source": "AI News",
+      "title": "Okta targets AI agent token costs with MCP scoping",
+      "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta cal…",
+      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+      "date": "2026-08-13T09:22:06.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Wired AI",
       "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
       "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
@@ -1248,6 +1333,16 @@
       "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
       "date": "2026-08-12T16:14:36.000Z",
       "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Google tests AMIE for clinical video consultations",
+      "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen…",
+      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+      "date": "2026-08-12T14:56:18.000Z",
+      "category": "Research",
       "region": "Global",
       "image": null
     },
@@ -1372,6 +1467,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become No…",
+      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "date": "2026-08-11T10:00:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
       "summary": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
@@ -1380,6 +1485,16 @@
       "category": "Research",
       "region": "Global",
       "image": "https://restofworld.org/wp-content/uploads/2026/07/QA-AI-VC-Final-320x320.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "How AI is changing the vulnerability response timeline",
+      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recen…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "date": "2026-08-11T07:05:55.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "ET CIO",
@@ -1440,6 +1555,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "AI News",
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers…",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "date": "2026-08-10T11:02:38.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Hugging Face",
@@ -1920,6 +2045,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     },
     {
       "source": "BAIR",
