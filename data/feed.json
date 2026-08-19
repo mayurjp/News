@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T16:48:37.282Z",
-  "count": 194,
+  "updated": "2026-08-19T17:42:50.054Z",
+  "count": 195,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,56 @@
   ],
   "items": [
     {
+      "source": "OpenAI",
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "date": "2026-08-19T19:00:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still…",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "date": "2026-08-19T17:26:48.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Flock built an AI tool that lets police search for people by how they drive",
+      "summary": "The surveillance firm Flock Safety has told the public for years that its cameras “cannot recognize, identify, or track individuals.” It has now built a tool that does both, according to a new investigation. The artificial-intelligence sys…",
+      "link": "https://thenextweb.com/news/flock-os-investigate-ai-police-search",
+      "date": "2026-08-19T17:07:51.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/06/flock-surveillance.avif"
+    },
+    {
+      "source": "Japan Times",
+      "title": "AI didn’t ruin these films. It made them possible.",
+      "summary": "AI-generated films inspire plenty of skepticism. But what happens when the technology gives more artists a chance to create?",
+      "link": "https://www.japantimes.co.jp/culture/2026/08/20/film/ai-film-festival-tokyo/",
+      "date": "2026-08-19T16:55:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/20/thumbs/400x400/558387.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI puts a 20% compute cost on its new AI safety monitoring",
+      "summary": "OpenAI has put figures and detail on the slowdown it signalled this week. It paused some frontier training for two weeks, it said. It is also running a new monitoring system for the riskiest work. That system adds about 20 percent to the c…",
+      "link": "https://thenextweb.com/news/openai-20-percent-compute-overhead-safety-monitoring",
+      "date": "2026-08-19T16:46:59.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/openai-dublin-250-jobs-european-headquarters-expansion.avif"
+    },
+    {
       "source": "Wired AI",
       "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
       "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
@@ -59,6 +109,16 @@
       "category": "Product",
       "region": "Europe",
       "image": "https://media.wired.com/photos/6a85ca54d0110f6d404e46bf/master/pass/081926_AI-Watermark-Removal.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "India startup aims to compete with OpenAI in crowded voice arena",
+      "summary": "Murf AI has launched Falcon 2, a text-to-speech model designed to deliver human-like voices at lower costs and faster speeds. Priced at $0.01 per generated minute, the model has outperformed some offerings from OpenAI and other global play…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-startup-aims-to-compete-with-openai-in-crowded-voice-arena/articleshow/133353544.cms",
+      "date": "2026-08-19T16:41:14.000Z",
+      "category": "Product",
+      "region": "India",
+      "image": "https://img.etimg.com/photo/msid-133353544,imgsize-108228.cms"
     },
     {
       "source": "Hindu BusinessLine",
@@ -139,26 +199,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://media.thenextweb.com/2026/08/Nicolas-Kopp-Founder-and-CEO.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Most Americans under 30 are now more worried than excited about AI",
-      "summary": "Pew found that 55% of Americans under 30 are now more concerned than excited about AI, the first majority since it began asking in 2021, with 73% expecting fewer jobs. A European Commission survey found displacement fears highest among you…",
-      "link": "https://thenextweb.com/news/pew-young-adults-ai-jobs-concern-europe-comparison",
-      "date": "2026-08-19T14:36:51.000Z",
-      "category": "Policy & Safety",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/08/AI-agent.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Anthropic’s revenue passed OpenAI’s for the first time last quarter",
-      "summary": "OpenAI grew more slowly than Anthropic last quarter, and for the first time its rival’s sales came in higher. OpenAI told investors its revenue rose 18 percent from the first quarter to the second, to $6.7bn, The Wall Street Journal report…",
-      "link": "https://thenextweb.com/news/openai-q2-revenue-anthropic-surpasses",
-      "date": "2026-08-19T14:26:42.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/Anthropic-and-OpenAI.avif"
     },
     {
       "source": "VentureBeat AI",
@@ -599,16 +639,6 @@
       ]
     },
     {
-      "source": "ET Tech",
-      "title": "China goes rural with data centres in quest to power AI",
-      "summary": "In China's hilly Guizhou province, a cluster of European-style buildings complete with clock tower and multi-arched bridge emits a low, permanent hum -- a clue to its unexpected identity as tech giant Huawei's largest data centre. Dozens o…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-goes-rural-with-data-centres-in-quest-to-power-ai/articleshow/133336641.cms",
-      "date": "2026-08-19T03:45:08.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://img.etimg.com/photo/msid-133336641,imgsize-276073.cms"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns",
       "summary": "OpenAI has paused some frontier reinforcement learning (RL) training as the rapid pace of AI model development risks outstripping the company's safety, alignment, security and monitoring standards, CEO Sam Altman said.",
@@ -737,16 +767,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/news/buv043/article71361310.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-18%20at%2020.00.40.jpeg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "date": "2026-08-18T14:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "LiveMint Tech",
@@ -1037,16 +1057,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/Geoffrey_Hinton_1756011255059_1756011255223_1786942193163_bab98356-c6a7-4850-b76d-72688f884bd7.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI joins PORTS-Pike project",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-      "link": "https://openai.com/index/openai-joins-ports-pike-project",
-      "date": "2026-08-17T05:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "ET CIO",
