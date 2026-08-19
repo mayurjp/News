@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T07:07:18.112Z",
+  "updated": "2026-08-19T07:55:21.352Z",
   "count": 201,
   "sources": [
     "OpenAI",
@@ -53,6 +53,32 @@
   "items": [
     {
       "source": "ET Tech",
+      "title": "AI chip startup Etched doubles valuation to $21 billion in under a month",
+      "summary": "The San Jose, California-based company raised $700 million, with trading firm Jane Street continuing its backing ‌by leading ⁠the round, ⁠joined by Kleiner Perkins, Sequoia, Andreessen Horowitz and Tiger Global, among others.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chip-startup-etched-doubles-valuation-to-21-billion-in-under-a-month/articleshow/133340653.cms",
+      "date": "2026-08-19T07:49:06.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-133340653,imgsize-1057290.cms",
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "Nvidia’s H200 finally reaches Chinese buyers, though maybe not mainland China",
+      "summary": "After eight months of export licences that moved almost nothing, Nvidia’s H200 accelerators have started arriving at Chinese technology companies. ByteDance and Tencent have each received about 10,000 of the processors in recent weeks, acc…",
+      "link": "https://thenextweb.com/news/nvidia-h200-china-shipments-bytedance-tencent-hong-kong",
+      "date": "2026-08-19T07:48:28.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/03/NVIDIA-invests-2-billion-in-Nebius.avif"
+    },
+    {
+      "source": "ET Tech",
       "title": "Chip designer Velaura AI valued at more than $1 billion in funding round",
       "summary": "The funding round was led by Seligman Ventures, with participation from new ‌investor Capricorn ⁠Investment ⁠Group. Existing investors Samsung Catalyst Fund, StepStone Group and Maverick Silicon also participated.",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chip-designer-velaura-ai-valued-at-more-than-1-billion-in-funding-round/articleshow/133340425.cms",
@@ -60,6 +86,16 @@
       "category": "Business & Funding",
       "region": "South Korea",
       "image": "https://img.etimg.com/photo/msid-133340425,imgsize-29702.cms"
+    },
+    {
+      "source": "MediaNama",
+      "title": "OpenAI updates security policy for frontier model testing after Hugging Face breach",
+      "summary": "OpenAI has paused its largest planned frontier reinforcement learning run as it strengthens security safeguards around model training. The post OpenAI updates security policy for frontier model testing after Hugging Face breach appeared fi…",
+      "link": "https://www.medianama.com/2026/08/223-openai-updates-security-hugging-face-breach/",
+      "date": "2026-08-19T06:59:09.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "ET Tech",
@@ -70,6 +106,16 @@
       "category": "News",
       "region": "China",
       "image": "https://img.etimg.com/photo/msid-133340366,imgsize-130148.cms"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Chinese robotaxi firms see eased regulatory bottleneck in Europe as deployment picks up",
+      "summary": "The business environment for Chinese robotaxi operators in Europe has become more open over the past year, which would help Chinese firms to commercialise their self-driving technology worldwide, according to Pony AI founder and CEO James…",
+      "link": "https://www.scmp.com/business/china-business/article/3364522/chinese-robotaxi-firms-see-eased-regulatory-bottleneck-europe-deployment-picks?utm_source=rss_feed",
+      "date": "2026-08-19T06:39:59.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/9f9a0192-b73e-4c8d-b50c-fc6385e5af38_a4aeaf31.jpg?itok=OvLuaKoU&v=1787124145"
     },
     {
       "source": "SiliconANGLE",
@@ -372,16 +418,6 @@
       "image": "https://media.thenextweb.com/2026/08/Baidu-Science-Technology-Park.avif"
     },
     {
-      "source": "The Next Web",
-      "title": "Google and the UK will steer planes around contrails over the Atlantic",
-      "summary": "The UK government and Google are launching a trial to steer aircraft around climate-warming contrails. Google announced Operation Blue Skies on Tuesday. It is the first such effort across an entire ocean airspace. AI forecasts will predict…",
-      "link": "https://thenextweb.com/news/operation-blue-skies-google-uk-contrails-north-atlantic",
-      "date": "2026-08-18T18:12:13.000Z",
-      "category": "Product",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/08/airplane-plane-trails.avif"
-    },
-    {
       "source": "Hugging Face",
       "title": "How Much Memory Does Your Agent Actually Need?",
       "summary": "",
@@ -400,16 +436,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/fortinetvirtueai-scaled.png"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "date": "2026-08-18T17:21:58.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "LiveMint Tech",
@@ -470,16 +496,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/news/buv043/article71361310.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-18%20at%2020.00.40.jpeg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Meet the Chinese AI star who splashed a reported US$70m on a California mansion",
-      "summary": "Tony Wu Yuhuai, the China-born co-founder of Elon Musk’s artificial intelligence lab, sparked discussions across Chinese social media after reportedly spending US$70 million on a six-bedroom Californian mega-mansion. The property deal, the…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3364380/meet-chinese-ai-star-who-splashed-reported-us70m-california-mansion?utm_source=rss_feed",
-      "date": "2026-08-18T14:00:05.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/18/fe5d3e49-7b5b-4858-a1c2-5f58d72902f7_ac1fbe15.jpg?itok=yebJc8Sq&v=1787065252"
     },
     {
       "source": "TechCrunch AI",
@@ -560,16 +576,6 @@
       "category": "Product",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "ET Tech",
-      "title": "OpenAI introduces 'ChatGPT for Teens' amid legal pressure",
-      "summary": "Most of the safeguards utilised in the ChatGPT for Teens model already existed for ChatGPT accounts belonging to minors, such as restrictions when dealing with content related to self-harm, violence, eating disorders and graphic sexuality.…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-introduces-chatgpt-for-teens-amid-legal-pressure/articleshow/133320386.cms",
-      "date": "2026-08-18T11:16:18.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-133320386,imgsize-450036.cms"
     },
     {
       "source": "OpenAI",
