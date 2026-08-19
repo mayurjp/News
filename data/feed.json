@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T18:55:05.034Z",
-  "count": 207,
+  "updated": "2026-08-19T19:42:02.211Z",
+  "count": 210,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,12 +52,72 @@
   ],
   "items": [
     {
+      "source": "Wired AI",
+      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+      "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+      "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+      "date": "2026-08-19T19:30:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6a85e8ea4518d27679a9b132/master/pass/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Google is giving college students a free year of AI Pro, and a raft of study tools",
+      "summary": "Google is rolling out a wave of study tools across Search and Gemini for the new school year. It is also giving eligible college students a free year of its paid AI plan. The company set out the changes in a back-to-school post on Wednesda…",
+      "link": "https://thenextweb.com/news/google-students-free-ai-pro-gemini-study-tools",
+      "date": "2026-08-19T19:25:46.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2023/12/Gemini-e1701948818294.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "A British AI-chip startup is raising at $6.5bn after an Anthropic deal",
+      "summary": "Fractile, a British startup building chips for artificial intelligence, is in advanced talks to raise money at a valuation more than six times what it fetched three months ago, Bloomberg reported. The jump follows a deal to supply chips to…",
+      "link": "https://thenextweb.com/news/fractile-6-5bn-valuation-anthropic-chip-deal",
+      "date": "2026-08-19T19:13:46.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/05/Fractile-CEO.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "date": "2026-08-19T19:11:40.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "OpenAI",
       "title": "Offering Zero Data Retention for frontier models",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
       "date": "2026-08-19T19:00:00.000Z",
       "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "Google AI",
+      "title": "5 new ways to level up your learning with Search",
+      "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "date": "2026-08-19T19:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "date": "2026-08-19T19:00:00.000Z",
+      "category": "Product",
       "region": "United States",
       "image": null
     },
@@ -74,7 +134,7 @@
     {
       "source": "TechCrunch AI",
       "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
       "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
       "date": "2026-08-19T18:46:14.000Z",
       "category": "Security & Cyber Risk",
@@ -130,16 +190,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/20/thumbs/400x400/558387.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "OpenAI puts a 20% compute cost on its new AI safety monitoring",
-      "summary": "OpenAI has put figures and detail on the slowdown it signalled this week. It paused some frontier training for two weeks, it said. It is also running a new monitoring system for the riskiest work. That system adds about 20 percent to the c…",
-      "link": "https://thenextweb.com/news/openai-20-percent-compute-overhead-safety-monitoring",
-      "date": "2026-08-19T16:46:59.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/07/openai-dublin-250-jobs-european-headquarters-expansion.avif"
     },
     {
       "source": "Wired AI",
@@ -515,13 +565,7 @@
       "date": "2026-08-19T07:49:06.000Z",
       "category": "Business & Funding",
       "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-133340653,imgsize-1057290.cms",
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
-        }
-      ]
+      "image": "https://img.etimg.com/photo/msid-133340653,imgsize-1057290.cms"
     },
     {
       "source": "ET Tech",
@@ -641,13 +685,7 @@
       "date": "2026-08-19T04:17:18.000Z",
       "category": "Security & Cyber Risk",
       "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/utur2q/article71343878.ece/alternates/LANDSCAPE_1200/2026-08-07T230857Z_1965641140_RC2URLAEHNZO_RTRMADP_3_OPENAI-ASTRA.JPG",
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
-        }
-      ]
+      "image": "https://bl-i.thgim.com/public/incoming/utur2q/article71343878.ece/alternates/LANDSCAPE_1200/2026-08-07T230857Z_1965641140_RC2URLAEHNZO_RTRMADP_3_OPENAI-ASTRA.JPG"
     },
     {
       "source": "LiveMint Tech",
@@ -1248,16 +1286,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Wired AI",
-      "title": "The Safety Reckoning Inside OpenAI",
-      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-      "date": "2026-08-13T22:37:19.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://media.wired.com/photos/6a7d0965c82d9b74df554e1c/master/pass/Model-Behavior-OpenAI-Dangerous-AI-Business.jpg"
     },
     {
       "source": "Ars Technica AI",
@@ -1938,16 +1966,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Google AI",
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
-      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "date": "2026-07-22T13:00:00.000Z",
-      "category": "News",
-      "region": "South Korea",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"
     },
     {
       "source": "DeepMind",
