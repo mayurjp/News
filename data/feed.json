@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T17:47:21.650Z",
-  "count": 199,
+  "updated": "2026-08-20T19:01:36.216Z",
+  "count": 200,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,9 +52,59 @@
   ],
   "items": [
     {
+      "source": "Wired AI",
+      "title": "Silicon Valley Doesn't Get Why You Hate AI",
+      "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
+      "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+      "date": "2026-08-20T18:49:07.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6a8606ab1997359abc4212b4/master/pass/Model-Behavior-Silicon-Valley-Doesnt-Understand-AI-Backlash-Business.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Anthropic is targeting an IPO the size of the largest ever",
+      "summary": "Anthropic expects its IPO to match or exceed SpaceX’s record $75bn raise, and could file publicly as soon as the end of this month. It made a net loss of almost $42bn in 2025, five times the year before. Anthropic expects its stock market…",
+      "link": "https://thenextweb.com/news/anthropic-ipo-size-match-spacex-record",
+      "date": "2026-08-20T18:34:26.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/claude-cowork-sandbox-escape-mac-files-sharedroot.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "date": "2026-08-20T18:20:35.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Supermicro alliance tackles the storage bottlenecks holding back enterprise AI",
+      "summary": "The conversation around storage modernization used to revolve around capacity. Today, the dialogue centers on the role of storage as a strategic requirement for AI readiness. This doesn’t mean that storage’s transformation is simple. Many…",
+      "link": "https://siliconangle.com/2026/08/20/storage-modernization-supermicro-partners-ai-supermicroopenstoragesummit/",
+      "date": "2026-08-20T18:00:54.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Allen-Liu-Supermicro-Molly-Presley-Hammerspace-Praveen-Midha-Sandisk-Supermicro-Open-Storage-Summit-2026-scaled.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Taco Bell’s voice AI expansion shows the drive-thru has entered a new phase",
+      "summary": "Voice AI in the drive-thru is becoming less of an experiment and more of an operating decision for quick-service restaurants. Food On Demand recently reported that Taco Bell has expanded its voice AI technology to more than 890 U.S. restau…",
+      "link": "https://thenextweb.com/news/taco-bell-voice-ai-drive-thru-expansion",
+      "date": "2026-08-20T17:52:48.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/taco-bell-voice-ai-drive-thru-expansion.avif"
+    },
+    {
       "source": "TechCrunch AI",
       "title": "Grok keeps sending gibberish responses to users",
-      "summary": "Affected users told TechCrunch say they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
       "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
       "date": "2026-08-20T17:32:16.000Z",
       "category": "News",
@@ -190,16 +240,6 @@
       "category": "News",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Alibaba’s profit fell 75% as quarterly AI spending hit $10bn",
-      "summary": "Alibaba’s net profit fell 75% in the June quarter, to $1.54bn. The cause was not a weak business. It was the bill for building one. Capital spending reached $9.98bn in three months, up 75% on the same quarter last year, according to the re…",
-      "link": "https://thenextweb.com/news/alibaba-ai-spending-profit-falls-75-percent-cloud",
-      "date": "2026-08-20T14:05:09.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/07/alibaba-t-head-sail-open-source-nvidia-cuda-alternative.avif"
     },
     {
       "source": "ET Tech",
@@ -618,26 +658,6 @@
       "category": "News",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "date": "2026-08-19T21:51:23.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "The AI inference race moves beyond GPUs to reshape data center infrastructure",
-      "summary": "AI inference infrastructure is becoming a system-level challenge as organizations move generative and agentic applications into production. Graphics processing unit performance remains essential, but storage latency, network bandwidth, dat…",
-      "link": "https://siliconangle.com/2026/08/19/ai-inference-infrastructure-requires-full-stack-coordination-supermicroopenstoragesummit/",
-      "date": "2026-08-19T20:59:28.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/IMG_9367-scaled.jpg"
     },
     {
       "source": "Ars Technica AI",
@@ -1278,16 +1298,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://media.wired.com/photos/6a550ca43f29786234525e20/master/pass/Culture_AI%20Masturbation%20Consultants_v1.jpg"
-    },
-    {
-      "source": "Wired AI",
-      "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-      "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
-      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-      "date": "2026-08-14T10:15:00.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://media.wired.com/photos/6a7a320341c2687d2f60b612/master/pass/Humans-Are-Marrying-Chatbots-Culture-AB12034.jpg"
     },
     {
       "source": "ET CIO",
