@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T07:58:27.406Z",
-  "count": 205,
+  "updated": "2026-08-20T08:57:57.830Z",
+  "count": 203,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,36 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "The Next Web",
+      "title": "Callosum raises $100m to make AI workloads cheaper, with the British state on the cap table",
+      "summary": "Callosum has raised $100m, six months after leaving stealth with a tenth of that, and the round includes money from the British state. Bloomberg reported the raise, describing the UK’s public AI fund as a backer. The Cambridge company came…",
+      "link": "https://thenextweb.com/news/callosum-100m-round-uk-sovereign-ai",
+      "date": "2026-08-20T08:50:51.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/02/Callosum-raises-10.25-million.avif"
+    },
+    {
+      "source": "AI News",
+      "title": "A third of ChatGPT ads appear in irrelevant conversations",
+      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real Ch…",
+      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+      "date": "2026-08-20T08:07:40.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "AI data centre regulation just got a template that needs no new law",
+      "summary": "AI data centre regulation in Pennsylvania now begins with a signature. Before the state will so much as open a developer’s permit file, that developer has to sign a contract accepting a fixed set of conditions and the penalties for breakin…",
+      "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
+      "date": "2026-08-20T08:00:00.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": null
+    },
     {
       "source": "LiveMint Tech",
       "title": "Next phase of enterprise AI not about deploying models, but managing their evolution: Report",
@@ -338,26 +368,6 @@
       "image": "https://media.wired.com/photos/6a85e8ea4518d27679a9b132/master/pass/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "Google is giving college students a free year of AI Pro, and a raft of study tools",
-      "summary": "Google is rolling out a wave of study tools across Search and Gemini for the new school year. It is also giving eligible college students a free year of its paid AI plan. The company set out the changes in a back-to-school post on Wednesda…",
-      "link": "https://thenextweb.com/news/google-students-free-ai-pro-gemini-study-tools",
-      "date": "2026-08-19T19:25:46.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2023/12/Gemini-e1701948818294.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "A British AI-chip startup is raising at $6.5bn after an Anthropic deal",
-      "summary": "Fractile, a British startup building chips for artificial intelligence, is in advanced talks to raise money at a valuation more than six times what it fetched three months ago, Bloomberg reported. The jump follows a deal to supply chips to…",
-      "link": "https://thenextweb.com/news/fractile-6-5bn-valuation-anthropic-chip-deal",
-      "date": "2026-08-19T19:13:46.000Z",
-      "category": "Business & Funding",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/05/Fractile-CEO.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "AI was supposed to win people over by now — it hasn’t",
       "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
@@ -396,16 +406,6 @@
       "category": "Product",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Meta launched a Mac app to put its AI to work for businesses",
-      "summary": "Meta has released a dedicated Mac app for Meta AI, its chatbot. The company is pushing to turn the assistant into a tool for businesses and creators. The app can watch a window on your screen and answer questions about what it sees, Meta s…",
-      "link": "https://thenextweb.com/news/meta-ai-mac-app",
-      "date": "2026-08-19T18:50:23.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/Meta-AI-app-for-Mac.avif"
     },
     {
       "source": "TechCrunch AI",
@@ -1554,16 +1554,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
-      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become No…",
-      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
-      "date": "2026-08-11T10:00:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
       "summary": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
@@ -1572,16 +1562,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://restofworld.org/wp-content/uploads/2026/07/QA-AI-VC-Final-320x320.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "How AI is changing the vulnerability response timeline",
-      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recen…",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
-      "date": "2026-08-11T07:05:55.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "ET CIO",
@@ -1685,13 +1665,13 @@
     },
     {
       "source": "ET CIO",
-      "title": "Google’s search monopoly is becoming an AI monopoly",
-      "summary": "Google's search crawler now feeds its artificial intelligence models, creating an unfair advantage. This strategy accelerates automated internet traffic, surpassing human activity online. Regulators and industry players are pushing for cha…",
-      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/googles-search-monopoly-is-becoming-an-ai-monopoly/133079963",
-      "date": "2026-08-10T03:40:01.000Z",
-      "category": "Policy & Safety",
+      "title": "Everyone's Chasing the Best AI Model. UiPath Says Scale Is the Real Race",
+      "summary": "In today's business landscape, enterprises emphasize dependable AI implementation and quantifiable returns, moving beyond mere functionalities. Integrating business orchestration and automation technologies connects tasks to processes effe…",
+      "link": "https://cio.economictimes.indiatimes.com/news/brand-solution/everyones-chasing-the-best-ai-model-uipath-says-scale-is-the-real-race/133088712",
+      "date": "2026-08-10T07:26:54.000Z",
+      "category": "Product",
       "region": "Global",
-      "image": "https://etimg.etb2bimg.com/thumb/img-size-58302/133079963.cms"
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-62222/133088712.cms"
     },
     {
       "source": "The Register AI",
