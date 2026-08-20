@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T23:39:34.193Z",
-  "count": 197,
+  "updated": "2026-08-20T01:53:03.557Z",
+  "count": 208,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -46,10 +46,41 @@
     "Europe",
     "Japan",
     "South Korea",
+    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "SiliconANGLE",
+      "title": "Marvell shares jump 9.8% on Google chip design deal",
+      "summary": "Marvell Technology Inc. today disclosed that it has won a contract to design artificial intelligence chips for Google LLC. The deal also extends to other areas. Notably, Marvell has issued a warrant that will enable Google to purchase abou…",
+      "link": "https://siliconangle.com/2026/08/19/marvell-shares-jump-9-8-on-google-chip-design-deal/",
+      "date": "2026-08-20T01:41:39.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Marvell.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "China’s Mech-Mind Robotics set to open order book for US$300m IPO, sources say",
+      "summary": "China’s Mech-Mind Robotics Technologies plans to start taking investor orders for its Hong Kong initial public offering (IPO) as soon as next week amid a boom in artificial intelligence-driven robotics that has lifted investor enthusiasm,…",
+      "link": "https://www.scmp.com/business/banking-finance/article/3364569/chinas-mech-mind-robotics-set-open-order-book-us300m-ipo-sources-say?utm_source=rss_feed",
+      "date": "2026-08-20T01:30:10.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/b84f61b1-9ba7-4846-95a4-130bf215d5c1_dc932c27.jpg?itok=vkDBbh_O&v=1787132706"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding",
+      "summary": "Veeda AI, a startup led by a team of former Nvidia Corp. researcher and renowned computer scientist Sanja Fidler, has taken its bow on the main stage after raising $90 million in a seed funding round today. The round, which was first repor…",
+      "link": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/",
+      "date": "2026-08-20T01:01:50.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-20-07-58-37.png"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
@@ -419,7 +450,7 @@
     {
       "source": "SiliconANGLE",
       "title": "Criminal AI tool Kriminal is mostly just Grok with a jailbreak, ThreatDown finds",
-      "summary": "ThreatDown, the business security arm of Malwarebytes Inc., said in new research published today that Kriminal, one of the newest and most popular tools in the criminal artificial intelligence market, owns almost nothing it sells. The serv…",
+      "summary": "ThreatDown said in new research published today that Kriminal, one of the newest and most popular tools in the criminal artificial intelligence market, owns almost nothing it sells. The service runs on SpaceXAI’s Grok, rented from the same…",
       "link": "https://siliconangle.com/2026/08/19/criminal-ai-tool-kriminal-is-mostly-just-grok-with-a-jailbreak-threatdown-finds/",
       "date": "2026-08-19T13:00:43.000Z",
       "category": "Policy & Safety",
@@ -435,26 +466,6 @@
       "category": "Security & Cyber Risk",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2025/03/conanaudit.jpeg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Adronite launches Codistry AI coding platform, claims half the token cost",
-      "summary": "Adronite Inc. today launched Codistry, an artificial intelligence coding platform for large enterprise codebases. The platform runs on Adronite’s Context Engine, or ACE, which the company has patented. ACE builds a relational map of a code…",
-      "link": "https://siliconangle.com/2026/08/19/adronite-launches-codistry-ai-coding-platform-claims-half-the-token-cost/",
-      "date": "2026-08-19T13:00:35.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/adronite.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Cribl buys Radiant Security’s AI SOC tech in second security deal of 2026",
-      "summary": "Telemetry data company Cribl Inc. today said it has acquired technology assets from artificial intelligence security operations startup Radiant Security Inc. The purchase covers the intellectual property behind software that triages, inves…",
-      "link": "https://siliconangle.com/2026/08/19/cribl-buys-radiant-securitys-ai-soc-tech-in-second-security-deal-of-2026/",
-      "date": "2026-08-19T13:00:21.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/radiant.png"
     },
     {
       "source": "ET Tech",
@@ -533,16 +544,6 @@
       ]
     },
     {
-      "source": "SCMP Tech",
-      "title": "As Xi’s US visit approaches, basic details of planned AI talks remain uncertain",
-      "summary": "With Chinese President Xi Jinping’s planned visit to the United States just weeks away, Washington and Beijing are still struggling to arrange a hoped-for dialogue on artificial intelligence, with the venue, participants and scope of the t…",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3364549/xis-us-visit-approaches-basic-details-planned-ai-talks-remain-uncertain?utm_source=rss_feed",
-      "date": "2026-08-19T10:00:15.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/e16723b4-802b-486c-a2ce-64775d123fa3_0d9fa716.jpg?itok=4Bzg-vRD&v=1787127046"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Samsung raises advanced chipmaking prices by up to 15% as AI demand tightens capacity",
       "summary": "Surging demand for AI chips is giving Samsung greater pricing power as customers seek alternatives amid tight capacity at leading foundries.",
@@ -581,16 +582,6 @@
       "category": "News",
       "region": "China",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/19/thumbs/400x400/556538.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "China fund managers stick with AI, chips in August despite July sell-off, survey finds",
-      "summary": "Despite July’s sharp sell-off in global semiconductor shares, driven by concerns over AI-linked profitability, artificial intelligence and chips remained China’s most preferred investment themes in August, while more investors moved to hed…",
-      "link": "https://www.scmp.com/business/markets/article/3364550/china-fund-managers-stick-ai-chips-august-despite-july-sell-survey-finds?utm_source=rss_feed",
-      "date": "2026-08-19T08:13:55.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/19/98c06554-80fb-4fa2-aaf0-0945e44c9773_7176b2a6.jpg?itok=Wvs5iQLl&v=1787127234"
     },
     {
       "source": "ET Tech",
@@ -803,6 +794,16 @@
       "image": "https://bl-i.thgim.com/public/incoming/6vjo4f/article71361379.ece/alternates/LANDSCAPE_1200/As-Vikram-1-reaGO2G94BPD.3.jpg.jpg"
     },
     {
+      "source": "AI News",
+      "title": "OpenAI president urges enterprises to hasten AI security defences",
+      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to…",
+      "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+      "date": "2026-08-18T14:58:27.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Hindu BusinessLine",
       "title": "Sonata Software announces Hariprasad Rebala as Chief AI Officer",
       "summary": "Hari brings more than three decades of experience spanning IT services, enterprise technology and the start-up ecosystem",
@@ -831,6 +832,16 @@
       "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Alvys launches AI agents for freight TMS workflows",
+      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-…",
+      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+      "date": "2026-08-18T12:00:00.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "OpenAI",
@@ -870,6 +881,16 @@
       "date": "2026-08-18T10:06:43.000Z",
       "category": "Research",
       "region": "United States",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Reading Zhipu’s GLM-5.3 results past the headline number",
+      "summary": "Zhipu’s release note for GLM-5.3 contains a sentence that did not make it into most of the coverage. Describing its own cybersecurity results, the Beijing company writes that capability “is growing fastest exactly where we are furthest beh…",
+      "link": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
+      "date": "2026-08-18T10:00:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "China",
       "image": null
     },
     {
@@ -1193,6 +1214,16 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg"
     },
     {
+      "source": "AI News",
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "summary": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. Th…",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "date": "2026-08-14T13:30:10.000Z",
+      "category": "Research",
+      "region": "South Korea",
+      "image": null
+    },
+    {
       "source": "Analytics Vidhya",
       "title": "NVIDIA Nemotron 3.5 Lightning: The AI Agent Workhorse",
       "summary": "Long-running AI agents often spend most of their time on routine execution rather than difficult reasoning. After making a plan, they may perform hundreds of tool calls, file reads, validations, commands, and formatting steps, so using a f…",
@@ -1221,6 +1252,16 @@
       "category": "Policy & Safety",
       "region": "United States",
       "image": "https://media.wired.com/photos/6a7a320341c2687d2f60b612/master/pass/Humans-Are-Marrying-Chatbots-Culture-AB12034.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Google AI health coach to use Abbott glucose data",
+      "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data f…",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+      "date": "2026-08-14T10:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "ET CIO",
@@ -1343,6 +1384,16 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/08/sketch_ai_open_source_sketch_v5-320x320.jpg"
     },
     {
+      "source": "AI News",
+      "title": "Okta targets AI agent token costs with MCP scoping",
+      "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta cal…",
+      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+      "date": "2026-08-13T09:22:06.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "MIT Tech Review",
       "title": "How kids feel about AI, in their own words",
       "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formul…",
@@ -1399,6 +1450,16 @@
       "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
       "date": "2026-08-12T16:14:36.000Z",
       "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Google tests AMIE for clinical video consultations",
+      "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen…",
+      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+      "date": "2026-08-12T14:56:18.000Z",
+      "category": "Research",
       "region": "Global",
       "image": null
     },
@@ -1513,6 +1574,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become No…",
+      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "date": "2026-08-11T10:00:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
       "summary": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
@@ -1521,6 +1592,16 @@
       "category": "Research",
       "region": "Global",
       "image": "https://restofworld.org/wp-content/uploads/2026/07/QA-AI-VC-Final-320x320.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "How AI is changing the vulnerability response timeline",
+      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recen…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "date": "2026-08-11T07:05:55.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "ET CIO",
@@ -1581,6 +1662,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "AI News",
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers…",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "date": "2026-08-10T11:02:38.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Hugging Face",
@@ -2021,6 +2112,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     },
     {
       "source": "BAIR",
