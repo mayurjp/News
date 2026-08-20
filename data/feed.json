@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T05:48:09.184Z",
-  "count": 192,
+  "updated": "2026-08-20T07:08:10.606Z",
+  "count": 195,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -45,10 +45,31 @@
     "China",
     "Europe",
     "South Korea",
+    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "The Next Web",
+      "title": "Velatir raises €5m to sell European companies control over their own AI",
+      "summary": "Velatir, an Odense startup that sells companies a way to see and control the AI their employees are already using, has raised €5m in seed funding six months after closing its pre-seed. Spintop Ventures, a Nordic early-stage firm investing…",
+      "link": "https://thenextweb.com/news/velatir-5m-seed-european-ai-control",
+      "date": "2026-08-20T06:36:08.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/08/Velatir-team.avif"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Indias AI strength lies in applications, data centres, digital infrastructure: Vaishnaw to Morgan Stanleys Ridham Desai",
+      "summary": "India's key strength in artificial intelligence lies in the applications layer, while the country is simultaneously building capabilities in data centres and other digital infrastructure, Union Minister Ashwini Vaishnaw said in an intervie…",
+      "link": "https://www.livemint.com/technology/indias-ai-strength-lies-in-applications-data-centres-digital-infrastructure-vaishnaw-to-morgan-stanleys-ridham-desai-11787206241187.html",
+      "date": "2026-08-20T06:10:40.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
+    },
     {
       "source": "ET Tech",
       "title": "Nebius upsizes debt sale to $5 billion to fund data centers, AI platform",
@@ -772,6 +793,16 @@
       "image": "https://bl-i.thgim.com/public/incoming/6vjo4f/article71361379.ece/alternates/LANDSCAPE_1200/As-Vikram-1-reaGO2G94BPD.3.jpg.jpg"
     },
     {
+      "source": "AI News",
+      "title": "OpenAI president urges enterprises to hasten AI security defences",
+      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to…",
+      "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+      "date": "2026-08-18T14:58:27.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Hindu BusinessLine",
       "title": "Sonata Software announces Hariprasad Rebala as Chief AI Officer",
       "summary": "Hari brings more than three decades of experience spanning IT services, enterprise technology and the start-up ecosystem",
@@ -800,6 +831,16 @@
       "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Alvys launches AI agents for freight TMS workflows",
+      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-…",
+      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+      "date": "2026-08-18T12:00:00.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "OpenAI",
@@ -839,6 +880,16 @@
       "date": "2026-08-18T10:06:43.000Z",
       "category": "Research",
       "region": "United States",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Reading Zhipu’s GLM-5.3 results past the headline number",
+      "summary": "Zhipu’s release note for GLM-5.3 contains a sentence that did not make it into most of the coverage. Describing its own cybersecurity results, the Beijing company writes that capability “is growing fastest exactly where we are furthest beh…",
+      "link": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
+      "date": "2026-08-18T10:00:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "China",
       "image": null
     },
     {
@@ -982,26 +1033,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg"
     },
     {
-      "source": "The Register AI",
-      "title": "Mozilla adds ad blocking to Firefox for iOS",
-      "summary": "Experimental feature to block some, but not all, ads",
-      "link": "https://www.theregister.com/software/2026/08/17/mozilla-adds-ad-blocking-to-firefox-for-ios/5288585",
-      "date": "2026-08-17T15:50:56.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5242942&width=800"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
-      "summary": "USA-TRUMP-WORLDCLAW:Trump crypto firm backs venture offering AI from restricted Chinese companies",
-      "link": "https://www.livemint.com/technology/trump-crypto-firm-backs-venture-offering-ai-from-restricted-chinese-companies-11786978639626.html",
-      "date": "2026-08-17T14:57:19.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
-    },
-    {
       "source": "NVIDIA",
       "title": "Securing the Infrastructure of Intelligence",
       "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full st…",
@@ -1010,16 +1041,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Excel's Copilot function is headed for the Recycle Bin",
-      "summary": "Microsoft realizes the side pane should be enough for anyone",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/17/excels-copilot-function-is-headed-for-the-recycle-bin/5288327",
-      "date": "2026-08-17T10:55:06.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=5269830&width=800"
     },
     {
       "source": "MIT Tech Review",
@@ -1060,16 +1081,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-1571611/133204642.cms"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive",
-      "summary": "Dealing with machine-made bug backlog makes it hard to find a moment to deliver promised subscription service",
-      "link": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227",
-      "date": "2026-08-17T02:31:58.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=225734&width=800"
     },
     {
       "source": "Analytics Vidhya",
@@ -1142,6 +1153,16 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg"
     },
     {
+      "source": "AI News",
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "summary": "Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. Th…",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "date": "2026-08-14T13:30:10.000Z",
+      "category": "Research",
+      "region": "South Korea",
+      "image": null
+    },
+    {
       "source": "Analytics Vidhya",
       "title": "NVIDIA Nemotron 3.5 Lightning: The AI Agent Workhorse",
       "summary": "Long-running AI agents often spend most of their time on routine execution rather than difficult reasoning. After making a plan, they may perform hundreds of tool calls, file reads, validations, commands, and formatting steps, so using a f…",
@@ -1170,6 +1191,16 @@
       "category": "Policy & Safety",
       "region": "United States",
       "image": "https://media.wired.com/photos/6a7a320341c2687d2f60b612/master/pass/Humans-Are-Marrying-Chatbots-Culture-AB12034.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Google AI health coach to use Abbott glucose data",
+      "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data f…",
+      "link": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+      "date": "2026-08-14T10:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "ET CIO",
@@ -1292,6 +1323,16 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/08/sketch_ai_open_source_sketch_v5-320x320.jpg"
     },
     {
+      "source": "AI News",
+      "title": "Okta targets AI agent token costs with MCP scoping",
+      "summary": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta cal…",
+      "link": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+      "date": "2026-08-13T09:22:06.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "MIT Tech Review",
       "title": "How kids feel about AI, in their own words",
       "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formul…",
@@ -1322,16 +1363,6 @@
       "image": null
     },
     {
-      "source": "The Register AI",
-      "title": "OpenWALDO aims to blow the doors off proprietary AI training models",
-      "summary": "Contributors wanted: 167B transparent tokens have a long way to go against AI giants' trillions",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/openwaldo-aims-to-blow-the-doors-off-proprietary-ai-training-models/5286864",
-      "date": "2026-08-12T16:57:33.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5286886&width=800"
-    },
-    {
       "source": "MIT Tech Review",
       "title": "Scaling AI agents with trustworthy data",
       "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that real…",
@@ -1348,6 +1379,16 @@
       "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
       "date": "2026-08-12T16:14:36.000Z",
       "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Google tests AMIE for clinical video consultations",
+      "summary": "Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen…",
+      "link": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+      "date": "2026-08-12T14:56:18.000Z",
+      "category": "Research",
       "region": "Global",
       "image": null
     },
@@ -1462,6 +1503,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "summary": "Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become No…",
+      "link": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "date": "2026-08-11T10:00:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
       "summary": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
@@ -1472,6 +1523,16 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/07/QA-AI-VC-Final-320x320.jpg"
     },
     {
+      "source": "AI News",
+      "title": "How AI is changing the vulnerability response timeline",
+      "summary": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recen…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "date": "2026-08-11T07:05:55.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "ET CIO",
       "title": "Building trusted enterprise AI through hybrid cloud and digital sovereignty",
       "summary": "The rapid growth of AI in India is prompting a surge in demand for advanced tech infrastructures. Businesses are recognizing that their success hinges on formidable architecture and effective data management. A hybrid cloud approach provid…",
@@ -1480,16 +1541,6 @@
       "category": "Research",
       "region": "India",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-88356/133094388.cms"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Hey, big spender – OpenAI has a new SKU just for you",
-      "summary": "$125 a month? So, how good are those open-weight models getting, again?",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
-      "date": "2026-08-10T21:25:39.000Z",
-      "category": "Open Source",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=244264&width=800"
     },
     {
       "source": "MIT Tech Review",
@@ -1530,6 +1581,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "AI News",
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "summary": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers…",
+      "link": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "date": "2026-08-10T11:02:38.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Hugging Face",
@@ -1582,16 +1643,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-58302/133079963.cms"
     },
     {
-      "source": "The Register AI",
-      "title": "NEC tests parking tech that only starts charging once you exit your car",
-      "summary": "PLUS: Infosys to wear Crocs for a decade; Fujifilm may quit printers; 2GW datacenter debuts in western China; and more!",
-      "link": "https://www.theregister.com/software/2026/08/10/nec-tests-parking-tech-that-only-starts-charging-once-you-exit-your-car/5285245",
-      "date": "2026-08-10T01:32:04.000Z",
-      "category": "Hardware & Infra",
-      "region": "India",
-      "image": "https://image.theregister.com/?imageId=239104&width=800"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Top 5 Claude Skills for Marketing",
       "summary": "Claude can write an ad or email from a prompt. This is usually done manually. Useful, but hardly a coherent system. The work still needs research, positioning, channel planning, quality checks, and reporting. Claude’s marketing skills add…",
@@ -1610,16 +1661,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1.jpg"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
-      "summary": "You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you?",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
-      "date": "2026-08-06T16:44:29.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5251269&width=800"
     },
     {
       "source": "DeepMind",
@@ -1672,16 +1713,6 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_ai_salon_sketch_v2-320x320.jpg"
     },
     {
-      "source": "The Register AI",
-      "title": "UK mulls making employers ask before installing bossware",
-      "summary": "Proposals span AI productivity scores, keystroke logging, biometrics, and other ways to watch workers",
-      "link": "https://www.theregister.com/software/2026/08/04/uk-mulls-making-employers-ask-before-installing-bossware/5282440",
-      "date": "2026-08-04T07:30:00.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://image.theregister.com/?imageId=5282473&width=800"
-    },
-    {
       "source": "Google AI",
       "title": "Inside our 353,000-person vibe coding course",
       "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
@@ -1702,16 +1733,6 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/07/illo_opensource_AI_divide_final-320x320.jpg"
     },
     {
-      "source": "The Register AI",
-      "title": "Open source project fools AI scrapers with poisoned font",
-      "summary": "ShieldFont is available today if you've got copy that needs protecting",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
-      "date": "2026-07-30T17:19:23.000Z",
-      "category": "Open Source",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5281330&width=800"
-    },
-    {
       "source": "DeepMind",
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
@@ -1720,16 +1741,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Register AI",
-      "title": "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
-      "summary": "Capex spending? What? Me worry?",
-      "link": "https://www.theregister.com/software/2026/07/30/microsoft-earnings-q4-26-cloud-brings-revenue-rain/5280798",
-      "date": "2026-07-29T23:17:56.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=256704&width=800"
     },
     {
       "source": "DeepMind",
@@ -1970,6 +1981,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     },
     {
       "source": "BAIR",
