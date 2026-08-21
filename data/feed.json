@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T14:00:18.356Z",
-  "count": 194,
+  "updated": "2026-08-21T14:55:06.960Z",
+  "count": 204,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,26 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "The Next Web",
+      "title": "New York has more tech workers than San Francisco for the first time",
+      "summary": "New York has more tech workers than the San Francisco Bay Area for the first time since CBRE started counting 13 years ago. The property firm’s Scoring Tech Talent 2026 report, subtitled “AI Realignment Underway”, puts the New York metro a…",
+      "link": "https://thenextweb.com/news/cbre-tech-talent-2026-new-york-san-francisco-ai-jobs",
+      "date": "2026-08-21T14:42:46.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/new-york-skyscrappers.avif"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model",
+      "summary": "A US artificial intelligence start-up backed by OpenAI has built its first in-house model on Chinese lab Moonshot AI’s Kimi K3, highlighting a growing shift by Western tech firms towards Chinese open-weight systems amid soaring development…",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?utm_source=rss_feed",
+      "date": "2026-08-21T14:00:10.000Z",
+      "category": "Open Source",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/812b600a-89f6-4831-92d0-72687e3074d3_002d5221.jpg?itok=UFbRYQM9&v=1787304053"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -234,16 +254,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/be8e84c6-32f7-4269-8e7a-1197b05f6c3f_2c5823ab.jpg?itok=-u6Bf6Z3&v=1787305802"
     },
     {
-      "source": "The Next Web",
-      "title": "Brazil is building two AI supercomputers, one Chinese and one American",
-      "summary": "Brazil is spending 2.3bn reais, about $444m, on two AI supercomputers. One will be built with Huawei, the other is expected to go to Nvidia, and that is the entire point. “The strategy is not to depend on a single company, technology or co…",
-      "link": "https://thenextweb.com/news/brazil-ai-supercomputers-huawei-nvidia-split",
-      "date": "2026-08-21T09:02:54.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/08/Brazil-flag.avif"
-    },
-    {
       "source": "ET Tech",
       "title": "Brazil launches AI supercomputer push, splits projects between Chinese, US firms",
       "summary": "Just over half the total, 1.3 billion reais, will fund a supercomputing infrastructure project in Rio de Janeiro developed in partnership with China's Huawei Technologies and iFlytek. President Luiz Inacio ‌Lula da Silva's ⁠government ⁠sai…",
@@ -420,16 +430,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-21-08-32-21.png"
     },
     {
-      "source": "SCMP Tech",
-      "title": "In the embodied AI race, China can opt to look beyond bigger models",
-      "summary": "The world has seen tremendous progress in the capabilities of robots in the past year. Robots can now walk, dance, run and perform increasingly sophisticated movements, yet impressive demonstrations do not equal commercial value. Beyond th…",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3364420/embodied-ai-race-china-can-opt-look-beyond-bigger-models?utm_source=rss_feed",
-      "date": "2026-08-21T01:30:06.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/20/76b54f03-a5e2-430e-a76c-5e7a403404df_19d2a576.jpg?itok=DETSeKmX&v=1787221070"
-    },
-    {
       "source": "SiliconANGLE",
       "title": "Broadcom reportedly seeking up to $100B in debt financing for AI chip deal",
       "summary": "Broadcom Inc. is reportedly seeking to borrow up to $100 billion as part of a new artificial intelligence chip financing deal. Bloomberg today cited sources as saying that the debt is intended to support the growth efforts of Anthropic PBC…",
@@ -601,7 +601,7 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
       "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
       "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
       "date": "2026-08-20T17:18:58.000Z",
@@ -638,6 +638,16 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": null
+    },
+    {
+      "source": "The Register AI",
+      "title": "Slack Code taps into collective vibe, puts AI agents into the group chat",
+      "summary": "Developers can now invite the whole team along for their quality time with the coding bot",
+      "link": "https://www.theregister.com/saas/2026/08/20/slack-code-taps-into-collective-vibe-puts-ai-agents-into-the-group-chat/5290413",
+      "date": "2026-08-20T15:23:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=248129&width=800"
     },
     {
       "source": "AI News",
@@ -1256,6 +1266,16 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg"
     },
     {
+      "source": "The Register AI",
+      "title": "Mozilla adds ad blocking to Firefox for iOS",
+      "summary": "Experimental feature to block some, but not all, ads",
+      "link": "https://www.theregister.com/software/2026/08/17/mozilla-adds-ad-blocking-to-firefox-for-ios/5288585",
+      "date": "2026-08-17T15:50:56.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5242942&width=800"
+    },
+    {
       "source": "NVIDIA",
       "title": "Securing the Infrastructure of Intelligence",
       "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full st…",
@@ -1264,6 +1284,16 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Excel's Copilot function is headed for the Recycle Bin",
+      "summary": "Microsoft realizes the side pane should be enough for anyone",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/17/excels-copilot-function-is-headed-for-the-recycle-bin/5288327",
+      "date": "2026-08-17T10:55:06.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://image.theregister.com/?imageId=5269830&width=800"
     },
     {
       "source": "MIT Tech Review",
@@ -1294,6 +1324,16 @@
       "category": "Research",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-1571611/133204642.cms"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive",
+      "summary": "Dealing with machine-made bug backlog makes it hard to find a moment to deliver promised subscription service",
+      "link": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227",
+      "date": "2026-08-17T02:31:58.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://image.theregister.com/?imageId=225734&width=800"
     },
     {
       "source": "Analytics Vidhya",
@@ -1506,6 +1546,16 @@
       "image": null
     },
     {
+      "source": "The Register AI",
+      "title": "OpenWALDO aims to blow the doors off proprietary AI training models",
+      "summary": "Contributors wanted: 167B transparent tokens have a long way to go against AI giants' trillions",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/openwaldo-aims-to-blow-the-doors-off-proprietary-ai-training-models/5286864",
+      "date": "2026-08-12T16:57:33.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5286886&width=800"
+    },
+    {
       "source": "MIT Tech Review",
       "title": "Scaling AI agents with trustworthy data",
       "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that real…",
@@ -1646,6 +1696,16 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/07/QA-AI-VC-Final-320x320.jpg"
     },
     {
+      "source": "The Register AI",
+      "title": "Hey, big spender – OpenAI has a new SKU just for you",
+      "summary": "$125 a month? So, how good are those open-weight models getting, again?",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
+      "date": "2026-08-10T21:25:39.000Z",
+      "category": "Open Source",
+      "region": "United States",
+      "image": "https://image.theregister.com/?imageId=244264&width=800"
+    },
+    {
       "source": "MIT Tech Review",
       "title": "AI professors are negotiating the new realities of academic research",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join…",
@@ -1696,6 +1756,16 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-62222/133088712.cms"
     },
     {
+      "source": "The Register AI",
+      "title": "NEC tests parking tech that only starts charging once you exit your car",
+      "summary": "PLUS: Infosys to wear Crocs for a decade; Fujifilm may quit printers; 2GW datacenter debuts in western China; and more!",
+      "link": "https://www.theregister.com/software/2026/08/10/nec-tests-parking-tech-that-only-starts-charging-once-you-exit-your-car/5285245",
+      "date": "2026-08-10T01:32:04.000Z",
+      "category": "Hardware & Infra",
+      "region": "India",
+      "image": "https://image.theregister.com/?imageId=239104&width=800"
+    },
+    {
       "source": "NVIDIA",
       "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
       "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing a…",
@@ -1704,6 +1774,16 @@
       "category": "Product",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1.jpg"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
+      "summary": "You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you?",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
+      "date": "2026-08-06T16:44:29.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5251269&width=800"
     },
     {
       "source": "DeepMind",
@@ -1736,6 +1816,16 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp"
     },
     {
+      "source": "The Register AI",
+      "title": "UK mulls making employers ask before installing bossware",
+      "summary": "Proposals span AI productivity scores, keystroke logging, biometrics, and other ways to watch workers",
+      "link": "https://www.theregister.com/software/2026/08/04/uk-mulls-making-employers-ask-before-installing-bossware/5282440",
+      "date": "2026-08-04T07:30:00.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://image.theregister.com/?imageId=5282473&width=800"
+    },
+    {
       "source": "Google AI",
       "title": "Inside our 353,000-person vibe coding course",
       "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
@@ -1744,6 +1834,16 @@
       "category": "Enterprise & Deployment",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Open source project fools AI scrapers with poisoned font",
+      "summary": "ShieldFont is available today if you've got copy that needs protecting",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
+      "date": "2026-07-30T17:19:23.000Z",
+      "category": "Open Source",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5281330&width=800"
     },
     {
       "source": "DeepMind",
