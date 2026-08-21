@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T10:49:43.284Z",
-  "count": 202,
+  "updated": "2026-08-21T11:44:04.366Z",
+  "count": 200,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,16 @@
   ],
   "items": [
     {
+      "source": "Ars Technica AI",
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+      "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "date": "2026-08-21T11:00:53.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-1152x648.jpg"
+    },
+    {
       "source": "Analytics Vidhya",
       "title": "PagedAttention vs. RadixAttention: Optimizing LLM KV Cache Management",
       "summary": "Modern LLMs rely on quantization, pruning, distillation, and faster attention kernels, but production performance often depends most on KV cache management. As context windows grow, the cache consumes significant GPU memory, limiting concu…",
@@ -60,6 +70,22 @@
       "category": "Hardware & Infra",
       "region": "Global",
       "image": null
+    },
+    {
+      "source": "ET Tech",
+      "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
+      "summary": "Outsourcing giants like Tata Consultancy Services, Infosys, Wipro, HCLTech and Cognizant are rejigging business models, increasingly ​tying fees to performance outcomes instead of hours worked, as clients demand steep ​price cuts and more…",
+      "link": "https://economictimes.indiatimes.com/tech/information-tech/ai-reshapes-indias-it-services-sector-contracts-as-clients-demand-more-for-less/articleshow/133401839.cms",
+      "date": "2026-08-21T10:41:51.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://img.etimg.com/photo/msid-133401839,imgsize-15960.cms",
+      "relatedSources": [
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/ai-reshapes-indias-it-services-sector-as-clients-demand-more-for-less/article71371046.ece"
+        }
+      ]
     },
     {
       "source": "SCMP Tech",
@@ -274,16 +300,6 @@
       "image": "https://img.etimg.com/photo/msid-133391682,imgsize-72422.cms"
     },
     {
-      "source": "ET Tech",
-      "title": "Nvidia denies report it is rolling out China AI chip by year-end",
-      "summary": "\"The reporting in The Information on Nvidia's LPU is incorrect. We have no LPU ‌sales in ⁠the China ⁠market today, and no China-specific LPU product in our roadmap,\" an Nvidia spokesperson ​said.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-denies-report-it-is-rolling-out-china-ai-chip-by-year-end/articleshow/133391524.cms",
-      "date": "2026-08-21T03:05:17.000Z",
-      "category": "Hardware & Infra",
-      "region": "China",
-      "image": "https://img.etimg.com/photo/msid-133391524,imgsize-9102.cms"
-    },
-    {
       "source": "Japan Times",
       "title": "Government panel to discuss AI use in education amid concerns of overreliance",
       "summary": "There are growing concerns that excessive reliance on AI may reduce opportunities for students to think and make decisions on their own.",
@@ -364,16 +380,6 @@
       "image": null
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "AI reshapes India’s IT services sector as clients demand more for less",
-      "summary": "India’s technology services sector is confronting a fundamental shift as clients rethink outsourcing, pricing and the value of large employee bases",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-reshapes-indias-it-services-sector-as-clients-demand-more-for-less/article71371046.ece",
-      "date": "2026-08-20T23:47:54.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/x78i1i/article71371991.ece/alternates/LANDSCAPE_1200/software%20companies%20-%20shifting%20focus.jpg"
-    },
-    {
       "source": "SiliconANGLE",
       "title": "Report: Anthropic hopes to surpass SpaceX’s record IPO raise when it finally floats",
       "summary": "Anthropic PBC is privately hoping its upcoming initial public offering will match or even surpass the size of SpaceX Corp.’s record-breaking IPO as it doubles down on its bid to go public ahead of rival OpenAI Group PBC. Anonymous sources…",
@@ -452,16 +458,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Pew says 10% of the web now shows signs of AI authorship",
-      "summary": "Pew found strong signs of AI authorship in around 10% of a random sample of webpages in July 2026, rising to more than a third among pages published since ChatGPT’s release. Commercial domains carry most of it, at about 10% of .com against…",
-      "link": "https://thenextweb.com/news/pew-ai-authorship-web-pages-study",
-      "date": "2026-08-20T20:45:21.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/eu-ai-act-enforcement-powers-inspect-fine-models.avif"
     },
     {
       "source": "TechCrunch AI",
@@ -1398,16 +1394,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
-      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "date": "2026-08-13T17:00:13.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg"
     },
     {
       "source": "Google AI",
