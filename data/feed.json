@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T11:44:04.366Z",
-  "count": 200,
+  "updated": "2026-08-21T13:12:46.743Z",
+  "count": 202,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,72 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "Rest of World",
+      "title": "A dumpling shop becomes a poster child of AI adoption in China",
+      "summary": "Business owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”",
+      "link": "https://restofworld.org/2026/china-ai-adoption-jinguyuan/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "date": "2026-08-21T13:00:00.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_dumpling_shop_final-320x320.jpg"
+    },
+    {
+      "source": "MediaNama",
+      "title": "What does the industry want from TRAI on spam? #NAMA",
+      "summary": "Industry experts highlighted a range of things they want TRAI to fix regarding spam like implementation of the consent system, keep AI as signal not judge and more consumer choice. The post What does the industry want from TRAI on spam? #N…",
+      "link": "https://www.medianama.com/2026/08/223-what-industry-want-trai-spam/",
+      "date": "2026-08-21T12:40:08.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Broadcom seeks more than $60bn in debt to fund AI chips for Anthropic",
+      "summary": "Broadcom is in talks with lenders to raise more than $60bn in debt, Bloomberg reported on Thursday. The money would finance AI chips for Anthropic and other companies. Bloomberg cited people with knowledge of the matter. The figures under…",
+      "link": "https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic",
+      "date": "2026-08-21T12:17:31.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/Broadcom-Irvine-Campus-Interior-Hallway.avif",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal/articleshow/133391787.cms"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "Nvidia pays Poolside $6bn to license its model factory and hire 109 staff",
+      "summary": "Nvidia has agreed to pay Poolside $6bn to license the software the startup used to build AI models, and to offer jobs to 109 of its staff. It is also investing $1bn in what remains, at a $12bn pre-money valuation. The terms come from a let…",
+      "link": "https://thenextweb.com/news/nvidia-poolside-6bn-model-factory-licence",
+      "date": "2026-08-21T12:05:39.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/07/nvidia-naver-sk-group-korea-ai-investment.avif"
+    },
+    {
+      "source": "DeepMind",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "date": "2026-08-21T11:59:48.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "source": "The Next Web",
+      "title": "DeepSeek launches an experimental multimodal model to rival Anthropic",
+      "summary": "DeepSeek released an experimental multimodal model on Friday and said its agent performance is close to Anthropic’s Opus-4.8. On DeepSeek’s own published table, it beats that model on three benchmarks out of eleven. DeepSeek-V4-Flash-Visio…",
+      "link": "https://thenextweb.com/news/deepseek-v4-flash-vision-exp-opus-benchmarks",
+      "date": "2026-08-21T11:40:37.000Z",
+      "category": "Product",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/08/DeepSeek-V4-Flash-Vision-Exp.avif"
+    },
     {
       "source": "Ars Technica AI",
       "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
@@ -130,7 +196,7 @@
     {
       "source": "SCMP Tech",
       "title": "Embrace AI to boost competitiveness, Paul Chan says at tech festival opening",
-      "summary": "Humanoid robots, 3D printers and artificial intelligence (AI) hubs are among the newest technologies showcased at Hong Kong’s annual electronics and technology exhibition, as the city’s finance chief encourages residents to learn how to us…",
+      "summary": "Humanoid robots, 3D printers and artificial intelligence (AI) hubs are among the newest technologies showcased at Hong Kong’s annual electronics and tech exhibition, as the city’s finance chief encourages residents to learn how to use them…",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364834/embrace-ai-boost-competitiveness-paul-chan-says-tech-festival-opening?utm_source=rss_feed",
       "date": "2026-08-21T09:54:38.000Z",
       "category": "News",
@@ -188,14 +254,14 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-96278/133397853.cms"
     },
     {
-      "source": "The Next Web",
-      "title": "OpenAI ships a Messages plugin that summarises who you talk to and what about",
-      "summary": "The ChatGPT desktop app can now read your iMessage history and send messages on your behalf. OpenAI shipped the integration this week for Macs running Apple silicon, and Apple, a company it is reportedly preparing to sue, was not part of t…",
-      "link": "https://thenextweb.com/news/chatgpt-imessage-plugin-apple-privacy",
-      "date": "2026-08-21T06:50:08.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/chatgpt-whatsapp-sticker-export-apk-teardown.avif"
+      "source": "ET Tech",
+      "title": "One of a Kind Awards: Honouring AI that solves problems beyond the hype",
+      "summary": "At the One of a Kind Awards - for early stage startups, presented by The Economic Times and Cashfree Payments, the AI Innovator Award recognised an early-stage, internet-first startup using AI to solve a real-world problem or create fundam…",
+      "link": "https://economictimes.indiatimes.com/tech/startups/one-of-a-kind-awards-honouring-ai-that-solves-problems-beyond-the-hype/articleshow/133396885.cms",
+      "date": "2026-08-21T07:37:36.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-133396885,imgsize-1352741.cms"
     },
     {
       "source": "SCMP Tech",
@@ -261,13 +327,7 @@
       "date": "2026-08-21T04:39:09.000Z",
       "category": "News",
       "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/92k79b/article71372193.ece/alternates/LANDSCAPE_1200/2026-02-26T012349Z_1301669123_RC2LU7AF7VPI_RTRMADP_3_ANTHROPIC-AI.JPG",
-      "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-plans-to-change-enterprise-data-retention-policy/articleshow/133391616.cms"
-        }
-      ]
+      "image": "https://bl-i.thgim.com/public/incoming/92k79b/article71372193.ece/alternates/LANDSCAPE_1200/2026-02-26T012349Z_1301669123_RC2LU7AF7VPI_RTRMADP_3_ANTHROPIC-AI.JPG"
     },
     {
       "source": "ET Tech",
@@ -278,16 +338,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-133391894,imgsize-112868.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Broadcom seeks more than $60 billion in latest AI debt deal",
-      "summary": "The numbers under discussion would potentially bring the total ​raise to as much as $100 billion, according to the report.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal/articleshow/133391787.cms",
-      "date": "2026-08-21T03:21:33.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-133391787,imgsize-43704.cms"
     },
     {
       "source": "ET Tech",
@@ -328,16 +378,6 @@
       "category": "Policy & Safety",
       "region": "India",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-49212/133345456.cms"
-    },
-    {
-      "source": "Japan Times",
-      "title": "Anthropic expects to match or top SpaceX’s record IPO size",
-      "summary": "The Claude developer is running the numbers as it prepares to file publicly for its potential mega-IPO as soon as the end of this month, sources say.",
-      "link": "https://www.japantimes.co.jp/business/2026/08/21/companies/anthropic-ipo-record-spacex/",
-      "date": "2026-08-21T02:15:00.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/21/thumbs/400x400/558649.jpg"
     },
     {
       "source": "SiliconANGLE",
@@ -1756,16 +1796,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp"
     },
     {
-      "source": "Rest of World",
-      "title": "The global grassroots gatherings trying to humanize the AI boom",
-      "summary": "Local tech groups in Kenya, India, and the U.S. are building communities and conversations around AI, but also face questions about privilege and reach.",
-      "link": "https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "date": "2026-08-04T10:00:00.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_ai_salon_sketch_v2-320x320.jpg"
-    },
-    {
       "source": "The Register AI",
       "title": "UK mulls making employers ask before installing bossware",
       "summary": "Proposals span AI productivity scores, keystroke logging, biometrics, and other ways to watch workers",
@@ -1904,16 +1934,6 @@
       "category": "Security & Cyber Risk",
       "region": "Global",
       "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "source": "DeepMind",
-      "title": "Our approach to bioresilience",
-      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "date": "2026-07-16T09:30:42.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w528-h297-n-nu-rw-lo"
     },
     {
       "source": "BAIR",
