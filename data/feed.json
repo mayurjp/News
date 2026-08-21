@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T09:53:37.619Z",
-  "count": 199,
+  "updated": "2026-08-21T10:49:43.284Z",
+  "count": 202,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,66 @@
   ],
   "items": [
     {
+      "source": "Analytics Vidhya",
+      "title": "PagedAttention vs. RadixAttention: Optimizing LLM KV Cache Management",
+      "summary": "Modern LLMs rely on quantization, pruning, distillation, and faster attention kernels, but production performance often depends most on KV cache management. As context windows grow, the cache consumes significant GPU memory, limiting concu…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/08/pagedattention-radixattention-llm-kv-cache/",
+      "date": "2026-08-21T10:42:03.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "The Mistral paradox: Europe’s push for tech sovereignty relies on China’s Z.ai",
+      "summary": "On August 11, a tiny line buried in a lengthy press release from French company Mistral AI spoke volumes about the strategic and technological dilemmas facing the European Union, as the bloc prepares to navigate an autumn period full of ge…",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3364745/mistral-paradox-europes-push-tech-sovereignty-relies-chinas-zai?utm_source=rss_feed",
+      "date": "2026-08-21T10:30:06.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/9eb95141-2623-41c0-b0e9-9180afb9c6a1_dfcf09fe.jpg?itok=_Kk06ykO&v=1787276075"
+    },
+    {
+      "source": "ET Tech",
+      "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
+      "summary": "While fund managers remain comfortable with the credit ​quality of companies such as Amazon and Alphabet, Google's parent company, they are increasingly demanding higher yields to accommodate the flood of ​issuance. This has raised concern…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/us-corporate-ai-debt-surge-tests-investor-limits-as-fatigue-emerges/articleshow/133400902.cms",
+      "date": "2026-08-21T10:09:05.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-133400902,imgsize-50672.cms"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Adobe Firefly can now generate music, speech and sound effects",
+      "summary": "Adobe Firefly’s audio tools became generally available on Thursday. Generate Music, Generate Speech and Generate Sound Effects now sit beside the image, video and design tools in its creative AI studio. Each runs on a different model. Gene…",
+      "link": "https://thenextweb.com/news/adobe-firefly-audio-music-speech-sound-effects",
+      "date": "2026-08-21T10:06:48.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/adobe-firefly-sound-license.avif"
+    },
+    {
+      "source": "MediaNama",
+      "title": "Six strategic takeaways from MakeMyTrip’s Q1 FY27 earnings call",
+      "summary": "MakeMyTrip is moving AI from assisting with travel bookings to completing them, with Myra 2.0 now handling search, comparison, booking and agentic payments. The post Six strategic takeaways from MakeMyTrip’s Q1 FY27 earnings call appeared…",
+      "link": "https://www.medianama.com/2026/08/223-makemytrip-ai-myra2-0-bookingq1-fy27-earnings-call/",
+      "date": "2026-08-21T10:00:33.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Embrace AI to boost competitiveness, Paul Chan says at tech festival opening",
+      "summary": "Humanoid robots, 3D printers and artificial intelligence (AI) hubs are among the newest technologies showcased at Hong Kong’s annual electronics and technology exhibition, as the city’s finance chief encourages residents to learn how to us…",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364834/embrace-ai-boost-competitiveness-paul-chan-says-tech-festival-opening?utm_source=rss_feed",
+      "date": "2026-08-21T09:54:38.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/be8e84c6-32f7-4269-8e7a-1197b05f6c3f_2c5823ab.jpg?itok=-u6Bf6Z3&v=1787305802"
+    },
+    {
       "source": "The Next Web",
       "title": "Brazil is building two AI supercomputers, one Chinese and one American",
       "summary": "Brazil is spending 2.3bn reais, about $444m, on two AI supercomputers. One will be built with Huawei, the other is expected to go to Nvidia, and that is the entire point. “The strategy is not to depend on a single company, technology or co…",
@@ -90,6 +150,16 @@
       "category": "Hardware & Infra",
       "region": "Global",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/21/thumbs/400x400/558757.jpg"
+    },
+    {
+      "source": "ET CIO",
+      "title": "Workplace 2035: The enterprise we build today will decide the workplace of tomorrow",
+      "summary": "India's AI ambition is moving faster than its organisational readiness. At ET Workplace 2035, leaders confronted the harder question: how do you redesign the enterprise itself for a world where humans, machines and intelligence work as one?",
+      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/workplace-2035-the-enterprise-we-build-today-will-decide-the-workplace-of-tomorrow/133397853",
+      "date": "2026-08-21T08:12:44.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-96278/133397853.cms"
     },
     {
       "source": "The Next Web",
@@ -212,16 +282,6 @@
       "category": "Hardware & Infra",
       "region": "China",
       "image": "https://img.etimg.com/photo/msid-133391524,imgsize-9102.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned",
-      "summary": "U.S. District Court Judge Vince Chhabria in San Francisco ruled there was insufficient evidence Ding intended or knew his ‌conduct would benefit ⁠the government ⁠of China, a requirement to convict him on seven counts of economic espionage.…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/ex-google-engineers-conviction-for-stealing-ai-secrets-partially-overturned/articleshow/133391478.cms",
-      "date": "2026-08-21T03:03:10.000Z",
-      "category": "Policy & Safety",
-      "region": "China",
-      "image": "https://img.etimg.com/photo/msid-133391478,imgsize-53778.cms"
     },
     {
       "source": "Japan Times",
@@ -404,16 +464,6 @@
       "image": "https://media.thenextweb.com/2026/08/eu-ai-act-enforcement-powers-inspect-fine-models.avif"
     },
     {
-      "source": "The Next Web",
-      "title": "How a 23-year old builder made AI video simple",
-      "summary": "At just 23, Sean Grindal is betting on an idea he has watched take shape across a decade in software: that the hardest part of AI tools is no longer what they can do, but how few people can figure out how to use them. In a category racing…",
-      "link": "https://thenextweb.com/news/sean-grindal-23-year-old-ai-video-yapper",
-      "date": "2026-08-20T19:33:19.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/sean-grindal-23-year-old-ai-video-yapper1.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Google gives publishers a new way to fight AI-driven traffic losses",
       "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
@@ -572,22 +622,6 @@
       "category": "Business & Funding",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/w0tm1p/article71369202.ece/alternates/LANDSCAPE_1200/IMG_PO09_business_2_1_SPB3689N.jpg"
-    },
-    {
-      "source": "MediaNama",
-      "title": "OpenAI tests Zero-Retention safety system for frontier models",
-      "summary": "OpenAI is testing Private Safety Processing, a system that detects misuse patterns across AI interactions without giving employees access to customer prompts and responses. The post OpenAI tests Zero-Retention safety system for frontier mo…",
-      "link": "https://www.medianama.com/2026/08/223-openai-zero-retention-frontier-models/",
-      "date": "2026-08-20T12:10:37.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null,
-      "relatedSources": [
-        {
-          "source": "OpenAI",
-          "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
-        }
-      ]
     },
     {
       "source": "Hindu BusinessLine",
@@ -764,6 +798,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://media.wired.com/photos/6a85e8ea4518d27679a9b132/master/pass/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "date": "2026-08-19T19:00:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Google AI",
@@ -1516,16 +1560,6 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_AI_election_sketch_v4_final-320x320.jpg"
     },
     {
-      "source": "ET CIO",
-      "title": "The Network is India's next AI investment",
-      "summary": "India is swiftly elevating its artificial intelligence capabilities on the world stage. Numerous Indian companies are now experiencing substantial AI deployment, surpassing global benchmarks. This trend signifies a transition from trial ph…",
-      "link": "https://cio.economictimes.indiatimes.com/news/investments/the-network-is-indias-next-ai-investment/133145654",
-      "date": "2026-08-12T02:32:31.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://etimg.etb2bimg.com/thumb/img-size-45602/133145654.cms"
-    },
-    {
       "source": "NVIDIA",
       "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
       "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infras…",
@@ -1684,16 +1718,6 @@
       "category": "Hardware & Infra",
       "region": "India",
       "image": "https://image.theregister.com/?imageId=239104&width=800"
-    },
-    {
-      "source": "Analytics Vidhya",
-      "title": "Top 5 Claude Skills for Marketing",
-      "summary": "Claude can write an ad or email from a prompt. This is usually done manually. Useful, but hardly a coherent system. The work still needs research, positioning, channel planning, quality checks, and reporting. Claude’s marketing skills add…",
-      "link": "https://www.analyticsvidhya.com/blog/2026/08/best-claude-marketing-skills/",
-      "date": "2026-08-09T14:56:04.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "NVIDIA",
