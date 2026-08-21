@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T19:39:05.545Z",
-  "count": 205,
+  "updated": "2026-08-21T20:42:36.512Z",
+  "count": 206,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,36 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "SiliconANGLE",
+      "title": "DeepSeek debuts multimodal language model competitive with Opus 4.8",
+      "summary": "DeepSeek today debuted a new addition to its flagship V4 series of large language models. On launch, V4 Flash Vision Exp is only available via the Chinese startup’s paid developer platform. The company may release a free version later on g…",
+      "link": "https://siliconangle.com/2026/08/21/deepseek-debuts-multimodal-language-model-competitive-with-opus-4-8/",
+      "date": "2026-08-21T20:18:15.000Z",
+      "category": "Product",
+      "region": "China",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/DeepSeek.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Anthropic will give defenders what its strongest model finds, but not the model itself",
+      "summary": "Anthropic has made Claude Mythos 5 available for code scanning in Claude Security and is integrating it into partners’ defensive products, with users receiving outputs rather than direct access to the model. It is also committing $35mn in…",
+      "link": "https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund",
+      "date": "2026-08-21T20:00:34.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/anthropic-mythos-5-defenders-open-source-fund.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "date": "2026-08-21T19:43:39.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
     {
       "source": "The Next Web",
       "title": "Anthropic’s enterprise venture has bought its second consultancy in four months",
@@ -123,9 +153,9 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has…",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "date": "2026-08-21T14:00:00.000Z",
       "category": "Business & Funding",
       "region": "Global",
@@ -133,9 +163,9 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has…",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
       "date": "2026-08-21T14:00:00.000Z",
       "category": "Business & Funding",
       "region": "Global",
@@ -599,26 +629,6 @@
       "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
       "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
       "date": "2026-08-20T18:20:35.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Supermicro alliance tackles the storage bottlenecks holding back enterprise AI",
-      "summary": "The conversation around storage modernization used to revolve around capacity. Today, the dialogue centers on the role of storage as a strategic requirement for AI readiness. This doesn’t mean that storage’s transformation is simple. Many…",
-      "link": "https://siliconangle.com/2026/08/20/storage-modernization-supermicro-partners-ai-supermicroopenstoragesummit/",
-      "date": "2026-08-20T18:00:54.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Allen-Liu-Supermicro-Molly-Presley-Hammerspace-Praveen-Midha-Sandisk-Supermicro-Open-Storage-Summit-2026-scaled.jpg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Grok keeps sending gibberish responses to users",
-      "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-      "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "date": "2026-08-20T17:32:16.000Z",
       "category": "News",
       "region": "Global",
       "image": null
