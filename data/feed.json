@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T05:44:18.496Z",
-  "count": 180,
+  "updated": "2026-08-22T07:00:59.474Z",
+  "count": 191,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -50,6 +50,16 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "SCMP Tech",
+      "title": "Components crunch: China’s carmakers face rising costs to keep intelligence edge",
+      "summary": "Chinese smart vehicle makers have been hit by another setback as a global components shortage collides with surging prices of raw materials, driven by the artificial intelligence boom. It would take at least a year for the global supply ch…",
+      "link": "https://www.scmp.com/business/china-evs/article/3364766/components-crunch-chinas-carmakers-face-rising-costs-keep-intelligence-edge?utm_source=rss_feed",
+      "date": "2026-08-22T06:00:26.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/21/58f3f69c-65e6-4a79-bc47-0b67ba3fb442_585d627d.jpg?itok=louzHqyS&v=1787285597"
+    },
     {
       "source": "Hindu BusinessLine",
       "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
@@ -218,9 +228,9 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has…",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
       "date": "2026-08-21T14:00:00.000Z",
       "category": "Business & Funding",
       "region": "Global",
@@ -228,9 +238,9 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has…",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "date": "2026-08-21T14:00:00.000Z",
       "category": "Business & Funding",
       "region": "Global",
@@ -1745,6 +1755,16 @@
       "image": null
     },
     {
+      "source": "BAIR",
+      "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
+      "summary": "Figure 1: CUDA-to-MLX optimization translation map. CUDA optimization knowledge can be translated into architecture-native MLX strategies rather than copied instruction-for-instruction. We face a new epoch in computing. Hardware is changin…",
+      "link": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+      "date": "2026-07-29T09:00:00.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States",
+      "image": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg"
+    },
+    {
       "source": "Google AI",
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
@@ -1785,6 +1805,16 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
     },
     {
+      "source": "BAIR",
+      "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
+      "summary": ".abbel-fig { display: block; text-align: center; margin: 2.4em 0; line-height: 1.4; max-width: 100%; } .abbel-fig img { display: block; margin: 0.65em auto 0; height: auto; max-width: 100%; } /* Image sizes; captions use a narrower measure…",
+      "link": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "date": "2026-07-26T09:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png"
+    },
+    {
       "source": "DeepMind",
       "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
       "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
@@ -1815,6 +1845,26 @@
       "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo"
     },
     {
+      "source": "BAIR",
+      "title": "Intelligence is Free, Now What? Data Systems for, of, and by Agents",
+      "summary": "... government of the people, by the people, for the people ... — Abraham Lincoln, Gettysburg Address (1863) The cost of AI is dropping rapidly. GPT-4-class capabilities cost roughly $30 per million tokens in early 2023; today the same run…",
+      "link": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
+      "date": "2026-07-07T09:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png"
+    },
+    {
+      "source": "BAIR",
+      "title": "2026 BAIR Graduate Showcase",
+      "summary": "Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose curiosity, creativity, and perseverance have pushed the frontiers of ar…",
+      "link": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
+      "date": "2026-07-01T09:00:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://bair.berkeley.edu/static/blog/grads2026/baifeng-shi.jpg"
+    },
+    {
       "source": "VentureBeat AI",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire tha…",
@@ -1823,6 +1873,36 @@
       "category": "News",
       "region": "Global",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
+    },
+    {
+      "source": "BAIR",
+      "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
+      "summary": ".apr-fig { text-align: center; margin: 1.35em 0; line-height: 1.4; } .apr-fig--wide img { display: inline-block; width: 100%; max-width: 100%; height: auto; vertical-align: middle; } .apr-fig--wide-0-8 { max-width: 80%; margin-left: auto;…",
+      "link": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
+      "date": "2026-05-08T09:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png"
+    },
+    {
+      "source": "BAIR",
+      "title": "Gradient-based Planning for World Models at Longer Horizons",
+      "summary": ".grasp-results-table table { font-size: 0.875rem; line-height: 1.35; width: 100%; } .grasp-results-table th, .grasp-results-table td { padding: 0.35rem 0.5rem; } /* Consistent whitespace between major sections (this post is long and hr-hea…",
+      "link": "http://bair.berkeley.edu/blog/2026/04/20/grasp/",
+      "date": "2026-04-20T09:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif"
+    },
+    {
+      "source": "BAIR",
+      "title": "Identifying Interactions at Scale for LLMs",
+      "summary": "--> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research aims to make the decision-making process mo…",
+      "link": "http://bair.berkeley.edu/blog/2026/03/13/spex/",
+      "date": "2026-03-13T09:00:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://bair.berkeley.edu/static/blog/spex/image1.png"
     },
     {
       "source": "VentureBeat AI",
@@ -1873,6 +1953,36 @@
       "category": "Product",
       "region": "United States",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
+    },
+    {
+      "source": "BAIR",
+      "title": "Information-Driven Design of Imaging Systems",
+      "summary": "An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how well measurements distinguish objects. Man…",
+      "link": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/",
+      "date": "2026-01-10T09:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bair.berkeley.edu/static/blog/information-driven-imaging/info_estimation_overview.png"
+    },
+    {
+      "source": "BAIR",
+      "title": "RL without TD learning",
+      "summary": "In this post, I’ll introduce a reinforcement learning (RL) algorithm based on an “alternative” paradigm: divide and conquer . Unlike traditional methods, this algorithm is not based on temporal difference (TD) learning (which has scalabili…",
+      "link": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/",
+      "date": "2025-11-01T09:00:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "BAIR",
+      "title": "What exactly does word2vec learn?",
+      "summary": "What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec is a well-known precursor to modern lan…",
+      "link": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/",
+      "date": "2025-09-01T09:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bair.berkeley.edu/static/blog/qwem-word2vec-theory/fig1.c8u1a3E7_Z23iPso.webp"
     }
   ]
 }
