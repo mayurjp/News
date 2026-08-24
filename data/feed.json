@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T09:06:20.197Z",
-  "count": 204,
+  "updated": "2026-08-24T10:05:56.579Z",
+  "count": 181,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,14 +52,90 @@
   ],
   "items": [
     {
-      "source": "The Register AI",
-      "title": "Software should work, and talking about it needn't be boring",
-      "summary": "Bingeing the boxed set of binary bafflement",
-      "link": "https://www.theregister.com/columnists/2026/08/24/software-should-work-and-talking-about-it-neednt-be-boring/5290862",
-      "date": "2026-08-24T08:31:00.000Z",
+      "source": "Rest of World",
+      "title": "The UAE is fighting AI hackers with AI of its own",
+      "summary": "Attacks on the country’s banks, aviation, and energy systems have climbed since the war with Iran began. Its answer is a homegrown AI security industry.",
+      "link": "https://restofworld.org/2026/uae-ai-cyberattacks-cyber-factory-defenses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "date": "2026-08-24T10:00:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Middle East",
+      "image": "https://restofworld.org/wp-content/uploads/2026/08/AIvsAI-Final-320x320.jpg"
+    },
+    {
+      "source": "MediaNama",
+      "title": "Karnataka’s KEO AI PC doesn’t look like it’s an AI PC",
+      "summary": "Karnataka’s Rs 18,999 KEO AI PC promises local AI, but its limited specs, unclear testing and patchy demand claims raise questions about whether it can deliver—and echo the Aakash tablet saga. The post Karnataka’s KEO AI PC doesn’t look li…",
+      "link": "https://www.medianama.com/2026/08/223-karnatakas-keo-ai-pc/",
+      "date": "2026-08-24T09:34:55.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Wired AI",
+      "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+      "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
+      "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+      "date": "2026-08-24T09:30:00.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6a7658f0de0a40f999466656/master/pass/080726-teachers-deepfakes-ai.gif"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Taiwan issues indictments over alleged illegal export of AI servers to China",
+      "summary": "TAIWAN-CRIME:Taiwan issues indictments over alleged illegal export of AI servers to China",
+      "link": "https://www.livemint.com/technology/taiwan-issues-indictments-over-alleged-illegal-export-of-ai-servers-to-china-11787563403581.html",
+      "date": "2026-08-24T09:23:23.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-indicts-nine-over-alleged-illegal-export-of-ai-servers-to-china/articleshow/133456490.cms"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "Phonak’s new EON hearing aids run two AI systems on a chip built to sip power",
+      "summary": "Phonak has launched EON, a hearing aid platform built around a newly developed processor the company calls HYPERSONIC, which it says runs two artificial intelligence systems in parallel while drawing 37% less power than the generation befo…",
+      "link": "https://thenextweb.com/news/phonak-eon-hearing-aid-hypersonic-chip",
+      "date": "2026-08-24T09:17:50.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/EON-hearing-aids.avif"
+    },
+    {
+      "source": "ET Tech",
+      "title": "ET AI Hackathon: Innovation begins with a challenge",
+      "summary": "The Economic Times invites seasoned professionals to partake in an AI Hackathon, a national initiative designed to tackle genuine enterprise challenges using artificial intelligence. Contestants will engage in various rounds, demonstrating…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/et-ai-hackathon-innovation-begins-with-a-challenge/articleshow/133458897.cms",
+      "date": "2026-08-24T09:10:25.000Z",
       "category": "News",
       "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5266492&width=800"
+      "image": "https://img.etimg.com/photo/msid-133458897,imgsize-79864.cms"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Alibaba launches Wan3.0, its 30-second video model, days after raising $10bn",
+      "summary": "Alibaba has launched Wan3.0, the latest version of its video generation model, days after raising roughly $10.2bn in a Hong Kong share placement whose proceeds it has earmarked entirely for AI. The sequencing is not subtle, and it is not m…",
+      "link": "https://thenextweb.com/news/alibaba-wan3-video-model-after-share-sale",
+      "date": "2026-08-24T09:09:31.000Z",
+      "category": "Product",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/08/Alibaba-launches-Wan3.0.avif"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two…",
+      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "date": "2026-08-24T09:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "SCMP Tech",
@@ -100,16 +176,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://media.thenextweb.com/2026/03/NVIDIA-invests-2-billion-in-Nebius.avif"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Taiwan indicts nine over alleged illegal export of AI servers to China",
-      "summary": "Semiconductor powerhouse Taiwan is the world's largest ‌producer of ⁠advanced ⁠chips used in AI applications. Prosecutors this year investigated ​the suspected illegal export of servers equipped with Nvidia ​chips subject to US export cont…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-indicts-nine-over-alleged-illegal-export-of-ai-servers-to-china/articleshow/133456490.cms",
-      "date": "2026-08-24T07:41:48.000Z",
-      "category": "Hardware & Infra",
-      "region": "China",
-      "image": "https://img.etimg.com/photo/msid-133456490,imgsize-167776.cms"
     },
     {
       "source": "ET Tech",
@@ -340,16 +406,6 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
-      "source": "ET Tech",
-      "title": "Anthropic market debut could break SpaceX IPO record",
-      "summary": "The company's bankers have told potential investors it could seek to raise \"more than $100 billion\" in its IPO, which could put the company's value at $2 trillion, The New York Times reported Friday, citing two unnamed sources with knowled…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-market-debut-could-break-spacex-ipo-record/articleshow/133442327.cms",
-      "date": "2026-08-23T16:09:52.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-133442327,imgsize-42227.cms"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
       "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
@@ -388,26 +444,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "The African firms adopting Chinese AI as US-China rivalry intensifies",
-      "summary": "The United States may want the world to choose sides in the AI race with China, but in Africa, many businesses are pursuing a more pragmatic strategy: using Chinese models where they offer better value or flexibility, while keeping their o…",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3364966/african-firms-adopting-chinese-ai-us-china-rivalry-intensifies?utm_source=rss_feed",
-      "date": "2026-08-23T12:00:05.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/23/7de5f8fc-6968-48d8-b16b-e6d1aa264098_db62af22.jpg?itok=L7MXe2wF&v=1787470683"
-    },
-    {
-      "source": "The Next Web",
-      "title": "ChatGPT for iPhone now grabs your recent photos with a long press",
-      "summary": "OpenAI has added a shortcut that surfaces your four most recent photos when you long press the plus button in ChatGPT on iPhone. It lands while Apple’s own camera and visual assistant features stay unavailable on iPhone in the EU. OpenAI h…",
-      "link": "https://thenextweb.com/news/chatgpt-iphone-recent-photos-shortcut-siri-eu-delay",
-      "date": "2026-08-23T11:51:21.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/05/openai-malta-chatgpt-plus-free-citizens.avif"
     },
     {
       "source": "Hindu BusinessLine",
@@ -670,26 +706,6 @@
       "image": null
     },
     {
-      "source": "MediaNama",
-      "title": "Six strategic takeaways from MakeMyTrip’s Q1 FY27 earnings call",
-      "summary": "MakeMyTrip is moving AI from assisting with travel bookings to completing them, with Myra 2.0 now handling search, comparison, booking and agentic payments. The post Six strategic takeaways from MakeMyTrip’s Q1 FY27 earnings call appeared…",
-      "link": "https://www.medianama.com/2026/08/223-makemytrip-ai-myra2-0-bookingq1-fy27-earnings-call/",
-      "date": "2026-08-21T10:00:33.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding A…",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "date": "2026-08-21T08:41:29.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "ET CIO",
       "title": "Workplace 2035: The enterprise we build today will decide the workplace of tomorrow",
       "summary": "India's AI ambition is moving faster than its organisational readiness. At ET Workplace 2035, leaders confronted the harder question: how do you redesign the enterprise itself for a world where humans, machines and intelligence work as one?",
@@ -800,26 +816,6 @@
       "image": null
     },
     {
-      "source": "The Register AI",
-      "title": "Slack Code taps into collective vibe, puts AI agents into the group chat",
-      "summary": "Developers can now invite the whole team along for their quality time with the coding bot",
-      "link": "https://www.theregister.com/saas/2026/08/20/slack-code-taps-into-collective-vibe-puts-ai-agents-into-the-group-chat/5290413",
-      "date": "2026-08-20T15:23:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=248129&width=800"
-    },
-    {
-      "source": "AI News",
-      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
-      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to commun…",
-      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-      "date": "2026-08-20T14:05:18.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
@@ -838,16 +834,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GFN_Thursday-Firefox.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and to…",
-      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
-      "date": "2026-08-20T10:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Rest of World",
@@ -870,36 +856,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
-      "summary": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a ministerial post to run it, making Omar Sultan Al Olama the world…",
-      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
-      "date": "2026-08-20T09:00:00.000Z",
-      "category": "News",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "A third of ChatGPT ads appear in irrelevant conversations",
-      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real Ch…",
-      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
-      "date": "2026-08-20T08:07:40.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "AI data centre regulation just got a template that needs no new law",
-      "summary": "AI data centre regulation in Pennsylvania now begins with a signature. Before the state will so much as open a developer’s permit file, that developer has to sign a contract accepting a fixed set of conditions and the penalties for breakin…",
-      "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
-      "date": "2026-08-20T08:00:00.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Next phase of enterprise AI not about deploying models, but managing their evolution: Report",
       "summary": "The next phase of enterprise artificial intelligence (AI) will be less about deploying the latest models and more about managing their continuous upgrades, costs and performance, according to a report by Straive.",
@@ -908,16 +864,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
-    },
-    {
-      "source": "AI News",
-      "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
-      "summary": "Autonomous artificial intelligence agents have already penetrated the offices of large, global enterprises. Now, HoneyBook is trying to bring that same capability to independent businesses with the launch of HoneyBook MCP, recently release…",
-      "link": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
-      "date": "2026-08-20T07:35:07.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "OpenAI",
@@ -1070,16 +1016,6 @@
       "image": null
     },
     {
-      "source": "LiveMint Tech",
-      "title": "OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns",
-      "summary": "OpenAI has paused some frontier reinforcement learning (RL) training as the rapid pace of AI model development risks outstripping the company's safety, alignment, security and monitoring standards, CEO Sam Altman said.",
-      "link": "https://www.livemint.com/technology/openai-pauses-frontier-reinforcement-learning-as-rapid-ai-progress-raises-safety-alignment-concerns-11787107850251.html",
-      "date": "2026-08-19T02:50:49.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
-    },
-    {
       "source": "ET CIO",
       "title": "Cloudflare gives AI agents an identity and a wallet",
       "summary": "Cloudflare Wallets and cloudflare.pay will provide AI agents with stable identities. These new tools enable secure online purchases within creator-defined limits. Businesses can now confidently engage in agentic commerce with verified part…",
@@ -1130,16 +1066,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "OpenAI president urges enterprises to hasten AI security defences",
-      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to…",
-      "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
-      "date": "2026-08-18T14:58:27.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
       "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
@@ -1148,16 +1074,6 @@
       "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "Alvys launches AI agents for freight TMS workflows",
-      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-…",
-      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-      "date": "2026-08-18T12:00:00.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "OpenAI",
@@ -1197,16 +1113,6 @@
       "date": "2026-08-18T10:06:43.000Z",
       "category": "Research",
       "region": "United States",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Reading Zhipu’s GLM-5.3 results past the headline number",
-      "summary": "Zhipu’s release note for GLM-5.3 contains a sentence that did not make it into most of the coverage. Describing its own cybersecurity results, the Beijing company writes that capability “is growing fastest exactly where we are furthest beh…",
-      "link": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
-      "date": "2026-08-18T10:00:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "China",
       "image": null
     },
     {
@@ -1310,16 +1216,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg"
     },
     {
-      "source": "The Register AI",
-      "title": "Mozilla adds ad blocking to Firefox for iOS",
-      "summary": "Experimental feature to block some, but not all, ads",
-      "link": "https://www.theregister.com/software/2026/08/17/mozilla-adds-ad-blocking-to-firefox-for-ios/5288585",
-      "date": "2026-08-17T15:50:56.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5242942&width=800"
-    },
-    {
       "source": "NVIDIA",
       "title": "Securing the Infrastructure of Intelligence",
       "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full st…",
@@ -1328,16 +1224,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Excel's Copilot function is headed for the Recycle Bin",
-      "summary": "Microsoft realizes the side pane should be enough for anyone",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/17/excels-copilot-function-is-headed-for-the-recycle-bin/5288327",
-      "date": "2026-08-17T10:55:06.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=5269830&width=800"
     },
     {
       "source": "MIT Tech Review",
@@ -1370,16 +1256,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-1571611/133204642.cms"
     },
     {
-      "source": "The Register AI",
-      "title": "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive",
-      "summary": "Dealing with machine-made bug backlog makes it hard to find a moment to deliver promised subscription service",
-      "link": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227",
-      "date": "2026-08-17T02:31:58.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=225734&width=800"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "How to Install Codex CLI: A Step-by-Step Guide",
       "summary": "If you have already used Codex in ChatGPT, the Codex CLI will feel familiar. It brings the same AI assistance directly into your local development environment, where it can work with your repository, shell, tests, and other tools. Installa…",
@@ -1398,16 +1274,6 @@
       "category": "Product",
       "region": "United States",
       "image": "https://media.wired.com/photos/6a7f62de9dba743672684be2/master/pass/GettyImages-1305224058-edited.jpg"
-    },
-    {
-      "source": "Wired AI",
-      "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-      "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
-      "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-      "date": "2026-08-14T20:59:03.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://media.wired.com/photos/6a7e3d7b0f200c034ba14a12/master/pass/Made-In-China-Made-in-China-Unitree-Robots-Americans-Love-Business.jpg"
     },
     {
       "source": "Ars Technica AI",
@@ -1570,16 +1436,6 @@
       "image": null
     },
     {
-      "source": "The Register AI",
-      "title": "OpenWALDO aims to blow the doors off proprietary AI training models",
-      "summary": "Contributors wanted: 167B transparent tokens have a long way to go against AI giants' trillions",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/12/openwaldo-aims-to-blow-the-doors-off-proprietary-ai-training-models/5286864",
-      "date": "2026-08-12T16:57:33.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5286886&width=800"
-    },
-    {
       "source": "MIT Tech Review",
       "title": "Scaling AI agents with trustworthy data",
       "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that real…",
@@ -1710,26 +1566,6 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/07/QA-AI-VC-Final-320x320.jpg"
     },
     {
-      "source": "The Register AI",
-      "title": "Hey, big spender – OpenAI has a new SKU just for you",
-      "summary": "$125 a month? So, how good are those open-weight models getting, again?",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727",
-      "date": "2026-08-10T21:25:39.000Z",
-      "category": "Open Source",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=244264&width=800"
-    },
-    {
-      "source": "MIT Tech Review",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join…",
-      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "date": "2026-08-10T20:00:00.000Z",
-      "category": "Research",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Google AI",
       "title": "Evolve your marketing with new AI tools",
       "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
@@ -1760,16 +1596,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-62222/133088712.cms"
     },
     {
-      "source": "The Register AI",
-      "title": "NEC tests parking tech that only starts charging once you exit your car",
-      "summary": "PLUS: Infosys to wear Crocs for a decade; Fujifilm may quit printers; 2GW datacenter debuts in western China; and more!",
-      "link": "https://www.theregister.com/software/2026/08/10/nec-tests-parking-tech-that-only-starts-charging-once-you-exit-your-car/5285245",
-      "date": "2026-08-10T01:32:04.000Z",
-      "category": "Hardware & Infra",
-      "region": "India",
-      "image": "https://image.theregister.com/?imageId=239104&width=800"
-    },
-    {
       "source": "NVIDIA",
       "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
       "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing a…",
@@ -1778,16 +1604,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1.jpg"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
-      "summary": "You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you?",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
-      "date": "2026-08-06T16:44:29.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5251269&width=800"
     },
     {
       "source": "DeepMind",
@@ -1800,16 +1616,6 @@
       "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo"
     },
     {
-      "source": "Rest of World",
-      "title": "Growth without work: The human cost of the AI revolution",
-      "summary": "In an excerpt from his book “The New Divide: Power, Control & the Cost of AI,” writer Jibu Elias examines the technology’s impact on jobs.",
-      "link": "https://restofworld.org/2026/ai-jobs-economy-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "date": "2026-08-05T10:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://restofworld.org/wp-content/uploads/2026/08/GettyImages-2155295561-320x320.jpg"
-    },
-    {
       "source": "Google AI",
       "title": "The latest AI news we announced in July 2026",
       "summary": "Here are Google’s latest AI updates from July 2026",
@@ -1818,16 +1624,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "The Register AI",
-      "title": "UK mulls making employers ask before installing bossware",
-      "summary": "Proposals span AI productivity scores, keystroke logging, biometrics, and other ways to watch workers",
-      "link": "https://www.theregister.com/software/2026/08/04/uk-mulls-making-employers-ask-before-installing-bossware/5282440",
-      "date": "2026-08-04T07:30:00.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://image.theregister.com/?imageId=5282473&width=800"
     },
     {
       "source": "Google AI",
@@ -2078,26 +1874,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
