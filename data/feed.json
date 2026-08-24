@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T23:37:40.798Z",
-  "count": 208,
+  "updated": "2026-08-24T01:59:08.749Z",
+  "count": 196,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -50,6 +50,16 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "SiliconANGLE",
+      "title": "Sam Altman voices fears that control of AI could be centered in too few hands",
+      "summary": "OpenAI Group PBC Chief Executive Sam Altman is worried that artificial intelligence technology will end up being controlled by just a handful of companies or people in future, resulting in nobody else having any say about how it impacts so…",
+      "link": "https://siliconangle.com/2026/08/23/sam-altman-voices-fears-that-control-of-ai-could-be-centered-in-too-few-hands/",
+      "date": "2026-08-24T01:39:24.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-24-08-38-38.png"
+    },
     {
       "source": "SiliconANGLE",
       "title": "Report: AI model hub Hugging Face exploring sale at $13B valuation",
@@ -119,16 +129,6 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-133442327,imgsize-42227.cms"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Why every AI agent needs an org chart",
-      "summary": "A chief information officer I was talking with recently said something that stuck with me: Permissions tell an agent what it’s allowed to do. They say nothing about what you meant. This observation touches on one of the core artificial int…",
-      "link": "https://siliconangle.com/2026/08/23/why-every-ai-agent-needs-an-org-chart/",
-      "date": "2026-08-23T16:00:52.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2024/08/an-ai-agent-using-a-keyboard.png"
     },
     {
       "source": "TechCrunch AI",
@@ -325,26 +325,6 @@
       "category": "Business & Funding",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/23/29f4d202-648f-4c22-85cc-a07e2bd611ed_e265638e.jpg?itok=bAKh4pVa&v=1787470598"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Tech paradox: fear of being left behind drives China non-programmers to build own AI tools",
-      "summary": "A growing number of non-programmers across China are developing their own AI tools, primarily motivated by concerns about falling behind as technology reshapes work and daily life. The anxiety surrounding this shift is almost palpable. AI…",
-      "link": "https://www.scmp.com/news/people-culture/trending-china/article/3364949/tech-paradox-fear-being-left-behind-drives-china-non-programmers-build-own-ai-tools?utm_source=rss_feed",
-      "date": "2026-08-23T02:49:19.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/23/2899d316-1168-47c9-8719-23db30c2b989_48e0aee7.jpg?itok=k6tbt_jy&v=1787453353"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "China builds world’s first custom plant immunity system for epidemic response",
-      "summary": "Chinese scientists have created an AI-guided platform to engineer custom plant immune receptors to rapidly combat emerging diseases that threaten plants, including commercial crops vulnerable to devastating outbreaks. Their programmable sy…",
-      "link": "https://www.scmp.com/news/china/science/article/3364933/china-builds-worlds-first-custom-plant-immunity-system-epidemic-response?utm_source=rss_feed",
-      "date": "2026-08-23T02:00:10.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/f8e9b892-6ac2-4023-86f1-2e93c79ce4c4_597f573c.jpg?itok=5XxdgpdD&v=1787400898"
     },
     {
       "source": "The Next Web",
@@ -1905,16 +1885,6 @@
       "image": null
     },
     {
-      "source": "BAIR",
-      "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
-      "summary": "Figure 1: CUDA-to-MLX optimization translation map. CUDA optimization knowledge can be translated into architecture-native MLX strategies rather than copied instruction-for-instruction. We face a new epoch in computing. Hardware is changin…",
-      "link": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
-      "date": "2026-07-29T09:00:00.000Z",
-      "category": "Hardware & Infra",
-      "region": "United States",
-      "image": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg"
-    },
-    {
       "source": "Google AI",
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
@@ -1955,16 +1925,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
     },
     {
-      "source": "BAIR",
-      "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
-      "summary": ".abbel-fig { display: block; text-align: center; margin: 2.4em 0; line-height: 1.4; max-width: 100%; } .abbel-fig img { display: block; margin: 0.65em auto 0; height: auto; max-width: 100%; } /* Image sizes; captions use a narrower measure…",
-      "link": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
-      "date": "2026-07-26T09:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png"
-    },
-    {
       "source": "DeepMind",
       "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
       "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
@@ -1995,26 +1955,6 @@
       "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo"
     },
     {
-      "source": "BAIR",
-      "title": "Intelligence is Free, Now What? Data Systems for, of, and by Agents",
-      "summary": "... government of the people, by the people, for the people ... — Abraham Lincoln, Gettysburg Address (1863) The cost of AI is dropping rapidly. GPT-4-class capabilities cost roughly $30 per million tokens in early 2023; today the same run…",
-      "link": "http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/",
-      "date": "2026-07-07T09:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png"
-    },
-    {
-      "source": "BAIR",
-      "title": "2026 BAIR Graduate Showcase",
-      "summary": "Congratulations to the Berkeley Artificial Intelligence Research (BAIR) Lab class of 2026! This year, BAIR celebrates another remarkable group of Ph.D. graduates whose curiosity, creativity, and perseverance have pushed the frontiers of ar…",
-      "link": "http://bair.berkeley.edu/blog/2026/07/01/grads-2026/",
-      "date": "2026-07-01T09:00:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://bair.berkeley.edu/static/blog/grads2026/baifeng-shi.jpg"
-    },
-    {
       "source": "VentureBeat AI",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire tha…",
@@ -2023,36 +1963,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
-    },
-    {
-      "source": "BAIR",
-      "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-      "summary": ".apr-fig { text-align: center; margin: 1.35em 0; line-height: 1.4; } .apr-fig--wide img { display: inline-block; width: 100%; max-width: 100%; height: auto; vertical-align: middle; } .apr-fig--wide-0-8 { max-width: 80%; margin-left: auto;…",
-      "link": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
-      "date": "2026-05-08T09:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png"
-    },
-    {
-      "source": "BAIR",
-      "title": "Gradient-based Planning for World Models at Longer Horizons",
-      "summary": ".grasp-results-table table { font-size: 0.875rem; line-height: 1.35; width: 100%; } .grasp-results-table th, .grasp-results-table td { padding: 0.35rem 0.5rem; } /* Consistent whitespace between major sections (this post is long and hr-hea…",
-      "link": "http://bair.berkeley.edu/blog/2026/04/20/grasp/",
-      "date": "2026-04-20T09:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bair.berkeley.edu/static/blog/grasp/ballnav_demo.gif"
-    },
-    {
-      "source": "BAIR",
-      "title": "Identifying Interactions at Scale for LLMs",
-      "summary": "--> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research aims to make the decision-making process mo…",
-      "link": "http://bair.berkeley.edu/blog/2026/03/13/spex/",
-      "date": "2026-03-13T09:00:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://bair.berkeley.edu/static/blog/spex/image1.png"
     },
     {
       "source": "VentureBeat AI",
@@ -2105,26 +2015,6 @@
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
     },
     {
-      "source": "BAIR",
-      "title": "Information-Driven Design of Imaging Systems",
-      "summary": "An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how well measurements distinguish objects. Man…",
-      "link": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/",
-      "date": "2026-01-10T09:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bair.berkeley.edu/static/blog/information-driven-imaging/info_estimation_overview.png"
-    },
-    {
-      "source": "BAIR",
-      "title": "RL without TD learning",
-      "summary": "In this post, I’ll introduce a reinforcement learning (RL) algorithm based on an “alternative” paradigm: divide and conquer . Unlike traditional methods, this algorithm is not based on temporal difference (TD) learning (which has scalabili…",
-      "link": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/",
-      "date": "2025-11-01T09:00:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
       "source": "MenaBytes",
       "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
       "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
@@ -2143,16 +2033,6 @@
       "category": "Business & Funding",
       "region": "Middle East",
       "image": null
-    },
-    {
-      "source": "BAIR",
-      "title": "What exactly does word2vec learn?",
-      "summary": "What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec is a well-known precursor to modern lan…",
-      "link": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/",
-      "date": "2025-09-01T09:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bair.berkeley.edu/static/blog/qwem-word2vec-theory/fig1.c8u1a3E7_Z23iPso.webp"
     }
   ]
 }
