@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T15:07:58.476Z",
-  "count": 202,
+  "updated": "2026-08-25T16:02:28.222Z",
+  "count": 203,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,14 +52,74 @@
   ],
   "items": [
     {
-      "source": "Hugging Face",
-      "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
-      "date": "2026-08-25T15:01:00.000Z",
+      "source": "ET Tech",
+      "title": "Apple launches faster Mac mini, Mac Studio to tap AI boom",
+      "summary": "The new mini, unveiled alongside a beefed-up Mac Studio, starts at $899 and comes with either Apple's new M6 chip or the M5 Pro. It ‌is $100 more ⁠expensive than ⁠its predecessor. The unveiling ⁠is likely Apple's ‌last major launch before…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/apple-launches-faster-mac-mini-mac-studio-to-tap-ai-boom/articleshow/133517463.cms",
+      "date": "2026-08-25T15:46:29.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-133517463,imgsize-254452.cms"
+    },
+    {
+      "source": "AI News",
+      "title": "MIT AI forecasts extreme weather without historical data",
+      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of even…",
+      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+      "date": "2026-08-25T15:46:06.000Z",
       "category": "News",
       "region": "Global",
       "image": null
+    },
+    {
+      "source": "NVIDIA",
+      "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+      "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark and Ubisoft are amon…",
+      "link": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+      "date": "2026-08-25T15:30:48.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Cisco expands rack-scale secure AI factory infrastructure for neocloud and sovereign clouds",
+      "summary": "Cisco Systems Inc. today introduced an expansion to its current lineup of rack-scale artificial intelligence solutions for massive AI workloads in secure AI factories, addressing growing needs for massive inference and training compute. Th…",
+      "link": "https://siliconangle.com/2026/08/25/cisco-expands-rack-scale-secure-ai-factory-infrastructure-for-neocloud-and-sovereign-clouds/",
+      "date": "2026-08-25T15:25:24.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2025/03/Designer-33.jpeg"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "date": "2026-08-25T15:14:14.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI’s Jalapeno chip outperformed the GB300 on power and speed, according to OpenAI",
+      "summary": "OpenAI says its Jalapeno inference chip, developed with Broadcom, outperformed Nvidia’s GB300 on AI work per unit of power and on response speed. It was not tested against Nvidia’s newer Vera Rubin hardware and is not designed for training…",
+      "link": "https://thenextweb.com/news/openai-jalapeno-benchmark-nvidia-gb300-europe-gigafactories",
+      "date": "2026-08-25T15:11:19.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/06/chatgpt-lockdown-mode-prompt-injection.avif"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+      "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+      "date": "2026-08-25T15:10:03.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280376449-1024x648.jpg"
     },
     {
       "source": "SiliconANGLE",
@@ -477,6 +537,16 @@
     },
     {
       "source": "OpenAI",
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "date": "2026-08-25T07:05:00.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
       "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
       "link": "https://openai.com/index/jalapeno-first-results",
@@ -546,16 +616,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/25/6d1fb002-3ec7-4833-8a15-052c1ad985d4_5fe77c83.jpg?itok=CEC9m9_-&v=1787625225"
     },
     {
-      "source": "ET Tech",
-      "title": "SpaceX, Nvidia develop space-optimised AI system for orbital launch next year",
-      "summary": "SpaceX and Nvidia have developed a space-optimised Vera Rubin NVL72 AI system that is planned for launch into orbit in the fourth quarter of 2027, said Elon Musk. Resharing an Nvidia post, Musk said the system will see significant scale-up…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spacex-nvidia-develop-space-optimized-ai-system-for-orbital-launch-next-year/articleshow/133488899.cms",
-      "date": "2026-08-25T03:09:00.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-133488899,imgsize-47652.cms"
-    },
-    {
       "source": "SiliconANGLE",
       "title": "Robotics AI startup Generalist reportedly raises $200M",
       "summary": "Generalist AI Inc., a startup that develops artificial intelligence software for robots, has reportedly raised $200 million in funding. Axios today cited a source as saying that 8VC led the investment. It was reportedly joined by a number…",
@@ -564,16 +624,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Generalist.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Chip software automation startup Embedd raises $2.7M",
-      "summary": "Physical artificial intelligence chip infrastructure startup Embedd Ltd. says it’s ready to fix one of the most critical bottlenecks in the multibillion-dollar robotics industry after raising $2.7 million in a pre-seed round of funding. To…",
-      "link": "https://siliconangle.com/2026/08/24/chip-software-automation-startup-embedd-raises-2-7m/",
-      "date": "2026-08-25T01:16:06.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-25-08-13-17.png"
     },
     {
       "source": "TechCrunch AI",
@@ -647,12 +697,12 @@
     },
     {
       "source": "Ars Technica AI",
-      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
       "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
       "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
       "date": "2026-08-24T16:41:45.000Z",
       "category": "People & Leadership",
-      "region": "China",
+      "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg"
     },
     {
@@ -1386,26 +1436,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
     },
     {
-      "source": "AI News",
-      "title": "Alvys launches AI agents for freight TMS workflows",
-      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-…",
-      "link": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-      "date": "2026-08-18T12:00:00.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-      "link": "https://openai.com/index/partnering-with-codeai",
-      "date": "2026-08-18T11:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "MIT Tech Review",
       "title": "We still don’t know how people are really using AI",
       "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corrobora…",
@@ -1484,16 +1514,6 @@
       "category": "Research",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-      "summary": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-      "date": "2026-08-17T18:13:47.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg"
     },
     {
       "source": "The Register AI",
@@ -1714,16 +1734,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "NVIDIA",
-      "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
-      "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how p…",
-      "link": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
-      "date": "2026-08-11T15:00:06.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/800vdc.jpg"
     },
     {
       "source": "Rest of World",
