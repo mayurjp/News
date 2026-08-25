@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T17:46:43.272Z",
+  "updated": "2026-08-25T18:59:19.722Z",
   "count": 203,
   "sources": [
     "OpenAI",
@@ -51,6 +51,56 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "SiliconANGLE",
+      "title": "Democratizing the AI data center: How Cisco and Nvidia are bringing rack-scale power to the enterprise",
+      "summary": "For the past two years, the generative artificial intelligence boom has largely been defined by a single market. Hyperscalers have dominated the market with massive capital spending. According to CreditSights, the five largest U.S. hypersc…",
+      "link": "https://siliconangle.com/2026/08/25/democratizing-the-ai-data-center-how-cisco-and-nvidia-are-bringing-rack-scale-power-to-the-enterprise/",
+      "date": "2026-08-25T18:38:37.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-2026-08-25-at-11.39.56-AM.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Emerald AI raises $150mn at a $1.05bn valuation to flex data centre power",
+      "summary": "A two-year-old company is now worth $1.05bn. It writes software that makes data centres use less electricity on demand. Emerald AI raised $150mn in an oversubscribed Series A, the company announced on Tuesday. Energize Capital and DCVC co-…",
+      "link": "https://thenextweb.com/news/emerald-ai-150m-funding-data-centre-grid-flexibility",
+      "date": "2026-08-25T18:36:32.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/emerald-ai-leadership-team.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Stability AI raises $76mn from Universal, Warner, Sony Music and EA",
+      "summary": "The world’s three largest record companies have bought equity in a generative AI company. Universal Music Group, Warner Music Group and Sony Music Group are all new investors in Stability AI’s $76mn Series B. The company announced the roun…",
+      "link": "https://thenextweb.com/news/stability-ai-76m-funding-universal-warner-sony-music-ea",
+      "date": "2026-08-25T18:16:54.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/08/stability-ai.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "AI firms debate connecting test sandboxes to the internet after breaches",
+      "summary": "After AI models from at least three companies reached the open internet and breached real organisations during testing, security specialists are debating whether test sandboxes should have controlled internet access. Sandboxes have been is…",
+      "link": "https://thenextweb.com/news/ai-cyber-testing-sandbox-internet-debate-ai-act-reporting",
+      "date": "2026-08-25T18:16:08.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/eu-ai-act-enforcement-powers-inspect-fine-models.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "date": "2026-08-25T17:50:33.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
     {
       "source": "The Register AI",
       "title": "McKinsey says enterprise AI is finally 'on the road to ROI'",
@@ -278,16 +328,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Will-Eatherton-Cisco-Gilad-Shainer-Nvidia-and-Marc-Hamilton-Nvidia-%E2%80%93-Cisco-Secure-AI-Factory-With-Nvidia-Expands-to-Rack-Scale-2026.png"
     },
     {
-      "source": "The Next Web",
-      "title": "A robot that takes blood could be the best AI health story of 2026",
-      "summary": "One minute and 49 seconds, that was the median time a machine needed to read a patient’s arm, choose a vein, insert a needle, fill the tubes, and withdraw, across the Dutch clinical trial that carried it towards regulators. A phlebotomist…",
-      "link": "https://thenextweb.com/news/vitestro-aletta-fda-robotic-blood-draw",
-      "date": "2026-08-25T13:27:07.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/FDA.avif"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "AI-generated text found on over 1/3rd of new web pages",
       "summary": "AI-written text could degrade future AI training data",
@@ -328,16 +368,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2024/06/AI-Robot-Pixabay-tungnguyen0905.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Nvidia NemoClaw flaw let attackers poison the model behind a developer’s AI agent",
-      "summary": "Researchers at nonhuman identity security company Oasis Security Ltd. today disclosed a vulnerability in Nvidia Corp.’s NemoClaw that hands an attacker full control of the local model server powering a developer’s AI agent. The vulnerabili…",
-      "link": "https://siliconangle.com/2026/08/25/nvidia-nemoclaw-flaw-let-attackers-poison-the-model-behind-a-developers-ai-agent/",
-      "date": "2026-08-25T13:00:28.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/nemoclawvulnerability.png"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Apple's new desktop computers are designed specifically for local AI development",
       "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
@@ -368,16 +398,6 @@
       "image": "https://img.etimg.com/photo/msid-133509761,imgsize-67530.cms"
     },
     {
-      "source": "The Next Web",
-      "title": "Scalable Capital connects €60bn of client assets to outside AI assistants",
-      "summary": "Scalable Capital has opened its investment platform to ChatGPT and Claude, allowing its clients to analyse their portfolios and place trades through the two AI assistants rather than through the broker’s own app. The Munich company says it…",
-      "link": "https://thenextweb.com/news/scalable-capital-chatgpt-claude-trading",
-      "date": "2026-08-25T12:06:31.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/Scalable-Capital-founders.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
       "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
@@ -386,16 +406,6 @@
       "category": "People & Leadership",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Liner raises $36.1M to take its evidence-first AI search to enterprise customers",
-      "summary": "Liner, a South Korean AI search startup, has raised $36.1 million in Series C funding as it seeks to turn its consumer research platform used by millions into an enterprise AI business. LB Investment led the Series C round, joined by retur…",
-      "link": "https://thenextweb.com/news/liner-36m-series-c-ai-search-enterprise",
-      "date": "2026-08-25T11:41:37.000Z",
-      "category": "Business & Funding",
-      "region": "South Korea",
-      "image": "https://media.thenextweb.com/2026/08/liner-36m-series-c-ai-search-enterprise.avif"
     },
     {
       "source": "Hugging Face",
@@ -814,16 +824,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700.jpg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "date": "2026-08-24T15:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "MIT Tech Review",
