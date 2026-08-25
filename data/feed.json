@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T18:59:19.722Z",
-  "count": 203,
+  "updated": "2026-08-25T19:47:15.441Z",
+  "count": 191,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,56 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "The Next Web",
+      "title": "Anthropic merges Claude chat and Cowork memory, on by default",
+      "summary": "Anything you tell Claude in a chat window is now available to Claude Cowork. Anything Cowork learns comes back the other way. Anthropic merged the two memory systems on Tuesday. Wherever you work with Claude, it starts from what it already…",
+      "link": "https://thenextweb.com/news/anthropic-claude-cowork-shared-memory-default",
+      "date": "2026-08-25T19:39:09.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/claude-memory-settings-interface.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "AI inference gets a new tier as context windows grow",
+      "summary": "AI storage infrastructure is becoming a more consequential planning issue as organizations move from model training toward agentic AI. As agents reason, act and reassess, they build longer contexts and generate more data that they must acc…",
+      "link": "https://siliconangle.com/2026/08/25/ai-storage-infrastructure-supports-scalable-ai-inference-supermicroopenstoragesummit/",
+      "date": "2026-08-25T19:21:36.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/IMG_8839-scaled.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "summary": "The company's new fundraising total now stands at $232 million.",
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "date": "2026-08-25T19:03:47.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Alice raises $140mn to stress-test the models Anthropic and Google ship",
+      "summary": "One company spent eight years cataloguing the worst material on the internet. It has now raised $140mn to point that archive at AI models. Alice, formerly ActiveFence, announced the round on Tuesday. Apax Digital Funds led it, and will tak…",
+      "link": "https://thenextweb.com/news/alice-140m-funding-ai-security-apax-digital",
+      "date": "2026-08-25T19:00:29.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/Noam-Schwartz-ceo-alice-ai.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Anthropic is expected to pitch investors a $30tn market opportunity",
+      "summary": "Anthropic is likely to tell IPO investors that its potential revenue opportunity runs above $30tn. That figure would top the $28.5tn SpaceX put in front of investors before its own record listing. Corrie Driebusch reported the number for T…",
+      "link": "https://thenextweb.com/news/anthropic-ipo-30-trillion-addressable-market",
+      "date": "2026-08-25T18:55:12.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/anthropic-names-first-chief-global-affairs-officer.avif"
+    },
     {
       "source": "SiliconANGLE",
       "title": "Democratizing the AI data center: How Cisco and Nvidia are bringing rack-scale power to the enterprise",
@@ -152,16 +202,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/jalapeno_chip_1787673723179_1787673726913_385117db-009b-4b2b-ab58-be9a7fdb5d7d.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "Apple unveils M6 and M5 Ultra chips with a big jump in AI performance",
-      "summary": "Apple has introduced the M6 in a new Mac mini and the M5 Ultra in a new Mac Studio, its first 2nm chip and its first quad-die M-series design respectively. The M5 Ultra supports up to 512GB of unified memory at 1.2TB/s. The Mac mini questi…",
-      "link": "https://thenextweb.com/news/apple-m6-m5-ultra-on-device-ai-european-data",
-      "date": "2026-08-25T16:02:08.000Z",
-      "category": "Hardware & Infra",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/apple-m6-m5-ultra-on-device-ai-european-data.avif"
-    },
-    {
       "source": "Google AI",
       "title": "5 ways to upgrade your home decor with Google Search",
       "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
@@ -180,16 +220,6 @@
       "category": "Hardware & Infra",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-133517463,imgsize-254452.cms"
-    },
-    {
-      "source": "AI News",
-      "title": "MIT AI forecasts extreme weather without historical data",
-      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of even…",
-      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
-      "date": "2026-08-25T15:46:06.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "NVIDIA",
@@ -220,16 +250,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "OpenAI’s Jalapeno chip outperformed the GB300 on power and speed, according to OpenAI",
-      "summary": "OpenAI says its Jalapeno inference chip, developed with Broadcom, outperformed Nvidia’s GB300 on AI work per unit of power and on response speed. It was not tested against Nvidia’s newer Vera Rubin hardware and is not designed for training…",
-      "link": "https://thenextweb.com/news/openai-jalapeno-benchmark-nvidia-gb300-europe-gigafactories",
-      "date": "2026-08-25T15:11:19.000Z",
-      "category": "Hardware & Infra",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/06/chatgpt-lockdown-mode-prompt-injection.avif"
     },
     {
       "source": "Ars Technica AI",
@@ -286,16 +306,6 @@
       "category": "Hardware & Infra",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Xiaomi unveils custom 3nm chip for intelligent driving",
-      "summary": "Xiaomi has unveiled the Xring D100, an in-house 3nm chip for intelligent driving that will replace Nvidia hardware in its cars from 2027. The company has invested more than 21bn yuan, about $3.1bn, since restarting its chip programme. Xiao…",
-      "link": "https://thenextweb.com/news/xiaomi-xring-d100-driving-chip-tsmc-europe-gap",
-      "date": "2026-08-25T14:07:46.000Z",
-      "category": "Hardware & Infra",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/06/xiaomi-robotic-charging-arm-ev-home-garage-tesla-snake.avif"
     },
     {
       "source": "ET Tech",
@@ -356,16 +366,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/nucleussecurity.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Ropedia launches next-gen wearable capture device for robotic AI training data",
-      "summary": "Singapore-based robotics data infrastructure firm Ropedia Pte. Ltd. today announced the launch of HOMIE Gen2, the next generation of the company’s head-mounted wearable that records human movement data to train robots. Smart robotics requi…",
-      "link": "https://siliconangle.com/2026/08/25/ropedia-launches-next-gen-wearable-capture-device-for-robotic-ai-training-data/",
-      "date": "2026-08-25T13:00:36.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2024/06/AI-Robot-Pixabay-tungnguyen0905.jpg"
     },
     {
       "source": "Ars Technica AI",
@@ -766,16 +766,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg"
     },
     {
-      "source": "AI News",
-      "title": "XPENG IRON humanoid robot draws record physical AI funding",
-      "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share p…",
-      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "date": "2026-08-24T15:53:53.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": null
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Infineon acquires Bengaluru-based C2i Semiconductors",
       "summary": "The acquisition is expected to strengthen Infineon’s position in power solutions for AI data centers",
@@ -784,16 +774,6 @@
       "category": "Business & Funding",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/74xr8d/article71162445.ece/alternates/LANDSCAPE_1200/IMG_merger_and_acquisiti_2_1_9FDHFEFK.jpg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72…",
-      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "date": "2026-08-24T15:24:18.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "NVIDIA",
@@ -1076,16 +1056,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding A…",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "date": "2026-08-21T08:41:29.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "ET CIO",
       "title": "Workplace 2035: The enterprise we build today will decide the workplace of tomorrow",
       "summary": "India's AI ambition is moving faster than its organisational readiness. At ET Workplace 2035, leaders confronted the harder question: how do you redesign the enterprise itself for a world where humans, machines and intelligence work as one?",
@@ -1176,16 +1146,6 @@
       "image": "https://image.theregister.com/?imageId=248129&width=800"
     },
     {
-      "source": "AI News",
-      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
-      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to commun…",
-      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-      "date": "2026-08-20T14:05:18.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
@@ -1206,16 +1166,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GFN_Thursday-Firefox.jpg"
     },
     {
-      "source": "AI News",
-      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and to…",
-      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
-      "date": "2026-08-20T10:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
       "summary": "Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
@@ -1232,46 +1182,6 @@
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
       "date": "2026-08-20T09:47:22.000Z",
       "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
-      "summary": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a ministerial post to run it, making Omar Sultan Al Olama the world…",
-      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
-      "date": "2026-08-20T09:00:00.000Z",
-      "category": "News",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "A third of ChatGPT ads appear in irrelevant conversations",
-      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real Ch…",
-      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
-      "date": "2026-08-20T08:07:40.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "AI data centre regulation just got a template that needs no new law",
-      "summary": "AI data centre regulation in Pennsylvania now begins with a signature. Before the state will so much as open a developer’s permit file, that developer has to sign a contract accepting a fixed set of conditions and the penalties for breakin…",
-      "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
-      "date": "2026-08-20T08:00:00.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
-      "summary": "Autonomous artificial intelligence agents have already penetrated the offices of large, global enterprises. Now, HoneyBook is trying to bring that same capability to independent businesses with the launch of HoneyBook MCP, recently release…",
-      "link": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
-      "date": "2026-08-20T07:35:07.000Z",
-      "category": "Product",
       "region": "Global",
       "image": null
     },
@@ -1433,16 +1343,6 @@
       "date": "2026-08-18T18:09:38.000Z",
       "category": "News",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "OpenAI president urges enterprises to hasten AI security defences",
-      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to…",
-      "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
-      "date": "2026-08-18T14:58:27.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
       "image": null
     },
     {
@@ -2074,26 +1974,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
