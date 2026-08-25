@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T16:02:28.222Z",
-  "count": 203,
+  "updated": "2026-08-25T16:57:31.169Z",
+  "count": 192,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,46 @@
   ],
   "items": [
     {
+      "source": "Hindu BusinessLine",
+      "title": "Shivaami launches Gemini Enterprise Experience Centre",
+      "summary": "Facility to offer immersive demos, workshops and industry solutions powered by Google Cloud",
+      "link": "https://www.thehindubusinessline.com/info-tech/shivaami-launches-gemini-enterprise-experience-centre/article71390054.ece",
+      "date": "2026-08-25T16:16:03.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/d5dgpl/article70499891.ece/alternates/LANDSCAPE_1200/2025-03-05T130238Z_96424677_RC2LU7AVKBC2_RTRMADP_3_GOOGLE-AI-AUSTRALIA.JPG"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "OpenAI’s Jalapeño chip claims major AI speed boost: What to know",
+      "summary": "The chip is designed specifically for AI inference — the stage where trained models generate answers, rather than the training process used to create those models.",
+      "link": "https://www.livemint.com/technology/tech-news/openais-jalape-o-chip-claims-major-ai-speed-boost-what-to-know-11787672824812.html",
+      "date": "2026-08-25T16:04:21.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/jalapeno_chip_1787673723179_1787673726913_385117db-009b-4b2b-ab58-be9a7fdb5d7d.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Apple unveils M6 and M5 Ultra chips with a big jump in AI performance",
+      "summary": "Apple has introduced the M6 in a new Mac mini and the M5 Ultra in a new Mac Studio, its first 2nm chip and its first quad-die M-series design respectively. The M5 Ultra supports up to 512GB of unified memory at 1.2TB/s. The Mac mini questi…",
+      "link": "https://thenextweb.com/news/apple-m6-m5-ultra-on-device-ai-european-data",
+      "date": "2026-08-25T16:02:08.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/apple-m6-m5-ultra-on-device-ai-european-data.avif"
+    },
+    {
+      "source": "Google AI",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+      "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "date": "2026-08-25T16:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
+    },
+    {
       "source": "ET Tech",
       "title": "Apple launches faster Mac mini, Mac Studio to tap AI boom",
       "summary": "The new mini, unveiled alongside a beefed-up Mac Studio, starts at $899 and comes with either Apple's new M6 chip or the M5 Pro. It ‌is $100 more ⁠expensive than ⁠its predecessor. The unveiling ⁠is likely Apple's ‌last major launch before…",
@@ -60,16 +100,6 @@
       "category": "Hardware & Infra",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-133517463,imgsize-254452.cms"
-    },
-    {
-      "source": "AI News",
-      "title": "MIT AI forecasts extreme weather without historical data",
-      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of even…",
-      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
-      "date": "2026-08-25T15:46:06.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "NVIDIA",
@@ -229,12 +259,12 @@
     },
     {
       "source": "LiveMint Tech",
-      "title": "Apple’s new AI-ready Mac Mini gets M6 chip as Mac Studio gets M5 Ultra: Price, specs, pre-order date, and more",
-      "summary": "Apple launches new Mac Mini and Mac Studio with M6, M5 Pro, M5 Max and M5 Ultra chips. Check prices, specs and pre-order details.",
+      "title": "Apple’s new AI-ready Mac Mini gets M6 chip as Mac Studio gets M5 Ultra: Price in India, specs, pre-order date, and more",
+      "summary": "Apple launches new Mac Mini and Mac Studio with M6, M5 Pro, M5 Max and M5 Ultra chips. Check prices in India, specs and when you can pre-order.",
       "link": "https://www.livemint.com/technology/gadgets/apples-new-ai-ready-mac-mini-gets-m6-chip-as-mac-studio-gets-m5-ultra-price-specs-pre-order-date-and-more-11787663001306.html",
       "date": "2026-08-25T13:13:10.000Z",
       "category": "Hardware & Infra",
-      "region": "United States",
+      "region": "India",
       "image": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/Apple-Mac-mini-hero_1733239255798_1787663140976_78c58e63-6d27-4177-a82c-46244a702f3f.jpg"
     },
     {
@@ -706,16 +736,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg"
     },
     {
-      "source": "AI News",
-      "title": "XPENG IRON humanoid robot draws record physical AI funding",
-      "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share p…",
-      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "date": "2026-08-24T15:53:53.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": null
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Infineon acquires Bengaluru-based C2i Semiconductors",
       "summary": "The acquisition is expected to strengthen Infineon’s position in power solutions for AI data centers",
@@ -946,16 +966,6 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Agentic AI may make cyberattacks faster, more sophisticated: Securonix CEO",
-      "summary": "Organisations worry AI-powered agents acting on behalf of employees could magnify insider threats",
-      "link": "https://www.thehindubusinessline.com/info-tech/agentic-ai-may-make-cyberattacks-faster-more-sophisticated-securonix-ceo/article71381538.ece",
-      "date": "2026-08-23T15:02:49.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/hqxoey/article71381543.ece/alternates/LANDSCAPE_1200/Toby%20Weiss%20Chief%20Executive%20Officer%20Securonix.png"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Spec-Driven Development with Claude Code: Writing Bulletproof Specs",
       "summary": "I have written enough specs for Claude Code now to have hit the failure mode nobody warns you about. The spec was fine. The plan was fine. Claude worked through the tasks, ran the test suite, and reported everything passing. I looked at th…",
@@ -984,16 +994,6 @@
       "category": "Research",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "AI volumes may outweigh revenue deflation for IT sector by FY30: Report",
-      "summary": "Artificial intelligence (AI) could become a net growth driver for India's IT services industry over the longer term, with AI-led volumes potentially outweighing revenue pressure from automation by FY30, according to a report by CLSA.",
-      "link": "https://www.livemint.com/technology/ai-volumes-may-outweigh-revenue-deflation-for-it-sector-by-fy30-report-11787386080208.html",
-      "date": "2026-08-22T08:07:59.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
       "source": "Wired AI",
@@ -1042,16 +1042,6 @@
       "link": "https://www.analyticsvidhya.com/blog/2026/08/pagedattention-radixattention-llm-kv-cache/",
       "date": "2026-08-21T10:42:03.000Z",
       "category": "Hardware & Infra",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding A…",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "date": "2026-08-21T08:41:29.000Z",
-      "category": "News",
       "region": "Global",
       "image": null
     },
@@ -1146,16 +1136,6 @@
       "image": "https://image.theregister.com/?imageId=248129&width=800"
     },
     {
-      "source": "AI News",
-      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
-      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to commun…",
-      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-      "date": "2026-08-20T14:05:18.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
@@ -1176,16 +1156,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GFN_Thursday-Firefox.jpg"
     },
     {
-      "source": "AI News",
-      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and to…",
-      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
-      "date": "2026-08-20T10:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
       "summary": "Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
@@ -1202,46 +1172,6 @@
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
       "date": "2026-08-20T09:47:22.000Z",
       "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
-      "summary": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a ministerial post to run it, making Omar Sultan Al Olama the world…",
-      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
-      "date": "2026-08-20T09:00:00.000Z",
-      "category": "News",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "A third of ChatGPT ads appear in irrelevant conversations",
-      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real Ch…",
-      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
-      "date": "2026-08-20T08:07:40.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "AI data centre regulation just got a template that needs no new law",
-      "summary": "AI data centre regulation in Pennsylvania now begins with a signature. Before the state will so much as open a developer’s permit file, that developer has to sign a contract accepting a fixed set of conditions and the penalties for breakin…",
-      "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
-      "date": "2026-08-20T08:00:00.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
-      "summary": "Autonomous artificial intelligence agents have already penetrated the offices of large, global enterprises. Now, HoneyBook is trying to bring that same capability to independent businesses with the launch of HoneyBook MCP, recently release…",
-      "link": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
-      "date": "2026-08-20T07:35:07.000Z",
-      "category": "Product",
       "region": "Global",
       "image": null
     },
@@ -1413,16 +1343,6 @@
       "date": "2026-08-18T18:09:38.000Z",
       "category": "News",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "OpenAI president urges enterprises to hasten AI security defences",
-      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to…",
-      "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
-      "date": "2026-08-18T14:58:27.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
       "image": null
     },
     {
@@ -1896,16 +1816,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"
     },
     {
-      "source": "Google AI",
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "date": "2026-07-28T13:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"
-    },
-    {
       "source": "BAIR",
       "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
       "summary": ".abbel-fig { display: block; text-align: center; margin: 2.4em 0; line-height: 1.4; max-width: 100%; } .abbel-fig img { display: block; margin: 0.65em auto 0; height: auto; max-width: 100%; } /* Image sizes; captions use a narrower measure…",
@@ -2074,26 +1984,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
