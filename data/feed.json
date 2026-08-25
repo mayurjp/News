@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T14:06:55.963Z",
+  "updated": "2026-08-25T15:07:58.476Z",
   "count": 202,
   "sources": [
     "OpenAI",
@@ -51,6 +51,72 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "Hugging Face",
+      "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+      "date": "2026-08-25T15:01:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Nvidia doubles compute for entry-level edge robotics with Jetson Orin Nano 2",
+      "summary": "Nvidia Corp. today announced the release of Jetson Orin Nano 2, a robotics computer “brain” for running artificial intelligence and frontier-level models at the edge. In the past months, foundational AI models have grown smaller and more e…",
+      "link": "https://siliconangle.com/2026/08/25/nvidia-doubles-compute-for-entry-level-edge-robotics-with-jetson-orin-nano-2/",
+      "date": "2026-08-25T15:00:57.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Robotics-jetson-Orin-Nano-2-_081920261600x900.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "summary": "Lica co-founders are going to work on Gamma's new research team.",
+      "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "date": "2026-08-25T15:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "AI factories enter the execution era as Cisco and Nvidia push rack-scale systems into production",
+      "summary": "The artificial intelligence infrastructure market is crossing an important threshold. The conversation is shifting from acquiring graphics processing units to building complete AI factories that can generate tokens reliably, efficiently an…",
+      "link": "https://siliconangle.com/2026/08/25/ai-infrastructure-execution-era-cisco-nvidia-cisconvidiaaifactory/",
+      "date": "2026-08-25T14:25:26.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Cisco-Secure-AI-Factory-With-Nvidia-Expands-to-Rack-Scale-2026.png",
+      "relatedSources": [
+        {
+          "source": "SiliconANGLE",
+          "link": "https://siliconangle.com/2026/08/25/nvidia-cisco-rack-scale-ai-factory-cisconvidiaaifactory/"
+        }
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "date": "2026-08-25T14:22:04.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Xiaomi unveils custom 3nm chip for intelligent driving",
+      "summary": "Xiaomi has unveiled the Xring D100, an in-house 3nm chip for intelligent driving that will replace Nvidia hardware in its cars from 2027. The company has invested more than 21bn yuan, about $3.1bn, since restarting its chip programme. Xiao…",
+      "link": "https://thenextweb.com/news/xiaomi-xring-d100-driving-chip-tsmc-europe-gap",
+      "date": "2026-08-25T14:07:46.000Z",
+      "category": "Hardware & Infra",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/06/xiaomi-robotic-charging-arm-ev-home-garage-tesla-snake.avif"
+    },
     {
       "source": "ET Tech",
       "title": "Delhi government data to be AI-ready for effective governance service delivery to people",
@@ -220,16 +286,6 @@
       "category": "Policy & Safety",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Fresh from €1.2bn, NEURA buys its second company in eleven days",
-      "summary": "NEURA Robotics is buying a company that makes cleaning robots, and says it wants to replace their brains. The German firm is acquiring 100% of Adlatus Robotics, an Ulm maker of autonomous cleaning and sweeping machines. It announced the de…",
-      "link": "https://thenextweb.com/news/neura-robotics-acquires-adlatus-cleaning-robots",
-      "date": "2026-08-25T10:43:49.000Z",
-      "category": "Product",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/08/neura-robotics-acquires-adlatus-robotics-executives.avif"
     },
     {
       "source": "ET Tech",
@@ -420,6 +476,16 @@
       ]
     },
     {
+      "source": "OpenAI",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "link": "https://openai.com/index/jalapeno-first-results",
+      "date": "2026-08-25T07:00:00.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Japan Times",
       "title": "Government urges AI firms to disclose learning data",
       "summary": "A new set of guiding principles covers not only domestic businesses but also overseas operators that provide AI systems and services in Japan.",
@@ -540,32 +606,6 @@
       "image": null
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation",
-      "summary": "Nvidia Corp. is reportedly considering making another investment in the artificial intelligence search startup Perplexity AI Inc. A report by The Information today says the chipmaker is holding talks with Perplexity about an investment tha…",
-      "link": "https://siliconangle.com/2026/08/24/nvidia-reportedly-eyes-another-investment-in-perplexity-ai-at-a-30b-valuation/",
-      "date": "2026-08-24T23:40:08.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-25-06-37-38.png",
-      "relatedSources": [
-        {
-          "source": "Hindu BusinessLine",
-          "link": "https://www.thehindubusinessline.com/info-tech/nvidia-discusses-perplexity-investment-at-30-billion-plus-valuation/article71383142.ece"
-        }
-      ]
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Quintessent bags $40M to develop lasers for AI clusters",
-      "summary": "Optical interconnect startup Quintessent Inc. today announced that it has raised $40 million in early-stage funding to gear up production of its hardware. Cycle Capital led the Series A raise. It was joined by Goldman Sachs, Susquehanna In…",
-      "link": "https://siliconangle.com/2026/08/24/quintessent-bags-40m-to-develop-lasers-for-ai-clusters/",
-      "date": "2026-08-24T23:38:13.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Quintessent.png"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
       "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
@@ -584,16 +624,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Trump defends AI data center buildout amid pushback",
-      "summary": "U.S. President Donald Trump expressed support for data center projects in a radio interview that aired on Sunday. The segment was hosted by former Trump attorney Michael Cohen, who had testified against him in a high-profile 2024 trial. Th…",
-      "link": "https://siliconangle.com/2026/08/24/trump-defends-ai-data-center-buildout-amid-pushback/",
-      "date": "2026-08-24T20:52:45.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/AA1MYsde.jpeg"
     },
     {
       "source": "TechCrunch AI",
@@ -716,16 +746,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/asatk2/article71385045.ece/alternates/LANDSCAPE_1200/2026-01-15T212137Z_1200763805_RC2XQS9HTV05_RTRMADP_3_USA-TAIWAN-TRADE.JPG"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "date": "2026-08-24T13:47:26.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "How to Use Kimi K3: Moonshot AI’s 2.8T Open-Weight Model",
       "summary": "Moonshot AI’s Kimi K3 is a 2.8-trillion-parameter open-weight model built with a Mixture-of-Experts architecture. It activates only a small fraction of its parameters per token, helping reduce inference costs while delivering strong coding…",
@@ -826,6 +846,16 @@
       "image": "https://bl-i.thgim.com/public/incoming/lffcag/article71383228.ece/alternates/LANDSCAPE_1200/Edit_second-leaG8UG8VD9J.3.jpg.jpg"
     },
     {
+      "source": "Hindu BusinessLine",
+      "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation",
+      "summary": "The funding round would increase ‌Perplexity's valuation by more than 50% from ‌its ⁠previous financing a year ago",
+      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-discusses-perplexity-investment-at-30-billion-plus-valuation/article71383142.ece",
+      "date": "2026-08-24T04:14:42.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/om1nay/article70568639.ece/alternates/LANDSCAPE_1200/2025-09-10T235332Z_112154921_RC27B5A9942J_RTRMADP_3_PERPLEXITY-FUNDS.JPG"
+    },
+    {
       "source": "LiveMint Tech",
       "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
       "summary": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
@@ -854,16 +884,6 @@
       "category": "Enterprise & Deployment",
       "region": "India",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-43062/133449214.cms"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "date": "2026-08-23T20:01:36.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "LiveMint Tech",
@@ -1386,16 +1406,6 @@
       "image": null
     },
     {
-      "source": "OpenAI",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "date": "2026-08-18T11:00:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "MIT Tech Review",
       "title": "We still don’t know how people are really using AI",
       "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corrobora…",
@@ -1592,16 +1602,6 @@
       "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "date": "2026-08-14T00:00:00.000Z",
       "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "summary": "",
-      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "date": "2026-08-13T17:16:04.000Z",
-      "category": "Enterprise & Deployment",
       "region": "Global",
       "image": null
     },
