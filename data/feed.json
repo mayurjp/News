@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T15:55:22.838Z",
-  "count": 184,
+  "updated": "2026-08-26T17:50:22.267Z",
+  "count": 198,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,56 @@
   ],
   "items": [
     {
+      "source": "The Next Web",
+      "title": "Anthropic signs $45B compute deal with Britain’s Nscale",
+      "summary": "Anthropic has agreed to spend $45B over six years renting AI computing power from Nscale’s flagship West Virginia data centre development, covering about 460 megawatts. Nscale is a London company preparing a US listing as soon as next mont…",
+      "link": "https://thenextweb.com/news/anthropic-nscale-45b-compute-deal-london-ipo",
+      "date": "2026-08-26T17:35:23.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.avif"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
+      "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Nebraska Senate candidate Dan Osborn.",
+      "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
+      "date": "2026-08-26T17:13:37.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6a8ded27f4779156570e0f64/master/pass/Politics_Politicians%20Are%20Signing%20a%20Pact%20Against%20Data%20Center%20Giveaways_v1.jpg"
+    },
+    {
+      "source": "DeepMind",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "date": "2026-08-26T17:01:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Flipboard acquires Graze, the tool for building your own social algorithm",
+      "summary": "Flipboard has acquired Graze, a Portland startup that lets creators build, tune and monetise custom social feeds without writing code, mainly on Bluesky. Graze says it has delivered more than 41 billion posts to 12 million users since form…",
+      "link": "https://thenextweb.com/news/flipboard-acquires-graze-custom-feeds-dsa-europe",
+      "date": "2026-08-26T16:30:28.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/flipboard-acquires-graze-custom-feeds-dsa-europe.avif"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI talent penetration in retail GCCs doubles to 4.8%, with just 320 senior AI professionals: TeamLease Digital",
+      "summary": "AI workforce penetration in Retail GCCs has increased from 2.1% in 2022 to 4.8% in 2025, with projections of reaching 10.6% by 2028",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-talent-penetration-in-retail-gccs-doubles-to-48-with-just-320-senior-ai-professionals-teamlease-digital/article71393204.ece",
+      "date": "2026-08-26T16:09:11.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/scn04i/article71393714.ece/alternates/LANDSCAPE_1200/IMG_02OP-search1_2_1_UV9EUVBI.jpg"
+    },
+    {
       "source": "TechCrunch AI",
       "title": "Radar makes podcasts searchable — and usable by AI agents",
       "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
@@ -69,7 +119,7 @@
       "date": "2026-08-26T15:27:24.000Z",
       "category": "News",
       "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/c574ae56-9ce8-40fd-8c0a-9c32463de24f_d29212d8.jpg?itok=rNJG4yLj&v=1787758032"
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/27/c574ae56-9ce8-40fd-8c0a-9c32463de24f_f6d3ff76.jpg?itok=huP0MHNC&v=1787761754"
     },
     {
       "source": "ET Tech",
@@ -222,6 +272,16 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/glean.png"
     },
     {
+      "source": "SiliconANGLE",
+      "title": "The network becomes the computer as Cisco and Nvidia accelerate AI factory rack-scale",
+      "summary": "The first phase of the generative artificial intelligence infrastructure boom was defined by a race for graphics processing units. The next phase will be defined by what happens after those GPUs arrive. As the AI infrastructure buildout co…",
+      "link": "https://siliconangle.com/2026/08/26/the-network-becomes-the-computer-as-cisco-and-nvidia-accelerate-ai-factory-rack-scale-cisconvidiaaifactory/",
+      "date": "2026-08-26T12:00:43.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/CiscoNVIDIA-news-AI-Factory.png"
+    },
+    {
       "source": "TechCrunch AI",
       "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
       "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
@@ -332,6 +392,36 @@
       "image": "https://img.etimg.com/photo/msid-133537971,imgsize-38434.cms"
     },
     {
+      "source": "OpenAI",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "date": "2026-08-26T10:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "link": "https://openai.com/index/learning-never-stops",
+      "date": "2026-08-26T10:00:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with particip…",
+      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+      "date": "2026-08-26T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "Why the global push to break free from Big Tech keeps falling short",
       "summary": "In this excerpt from the book “The Rulers: Corporate Power in the Age of AI and the Cloud,” writer Cecilia Rikap examines how Europe, India, Brazil, and China are taking on big tech companies.",
@@ -360,6 +450,16 @@
       "category": "Security & Cyber Risk",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/k9870g/article71388022.ece/alternates/LANDSCAPE_1200/IMG_BL2603_Tech_TD_AI_Cr_2_1_VDFOU6L9.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative…",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+      "date": "2026-08-26T09:08:11.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "MIT Tech Review",
@@ -632,16 +732,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/World-Humanoid-Robot-Games-2026-1152x648.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "AI inference gets a new tier as context windows grow",
-      "summary": "AI storage infrastructure is becoming a more consequential planning issue as organizations move from model training toward agentic AI. As agents reason, act and reassess, they build longer contexts and generate more data that they must acc…",
-      "link": "https://siliconangle.com/2026/08/25/ai-storage-infrastructure-supports-scalable-ai-inference-supermicroopenstoragesummit/",
-      "date": "2026-08-25T19:21:36.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/IMG_8839-scaled.jpg"
-    },
-    {
       "source": "The Register AI",
       "title": "McKinsey says enterprise AI is finally 'on the road to ROI'",
       "summary": "Fasten your seatbelt and empty that bladder: AI investment is rising, but reported enterprise earnings impact remains stubbornly flat",
@@ -680,6 +770,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "AI News",
+      "title": "MIT AI forecasts extreme weather without historical data",
+      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of even…",
+      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+      "date": "2026-08-25T15:46:06.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "NVIDIA",
@@ -922,14 +1022,14 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Infineon acquires Bengaluru-based C2i Semiconductors",
-      "summary": "The acquisition is expected to strengthen Infineon’s position in power solutions for AI data centers",
-      "link": "https://www.thehindubusinessline.com/info-tech/infineon-acquires-bengaluru-based-c2i-semiconductors/article71385512.ece",
-      "date": "2026-08-24T15:28:16.000Z",
+      "source": "AI News",
+      "title": "XPENG IRON humanoid robot draws record physical AI funding",
+      "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share p…",
+      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "date": "2026-08-24T15:53:53.000Z",
       "category": "Business & Funding",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/74xr8d/article71162445.ece/alternates/LANDSCAPE_1200/IMG_merger_and_acquisiti_2_1_9FDHFEFK.jpg"
+      "region": "China",
+      "image": null
     },
     {
       "source": "NVIDIA",
@@ -1162,6 +1262,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding A…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "date": "2026-08-21T08:41:29.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "ET CIO",
       "title": "Workplace 2035: The enterprise we build today will decide the workplace of tomorrow",
       "summary": "India's AI ambition is moving faster than its organisational readiness. At ET Workplace 2035, leaders confronted the harder question: how do you redesign the enterprise itself for a world where humans, machines and intelligence work as one?",
@@ -1252,6 +1362,16 @@
       "image": "https://image.theregister.com/?imageId=248129&width=800"
     },
     {
+      "source": "AI News",
+      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
+      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to commun…",
+      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "date": "2026-08-20T14:05:18.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Ars Technica AI",
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
@@ -1272,6 +1392,16 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GFN_Thursday-Firefox.jpg"
     },
     {
+      "source": "AI News",
+      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and to…",
+      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+      "date": "2026-08-20T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
       "summary": "Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
@@ -1288,6 +1418,36 @@
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
       "date": "2026-08-20T09:47:22.000Z",
       "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+      "summary": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a ministerial post to run it, making Omar Sultan Al Olama the world…",
+      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
+      "date": "2026-08-20T09:00:00.000Z",
+      "category": "News",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "A third of ChatGPT ads appear in irrelevant conversations",
+      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real Ch…",
+      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+      "date": "2026-08-20T08:07:40.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "AI data centre regulation just got a template that needs no new law",
+      "summary": "AI data centre regulation in Pennsylvania now begins with a signature. Before the state will so much as open a developer’s permit file, that developer has to sign a contract accepting a fixed set of conditions and the penalties for breakin…",
+      "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
+      "date": "2026-08-20T08:00:00.000Z",
+      "category": "Policy & Safety",
       "region": "Global",
       "image": null
     },
@@ -1332,16 +1492,6 @@
       "image": "https://media.wired.com/photos/6a85e8ea4518d27679a9b132/master/pass/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg"
     },
     {
-      "source": "OpenAI",
-      "title": "Offering Zero Data Retention for frontier models",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "date": "2026-08-19T19:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Google AI",
       "title": "5 new ways to level up your learning with Search",
       "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
@@ -1380,26 +1530,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
-    },
-    {
-      "source": "Wired AI",
-      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-      "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
-      "link": "https://www.wired.com/story/flock-safety-os-investigate/",
-      "date": "2026-08-19T09:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6a834e2ceca883ccd19e58fc/master/pass/Security_InsideNightshifttheAIAgentFlock_v1.gif"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "link": "https://openai.com/index/replit",
-      "date": "2026-08-19T07:00:00.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Analytics Vidhya",
@@ -1832,16 +1962,6 @@
       "image": null
     },
     {
-      "source": "DeepMind",
-      "title": "Introducing Gemini 3.5 Flash Cyber",
-      "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-      "date": "2026-07-17T15:00:11.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo"
-    },
-    {
       "source": "VentureBeat AI",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire tha…",
@@ -1890,6 +2010,26 @@
       "category": "Product",
       "region": "United States",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&q=30"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     }
   ]
 }
