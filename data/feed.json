@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T05:51:41.235Z",
-  "count": 178,
+  "updated": "2026-08-26T07:10:34.922Z",
+  "count": 191,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,12 +44,73 @@
     "India",
     "China",
     "Europe",
+    "Japan",
     "South Korea",
     "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "MIT Tech Review",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conferenc…",
+      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "date": "2026-08-26T07:01:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "FlowX.AI Brings Mission-Critical Industry AI Agents to Gemini Enterprise",
+      "summary": "Menlo Park, CA, United States, August 25th, 2026, TechnologyWire FlowX.AI is among the first partners bringing specialized industry agents to Gemini Enterprise, with enterprise-grade AI built for complex, high-stakes work where making a mi…",
+      "link": "https://thenextweb.com/news/flowx-ai-agents-gemini-enterprise-google-cloud-marketplace",
+      "date": "2026-08-26T06:47:28.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/flowx-google-cloud.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Google Cloud has launched Gemini Enterprise for Legal with Freshfields, Cleary and Weil",
+      "summary": "Google Cloud has launched Gemini Enterprise for Legal, its first dedicated legal AI offering for the broader market, with Cleary, Freshfields, Weil, and Williams & Connolly among the launch customers. It arrives in a category where the spe…",
+      "link": "https://thenextweb.com/news/google-gemini-enterprise-legal-launch",
+      "date": "2026-08-26T06:37:42.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/Gemini-Enterprise-for-Legal.avif"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Apple Mac Studio M5 Ultra transforms desktop into high-powered AI workstation for professionals",
+      "summary": "Apple has launched the new Mac Studio with M5 Max and M5 Ultra chips, targeting demanding AI, creative and professional workloads. The M5 Ultra supports up to 36 CPU cores, 80 GPU cores and 512GB of unified memory for running large AI mode…",
+      "link": "https://www.livemint.com/technology/gadgets/apple-mac-studio-m5-ultra-transforms-desktop-into-high-powered-ai-workstation-for-professionals-11787721276963.html",
+      "date": "2026-08-26T05:53:07.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/26/1600x900/logo/M5_Ultra_1787722050200_1787722055248_638a0823-d079-45d3-bc46-6518d561cc2a.png"
+    },
+    {
+      "source": "ET Tech",
+      "title": "SoftBank mulls up to $20 billion bond sale for OpenAI financing",
+      "summary": "The offering could be denominated in dollars and euros and could come as early as September, said the people, who asked not to be identified discussing private matters. The talks are still ongoing and details could change, the people added.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-mulls-up-to-20-billion-bond-sale-for-openai-financing/articleshow/133531221.cms",
+      "date": "2026-08-26T05:45:44.000Z",
+      "category": "Business & Funding",
+      "region": "Japan",
+      "image": "https://img.etimg.com/photo/msid-133531221,imgsize-201142.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Ringg AI raises $10 million in funding from Peak XV Partners, others",
+      "summary": "Founded in 2023 by Siddharth Tripathi, Kali Charan Vemuru and Utkarsh Shukla, the startup counts Policybazaar, CRED, Flipkart, Groww and Practo among its customers.",
+      "link": "https://economictimes.indiatimes.com/tech/funding/ringg-ai-raises-10-million-in-funding-from-peak-xv-partners-others/articleshow/133530474.cms",
+      "date": "2026-08-26T05:39:03.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": "https://img.etimg.com/photo/msid-133530474,imgsize-65544.cms"
+    },
     {
       "source": "ET Tech",
       "title": "Five things to know about Anthropic ahead of Wall Street debut",
@@ -63,7 +124,7 @@
     {
       "source": "SCMP Tech",
       "title": "DeepSeek nears pre-IPO funding round as 2027 market debut takes shape: sources",
-      "summary": "DeepSeek is nearing the completion of a new funding round that values the company at about 500 billion yuan (US$74 billion) before investment, as the Chinese artificial intelligence start-up moves closer to a potential listing on Shanghai’…",
+      "summary": "DeepSeek is nearing the completion of a new funding round valuing the company at about 500 billion yuan (US$74 billion) before investment, as the Chinese artificial intelligence start-up moves closer to a potential listing on Shanghai’s St…",
       "link": "https://www.scmp.com/tech/big-tech/article/3365280/deepseek-nears-pre-ipo-funding-round-2027-market-debut-takes-shape-sources?utm_source=rss_feed",
       "date": "2026-08-26T05:01:09.000Z",
       "category": "Business & Funding",
@@ -158,8 +219,8 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+      "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
       "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
       "date": "2026-08-26T00:06:20.000Z",
       "category": "People & Leadership",
@@ -195,16 +256,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/gatik.png"
-    },
-    {
-      "source": "Japan Times",
-      "title": "Who gains in an AI-supercharged economy?",
-      "summary": "If AI transforms the economy as promised, the biggest rewards will shift from AI builders to AI users.",
-      "link": "https://www.japantimes.co.jp/commentary/2026/08/26/world/ai-supercharged-economy-winners/",
-      "date": "2026-08-25T23:05:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/25/thumbs/400x400/554883.jpg"
     },
     {
       "source": "SiliconANGLE",
@@ -285,26 +336,6 @@
       "category": "Business & Funding",
       "region": "Europe",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Alice raises $140mn to stress-test the models Anthropic and Google ship",
-      "summary": "One company spent eight years cataloguing the worst material on the internet. It has now raised $140mn to point that archive at AI models. Alice, formerly ActiveFence, announced the round on Tuesday. Apax Digital Funds led it, and will tak…",
-      "link": "https://thenextweb.com/news/alice-140m-funding-ai-security-apax-digital",
-      "date": "2026-08-25T19:00:29.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/Noam-Schwartz-ceo-alice-ai.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Anthropic is expected to pitch investors a $30tn market opportunity",
-      "summary": "Anthropic is likely to tell IPO investors that its potential revenue opportunity runs above $30tn. That figure would top the $28.5tn SpaceX put in front of investors before its own record listing. Corrie Driebusch reported the number for T…",
-      "link": "https://thenextweb.com/news/anthropic-ipo-30-trillion-addressable-market",
-      "date": "2026-08-25T18:55:12.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/anthropic-names-first-chief-global-affairs-officer.avif"
     },
     {
       "source": "SiliconANGLE",
@@ -395,6 +426,16 @@
       "category": "Hardware & Infra",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-133517463,imgsize-254452.cms"
+    },
+    {
+      "source": "AI News",
+      "title": "MIT AI forecasts extreme weather without historical data",
+      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of even…",
+      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+      "date": "2026-08-25T15:46:06.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "NVIDIA",
@@ -634,29 +675,17 @@
       "date": "2026-08-25T07:44:48.000Z",
       "category": "Hardware & Infra",
       "region": "South Korea",
-      "image": "https://bl-i.thgim.com/public/incoming/n0mixu/article71387830.ece/alternates/LANDSCAPE_1200/2026-08-24T035426Z_309391847_RC2QRLAW98M0_RTRMADP_3_NVIDIA-INVESTMENT-PERPLEXITY.JPG",
-      "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/technology/samsung-sk-hynix-stand-to-benefit-as-as-nvidia-ai-server-costs-surge/articleshow/133499517.cms"
-        }
-      ]
+      "image": "https://bl-i.thgim.com/public/incoming/n0mixu/article71387830.ece/alternates/LANDSCAPE_1200/2026-08-24T035426Z_309391847_RC2QRLAW98M0_RTRMADP_3_NVIDIA-INVESTMENT-PERPLEXITY.JPG"
     },
     {
-      "source": "ET Tech",
+      "source": "Hindu BusinessLine",
       "title": "WazirX launches AI trading co-pilot to streamline crypto research and execution",
-      "summary": "Integrated into WazirX's app and website, the tool allows users to ask questions about live crypto prices, market news and macroeconomic developments, receive analysis with supporting charts, review their portfolios and approve trades with…",
-      "link": "https://economictimes.indiatimes.com/tech/startups/wazirx-launches-ai-trading-co-pilot-to-streamline-crypto-research-and-execution/articleshow/133499740.cms",
-      "date": "2026-08-25T07:40:47.000Z",
+      "summary": "Integrated into WazirX's app and website, the tool allows users to ask questions about live crypto prices, market news and macroeconomic developments, among other functions",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/wazirx-launches-ai-trading-co-pilot-to-streamline-crypto-research-and-execution/article71387744.ece",
+      "date": "2026-08-25T07:30:25.000Z",
       "category": "Research",
       "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-133499740,imgsize-154210.cms",
-      "relatedSources": [
-        {
-          "source": "Hindu BusinessLine",
-          "link": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/wazirx-launches-ai-trading-co-pilot-to-streamline-crypto-research-and-execution/article71387744.ece"
-        }
-      ]
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-variety/ewbfwl/article71353950.ece/alternates/LANDSCAPE_1200/AI-may-help-cutG4FGDDN2P.4.jpg.jpg"
     },
     {
       "source": "OpenAI",
@@ -747,6 +776,16 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "XPENG IRON humanoid robot draws record physical AI funding",
+      "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share p…",
+      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "date": "2026-08-24T15:53:53.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -959,16 +998,6 @@
       "image": null
     },
     {
-      "source": "LiveMint Tech",
-      "title": "OpenAI slashes GPT-5.6 Sol API pricing by over 20% — Developers can now access it at ₹380 only",
-      "summary": "However, the prices for ChatGPT Pro, Plus and Business subscriptions remain unchanged, OpenAI said.",
-      "link": "https://www.livemint.com/technology/apps/openai-slashes-gpt-5-6-sol-api-pricing-by-over-20-developers-can-now-access-it-at-rs-380-only-11787402625527.html",
-      "date": "2026-08-22T14:22:02.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/22/1600x900/logo/OPENAI-SAFETY-TEENS-0_1787406992189_1787407043360_a4b4a3d0-20c5-4b0d-b6e0-068a46a904f2.JPG"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Top 5 Agentic AI Research Papers of 2026",
       "summary": "Agentic AI research in 2026 has moved past the basic question of whether a model can be called a tool. The harder questions are whether an agent can finish long workflows, survive live websites, verify its own work, recover from failure, a…",
@@ -1025,6 +1054,16 @@
       "link": "https://www.analyticsvidhya.com/blog/2026/08/pagedattention-radixattention-llm-kv-cache/",
       "date": "2026-08-21T10:42:03.000Z",
       "category": "Hardware & Infra",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding A…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "date": "2026-08-21T08:41:29.000Z",
+      "category": "News",
       "region": "Global",
       "image": null
     },
@@ -1119,6 +1158,16 @@
       "image": "https://image.theregister.com/?imageId=248129&width=800"
     },
     {
+      "source": "AI News",
+      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
+      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to commun…",
+      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "date": "2026-08-20T14:05:18.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Ars Technica AI",
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
@@ -1139,6 +1188,16 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GFN_Thursday-Firefox.jpg"
     },
     {
+      "source": "AI News",
+      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and to…",
+      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+      "date": "2026-08-20T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
       "summary": "Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
@@ -1155,6 +1214,46 @@
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
       "date": "2026-08-20T09:47:22.000Z",
       "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+      "summary": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a ministerial post to run it, making Omar Sultan Al Olama the world…",
+      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
+      "date": "2026-08-20T09:00:00.000Z",
+      "category": "News",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "A third of ChatGPT ads appear in irrelevant conversations",
+      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real Ch…",
+      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+      "date": "2026-08-20T08:07:40.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "AI data centre regulation just got a template that needs no new law",
+      "summary": "AI data centre regulation in Pennsylvania now begins with a signature. Before the state will so much as open a developer’s permit file, that developer has to sign a contract accepting a fixed set of conditions and the penalties for breakin…",
+      "link": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
+      "date": "2026-08-20T08:00:00.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
+      "summary": "Autonomous artificial intelligence agents have already penetrated the offices of large, global enterprises. Now, HoneyBook is trying to bring that same capability to independent businesses with the launch of HoneyBook MCP, recently release…",
+      "link": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
+      "date": "2026-08-20T07:35:07.000Z",
+      "category": "Product",
       "region": "Global",
       "image": null
     },
@@ -1316,6 +1415,16 @@
       "date": "2026-08-18T18:09:38.000Z",
       "category": "News",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "OpenAI president urges enterprises to hasten AI security defences",
+      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to…",
+      "link": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+      "date": "2026-08-18T14:58:27.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
       "image": null
     },
     {
@@ -1527,16 +1636,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "MIT Tech Review",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass…",
-      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "date": "2026-08-13T13:41:10.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "NVIDIA",
@@ -1847,6 +1946,26 @@
       "category": "Product",
       "region": "United States",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     }
   ]
 }
