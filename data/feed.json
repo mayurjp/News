@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T17:50:22.267Z",
-  "count": 198,
+  "updated": "2026-08-26T19:20:01.671Z",
+  "count": 196,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,56 @@
   ],
   "items": [
     {
+      "source": "TechCrunch AI",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "date": "2026-08-26T19:05:22.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undert…",
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "date": "2026-08-26T19:00:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "AMD, Supermicro and MinIO target the enterprise data pipeline bottleneck",
+      "summary": "Despite rapid advances in artificial intelligence, the enterprise world is still dealing with a data pipeline problem. More than 80% of enterprise data is unstructured, and 99% of this data is dark to AI because there is no easy solution t…",
+      "link": "https://siliconangle.com/2026/08/26/data-pipeline-amd-supermicro-minio-lakehouse-supermicroopenstoragesummit/",
+      "date": "2026-08-26T18:15:51.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Tan-Selvaraj-DeMichillie-1.jpg"
+    },
+    {
+      "source": "Wired AI",
+      "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
+      "summary": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
+      "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
+      "date": "2026-08-26T18:15:00.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://media.wired.com/photos/6a8dc4dc21bb5a1c3d158388/master/pass/AI-Lab-Robot-Games-Business.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "OpenAI says its Jalapeño chip beats Nvidia Blackwell in AI inference tests",
+      "summary": "OpenAI says its custom Jalapeño chip outperformed Nvidia’s Blackwell in AI inference tests, with higher efficiency and faster response times.",
+      "link": "https://www.livemint.com/technology/tech-news/openai-says-its-jalapeno-chip-beats-nvidia-blackwell-in-ai-inference-tests-11787750498001.html",
+      "date": "2026-08-26T18:09:32.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/26/1600x900/logo/nvidia_1787767316772_1787767322599_ddc927de-fecd-4304-a647-ef394e6e756a.png"
+    },
+    {
       "source": "The Next Web",
       "title": "Anthropic signs $45B compute deal with Britain’s Nscale",
       "summary": "Anthropic has agreed to spend $45B over six years renting AI computing power from Nscale’s flagship West Virginia data centre development, covering about 460 megawatts. Nscale is a London company preparing a US listing as soon as next mont…",
@@ -64,7 +114,7 @@
     {
       "source": "Wired AI",
       "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
-      "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Nebraska Senate candidate Dan Osborn.",
+      "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
       "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
       "date": "2026-08-26T17:13:37.000Z",
       "category": "Policy & Safety",
@@ -190,16 +240,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Mate Security unveils Gamebooks to bring trusted autonomy to AI-powered security investigations",
-      "summary": "As artificial intelligence pushes security operations toward greater speed and automation, the central challenge is becoming less about whether AI can investigate threats and more about whether organizations can trust it to act. SiliconANG…",
-      "link": "https://thenextweb.com/news/mate-security-gamebooks-trusted-autonomy-investigations",
-      "date": "2026-08-26T14:10:00.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/mate-security-gamebooks-trusted-autonomy-investigations.avif"
     },
     {
       "source": "SiliconANGLE",
@@ -612,16 +652,6 @@
       "image": "https://img.etimg.com/photo/msid-133530437,imgsize-42227.cms"
     },
     {
-      "source": "SCMP Tech",
-      "title": "DeepSeek nears pre-IPO funding round as 2027 market debut takes shape: sources",
-      "summary": "DeepSeek is nearing the completion of a new funding round valuing the company at about 500 billion yuan (US$74 billion) before investment, as the Chinese artificial intelligence start-up moves closer to a potential listing on Shanghai’s St…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3365280/deepseek-nears-pre-ipo-funding-round-2027-market-debut-takes-shape-sources?utm_source=rss_feed",
-      "date": "2026-08-26T05:01:09.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/26/70646eb5-1b37-4b03-802c-8c4afaa84520_88d76df9.jpg?itok=WZSkMNCT&v=1787719840"
-    },
-    {
       "source": "Japan Times",
       "title": "Founders once linked to Bezos project pitch AI that models physics, not language",
       "summary": "The new type of artificial intelligence model built by Anima Anandkumar and Benedikt Jenik has learned to predict physical phenomena in space and time.",
@@ -630,16 +660,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/26/thumbs/400x400/559470.jpg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
-      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "date": "2026-08-26T03:30:00.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": null
     },
     {
       "source": "SiliconANGLE",
@@ -710,16 +730,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/alice-scaled.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Perplexity AI launches Portable Computer on-device AI agent",
-      "summary": "Perplexity AI Inc. today introduced Portable Computer, an artificial intelligence agent designed to run on desktops equipped with Nvidia Corp. silicon. The launch follows a report that Nvidia is weighing an investment in the startup that c…",
-      "link": "https://siliconangle.com/2026/08/25/perplexity-ai-launches-portable-computer-on-device-ai-agent/",
-      "date": "2026-08-25T22:32:18.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Nvidia.png"
     },
     {
       "source": "Ars Technica AI",
@@ -1182,16 +1192,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-43062/133449214.cms"
     },
     {
-      "source": "LiveMint Tech",
-      "title": "'Its a new tool for creativity': Dr Dre on use of AI in creating music",
-      "summary": "Dr Dre, the legendary hip-hop producer and performer, sees AI as another tool in the music-tech toolbox akin to synthesisers and asserted that only people \"who have trouble creating\" are afraid of AI, reported Variety.",
-      "link": "https://www.livemint.com/technology/its-a-new-tool-for-creativity-dr-dre-on-use-of-ai-in-creating-music-11787506714476.html",
-      "date": "2026-08-23T17:38:34.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Spec-Driven Development with Claude Code: Writing Bulletproof Specs",
       "summary": "I have written enough specs for Claude Code now to have hit the failure mode nobody warns you about. The spec was fine. The plan was fine. Claude worked through the tasks, ran the test suite, and reported everything passing. I looked at th…",
@@ -1502,16 +1502,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"
     },
     {
-      "source": "Wired AI",
-      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-      "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
-      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-      "date": "2026-08-19T16:44:07.000Z",
-      "category": "Product",
-      "region": "Europe",
-      "image": "https://media.wired.com/photos/6a85ca54d0110f6d404e46bf/master/pass/081926_AI-Watermark-Removal.jpg"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Meta ran ads for an app promising to nudify female politicians",
       "summary": "One ad featured a pornographic video with deepfake closely resembling a US politician.",
@@ -1577,16 +1567,6 @@
       "summary": "Ever wondered how ChatGPT, Gemini, and other chat interfaces generate PDFs, PowerPoints, and more when all they have under the hood is an LLM? The trick isn’t a smarter model. It’s something simpler: skills which are instructions an agent…",
       "link": "https://www.analyticsvidhya.com/blog/2026/08/build-modular-agent-skills-langchain/",
       "date": "2026-08-18T09:17:35.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "MIT Tech Review",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forec…",
-      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "date": "2026-08-18T09:00:00.000Z",
       "category": "News",
       "region": "Global",
       "image": null
