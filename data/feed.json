@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T09:07:26.446Z",
-  "count": 179,
+  "updated": "2026-08-29T14:30:20.405Z",
+  "count": 190,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,62 @@
   ],
   "items": [
     {
+      "source": "TechCrunch AI",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "date": "2026-08-29T13:00:00.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Wired AI",
+      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+      "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "date": "2026-08-29T10:30:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6a921e363b3f20c2f80986f3/master/pass/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI to stop supplying models to Cursor after SpaceX acquisition",
+      "summary": "OpenAI is ending its contract to supply models to Cursor following SpaceX’s $60B acquisition, with access shutting off on 12 November and its forthcoming Astra model withheld. Cursor and SpaceXAI shipped Grok 4.5 together in July, which is…",
+      "link": "https://thenextweb.com/news/openai-ends-cursor-contract-spacex-acquisition-eu-switching-rules",
+      "date": "2026-08-29T10:15:44.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.avif",
+      "relatedSources": [
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/openai-to-end-partnership-with-cursor-after-spacex-acquisition/article71403433.ece"
+        }
+      ]
+    },
+    {
+      "source": "Wired AI",
+      "title": "How to Run a Chatbot on Your Own Computer",
+      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+      "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+      "date": "2026-08-29T10:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6a915ae02fa9a47ca7d480c1/master/pass/RunAChatbot.jpg"
+    },
+    {
+      "source": "MediaNama",
+      "title": "Gnani.ai launches Artha sovereign AI stack in India",
+      "summary": "Gnani.ai has launched Artha, a sovereign AI stack combining its 30-billion-parameter Evon v3.3 model with the Plexus platform for developing AI agents. The post Gnani.ai launches Artha sovereign AI stack in India appeared first on MEDIANAM…",
+      "link": "https://www.medianama.com/2026/08/223-gnani-ai-artha-sovereign-ai/",
+      "date": "2026-08-29T09:17:04.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": null
+    },
+    {
       "source": "Hindu BusinessLine",
       "title": "Andreessen Horowitz raises $1.1 bn machine age fund to back AI hardware, infrastructure",
       "summary": "New fund to invest across computer infrastructure underpinning AI, including chips, memory, networking and storage, as well as complete systems such as data centres, robotics and home AI appliances",
@@ -92,16 +148,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/28/2e7ba4f5-1958-4c3d-8115-efa435fc9a3b_eeb7d3b1.jpg?itok=VELx_zux&v=1787910798"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "OpenAI to end partnership with Cursor after SpaceX acquisition",
-      "summary": "OpenAI said it has informed Cursor that it will wind down their contract with a proposed shutoff date of Nov 12",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-to-end-partnership-with-cursor-after-spacex-acquisition/article71403433.ece",
-      "date": "2026-08-29T03:58:49.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/6tsqkh/article71403466.ece/alternates/LANDSCAPE_1200/2026-08-26T205557Z_983519563_RC2QRLA1KF9Q_RTRMADP_3_OPENAI-HUGGING-FACE.JPG"
-    },
-    {
       "source": "ET Tech",
       "title": "IndiGo Ventures backs sovereign AI firm Sarvam in ongoing Series B funding round",
       "summary": "The investment by the corporate venture capital arm of IndiGo builds on an existing relationship between the two entities. Both companies previously collaborated to deploy artificial intelligence technologies aimed at enhancing passenger e…",
@@ -114,7 +160,7 @@
     {
       "source": "ET CIO",
       "title": "How Hindustan Power is rebuilding energy as a software problem",
-      "summary": "From securing a 200-kilometre coal supply chain with homegrown AI to reimagining India’s ageing power grid for a distributed energy future, Armaan Puri, Director, Hindustan Power, tells ETCIO Deep Talks why the next big advantage in energy…",
+      "summary": "From securing a 200-kilometre coal supply chain with homegrown AI to reimagining India’s ageing power grid for a distributed energy future, Arman Puri, Director, Hindustan Power, tells ETCIO Deep Talks why the next big advantage in energy…",
       "link": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-hindustan-power-is-rebuilding-energy-as-a-software-problem/133602292",
       "date": "2026-08-29T02:30:00.000Z",
       "category": "News",
@@ -328,16 +374,6 @@
       "image": "https://media.wired.com/photos/6a909d466b1fcc4b68700cd4/master/pass/Backchannel-AI-Doctors-Business-1267508918.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "a16z has raised $1.1bn to invest in the physical layer of AI",
-      "summary": "Andreessen Horowitz has closed a $1.1bn fund that will invest exclusively in hardware. The Machine Age Fund, announced on Friday, covers the physical layer artificial intelligence runs on, from chips to the buildings that house them. The m…",
-      "link": "https://thenextweb.com/news/a16z-machine-age-fund-1-1bn-hardware",
-      "date": "2026-08-28T14:19:29.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/The-Machine-Age-Fund.avif"
-    },
-    {
       "source": "SiliconANGLE",
       "title": "It’s Nvidia’s world. We just live in it",
       "summary": "The artificial intelligence juggernaut kept cruising along this week thanks to big earnings results from Nvidia — and even Salesforce, the supposed epicenter of the SaaSpocalypse. Nvidia not only beat all expectations for revenue, CEO Jens…",
@@ -362,16 +398,6 @@
           "link": "https://economictimes.indiatimes.com/tech/technology/meta-executive-sandhya-devanathan-departs-after-decade-long-stint-at-tech-giant/articleshow/133587357.cms"
         }
       ]
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Uzbekistan tests US-China AI rift with bid to join rival tech bloc",
-      "summary": "The Central Asian country of Uzbekistan has approached the United States about joining Pax Silica, Washington’s flagship initiative on artificial intelligence (AI) supply chains, a month after signing up for China’s own global grouping, th…",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3365645/uzbekistan-tests-us-china-ai-rift-bid-join-rival-tech-bloc?utm_source=rss_feed",
-      "date": "2026-08-28T13:02:42.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/28/f389ff65-bb7e-42a1-9a37-0baceaba8a65_d3720b7e.jpg?itok=hIrNlvph&v=1787922156"
     },
     {
       "source": "Rest of World",
@@ -790,16 +816,6 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "date": "2026-08-27T14:56:52.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "VentureBeat AI",
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
       "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calli…",
@@ -900,24 +916,14 @@
       "image": "https://www.livemint.com/lm-img/img/2026/08/27/1600x900/logo/Alexander_Smith_Google_1787838713795_1787838721794_73ed5f04-3ec8-4eab-b151-98c5cf6a7879.png"
     },
     {
-      "source": "Wired AI",
-      "title": "Submit Your Questions: The Great Data Center Backlash",
-      "summary": "You have questions about data centers, and WIRED has answers. Join our livestream on September 10 and our panel of experts will tell you everything you need to know.",
-      "link": "https://www.wired.com/story/livestream-the-great-data-center-backlash/",
-      "date": "2026-08-27T11:00:00.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6a90aa0673ca164d2fe0f4a5/master/pass/livestream_data_centers.jpg"
-    },
-    {
-      "source": "Wired AI",
-      "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
-      "summary": "The Relay Q, due next year, is the latest attempt to reposition voice as the most seamless method for human-computer interaction.",
-      "link": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/",
-      "date": "2026-08-27T10:30:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6a8effc5f304a7db06ecb9ee/master/pass/118.jpg"
+      "source": "AI News",
+      "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
+      "summary": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company’s chief financial officer, told analysts on August 26 that demand from the labs Nvi…",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "date": "2026-08-27T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Rest of World",
@@ -1070,6 +1076,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with particip…",
+      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+      "date": "2026-08-26T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "Why the global push to break free from Big Tech keeps falling short",
       "summary": "In this excerpt from the book “The Rulers: Corporate Power in the Age of AI and the Cloud,” writer Cecilia Rikap examines how Europe, India, Brazil, and China are taking on big tech companies.",
@@ -1078,6 +1094,16 @@
       "category": "News",
       "region": "India",
       "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_cloud_break_final-320x320.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative…",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+      "date": "2026-08-26T09:08:11.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "MIT Tech Review",
@@ -1180,6 +1206,16 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
     },
     {
+      "source": "AI News",
+      "title": "MIT AI forecasts extreme weather without historical data",
+      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of even…",
+      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+      "date": "2026-08-25T15:46:06.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "NVIDIA",
       "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
       "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark and Ubisoft are amon…",
@@ -1277,6 +1313,16 @@
       "date": "2026-08-25T00:00:00.000Z",
       "category": "Enterprise & Deployment",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "XPENG IRON humanoid robot draws record physical AI funding",
+      "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share p…",
+      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "date": "2026-08-24T15:53:53.000Z",
+      "category": "Business & Funding",
+      "region": "China",
       "image": null
     },
     {
@@ -1430,6 +1476,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding A…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "date": "2026-08-21T08:41:29.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "ET CIO",
       "title": "Workplace 2035: The enterprise we build today will decide the workplace of tomorrow",
       "summary": "India's AI ambition is moving faster than its organisational readiness. At ET Workplace 2035, leaders confronted the harder question: how do you redesign the enterprise itself for a world where humans, machines and intelligence work as one?",
@@ -1500,6 +1556,16 @@
       "image": "https://image.theregister.com/?imageId=248129&width=800"
     },
     {
+      "source": "AI News",
+      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
+      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to commun…",
+      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "date": "2026-08-20T14:05:18.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "NVIDIA",
       "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
       "summary": "It’s a new way into the cloud. GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or everyday PC, it’s now…",
@@ -1508,6 +1574,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GFN_Thursday-Firefox.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and to…",
+      "link": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+      "date": "2026-08-20T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "Rest of World",
@@ -1526,6 +1602,26 @@
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
       "date": "2026-08-20T09:47:22.000Z",
       "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+      "summary": "The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a ministerial post to run it, making Omar Sultan Al Olama the world…",
+      "link": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
+      "date": "2026-08-20T09:00:00.000Z",
+      "category": "News",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "A third of ChatGPT ads appear in irrelevant conversations",
+      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real Ch…",
+      "link": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+      "date": "2026-08-20T08:07:40.000Z",
+      "category": "News",
       "region": "Global",
       "image": null
     },
@@ -1868,6 +1964,26 @@
       "category": "Enterprise & Deployment",
       "region": "United States",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&q=30"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     }
   ]
 }
