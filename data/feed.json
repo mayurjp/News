@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T00:22:42.453Z",
-  "count": 189,
+  "updated": "2026-08-30T06:42:57.392Z",
+  "count": 187,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,32 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Trust levels for generative AI drops below 40%, yet consumers rely on AI product advice: McKinsey",
+      "summary": "The data showed this distrust extends beyond digital channels, as recommendations from family and friends also score poorly among younger demographics",
+      "link": "https://www.thehindubusinessline.com/info-tech/trust-levels-for-generative-ai-drops-below-40-yet-consumers-rely-on-ai-product-advice-mckinsey/article71407047.ece",
+      "date": "2026-08-30T05:12:55.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/jpsim2/article71389075.ece/alternates/LANDSCAPE_1200/BL27_LLM.jpg",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/trust-levels-for-generative-ai-drops-below-40-yet-consumers-rely-on-ai-product-advice-mckinsey-11788064906620.html"
+        }
+      ]
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "How China’s AI policies avoid painful past tech crackdowns",
+      "summary": "China once waited for fast-growing industries to create problems before cracking down. With artificial intelligence, regulators are creating policies much earlier.",
+      "link": "https://www.livemint.com/technology/how-china-s-ai-policies-avoid-painful-past-tech-crackdowns-11788054929514.html",
+      "date": "2026-08-30T02:00:00.000Z",
+      "category": "Policy & Safety",
+      "region": "China",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/30/1600x900/logo/China-AI-Job-Fears-4_1788055094163_1788055107595_7121e8c7-17db-45fd-a471-b9974bbf1c86.jpg"
+    },
     {
       "source": "The Next Web",
       "title": "Hugging Face built a $4.5 billion empire on free AI models. Now Nvidia is buying it for $12.9 billion",
@@ -238,16 +264,6 @@
       "image": "https://img.etimg.com/photo/msid-133602403,imgsize-19880.cms"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Indians turn to AI gurus for answers: ‘ChatGPT is not judging you’",
-      "summary": "When Kripa Vaidyanathan’s 27-year-old niece died in an Alaska car crash in 2024, her family in Chennai, India, felt shell-shocked. They questioned why this tragedy would befall them when they had such “immense faith in God”. Vaidyanathan,…",
-      "link": "https://www.scmp.com/news/asia/south-asia/article/3365675/indians-turn-ai-gurus-answers-chatgpt-not-judging-you?utm_source=rss_feed",
-      "date": "2026-08-29T01:44:27.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/29/de3a3892-bb91-4906-a8a9-7327a9f08ba7_cf8535c2.jpg?itok=uacKmYJk&v=1787967862"
-    },
-    {
       "source": "Japan Times",
       "title": "Math’s AI crisis has a lesson for the rest of us",
       "summary": "The field of mathematics may need to establish new standards for dealing with AI.",
@@ -256,16 +272,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/28/thumbs/400x400/557204.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Inside Thailand’s bid to wire the world’s AI revolution",
-      "summary": "In the rush to build an AI future, semiconductors are the silicon rock stars that soak up all the applause. Yet behind the curtain, an unglamorous stagehand is doing much of the heavy lifting. Printed circuit boards (PCBs) are the copper-l…",
-      "link": "https://www.scmp.com/week-asia/economics/article/3365614/inside-thailands-bid-wire-worlds-ai-revolution?utm_source=rss_feed",
-      "date": "2026-08-29T00:00:20.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/28/f83031e6-6cf8-49d2-9703-e1fdc2cb16a9_b59f32e1.jpg?itok=OHnWFyn0&v=1787911982"
     },
     {
       "source": "The Next Web",
@@ -540,22 +546,6 @@
       "image": "https://img.etimg.com/photo/msid-133587210,imgsize-276872.cms"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Anthropic introduces Model Hardware Standard for AI agents to operate physical devices",
-      "summary": "The framework aims to connect AI agents with physical instruments, enabling researchers and engineers to automate complex tasks with minimal intervention",
-      "link": "https://www.thehindubusinessline.com/info-tech/anthropic-introduces-model-hardware-standard-for-ai-agents-to-operate-physical-devices/article71399015.ece",
-      "date": "2026-08-28T07:55:13.000Z",
-      "category": "Research",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/chtch2/article71399625.ece/alternates/LANDSCAPE_1200/2026-08-17T092131Z_546900879_RC290NAQ11MK_RTRMADP_3_USA-STOCKS.JPG",
-      "relatedSources": [
-        {
-          "source": "Ars Technica AI",
-          "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
-        }
-      ]
-    },
-    {
       "source": "ET Tech",
       "title": "AI ecommerce projects may fail without clean, centralised data: Report",
       "summary": "The report said data readiness is one of the biggest factors determining whether AI projects move beyond experimentation and deliver measurable business outcomes. It noted that AI systems depend heavily on the quality of the information th…",
@@ -684,6 +674,16 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Unsplash2.png"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
+      "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "date": "2026-08-27T22:15:43.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png"
     },
     {
       "source": "Wired AI",
@@ -1226,16 +1226,6 @@
       "image": null
     },
     {
-      "source": "LiveMint Tech",
-      "title": "Apple’s new AI-ready Mac Mini gets M6 chip as Mac Studio gets M5 Ultra: Price in India, specs, pre-order date, and more",
-      "summary": "Apple launches new Mac Mini and Mac Studio with M6, M5 Pro, M5 Max and M5 Ultra chips. Check prices in India, specs and when you can pre-order.",
-      "link": "https://www.livemint.com/technology/gadgets/apples-new-ai-ready-mac-mini-gets-m6-chip-as-mac-studio-gets-m5-ultra-price-specs-pre-order-date-and-more-11787663001306.html",
-      "date": "2026-08-25T13:13:10.000Z",
-      "category": "Hardware & Infra",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/Apple-Mac-mini-hero_1733239255798_1787663140976_78c58e63-6d27-4177-a82c-46244a702f3f.jpg"
-    },
-    {
       "source": "Hugging Face",
       "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
       "summary": "",
@@ -1244,16 +1234,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Exclusive-The AI founders who walked away from Bezos-backed Prometheus to model the universe",
-      "summary": "ACCELERATEDUNDERSTANDING-AI:Exclusive-The AI founders who walked away from Bezos-backed Prometheus to model the universe",
-      "link": "https://www.livemint.com/technology/exclusivethe-ai-founders-who-walked-away-from-bezos-backed-prometheus-to-model-the-universe-11787652237034.html",
-      "date": "2026-08-25T10:03:56.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
       "source": "Rest of World",
