@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T18:45:18.821Z",
-  "count": 179,
+  "updated": "2026-09-02T21:51:14.192Z",
+  "count": 188,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,14 +51,70 @@
   ],
   "items": [
     {
-      "source": "Wired AI",
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
-      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-      "date": "2026-09-02T18:41:02.000Z",
+      "source": "The Next Web",
+      "title": "Adobe for Slack turns chat threads into Firefly images, video and PDFs",
+      "summary": "Adobe for Slack lets Slackbot turn conversations and shared files into images, video and documents using Firefly, Photoshop, Premiere, Acrobat and more than 70 other tools. Article 50 of the EU AI Act now requires synthetic content to be m…",
+      "link": "https://thenextweb.com/news/adobe-for-slack-firefly-content-credentials-eu-ai-act-article-50-marking",
+      "date": "2026-09-02T21:28:24.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/09/adobe-for-slack-firefly-content-credentials-eu-ai-act-article-50-marking.avif"
+    },
+    {
+      "source": "The Register AI",
+      "title": "AI-assisted mushroom hunting is a recipe for a bad trip",
+      "summary": "Even the best model gets fungus identification right just 65% of the time - talk about a false friend",
+      "link": "https://www.theregister.com/offbeat/2026/09/02/ai-assisted-mushroom-hunting-is-a-recipe-for-a-bad-trip/5294060",
+      "date": "2026-09-02T20:34:41.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=241049&width=800"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Google releases Gemini 3.8 Flash and a cybersecurity variant limited to governments",
+      "summary": "Google has released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber, its third Flash release in six weeks, with the cyber model restricted to trusted testers and governments. Under the EU AI Act every general purpose model placed on the market…",
+      "link": "https://thenextweb.com/news/gemini-3-8-flash-cyber-release-cadence-eu-ai-act-gpai-article-53",
+      "date": "2026-09-02T20:33:02.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/09/gemini-3-8-flash-cyber-release-cadence-eu-ai-act-gpai-article-53.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Wonderful raises $550M at $5B valuation for its AI automation platform",
+      "summary": "Artificial intelligence agent startup Wonderful AI BV today announced that it has raised $550 million in funding. The Series C round was led by Insight Partners, which was also the headline backer of the company’s previous raise in March.…",
+      "link": "https://siliconangle.com/2026/09/02/wonderful-raises-550m-at-5b-valuation-for-its-ai-automation-platform/",
+      "date": "2026-09-02T20:25:48.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Wonderful.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "date": "2026-09-02T20:19:14.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Trump administration backs OpenAI in New York Times copyright case over training of chatbots",
+      "summary": "Trump administration backs OpenAI in New York Times' copyright case over training of chatbots",
+      "link": "https://www.livemint.com/technology/trump-administration-backs-openai-in-new-york-times-copyright-case-over-training-of-chatbots-11788376415763.html",
+      "date": "2026-09-02T19:13:35.000Z",
       "category": "Policy & Safety",
       "region": "United States",
-      "image": "https://media.wired.com/photos/6a9847e0838ebf1a08f58e12/master/pass/GettyImages-2214107176.jpg"
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
+      "relatedSources": [
+        {
+          "source": "Wired AI",
+          "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/"
+        }
+      ]
     },
     {
       "source": "Wired AI",
@@ -257,6 +313,16 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2024/07/ai-computer-assistant-scanning-log-files-microsoft-image-creator.png"
     },
     {
+      "source": "AI News",
+      "title": "Motional and MIT AI explains self-driving car decisions",
+      "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that i…",
+      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+      "date": "2026-09-02T15:25:12.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "TechCrunch AI",
       "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
       "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
@@ -315,16 +381,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Walnut Launches Enterprise AI Agent Platform to Personalize the B2B Buyer Experience",
-      "summary": "For B2B software companies, product-led buying has created a new challenge: buyers increasingly expect to explore products on their own terms, while go-to-market teams still have limited time to tailor those experiences. Walnut is now bett…",
-      "link": "https://thenextweb.com/news/walnut-launches-enterprise-ai-agent-platform",
-      "date": "2026-09-02T13:30:49.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/09/Walnut.avif"
     },
     {
       "source": "SCMP Tech",
@@ -533,16 +589,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-27723/133703205.cms"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Lasso Security launches CPU-only AI guardrail, raises $30M",
-      "summary": "Artificial intelligence security startup Lasso Security Ltd. today launched a guardrail for AI applications that runs on ordinary server processors, with no graphics chip required. The product is called LEAP. Lasso also announced $30 milli…",
-      "link": "https://siliconangle.com/2026/09/02/lasso-security-launches-cpu-only-ai-guardrail-raises-30m/",
-      "date": "2026-09-02T08:00:53.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/lassosecurity.png"
-    },
-    {
       "source": "MediaNama",
       "title": "US calls for hands-off AI regulation at G20 tech meeting",
       "summary": "The US has urged G20 countries to avoid creating new AI regulations and adopt the Carolina Principles, which favour applying existing laws while limiting new rules to novel AI-related situations. The post US calls for hands-off AI regulati…",
@@ -587,16 +633,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://www.livemint.com/lm-img/img/2026/09/02/1600x900/logo/Android_Drop_1788325161785_1788325181579_97858913-b364-414a-be6f-49cb71dfe1e4.png"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Tencent’s Hy4 model gains in open-source AI rankings after ecosystem-driven training",
-      "summary": "Tencent Holdings’ use of its vast product ecosystem to train its new Hy4 preview model gives it an edge in developing AI agents and brings its flagship model suite back into the top tier of open-source offerings, according to analysts. The…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366068/tencents-hy4-model-gains-open-source-ai-rankings-after-ecosystem-driven-training?utm_source=rss_feed",
-      "date": "2026-09-02T05:57:58.000Z",
-      "category": "Open Source",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/02/bf05942e-dcc9-45d3-890e-9c06101f9831_f6659a7a.jpg?itok=tB0Pjrwh&v=1788328514"
     },
     {
       "source": "ET Tech",
@@ -669,16 +705,6 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "date": "2026-09-01T22:08:24.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Hugging Face",
       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "summary": "",
@@ -736,6 +762,16 @@
       "date": "2026-09-01T17:00:00.000Z",
       "category": "Product",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "ChatGPT Ads passes $1B run rate in 200 days",
+      "summary": "ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expanding self-service ads to new regions. Tens of thousands of advertisers now use the platform and self-service access through Ads Manager is…",
+      "link": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
+      "date": "2026-09-01T16:05:27.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
       "image": null
     },
     {
@@ -844,6 +880,16 @@
       "summary": "Proprietary models are amazing! But sometimes what is of importance is configurability rather than raw power. This has led to the emergence of locally hosted models. The Mac mini has emerged as a surprisingly capable machine for running AI…",
       "link": "https://www.analyticsvidhya.com/blog/2026/09/best-local-llms-mac-mini-2026/",
       "date": "2026-09-01T09:38:02.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Why MCP servers are becoming AI’s newest attack surface",
+      "summary": "As AI adoption gathers pace, so does the evolution of the infrastructure that supports it. New standards and connectors keep appearing, and the ones that catch on spread through the ecosystem within months rather than years. That speed str…",
+      "link": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
+      "date": "2026-09-01T07:37:26.000Z",
       "category": "News",
       "region": "Global",
       "image": null
@@ -1047,16 +1093,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://media.wired.com/photos/6a8f1c5ba84e455f12fd962b/master/pass/NoScreenWearable.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Nearly 32% of organizations decide to build in-house software using AI coding agents over purchases: McKinsey",
-      "summary": "Organizations are increasingly using agentic coding tools to build software in-house in lieu of purchasing it, according to a McKinsey report titled, \"The state of AI in 2026.\"",
-      "link": "https://www.livemint.com/technology/nearly-32-of-organizations-decide-to-build-in-house-software-using-ai-coding-agents-over-purchases-mckinsey-11788076917651.html",
-      "date": "2026-08-30T08:01:57.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
       "source": "Wired AI",
@@ -1269,6 +1305,16 @@
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/9VRh8KJhBqcFviSV8ClXc/feea8ec8fe76ffa0bc5cdb3dd95e1492/EDB_hero.jpeg?w=300&q=30"
     },
     {
+      "source": "AI News",
+      "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
+      "summary": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company’s chief financial officer, told analysts on August 26 that demand from the labs Nvi…",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "date": "2026-08-27T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "India’s data center boom is leaving the people it displaces with nothing",
       "summary": "Communities are being left behind as AI companies secure tax breaks, cheap land from willing governments.",
@@ -1349,6 +1395,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with particip…",
+      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+      "date": "2026-08-26T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "Why the global push to break free from Big Tech keeps falling short",
       "summary": "In this excerpt from the book “The Rulers: Corporate Power in the Age of AI and the Cloud,” writer Cecilia Rikap examines how Europe, India, Brazil, and China are taking on big tech companies.",
@@ -1357,6 +1413,16 @@
       "category": "News",
       "region": "India",
       "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_cloud_break_final-320x320.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative…",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+      "date": "2026-08-26T09:08:11.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "MIT Tech Review",
@@ -1419,6 +1485,16 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
     },
     {
+      "source": "AI News",
+      "title": "MIT AI forecasts extreme weather without historical data",
+      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of even…",
+      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+      "date": "2026-08-25T15:46:06.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "NVIDIA",
       "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
       "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark and Ubisoft are amon…",
@@ -1476,6 +1552,16 @@
       "date": "2026-08-25T00:00:00.000Z",
       "category": "Enterprise & Deployment",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "XPENG IRON humanoid robot draws record physical AI funding",
+      "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share p…",
+      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "date": "2026-08-24T15:53:53.000Z",
+      "category": "Business & Funding",
+      "region": "China",
       "image": null
     },
     {
@@ -1629,6 +1715,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding A…",
+      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "date": "2026-08-21T08:41:29.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "ET CIO",
       "title": "Workplace 2035: The enterprise we build today will decide the workplace of tomorrow",
       "summary": "India's AI ambition is moving faster than its organisational readiness. At ET Workplace 2035, leaders confronted the harder question: how do you redesign the enterprise itself for a world where humans, machines and intelligence work as one?",
@@ -1677,6 +1773,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://image.theregister.com/?imageId=248129&width=800"
+    },
+    {
+      "source": "AI News",
+      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
+      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to commun…",
+      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "date": "2026-08-20T14:05:18.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "NVIDIA",
@@ -1757,16 +1863,6 @@
       "category": "Enterprise & Deployment",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive",
-      "summary": "Dealing with machine-made bug backlog makes it hard to find a moment to deliver promised subscription service",
-      "link": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227",
-      "date": "2026-08-17T02:31:58.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=225734&width=800"
     },
     {
       "source": "DeepMind",
