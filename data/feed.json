@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T19:52:08.134Z",
-  "count": 190,
+  "updated": "2026-09-03T22:44:05.741Z",
+  "count": 173,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,9 +51,107 @@
   ],
   "items": [
     {
+      "source": "The Next Web",
+      "title": "T-Mobile’s Gopalan turns to home internet and AI after a 25% slide",
+      "summary": "T-Mobile US chief executive Srini Gopalan declined to comment on a possible merger with parent Deutsche Telekom, days after Elliott built a stake to oppose it. A full combination would put the holding company outside Germany and cut the Ge…",
+      "link": "https://thenextweb.com/news/deutsche-telekom-t-mobile-merger-elliott-stake-german-state-blocking-minority-ireland-holdco",
+      "date": "2026-09-03T22:16:57.000Z",
+      "category": "People & Leadership",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/08/t-mobile-executives-oppose-deutsche-telekom-merger.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Sam Altman says AI developers have fumbled at communicating the technology’s benefits",
+      "summary": "Sam Altman says the AI industry has done a terrible job of communicating the benefits of the technology and is now exposed to a backlash, after local opposition blocked or delayed 75 data centre projects worth about $130B in a single quart…",
+      "link": "https://thenextweb.com/news/altman-says-industry-fumbled-communicating-ai-benefits-data-centre-backlash-europe-grid-eed-reporting",
+      "date": "2026-09-03T22:02:39.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/07/sam-altman-tiktok-addiction-deleted-openai-sora.avif"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "date": "2026-09-03T21:56:21.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6a99e16fbf4e66136bddbc74/master/pass/Security_AWaveofOutagesHitsLeadingAIChatbots_v1-ezgif.com-video-to-gif-converter%20(2).gif"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+      "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+      "date": "2026-09-03T21:48:24.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6a98be202f048bd98be06316/master/pass/Uncanny-Valley-George-Santos-Politics-2211292507.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Why video is the first frontier as AI learns to read the physical world",
+      "summary": "A camera overlooking a loading dock might record twelve hours of trucks arriving, workers moving through the site, and boxes leaving the building. Most days, nobody has a reason to watch any of it. The footage only becomes useful when a pa…",
+      "link": "https://thenextweb.com/news/video-first-frontier-ai-physical-world-lumana",
+      "date": "2026-09-03T21:46:14.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/video-first-frontier-ai-physical-world-lumana2.avif"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
+      "summary": "TECH-AI/OPENAI-CYBERSECURITY:OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
+      "link": "https://www.livemint.com/technology/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny-11788471790655.html",
+      "date": "2026-09-03T21:43:10.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Broadcom and Supermicro unify AI factory management",
+      "summary": "AI factory management is expanding beyond software and servers to encompass the physical systems supporting production workloads. Broadcom Inc. and Super Micro Computer Inc. are integrating their technologies to coordinate artificial intel…",
+      "link": "https://siliconangle.com/2026/09/03/broadcom-and-supermicro-unify-ai-factory-management-vmwareexplore/",
+      "date": "2026-09-03T21:10:48.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_8612-scaled.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Nvidia confirms $12.9B acquisition of AI hosting platform Hugging Face",
+      "summary": "Nvidia Corp. today confirmed that it has agreed to buy Hugging Face Inc. for just over $12.93 billion. CNBC reported that the acquisition talks began a few weeks ago. Rumors that a deal was in the works surfaced last Monday, when sources t…",
+      "link": "https://siliconangle.com/2026/09/03/nvidia-confirms-12-9b-acquisition-of-ai-hosting-platform-hugging-face/",
+      "date": "2026-09-03T20:25:34.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Nvidia1.jpg",
+      "relatedSources": [
+        {
+          "source": "Wired AI",
+          "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/"
+        },
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+        },
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-buying-artificial-intelligence-platform-hugging-face-for-13-billion/articleshow/133736454.cms"
+        },
+        {
+          "source": "NVIDIA",
+          "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+        }
+      ]
+    },
+    {
       "source": "TechCrunch AI",
       "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "summary": "The high-profile startup's annual revenue run rate stands at at over $100 million.",
+      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
       "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
       "date": "2026-09-03T19:36:29.000Z",
       "category": "Business & Funding",
@@ -128,13 +226,7 @@
       "date": "2026-09-03T17:28:45.000Z",
       "category": "Open Source",
       "region": "Global",
-      "image": "https://media.thenextweb.com/2026/07/jensen-huang-leather-jacket-960000-sothebys.avif",
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
-        }
-      ]
+      "image": "https://media.thenextweb.com/2026/07/jensen-huang-leather-jacket-960000-sothebys.avif"
     },
     {
       "source": "SiliconANGLE",
@@ -177,16 +269,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
-      "summary": "OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, wholesalers, and distributors decide how individual orders should be delivered. Called OmniSTAR, the system evaluates options including own…",
-      "link": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
-      "date": "2026-09-03T16:07:18.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "NVIDIA",
       "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
       "summary": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spa…",
@@ -215,26 +297,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/vc4uqv/article71425173.ece/alternates/LANDSCAPE_1200/iStock-2203181438.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "NVIDIA to acquire Hugging Face for $12.93B",
-      "summary": "NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository’s platform and infrastructure. The transaction targets platform growth and infrastructure investment, aiming to expand AI access for ent…",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
-      "date": "2026-09-03T15:50:31.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null,
-      "relatedSources": [
-        {
-          "source": "Ars Technica AI",
-          "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
-        },
-        {
-          "source": "NVIDIA",
-          "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
-        }
-      ]
     },
     {
       "source": "SiliconANGLE",
@@ -307,12 +369,8 @@
       "image": "https://bl-i.thgim.com/public/incoming/bjg9wq/article71424317.ece/alternates/LANDSCAPE_1200/2026-09-02T194703Z_1735361256_RC20BNAZYW6J_RTRMADP_3_G20-TECHNOLOGY.JPG",
       "relatedSources": [
         {
-          "source": "Wired AI",
-          "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/"
-        },
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-buying-artificial-intelligence-platform-hugging-face-for-13-billion/articleshow/133736454.cms"
+          "source": "Ars Technica AI",
+          "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
         }
       ]
     },
@@ -325,6 +383,16 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/r0eoz6/article71423618.ece/alternates/LANDSCAPE_1200/PNN%20-%202026-09-02T154416.781.jpg.jpeg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "date": "2026-09-03T13:15:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Hugging Face",
@@ -397,6 +465,26 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/03/df3e3528-937a-43d6-b1b2-61f0b8fe3417_a53c7321.jpg?itok=3_q2cRA-&v=1788432501"
     },
     {
+      "source": "OpenAI",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "date": "2026-09-03T12:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "date": "2026-09-03T12:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Analytics Vidhya",
       "title": "OpenCode Explained: The Open-Source AI Coding Agent",
       "summary": "OpenCode is open source and works with any model, but those are no longer its most interesting features. Model choice is table stakes. What sets OpenCode apart is its architecture, and the trade-offs that come with it, especially if you ar…",
@@ -465,16 +553,6 @@
       "category": "Business & Funding",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/03/b34be4e8-9c89-49f0-93bf-c943b687ea1b_dc82a829.jpg?itok=bSCuhMH1&v=1788431928"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Vara wins world’s first CE mark for AI that clears mammograms alone",
-      "summary": "A Berlin company has won the world’s first regulatory clearance for AI that closes a breast screening case. No radiologist looks at it. Vara, which trades as MX Healthcare GmbH, announced the certification on Wednesday in a statement issue…",
-      "link": "https://thenextweb.com/news/vara-ce-certification-autonomous-ai-breast-cancer-screening",
-      "date": "2026-09-03T10:36:05.000Z",
-      "category": "Policy & Safety",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/09/vara-autonomous-triage-mammography-interface.avif"
     },
     {
       "source": "Wired AI",
@@ -647,24 +725,14 @@
       "image": "https://media.wired.com/photos/6a98bc1a652ea8849cb4e3a3/master/pass/Meta-Stops-Forcing-Employees-To-Use-AI-Business-1461790372.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Capsule Security fine-tunes Nvidia Nemotron models to stop rogue AI agents",
-      "summary": "Agentic artificial intelligence security startup Capsule Security Ltd. today released a detection system built on two Nvidia Corp. Nemotron models it fine-tuned itself, in what it calls an “AI circuit breaker” for rogue AI agents. The mode…",
-      "link": "https://siliconangle.com/2026/09/02/capsule-security-fine-tunes-nvidia-nemotron-models-to-stop-rogue-ai-agents/",
-      "date": "2026-09-03T00:24:35.000Z",
+      "source": "OpenAI",
+      "title": "Safety overview: GPT-6 Astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "date": "2026-09-03T00:00:00.000Z",
       "category": "Security & Cyber Risk",
       "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/capsulenvidia.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Google launches two Gemini 3.8 models with cutting-edge reasoning capabilities",
-      "summary": "Just three weeks after its last large language model release, Google LLC today launched Gemini 3.8 Flash and Gemini 3.8 Flash Cyber. The two LLMs are based on the same technical foundation. The primary difference is that Gemini 3.8 Flash i…",
-      "link": "https://siliconangle.com/2026/09/02/google-launches-two-gemini-3-8-models-with-cutting-edge-reasoning-capabilities/",
-      "date": "2026-09-03T00:04:10.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Google.png"
+      "image": null
     },
     {
       "source": "Hugging Face",
@@ -813,26 +881,6 @@
       "image": null
     },
     {
-      "source": "Wired AI",
-      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-      "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
-      "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
-      "date": "2026-09-02T15:51:46.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6a95faca62c1ea4a51e42ed9/master/pass/Two-AI-Bots-Talking-to-Each-Other-Business-dv1959057.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "Motional and MIT AI explains self-driving car decisions",
-      "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that i…",
-      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
-      "date": "2026-09-02T15:25:12.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "MIT Tech Review",
       "title": "Facilitating AI integration with simplicity at scale",
       "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it hard…",
@@ -891,16 +939,6 @@
       "category": "Enterprise & Deployment",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/rx3xla/article71418973.ece/alternates/LANDSCAPE_1200/Anand%20Nergunam%20Vice%20President%20Revenue%20Growth%20Zoho%201.jpg"
-    },
-    {
-      "source": "Wired AI",
-      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-      "summary": "Meet the AI police who can make or break careers—in publishing and beyond.",
-      "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
-      "date": "2026-09-02T10:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6a96e7a402072373527ca410/master/pass/09012026-pangram-main.gif"
     },
     {
       "source": "Hindu BusinessLine",
@@ -1053,16 +1091,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "ChatGPT Ads passes $1B run rate in 200 days",
-      "summary": "ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expanding self-service ads to new regions. Tens of thousands of advertisers now use the platform and self-service access through Ads Manager is…",
-      "link": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
-      "date": "2026-09-01T16:05:27.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Google AI",
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
@@ -1108,16 +1136,6 @@
       "summary": "Proprietary models are amazing! But sometimes what is of importance is configurability rather than raw power. This has led to the emergence of locally hosted models. The Mac mini has emerged as a surprisingly capable machine for running AI…",
       "link": "https://www.analyticsvidhya.com/blog/2026/09/best-local-llms-mac-mini-2026/",
       "date": "2026-09-01T09:38:02.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Why MCP servers are becoming AI’s newest attack surface",
-      "summary": "As AI adoption gathers pace, so does the evolution of the infrastructure that supports it. New standards and connectors keep appearing, and the ones that catch on spread through the ecosystem within months rather than years. That speed str…",
-      "link": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
-      "date": "2026-09-01T07:37:26.000Z",
       "category": "News",
       "region": "Global",
       "image": null
@@ -1213,16 +1231,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag-1152x648.jpg"
     },
     {
-      "source": "LiveMint Tech",
-      "title": "The race to build India’s first AI chip",
-      "summary": "A US chip restriction jolted India into developing an AI chip that could give the country a sovereign alternative to Nvidia. But can a government-funded effort help India catch up with the world’s best?",
-      "link": "https://www.livemint.com/technology/india-first-ai-chip-cdac-11788173944541.html",
-      "date": "2026-08-31T11:24:39.000Z",
-      "category": "Hardware & Infra",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/31/1600x900/logo/Ai_Chip_Race_2_1788181689751_1788181762812_a5851f9c-e2b6-43e0-a49e-64cb12662bf8.jpg"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
       "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
@@ -1240,26 +1248,6 @@
       "date": "2026-08-31T07:00:00.000Z",
       "category": "News",
       "region": "United States",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "link": "https://openai.com/index/polimill",
-      "date": "2026-08-31T07:00:00.000Z",
-      "category": "News",
-      "region": "Japan",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "A milestone in expanding access to AI",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "date": "2026-08-31T04:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
       "image": null
     },
     {
@@ -1343,26 +1331,6 @@
       "image": "https://image.theregister.com/?imageId=5287779&width=800"
     },
     {
-      "source": "OpenAI",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "date": "2026-08-28T06:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "date": "2026-08-28T02:00:00.000Z",
-      "category": "Hardware & Infra",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Hugging Face",
       "title": "The Open ASR Leaderboard Adds Its First Global South Language",
       "summary": "",
@@ -1403,16 +1371,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"
     },
     {
-      "source": "VentureBeat AI",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calli…",
-      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "date": "2026-08-27T14:01:00.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "Global",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30"
-    },
-    {
       "source": "The Register AI",
       "title": "Salesforce boasts: 50% of bookings were from 'customers refilling the tank... they consume Flex Credits, they want more'",
       "summary": "As SaaS giant gets a boost from Claudeforce, users might want to know how their AI use will be monetized",
@@ -1451,26 +1409,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries…",
-      "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "date": "2026-08-27T12:01:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/9VRh8KJhBqcFviSV8ClXc/feea8ec8fe76ffa0bc5cdb3dd95e1492/EDB_hero.jpeg?w=300&q=30"
-    },
-    {
-      "source": "AI News",
-      "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
-      "summary": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company’s chief financial officer, told analysts on August 26 that demand from the labs Nvi…",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
-      "date": "2026-08-27T10:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "Rest of World",
@@ -1523,16 +1461,6 @@
       "image": null
     },
     {
-      "source": "VentureBeat AI",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching c…",
-      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "date": "2026-08-26T14:30:00.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "India",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Mastering the AI Project Cycle: From Concept to Production",
       "summary": "In fact, AI projects are not built by simply choosing a model and feeding it data. Furthermore, a successful AI system goes through multiple stages, starting with identifying the right problem and ending with deployment, monitoring, and co…",
@@ -1540,16 +1468,6 @@
       "date": "2026-08-26T12:39:52.000Z",
       "category": "Enterprise & Deployment",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with particip…",
-      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
-      "date": "2026-08-26T10:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
       "image": null
     },
     {
@@ -1561,16 +1479,6 @@
       "category": "News",
       "region": "India",
       "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_cloud_break_final-320x320.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative…",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-      "date": "2026-08-26T09:08:11.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "MIT Tech Review",
@@ -1633,16 +1541,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
     },
     {
-      "source": "AI News",
-      "title": "MIT AI forecasts extreme weather without historical data",
-      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of even…",
-      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
-      "date": "2026-08-25T15:46:06.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "NVIDIA",
       "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
       "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark and Ubisoft are amon…",
@@ -1679,16 +1577,6 @@
       "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
       "date": "2026-08-25T09:00:00.000Z",
       "category": "News",
-      "region": "China",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "XPENG IRON humanoid robot draws record physical AI funding",
-      "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share p…",
-      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "date": "2026-08-24T15:53:53.000Z",
-      "category": "Business & Funding",
       "region": "China",
       "image": null
     },
@@ -1853,16 +1741,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"
     },
     {
-      "source": "VentureBeat AI",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at…",
-      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "date": "2026-08-19T14:18:12.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
-    },
-    {
       "source": "The Register AI",
       "title": "Mozilla adds ad blocking to Firefox for iOS",
       "summary": "Experimental feature to block some, but not all, ads",
@@ -1941,56 +1819,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire tha…",
-      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "date": "2026-05-19T17:45:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artifi…",
-      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "date": "2026-01-22T14:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code , Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers wo…",
-      "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "date": "2026-01-19T14:00:00.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "United States",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&q=30"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     }
   ]
 }
