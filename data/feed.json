@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T21:51:14.192Z",
-  "count": 188,
+  "updated": "2026-09-03T00:18:41.475Z",
+  "count": 181,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,14 +51,164 @@
   ],
   "items": [
     {
+      "source": "SiliconANGLE",
+      "title": "Google launches two Gemini 3.8 models with cutting-edge reasoning capabilities",
+      "summary": "Just three weeks after its last large language model release, Google LLC today launched Gemini 3.8 Flash and Gemini 3.8 Flash Cyber. The two LLMs are based on the same technical foundation. The primary difference is that Gemini 3.8 Flash i…",
+      "link": "https://siliconangle.com/2026/09/02/google-launches-two-gemini-3-8-models-with-cutting-edge-reasoning-capabilities/",
+      "date": "2026-09-03T00:04:10.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Google.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "As AI security concerns rise, HiddenLayer raises $100M and Huskeys bags $27M",
+      "summary": "Artificial intelligence security startup HiddenLayer Inc. today announced a $100 million Series B round, and a separate $27 million Series A went to edge security company Huskeys Security Ltd. Austin-based HiddenLayer, which dates to 2022,…",
+      "link": "https://siliconangle.com/2026/09/02/hiddenlayer-raises-100m-and-huskeys-27m-for-ai-security/",
+      "date": "2026-09-03T00:02:11.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/huskeys.png"
+    },
+    {
       "source": "The Next Web",
-      "title": "Adobe for Slack turns chat threads into Firefly images, video and PDFs",
-      "summary": "Adobe for Slack lets Slackbot turn conversations and shared files into images, video and documents using Firefly, Photoshop, Premiere, Acrobat and more than 70 other tools. Article 50 of the EU AI Act now requires synthetic content to be m…",
-      "link": "https://thenextweb.com/news/adobe-for-slack-firefly-content-credentials-eu-ai-act-article-50-marking",
-      "date": "2026-09-02T21:28:24.000Z",
-      "category": "Policy & Safety",
+      "title": "OpenAI tells House Democrats it is building automated shutdown capability",
+      "summary": "OpenAI has told two House Democrats it is building automated shutdown capabilities, without providing the logs from the July incident in which an agent breached another company. The Commission has been able to require the withdrawal or rec…",
+      "link": "https://thenextweb.com/news/openai-automated-shutdown-house-democrats-logs-withheld-eu-ai-act-article-93-withdraw-recall",
+      "date": "2026-09-02T23:59:43.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/openai-astra-model-ten-math-proofs-non-sofic-groups.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Microsoft Fabric reaches the US government cloud, with general availability from October",
+      "summary": "Microsoft has launched its Fabric data platform in Government Community Cloud High on public preview, with general availability from 1 October, pitched at agentic AI workloads. Europe has no equivalent accredited tier, because its cloud ce…",
+      "link": "https://thenextweb.com/news/microsoft-fabric-gcc-high-government-cloud-eucs-certification-stalled-europe-sovereignty",
+      "date": "2026-09-02T23:52:10.000Z",
+      "category": "Product",
       "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/09/adobe-for-slack-firefly-content-credentials-eu-ai-act-article-50-marking.avif"
+      "image": "https://media.thenextweb.com/2026/06/chaotic-eclipse-rogueplanet-windows-defender-zero-day.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Broadcom beats expectations as AI labs double down on custom chips",
+      "summary": "Custom chipmaker Broadcom Inc. beat expectations on earnings and revenue in its third-quarter financial report and hinted at the prospect of doing more business with leading artificial intelligence labs. However, its stock came under press…",
+      "link": "https://siliconangle.com/2026/09/02/broadcom-beats-expectations-as-ai-labs-double-down-on-custom-chips/",
+      "date": "2026-09-02T23:41:15.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2024-12-23-08-18-42.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "AI demand lifts HPE and NetApp to record quarters, but investors sell both",
+      "summary": "Shares of Hewlett Packard Enterprise Co. and NetApp Inc. both fell in late trading today despite the two compute, storage and networking companies beating Wall Street expectations for their July quarters and raising their full-year outlook…",
+      "link": "https://siliconangle.com/2026/09/02/ai-demand-lifts-hpe-and-netapp-to-record-quarters-investors-sell-both/",
+      "date": "2026-09-02T23:33:21.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/05/HPE-NYSE-2025.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Meta’s new AI model edges closer to OpenAI and Anthropic, its AI Chief says",
+      "summary": "Meta has released Muse Spark 1.3 and has not decided whether to publish its weights, though it still plans to release the weights for version 1.2. The AI Act exempts genuinely open-source general-purpose models from part of Article 53, but…",
+      "link": "https://thenextweb.com/news/meta-muse-spark-1-3-undecided-weights-eu-ai-act-article-53-open-source-exemption-systemic-risk",
+      "date": "2026-09-02T23:19:09.000Z",
+      "category": "Open Source",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/threads-meta-ai-dm-global-rollout.avif"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Trump calls Xi’s Washington visit ‘exciting’, but claims US leads China in AI race",
+      "summary": "US President Donald Trump claimed on Wednesday that the US held a significant lead over China in artificial intelligence, touted what he termed unprecedented levels of inbound US investment and said he was thrilled about Chinese President…",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3366162/trump-calls-xis-washington-visit-exciting-claims-us-leads-china-ai-race?utm_source=rss_feed",
+      "date": "2026-09-02T23:13:30.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/03/582069df-67b4-4137-aa58-7ffd169c334d_a7d1d39a.jpg?itok=O8C68_Dc&v=1788390799"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Broadcom and Cisco tie AI factory deployment to workload needs",
+      "summary": "AI factory deployment is becoming a workload-sizing exercise rather than a custom infrastructure project. Enterprises need infrastructure spanning edge inference and large-model training. Broadcom Inc. and Cisco Systems Inc. are addressing…",
+      "link": "https://siliconangle.com/2026/09/02/broadcom-and-cisco-tie-ai-factory-deployment-to-workload-needs-vmwareexplore/",
+      "date": "2026-09-02T23:13:23.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_8977-scaled.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "New York bans AI in primary school, three months after Norway did",
+      "summary": "New York City is imposing a one-year moratorium on generative AI for pupils from 2-K through eighth grade, removing student-facing AI software and companion chatbots for around 600,000 children. Norway banned generative AI in its primary s…",
+      "link": "https://thenextweb.com/news/nyc-schools-generative-ai-moratorium-norway-ban-eu-ai-act-annex-iii-italy-law-132-2025",
+      "date": "2026-09-02T23:05:07.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/eu-ai-act-enforcement-powers-inspect-fine-models.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "date": "2026-09-02T23:01:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "CrowdStrike gives AI agents an identity provider, parallel SOC investigations and package blocking",
+      "summary": "CrowdStrike Holdings Inc. today announced three additions to its Falcon platform: an identity provider built for artificial intelligence agents, a rebuilt investigation layer that runs multiple Charlotte AI agents across security domains a…",
+      "link": "https://siliconangle.com/2026/09/02/crowdstrike-gives-ai-agents-an-identity-provider-parallel-soc-investigations-and-package-blocking/",
+      "date": "2026-09-02T22:49:52.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2025/09/crowdstrike2023.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "date": "2026-09-02T22:44:56.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "date": "2026-09-02T22:24:09.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "The AI skills gap is growing while schools wait for perfect answers",
+      "summary": "Artificial intelligence is no longer a future challenge for education. It is already changing how people write, analyze, design, and build. Yet many schools still treat it mainly as a shortcut students might misuse. That response is unders…",
+      "link": "https://thenextweb.com/news/ai-skills-gap-schools-education",
+      "date": "2026-09-02T22:14:04.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/ai-skills-gap-schools-education.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Frontier AI research moves into cyber defense as attackers gain speed",
+      "summary": "Frontier artificial intelligence research is moving into security operations, and the arrival of a cyber superintelligence lab at one of the industry’s largest platform companies marks how far that shift has traveled. The question is no lo…",
+      "link": "https://siliconangle.com/2026/09/02/cyber-superintelligence-lab-aims-tilt-ai-edge-defenders-falcon/",
+      "date": "2026-09-02T21:55:54.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_0587.JPG.jpg"
     },
     {
       "source": "The Register AI",
@@ -69,16 +219,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://image.theregister.com/?imageId=241049&width=800"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Google releases Gemini 3.8 Flash and a cybersecurity variant limited to governments",
-      "summary": "Google has released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber, its third Flash release in six weeks, with the cyber model restricted to trusted testers and governments. Under the EU AI Act every general purpose model placed on the market…",
-      "link": "https://thenextweb.com/news/gemini-3-8-flash-cyber-release-cadence-eu-ai-act-gpai-article-53",
-      "date": "2026-09-02T20:33:02.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/09/gemini-3-8-flash-cyber-release-cadence-eu-ai-act-gpai-article-53.avif"
     },
     {
       "source": "SiliconANGLE",
@@ -217,16 +357,6 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "ElevenLabs hires OpenAI’s Ashley Kramer as its first chief revenue officer",
-      "summary": "ElevenLabs has hired Ashley Kramer, formerly vice president of enterprise sales at OpenAI, as its first chief revenue officer, as more than half its revenue shifts to enterprise customers. Its core product falls under the AI Act’s syntheti…",
-      "link": "https://thenextweb.com/news/elevenlabs-ashley-kramer-chief-revenue-officer-openai-ai-act-article-50",
-      "date": "2026-09-02T17:06:31.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/09/elevenlabs-ashley-kramer-chief-revenue-officer-openai-ai-act-article-50.avif"
-    },
-    {
       "source": "DeepMind",
       "title": "Proactive cyber defense for governments and enterprises",
       "summary": "",
@@ -251,26 +381,6 @@
       "category": "Security & Cyber Risk",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Lyte raises $165M at $1.6B valuation to bring accurate perception to robots",
-      "summary": "Robotics perception startup Lyte AI Inc. today announced it has raised $165 million in a Series C round led by Maverick Silicon, bringing the company’s post-money valuation to $1.6 billion. Since its stealth launch in January 2026, Lyte no…",
-      "link": "https://siliconangle.com/2026/09/02/lyte-raises-165m-at-1-6b-valuation-to-bring-accurate-perception-to-robots/",
-      "date": "2026-09-02T16:10:15.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/21ddc83bd_LyteVision_Render.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "CEO George Kurtz says the AI control plane is CrowdStrike’s next security frontier",
-      "summary": "The artificial intelligence control plane is emerging as the next contested layer of enterprise security, as autonomous agents spread across endpoints, cloud workloads and identity systems faster than most organizations can inventory them.…",
-      "link": "https://siliconangle.com/2026/09/02/ai-control-plane-george-kurtz-safemind-falcon/",
-      "date": "2026-09-02T16:08:29.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_0319.JPG-e1788368395697.jpg"
     },
     {
       "source": "TechCrunch AI",
@@ -303,26 +413,6 @@
       "image": "https://media.wired.com/photos/6a95faca62c1ea4a51e42ed9/master/pass/Two-AI-Bots-Talking-to-Each-Other-Business-dv1959057.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Celigo launches intelligent enterprise automation builder into general availability",
-      "summary": "Celigo Inc., an intelligent enterprise automation platform built for artificial intelligence, today announced the general availability of Ora, the company’s interface for building and troubleshooting automations. Since Ora launched in beta…",
-      "link": "https://siliconangle.com/2026/09/02/celigo-launches-intelligent-enterprise-automation-builder-into-general-availability/",
-      "date": "2026-09-02T15:25:43.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2024/07/ai-computer-assistant-scanning-log-files-microsoft-image-creator.png"
-    },
-    {
-      "source": "AI News",
-      "title": "Motional and MIT AI explains self-driving car decisions",
-      "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that i…",
-      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
-      "date": "2026-09-02T15:25:12.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "TechCrunch AI",
       "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
       "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
@@ -330,26 +420,6 @@
       "date": "2026-09-02T15:01:23.000Z",
       "category": "News",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "date": "2026-09-02T14:56:34.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "date": "2026-09-02T14:03:57.000Z",
-      "category": "Business & Funding",
-      "region": "India",
       "image": null
     },
     {
@@ -393,16 +463,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/02/47ff27a3-9f83-4553-87c7-ab5d6d37ff8d_e5c05722.jpg?itok=rN2pWXbU&v=1788353454"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "AI adoption is outpacing security in critical infrastructure",
-      "summary": "Energy, manufacturing and utility operators are wiring decades-old plants into modern networks just as attackers gain machine-speed tooling, and critical infrastructure cybersecurity is where that mismatch bites hardest. Awareness of the r…",
-      "link": "https://siliconangle.com/2026/09/02/critical-infrastructure-cybersecurity-lags-ai-adoption-ey-says-falcon/",
-      "date": "2026-09-02T13:13:56.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_9162.JPG.jpg"
-    },
-    {
       "source": "ET Tech",
       "title": "AI boom heats up Bay Area housing market as wealthy buyers drive demand for high-end homes across US",
       "summary": "High-income earners, many of them employees at AI companies, are snapping up multimillion-dollar houses in the San Francisco Bay Area, undaunted by the higher mortgage rates and rising home prices that have prevented many would-be buyers f…",
@@ -411,36 +471,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-133711543,imgsize-241404.cms"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "OpenMatter adds an AI model gateway and privacy-preserving machine learning",
-      "summary": "OpenMatter Network Inc. today announced the first significant expansion of its platform since its commercial launch three months ago, adding a developer kit, a gateway for managing access to artificial intelligence models from multiple pro…",
-      "link": "https://siliconangle.com/2026/09/02/openmatter-adds-an-ai-model-gateway-and-privacy-preserving-machine-learning/",
-      "date": "2026-09-02T13:00:34.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/openmatter1.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "ZeroDrift launches service to check agent-generated messages against company policies",
-      "summary": "ZeroDrift Inc., a startup that automates compliance for artificial intelligence communications, today introduced Guard for Agents, a service that lets developers turn written company policies into enforceable rules to check AI agents’ comm…",
-      "link": "https://siliconangle.com/2026/09/02/zerodrift-launches-service-to-check-agent-generated-messages-against-company-policies/",
-      "date": "2026-09-02T13:00:31.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2025/06/aiagents1-copy.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Security becomes a shared job as AI widens the attack surface",
-      "summary": "Cloud providers and security companies are being pulled into tighter formation as artificial intelligence widens the enterprise attack surface faster than any single supplier can cover it. The AWS CrowdStrike partnership is one of the clea…",
-      "link": "https://siliconangle.com/2026/09/02/aws-crowdstrike-partnership-takes-agentic-ai-threats-falcon/",
-      "date": "2026-09-02T12:46:09.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_0060.JPG.jpg"
     },
     {
       "source": "Hindu BusinessLine",
@@ -463,13 +493,13 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "date": "2026-09-02T12:09:42.000Z",
+      "source": "OpenAI",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "date": "2026-09-02T12:00:00.000Z",
       "category": "News",
-      "region": "United States",
+      "region": "Global",
       "image": null
     },
     {
@@ -765,16 +795,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "ChatGPT Ads passes $1B run rate in 200 days",
-      "summary": "ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expanding self-service ads to new regions. Tens of thousands of advertisers now use the platform and self-service access through Ads Manager is…",
-      "link": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
-      "date": "2026-09-01T16:05:27.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Google AI",
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
@@ -880,16 +900,6 @@
       "summary": "Proprietary models are amazing! But sometimes what is of importance is configurability rather than raw power. This has led to the emergence of locally hosted models. The Mac mini has emerged as a surprisingly capable machine for running AI…",
       "link": "https://www.analyticsvidhya.com/blog/2026/09/best-local-llms-mac-mini-2026/",
       "date": "2026-09-01T09:38:02.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Why MCP servers are becoming AI’s newest attack surface",
-      "summary": "As AI adoption gathers pace, so does the evolution of the infrastructure that supports it. New standards and connectors keep appearing, and the ones that catch on spread through the ecosystem within months rather than years. That speed str…",
-      "link": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
-      "date": "2026-09-01T07:37:26.000Z",
       "category": "News",
       "region": "Global",
       "image": null
@@ -1305,16 +1315,6 @@
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/9VRh8KJhBqcFviSV8ClXc/feea8ec8fe76ffa0bc5cdb3dd95e1492/EDB_hero.jpeg?w=300&q=30"
     },
     {
-      "source": "AI News",
-      "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
-      "summary": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company’s chief financial officer, told analysts on August 26 that demand from the labs Nvi…",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
-      "date": "2026-08-27T10:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "India’s data center boom is leaving the people it displaces with nothing",
       "summary": "Communities are being left behind as AI companies secure tax breaks, cheap land from willing governments.",
@@ -1323,16 +1323,6 @@
       "category": "Hardware & Infra",
       "region": "India",
       "image": "https://restofworld.org/wp-content/uploads/2026/08/QA-Osama-Ananya-4-320x320.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "date": "2026-08-27T09:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "ET CIO",
@@ -1395,16 +1385,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with particip…",
-      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
-      "date": "2026-08-26T10:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "Why the global push to break free from Big Tech keeps falling short",
       "summary": "In this excerpt from the book “The Rulers: Corporate Power in the Age of AI and the Cloud,” writer Cecilia Rikap examines how Europe, India, Brazil, and China are taking on big tech companies.",
@@ -1413,16 +1393,6 @@
       "category": "News",
       "region": "India",
       "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_cloud_break_final-320x320.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative…",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-      "date": "2026-08-26T09:08:11.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "MIT Tech Review",
@@ -1485,16 +1455,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
     },
     {
-      "source": "AI News",
-      "title": "MIT AI forecasts extreme weather without historical data",
-      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of even…",
-      "link": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
-      "date": "2026-08-25T15:46:06.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "NVIDIA",
       "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
       "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark and Ubisoft are amon…",
@@ -1552,16 +1512,6 @@
       "date": "2026-08-25T00:00:00.000Z",
       "category": "Enterprise & Deployment",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "XPENG IRON humanoid robot draws record physical AI funding",
-      "summary": "XPENG’s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share p…",
-      "link": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "date": "2026-08-24T15:53:53.000Z",
-      "category": "Business & Funding",
-      "region": "China",
       "image": null
     },
     {
@@ -1715,16 +1665,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "summary": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub’s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding A…",
-      "link": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "date": "2026-08-21T08:41:29.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "ET CIO",
       "title": "Workplace 2035: The enterprise we build today will decide the workplace of tomorrow",
       "summary": "India's AI ambition is moving faster than its organisational readiness. At ET Workplace 2035, leaders confronted the harder question: how do you redesign the enterprise itself for a world where humans, machines and intelligence work as one?",
@@ -1773,16 +1713,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://image.theregister.com/?imageId=248129&width=800"
-    },
-    {
-      "source": "AI News",
-      "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
-      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to commun…",
-      "link": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-      "date": "2026-08-20T14:05:18.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "NVIDIA",
