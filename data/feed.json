@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T19:38:07.715Z",
+  "updated": "2026-09-04T22:22:21.760Z",
   "count": 183,
   "sources": [
     "OpenAI",
@@ -51,6 +51,56 @@
   ],
   "items": [
     {
+      "source": "Ars Technica AI",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "date": "2026-09-04T22:17:36.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "date": "2026-09-04T21:12:11.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Cisco remakes the edge for AI’s data-heavy future",
+      "summary": "The modern edge computing platform has arrived. Before the explosion of artificial intelligence, edge computing sites were generally regarded as a back-end support function, smaller and more remote copies of a data center. However, as agen…",
+      "link": "https://siliconangle.com/2026/09/04/cisco-delivers-edge-computing-ai-ciscoaward/",
+      "date": "2026-09-04T20:38:55.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/07/Cisco-CUBEd-Award-Feature.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Report: OpenAI agents took over a website, used it to collaborate on benchmarks",
+      "summary": "Artificial intelligence agents linked to OpenAI Group PBC reportedly took over a German website and used it to exchange information. Reuters revealed the incident today, citing two unnamed sources and a group of AI researchers. The researc…",
+      "link": "https://siliconangle.com/2026/09/04/report-openai-agents-took-over-a-website-used-it-to-collaborate-on-benchmarks/",
+      "date": "2026-09-04T20:21:29.000Z",
+      "category": "Research",
+      "region": "Europe",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/OpenAI.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "AI startup micro1 bids $12.5M for Spirit’s records, topping Google’s agreed $10M deal",
+      "summary": "The AI training-data company micro1 has offered $12.5M for Spirit Aviation’s internal records, topping Google’s agreed $10M and proposing an ombudsman chosen by Spirit’s advisers rather than the buyer. European law would treat the deidenti…",
+      "link": "https://thenextweb.com/news/micro1-12-5m-counterbid-spirit-airlines-records-google-deidentification-cjeu-srb-edpb-opinion-28-2024",
+      "date": "2026-09-04T20:00:31.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/07/ai-chatbots-bioweapon-guardrails-bypass-cisco-five-turns.avif"
+    },
+    {
       "source": "The Next Web",
       "title": "AI cloud firm Nscale seeking $3.5B in pre-IPO financing from Nvidia and Third Point",
       "summary": "Nscale is in talks to raise up to $3.5B ahead of a US listing, including $1.5B of convertible notes led by Third Point and about $2B from Nvidia. It is briefing investors that its contracts total roughly $103B, most of the increase coming…",
@@ -59,6 +109,16 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://media.thenextweb.com/2026/09/nscale-3-5-billion-pre-ipo-financing-nvidia-third-point-103bn-contracts-narvik-norway-new-york-listing.avif"
+    },
+    {
+      "source": "ET Tech",
+      "title": "DeepSeek plans big Huawei AI chip order to power new data centre",
+      "summary": "The startup doesn’t currently plan to use the 950DT chips for training, one of the people said, even though Huawei designed and marketed these processors to serve that more demanding function. While DeepSeek tried to train its previous mod…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center/articleshow/133776211.cms",
+      "date": "2026-09-04T19:14:44.000Z",
+      "category": "Hardware & Infra",
+      "region": "China",
+      "image": "https://img.etimg.com/photo/msid-133776211,imgsize-35070.cms"
     },
     {
       "source": "The Next Web",
@@ -139,16 +199,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Cody-Hosterman-scaled.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Google brings its Lyria 3.5 music model to every Gemini user",
-      "summary": "Google has made Lyria 3.5 available in the Gemini app and API, generating full songs at 44.1kHz from text or images with SynthID watermarking. A Munich court ruled against Suno on 31 July over memorised works and infringing outputs, assert…",
-      "link": "https://thenextweb.com/news/google-lyria-3-5-gemini-app-api-music-generation-gema-suno-munich-ruling-deezer-uploads",
-      "date": "2026-09-04T16:48:35.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/google-assistant-shutdown-september-4-gemini-replacement.avif"
     },
     {
       "source": "ET Tech",
@@ -637,26 +687,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/6k5sab/article71426796.ece/alternates/LANDSCAPE_1200/Anil%20Chakravarthy.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Cloudflare taps OpenAI’s cyber models to find and block code flaws",
-      "summary": "Cloudflare Inc. today opened early access to Vulnerability Discovery and Remediation, a service that uses OpenAI Group PBC’s cybersecurity models to find software flaws in customer applications and block attacks on them at the network edge…",
-      "link": "https://siliconangle.com/2026/09/03/cloudflare-taps-openais-cyber-models-to-find-and-block-code-flaws/",
-      "date": "2026-09-03T23:21:23.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/cloudflarevulndiscoveryremediation.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "OpenAI starts rolling out its next-generation GPT-6 Astra model",
-      "summary": "OpenAI Group PBC today started opening access to GPT-6 Astra, its newest and most capable large language model. The company stated that the LLM demonstrates “state of the art” performance in multiple areas. The list includes coding, browsi…",
-      "link": "https://siliconangle.com/2026/09/03/openai-starts-rolling-out-its-next-generation-gpt-6-astra-model/",
-      "date": "2026-09-03T22:46:31.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/52660764045_a9fd79f194_c-1-1.jpg"
-    },
-    {
       "source": "Wired AI",
       "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
       "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
@@ -694,16 +724,6 @@
       "date": "2026-09-03T18:37:57.000Z",
       "category": "Security & Cyber Risk",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and mode…",
-      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "date": "2026-09-03T18:19:56.000Z",
-      "category": "News",
-      "region": "United States",
       "image": null
     },
     {
@@ -945,16 +965,6 @@
       "category": "News",
       "region": "China",
       "image": "https://img.etimg.com/photo/msid-133727541,imgsize-50180.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "New AI models, critical threshold, and a design debate: A busy day for AI industry",
-      "summary": "Anthropic launched two new models -- Claude Fable 5.1 and Claude Mythos 5.1 -- claiming top benchmark scores for coding and scientific research and cutting prices for typical workloads by around 25 per cent. Google also launched two new mo…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-ai-models-critical-threshold-and-a-design-debate-a-busy-day-for-ai-industry/articleshow/133727482.cms",
-      "date": "2026-09-03T06:20:57.000Z",
-      "category": "Research",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-133727482,imgsize-64822.cms"
     },
     {
       "source": "ET CIO",
@@ -1391,16 +1401,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "summary": "The company is testing robots on tasks that can performed by technicians.",
-      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-      "date": "2026-08-30T11:03:47.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg"
     },
     {
       "source": "Rest of World",
