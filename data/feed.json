@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T22:44:05.741Z",
-  "count": 173,
+  "updated": "2026-09-04T01:00:43.445Z",
+  "count": 174,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -50,6 +50,76 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "SCMP Tech",
+      "title": "How China’s AI race is shrinking job market, forcing workers into low-paid, manual roles",
+      "summary": "For four years, Beijing-based Clare Zhang worked as a research analyst at a corporate advisory firm, helping companies assess technologies and competitors for projects they planned to list – until late last year, when she was told that art…",
+      "link": "https://www.scmp.com/economy/china-economy/article/3365695/how-chinas-ai-race-shrinking-job-market-forcing-workers-low-paid-manual-roles?utm_source=rss_feed",
+      "date": "2026-09-04T01:00:07.000Z",
+      "category": "Research",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/29/c2b013de-915a-4eb6-928a-ea3f1322658c_08efdbfe.jpg?itok=H3-JASOz&v=1787989667"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "date": "2026-09-04T00:48:42.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Adobe appoints Anil Chakravarthy as new CEO, Shantanu Narayen to become executive chair",
+      "summary": "The leadership change comes as Adobe seeks to defend its design software dominance amid growing competition and disruption from artificial intelligence",
+      "link": "https://www.thehindubusinessline.com/info-tech/adobe-appoints-anil-chakravarthy-as-new-ceo-shantanu-narayen-to-become-executive-chair/article71426794.ece",
+      "date": "2026-09-04T00:14:04.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/6k5sab/article71426796.ece/alternates/LANDSCAPE_1200/Anil%20Chakravarthy.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Cloudflare taps OpenAI’s cyber models to find and block code flaws",
+      "summary": "Cloudflare Inc. today opened early access to Vulnerability Discovery and Remediation, a service that uses OpenAI Group PBC’s cybersecurity models to find software flaws in customer applications and block attacks on them at the network edge…",
+      "link": "https://siliconangle.com/2026/09/03/cloudflare-taps-openais-cyber-models-to-find-and-block-code-flaws/",
+      "date": "2026-09-03T23:21:23.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/cloudflarevulndiscoveryremediation.png"
+    },
+    {
+      "source": "Japan Times",
+      "title": "How much longer can China afford cheap AI?",
+      "summary": "There are now nearly 1,000 large-language models on offer in China.",
+      "link": "https://www.japantimes.co.jp/commentary/2026/09/04/world/can-china-afford-cheap-ai/",
+      "date": "2026-09-03T23:00:00.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/03/thumbs/400x400/557472.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "OpenAI starts rolling out its next-generation GPT-6 Astra model",
+      "summary": "OpenAI Group PBC today started opening access to GPT-6 Astra, its newest and most capable large language model. The company stated that the LLM demonstrates “state of the art” performance in multiple areas. The list includes coding, browsi…",
+      "link": "https://siliconangle.com/2026/09/03/openai-starts-rolling-out-its-next-generation-gpt-6-astra-model/",
+      "date": "2026-09-03T22:46:31.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/52660764045_a9fd79f194_c-1-1.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI rolls out GPT-6 Astra, and Greg Brockman says AGI has arrived",
+      "summary": "OpenAI’s president says artificial general intelligence has arrived. Greg Brockman told reporters that the company’s new Astra model qualifies, the Washington Post reported. OpenAI defines AGI as systems that are generally smarter than hum…",
+      "link": "https://thenextweb.com/news/openai-gpt-6-astra-brockman-agi-claim-us-voluntary-prerelease-review-eu-article-92-evaluations",
+      "date": "2026-09-03T22:39:56.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/05/openai-trial-brockman-journals-nonprofit-settlement.avif"
+    },
     {
       "source": "The Next Web",
       "title": "T-Mobile’s Gopalan turns to home internet and AI after a 25% slide",
@@ -329,16 +399,6 @@
       "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo"
     },
     {
-      "source": "The Next Web",
-      "title": "Coworker.ai launches OM2, an organizational memory layer promising to slash enterprise AI token burn by 9x",
-      "summary": "Every time a typical enterprise AI agent spins up to answer an internal question, it wakes up with severe amnesia. To make the AI useful, companies are forced into a costly, repetitive cycle: scraping thousands of documents, Slack threads,…",
-      "link": "https://thenextweb.com/news/coworker-ai-om2-organizational-memory-token-costs",
-      "date": "2026-09-03T15:00:16.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/09/coworker-ai-om2-organizational-memory-token-costs.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
       "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
@@ -443,16 +503,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_0669.JPG.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Market research startup askpolly raises $3M to transform social media chatter into verifiable insights",
-      "summary": "Artificial intelligence startup askpolly, officially known as Advanced Symbolics Inc., said today it has closed on a $3 million seed funding round to grow its platform that transforms social media insights into statistically valid market r…",
-      "link": "https://siliconangle.com/2026/09/03/market-research-startup-askpolly-raises-3m-to-transform-social-media-chatter-into-verifiable-insights/",
-      "date": "2026-09-03T12:00:30.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Screenshot-from-2026-08-31-07-42-55.png"
     },
     {
       "source": "SCMP Tech",
@@ -635,16 +685,6 @@
       "image": "https://img.etimg.com/photo/msid-133727482,imgsize-64822.cms"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Chinese chipmaker Enflame 4,073 times oversubscribed in Shanghai IPO amid Nvidia race",
-      "summary": "Enflame Technology, one of China’s leading AI chipmakers, has sparked a retail frenzy for its 6.12 billion yuan (US$910.9 million) initial public offering in Shanghai’s tech-heavy Star Market, underscoring growing investor appetite for hom…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366203/chinese-chipmaker-enflame-4073-times-oversubscribed-shanghai-ipo-amid-nvidia-race?utm_source=rss_feed",
-      "date": "2026-09-03T06:17:41.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/03/71e17bfa-11b2-4939-a52c-7f25680e5b99_606f8ed4.jpg?itok=3UCPvw43&v=1788416259"
-    },
-    {
       "source": "ET Tech",
       "title": "OpenAI is building 'automated shutdown' capabilities for AI tools, letter to lawmakers says",
       "summary": "The company's safety practices have come under ‌scrutiny since OpenAI, ⁠the company ⁠behind ChatGPT, disclosed that one of its AI agents went rogue during a ​security test and hacked into AI company Hugging Face. AI agents are programs tha…",
@@ -693,16 +733,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-133723691,imgsize-90820.cms"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Meta says it has caught up with Anthropic and OpenAI with Muse Spark 1.3, its most powerful AI model yet",
-      "summary": "Meta Platforms Inc. says it has more or less caught up with the biggest artificial intelligence labs with the release of its most powerful large language model so far, Muse Spark 1.3. The company said in a blog post today that the new mode…",
-      "link": "https://siliconangle.com/2026/09/02/meta-says-it-has-caught-up-with-anthropic-and-openai-after-releasing-muse-spark-1-3-its-most-powerful-llm-so-far/",
-      "date": "2026-09-03T02:41:14.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-03-09-36-07.png"
     },
     {
       "source": "ET CIO",
@@ -781,16 +811,6 @@
       "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
       "date": "2026-09-02T22:44:56.000Z",
       "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "date": "2026-09-02T22:24:09.000Z",
-      "category": "News",
       "region": "Global",
       "image": null
     },
@@ -969,16 +989,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-27723/133703205.cms"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Yotta targets Jan-March 2027 IPO, seeks up to $1.5 billion amid AI boom",
-      "summary": "The Hiranandani Group-backed ⁠firm is looking to file draft IPO papers in October and aims to raise up to $1.5 billion to repay debt, buy graphics ‌processing units and expand sovereign cloud infrastructure that keeps data within national…",
-      "link": "https://www.thehindubusinessline.com/markets/yotta-targets-jan-march-2027-ipo-seeks-up-to-15-billionamid-ai-boom/article71418402.ece",
-      "date": "2026-09-02T06:42:02.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/tmc697/article71418453.ece/alternates/LANDSCAPE_1200/2026-09-02T061604Z_113565259_RC25OJAHPAZB_RTRMADP_3_YOTTA-DATA-SERVICES-IPO.JPG"
     },
     {
       "source": "LiveMint Tech",
