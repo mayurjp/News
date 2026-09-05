@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T19:03:17.549Z",
-  "count": 186,
+  "updated": "2026-09-05T21:16:54.812Z",
+  "count": 176,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -50,6 +50,46 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "SiliconANGLE",
+      "title": "What to expect at Workiva’s Amplify event: Join theCUBE Sept. 15–16",
+      "summary": "As companies entrust more responsibility to artificial intelligence, managing governance and regulatory reporting becomes even more essential. Workiva Inc.’s platform provides AI-powered collaboration tools for streamlining financial repor…",
+      "link": "https://siliconangle.com/2026/09/05/workiva-agentic-ai-governance-amplify/",
+      "date": "2026-09-05T20:35:31.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Amplify-2026.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Two more newsrooms join the case against OpenAI and Microsoft",
+      "summary": "The Seattle Times and Newsday have sued OpenAI and Microsoft, alleging the companies methodically scraped articles in a way that bypasses paywalls. The EU’s general-purpose AI code commits signatories not to circumvent access restrictions,…",
+      "link": "https://thenextweb.com/news/seattle-times-newsday-sue-openai-microsoft-copyright-paywall-bypass-gpai-code-of-practice-copyright-chapter-measure-1-2",
+      "date": "2026-09-05T19:49:28.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/06/microsoft-xbox-spinoff-subsidiary-asha-sharma.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "date": "2026-09-05T19:35:24.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Chinese banks and carriers have turned AI tokens into rewards, monthly plans and collateral",
+      "summary": "Chinese banks, telecom carriers and a Guangzhou district have started packaging AI tokens as credit card rewards, monthly plans and a basis for business lending. Research across 25 European languages finds tokeniser fertility ranges from 1…",
+      "link": "https://thenextweb.com/news/china-ai-tokens-consumer-products-kimi-credit-card-china-telecom-plans-haizhu-token-loan-european-tokeniser-tax",
+      "date": "2026-09-05T19:24:37.000Z",
+      "category": "Research",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/07/ai-pricing-shift-cloud-costs-local-ai-pcs.avif"
+    },
     {
       "source": "The Next Web",
       "title": "OpenAI confirms the wiki incident and promises a disclosure framework within weeks",
@@ -177,22 +217,6 @@
       "image": "https://media.thenextweb.com/2026/07/big-tech-2-trillion-ai-spending-commitments-bloomberg.avif"
     },
     {
-      "source": "The Next Web",
-      "title": "Nvidia partner Hon Hai’s sales climb 52% as Europe lines up its own orders",
-      "summary": "Hon Hai reported August revenue of NT$921.8B, about $29.1B, up 52% year on year on AI server demand, well ahead of analyst expectations for the quarter. In June it signed a EUR 120M manufacturing partnership with Bull, the French state-own…",
-      "link": "https://thenextweb.com/news/hon-hai-foxconn-august-sales-up-52-percent-ai-servers-bull-partnership-angers-pardubice-eu-ai-gigafactories",
-      "date": "2026-09-05T11:07:55.000Z",
-      "category": "Business & Funding",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/07/nvidia-naver-sk-group-korea-ai-investment.avif",
-      "relatedSources": [
-        {
-          "source": "Hindu BusinessLine",
-          "link": "https://www.thehindubusinessline.com/info-tech/nvidia-partner-hon-hais-sales-climb-52-with-ai-server-momentum/article71431443.ece"
-        }
-      ]
-    },
-    {
       "source": "Wired AI",
       "title": "OpenAI Agents Hacked Another Website",
       "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
@@ -213,14 +237,14 @@
       "image": "https://bl-i.thgim.com/public/incoming/zdn9gh/article71431685.ece/alternates/LANDSCAPE_1200/NH24PrasanthNair07.JPEG"
     },
     {
-      "source": "The Next Web",
-      "title": "Chinese profits rose 25.7%. The CSI 300 fell 9% and the Star 50 fell 29%",
-      "summary": "Profits at onshore-listed Chinese companies rose 25.7% in the three months to June, the fastest in nearly five years and heavily concentrated in AI-linked firms. The CSI 300 has fallen about 9% this quarter and the tech-heavy Star 50 has d…",
-      "link": "https://thenextweb.com/news/china-25-7-percent-earnings-growth-csi-300-falls-ai-capex-priced-as-cost-alibaba-tencent-europe-ai-gigafactories",
-      "date": "2026-09-05T08:48:32.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/09/china-25-7-percent-earnings-growth-csi-300-falls-ai-capex-priced-as-cost-alibaba-tencent-europe-ai-gigafactories.avif"
+      "source": "Hindu BusinessLine",
+      "title": "Nvidia partner Hon Hai’s sales climb 52% with AI server momentum",
+      "summary": "Revenue in August came to NT$921.8 billion ($29.1 billion); maintained the scorching pace of growth established in July, at 54% y-o-y, and keeps Hon Hai well ahead of expectations",
+      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-partner-hon-hais-sales-climb-52-with-ai-server-momentum/article71431443.ece",
+      "date": "2026-09-05T08:51:36.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/7cw4v/article71040391.ece/alternates/LANDSCAPE_1200/2026-05-29T013422Z_1128350973_RC2QOKAPEQOV_RTRMADP_3_TAIWAN-FOXCONN.JPG"
     },
     {
       "source": "ET Tech",
@@ -647,16 +671,6 @@
       "image": null
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Infosys brings enterprise context to CrowdStrike’s AI security push",
-      "summary": "No single vendor can keep pace with vulnerabilities that frontier AI models can now find by the millions in a single scan. That reality is pushing the industry toward coalition-style partnerships like Project QuiltWorks, pairing a security…",
-      "link": "https://siliconangle.com/2026/09/04/project-quiltworks-infosys-crowdstrike-falcon/",
-      "date": "2026-09-04T12:26:08.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "India",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_0751.jpg"
-    },
-    {
       "source": "ET Tech",
       "title": "ByteDance secures $29.6 billion loan in AI push, sources say",
       "summary": "ByteDance secured a massive $29.6 billion loan from nearly thirty banks. Chinese banks provided over sixty percent of this significant loan facility. The funds will primarily support ByteDance's ambitious overseas artificial intelligence e…",
@@ -707,16 +721,6 @@
       "image": "https://media.wired.com/photos/6a9822cefee0db870262b29d/master/pass/AIvsAIJob.jpg"
     },
     {
-      "source": "AI News",
-      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
-      "summary": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations,…",
-      "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
-      "date": "2026-09-04T10:00:00.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
       "summary": "Five unexpected ways computing power is entering everyday life in the country.",
@@ -747,10 +751,6 @@
       "image": null,
       "relatedSources": [
         {
-          "source": "AI News",
-          "link": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/"
-        },
-        {
           "source": "Ars Technica AI",
           "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
         },
@@ -775,16 +775,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
-      "summary": "Just over half of American adults, 50.5%, say a partner’s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Au…",
-      "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
-      "date": "2026-09-04T08:25:12.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Agentic AI could automate 80% of routine treasury work, leave strategic decisions to humans: EY",
       "summary": "Agentic artificial intelligence could handle around 80 per cent of routine coordination and processing in treasury operations, allowing professionals to focus on risk management, strategic funding and other decisions requiring human judgem…",
@@ -803,16 +793,6 @@
       "category": "Hardware & Infra",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-70079/133750051.cms"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "date": "2026-09-04T04:21:03.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "ET Tech",
@@ -919,16 +899,6 @@
       "category": "People & Leadership",
       "region": "United States",
       "image": "https://media.wired.com/photos/6a9996ebd275abfc723b2792/master/pass/Model-Behavior-Elon-Musk-Costs-OpenAI-Billion-Dollar-Customer-Business.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
-      "summary": "OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, wholesalers, and distributors decide how individual orders should be delivered. Called OmniSTAR, the system evaluates options including own…",
-      "link": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
-      "date": "2026-09-03T16:07:18.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "NVIDIA",
@@ -1207,16 +1177,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "Motional and MIT AI explains self-driving car decisions",
-      "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that i…",
-      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
-      "date": "2026-09-02T15:25:12.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "MIT Tech Review",
       "title": "Facilitating AI integration with simplicity at scale",
       "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it hard…",
@@ -1317,16 +1277,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "ChatGPT Ads passes $1B run rate in 200 days",
-      "summary": "ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expanding self-service ads to new regions. Tens of thousands of advertisers now use the platform and self-service access through Ads Manager is…",
-      "link": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
-      "date": "2026-09-01T16:05:27.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Google AI",
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
@@ -1372,16 +1322,6 @@
       "summary": "Proprietary models are amazing! But sometimes what is of importance is configurability rather than raw power. This has led to the emergence of locally hosted models. The Mac mini has emerged as a surprisingly capable machine for running AI…",
       "link": "https://www.analyticsvidhya.com/blog/2026/09/best-local-llms-mac-mini-2026/",
       "date": "2026-09-01T09:38:02.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Why MCP servers are becoming AI’s newest attack surface",
-      "summary": "As AI adoption gathers pace, so does the evolution of the infrastructure that supports it. New standards and connectors keep appearing, and the ones that catch on spread through the ecosystem within months rather than years. That speed str…",
-      "link": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
-      "date": "2026-09-01T07:37:26.000Z",
       "category": "News",
       "region": "Global",
       "image": null
@@ -1567,16 +1507,6 @@
       "image": "https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo"
     },
     {
-      "source": "AI News",
-      "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
-      "summary": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company’s chief financial officer, told analysts on August 26 that demand from the labs Nvi…",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
-      "date": "2026-08-27T10:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "India’s data center boom is leaving the people it displaces with nothing",
       "summary": "Communities are being left behind as AI companies secure tax breaks, cheap land from willing governments.",
@@ -1627,16 +1557,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with particip…",
-      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
-      "date": "2026-08-26T10:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "Why the global push to break free from Big Tech keeps falling short",
       "summary": "In this excerpt from the book “The Rulers: Corporate Power in the Age of AI and the Cloud,” writer Cecilia Rikap examines how Europe, India, Brazil, and China are taking on big tech companies.",
@@ -1645,16 +1565,6 @@
       "category": "News",
       "region": "India",
       "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_cloud_break_final-320x320.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative…",
-      "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-      "date": "2026-08-26T09:08:11.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "MIT Tech Review",
@@ -1955,26 +1865,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     }
   ]
 }
