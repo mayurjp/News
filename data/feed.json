@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T11:01:11.903Z",
-  "count": 185,
+  "updated": "2026-09-06T14:12:30.608Z",
+  "count": 186,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,56 @@
   ],
   "items": [
     {
+      "source": "The Next Web",
+      "title": "Kenya bet its graduates on gig work in 2022. ChatGPT launched that year",
+      "summary": "In 2022 Kenya adopted a ten-year national plan to move its graduates into online outsourcing work. OpenAI released ChatGPT the same year. Adam Satariano and Paul Mozur set out what happened next, reporting from Nairobi for the New York Tim…",
+      "link": "https://thenextweb.com/news/kenya-essay-writing-industry-ai-gig-work-collapse",
+      "date": "2026-09-06T13:55:03.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/09/downtown-nairobi.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "The man paid to prove Fermat by hand says Claude did it in 11 days",
+      "summary": "A mathematician holds a five-year grant to formalise Fermat’s Last Theorem. It has been done for him in eleven days, and he says the result tells us nothing about mathematics. Anthropic published the proof on Friday. Dozens of Claude agent…",
+      "link": "https://thenextweb.com/news/anthropic-claude-fermat-last-theorem-lean-buzzard",
+      "date": "2026-09-06T13:33:20.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/09/anthropic-claude-fermat-lean-formalisation.avif"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Punching above their weight: how China’s AI giants stretch each dollar in compute race",
+      "summary": "The massive gap in artificial intelligence spending between US and Chinese tech titans may not buy the advantage expected for American giants, as lower domestic costs and heavy state support allow Chinese firms to secure far more computing…",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366407/punching-above-their-weight-how-chinas-ai-giants-stretch-each-dollar-compute-race?utm_source=rss_feed",
+      "date": "2026-09-06T13:00:07.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/04/7ac0d485-3a7d-4f9a-a7ab-21cdf97dd244_e82a0fbf.jpg?itok=hA9UQDT3&v=1788518337"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI’s AGI number came from a harness, not the model",
+      "summary": "OpenAI declared the AGI era on the strength of a 99.9% score. Run the same model through the benchmark’s own software, and it scores 62.7%. The gap is not a rounding error or a rival’s complaint. It comes from the organisation that built t…",
+      "link": "https://thenextweb.com/news/openai-astra-arc-agi-3-harness-62-7-vs-99-9-benchmark-revisions",
+      "date": "2026-09-06T12:23:49.000Z",
+      "category": "Research",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/09/OpenAI-Astra.avif"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Why China is being urged to study Ukraine’s wartime PR blitz in the AI age",
+      "summary": "China has been urged to draw on the lessons from Ukraine’s communications as it looks at new forms of wartime messaging. A recent study concluded that in the complex modern information environment, possessing advanced technology was not en…",
+      "link": "https://www.scmp.com/news/china/military/article/3366516/why-china-being-urged-study-ukraines-wartime-pr-blitz-ai-age?utm_source=rss_feed",
+      "date": "2026-09-06T12:00:05.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/06/916b55a6-6187-4967-895b-62e8901d6250_bb47f349.jpg?itok=UFHKFwbI&v=1788664992"
+    },
+    {
       "source": "SCMP Tech",
       "title": "China will never allow any country in this world to achieve AI dominance: Victor Gao",
       "summary": "China will thwart US ambitions for global artificial intelligence (AI) dominance, the vice-president of the Centre for China and Globalisation has said, while warning that Washington’s military-focused strategy was pushing towards “AI for…",
@@ -59,6 +109,16 @@
       "category": "News",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/06/b40e0138-a35b-4449-90d2-a0f0436a9832_cfb90ed8.jpg?itok=JYopXLap&v=1788689997"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "AI adoption surges, but companies still struggle to turn productivity gains into profits: McKinsey",
+      "summary": "Nearly nine in 10 respondents to McKinsey’s 2026 Global Survey on AI said their organisations regularly use AI in at least one business function, while the share reporting enterprise-wide scaling rose to 44 per cent from 38 per cent a year…",
+      "link": "https://www.livemint.com/technology/ai-adoption-surges-but-companies-still-struggle-to-turn-productivity-gains-into-profits-mckinsey-11788692323100.html",
+      "date": "2026-09-06T10:58:42.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
       "source": "Wired AI",
@@ -197,40 +257,14 @@
       "image": "https://media.thenextweb.com/2026/07/ai-pricing-shift-cloud-costs-local-ai-pcs.avif"
     },
     {
-      "source": "The Next Web",
-      "title": "OpenAI confirms the wiki incident and promises a disclosure framework within weeks",
-      "summary": "OpenAI has confirmed the German wiki incident and said it is past time to define standards for reporting misalignment, promising a framework within weeks. The EU code of practice it signed sets reporting deadlines for security breaches and…",
-      "link": "https://thenextweb.com/news/openai-confirms-wiki-incident-misalignment-disclosure-framework-reuters-kept-hidden-gpai-code-of-practice-gap-ai-office",
-      "date": "2026-09-05T18:48:35.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/06/openai-china-data-center-influence-campaign.avif",
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
-        }
-      ]
-    },
-    {
-      "source": "The Next Web",
-      "title": "California is deciding who may verify AI, and one investigation already cost $400,000 in tokens",
-      "summary": "California’s legislature has passed SB 813, requiring the state to certify independent verification organisations that can test frontier AI models by January 2028. The METR investigation into OpenAI’s Hugging Face incident consumed about $…",
-      "link": "https://thenextweb.com/news/california-sb-813-independent-verification-organisations-metr-400000-tokens-openai-paid-eu-ai-act-scientific-panel-article-68",
-      "date": "2026-09-05T18:32:54.000Z",
+      "source": "TechCrunch AI",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "date": "2026-09-05T18:05:27.000Z",
       "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/07/bots-outnumber-humans-internet-ai-agents-traffic.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Astra appears to think without showing its work, and the people arguing about it co-wrote the warning",
-      "summary": "AI safety researchers say OpenAI’s Astra appears to do less of its reasoning in visible text, and OpenAI’s chief scientist has warned against a race into unmonitorability. He co-authored a 2025 position paper asking developers to evaluate…",
-      "link": "https://thenextweb.com/news/astra-chain-of-thought-monitorability-debate-greenblatt-pachocki-2025-position-paper-gpai-code-model-report-ai-office",
-      "date": "2026-09-05T18:11:37.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/09/astra-chain-of-thought-monitorability-debate-greenblatt-pachocki-2025-position-paper-gpai-code-model-report-ai-office.avif"
+      "region": "Europe",
+      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -243,16 +277,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/3n304o/article71433117.ece/alternates/LANDSCAPE_1200/Reliance-IntellGEKG4SQ1K.4.jpg.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad",
-      "summary": "Tata Consultancy Services said its HyperVault unit and partners have committed 700 billion rupees, about $7.4B, to an AI data centre campus of up to one gigawatt in Hyderabad, using green energy and water-neutral design principles. EU rule…",
-      "link": "https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364",
-      "date": "2026-09-05T14:00:45.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://media.thenextweb.com/2026/09/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364.avif"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "IIT-Madras’ Bodhan AI launches four Indian language models",
       "summary": "Positioned as ‘Digital Public Goods,’ the models are released with open-weights",
@@ -261,16 +285,6 @@
       "category": "Open Source",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/ekhv6o/article71428615.ece/alternates/LANDSCAPE_1200/Telangana-set-tG28GAV3CP.3.jpg.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "How can future doctors blend clinical rigour with AI fluency and empathy?",
-      "summary": "Medical experts have stressed that Hong Kong’s next generation of healthcare professionals must combine clinical rigour with emotional resilience, an open-minded approach to artificial intelligence (AI) and the drive to transform the secto…",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3366492/how-can-future-doctors-blend-clinical-rigour-ai-fluency-and-empathy?utm_source=rss_feed",
-      "date": "2026-09-05T12:46:30.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/05/7ddf83b8-6902-431d-937a-29ad7d83c0c0_b189a856.jpg?itok=aEEdhEL2&v=1788612388"
     },
     {
       "source": "LiveMint Tech",
@@ -931,16 +945,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "ChatGPT, Claude, Grok experience outages globally, users report errors, failed attempts | Here's what happened",
-      "summary": "Users worldwide reported issues with major generative AI platforms, including ChatGPT and Claude, according to Downdetector. Outages began in the evening (IST), with over 2,800 ChatGPT complaints in India and 35,000 in the U.S., prompting…",
-      "link": "https://www.livemint.com/technology/apps/chatgpt-claude-grok-experience-outages-users-report-errors-11788448566410.html",
-      "date": "2026-09-03T15:21:06.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/03/1600x900/Chatgpt_1788449368741_e24afed6-8b46-4fa7-b7f1-2b9878a65576_1788449368921_ade97ba7-60f2-4726-aa27-7bdd8dbafc83_f2953af3-0ce5-47cb-b1b4-5407da1ef8c2_03f83936-2670-409e-9e0e-c2ca4b9dae45.png"
     },
     {
       "source": "DeepMind",
