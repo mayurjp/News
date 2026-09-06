@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T14:12:30.608Z",
-  "count": 186,
+  "updated": "2026-09-06T17:05:43.274Z",
+  "count": 187,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,56 @@
   "items": [
     {
       "source": "The Next Web",
+      "title": "The AI cybersecurity war has a new front line star, and a seven-figure price",
+      "summary": "AI agent breaches have pushed the chief information security officer into the boardroom in America, with seven-figure pay packages and a recruiting market one search firm compares to nothing since cloud. Europe reached the same place by st…",
+      "link": "https://thenextweb.com/news/ciso-boardroom-nis2-liability",
+      "date": "2026-09-06T16:49:35.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/09/ciso-boardroom-nis2-liability.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "date": "2026-09-06T16:45:00.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Space and Time: where AI agents meet verifiable onchain data",
+      "summary": "Space and Time was the first Web3 company to receive funding from Microsoft’s M12 venture arm, backing that helped put the project on the map early. Since then, the company has launched its purpose-built SXT Chain and expanded its Proof of…",
+      "link": "https://thenextweb.com/news/space-and-time-ai-agents-onchain-data-proof-sql",
+      "date": "2026-09-06T16:07:55.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/09/space-and-time-ai-agents-onchain-data-proof-sql.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "The US paid for a peace deal in Nvidia chips",
+      "summary": "When Armenia opened the biggest AI factory in its region last month, we filed it under compute diplomacy. The Wall Street Journal now reports what the compute actually bought. Robbie Whelan reported on Friday that US negotiators used the p…",
+      "link": "https://thenextweb.com/news/us-nvidia-chips-armenia-azerbaijan-peace-deal-chip-diplomacy",
+      "date": "2026-09-06T15:34:34.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/firebird-armenia-ai-factory-export-licence-compute-diplomacy.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "EU tech chief says AI guardrails are coming to the US anyway",
+      "summary": "Henna Virkkunen told Axios at the G20 innovation ministerial that the US and the EU keep arriving at similar AI protections, Europe by regulating in advance and America through courts and state law. She made the argument at the summit wher…",
+      "link": "https://thenextweb.com/news/virkkunen-us-guardrails-inevitable",
+      "date": "2026-09-06T14:20:23.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/09/virkkunen-us-guardrails-inevitable.avif"
+    },
+    {
+      "source": "The Next Web",
       "title": "Kenya bet its graduates on gig work in 2022. ChatGPT launched that year",
       "summary": "In 2022 Kenya adopted a ten-year national plan to move its graduates into online outsourcing work. OpenAI released ChatGPT the same year. Adam Satariano and Paul Mozur set out what happened next, reporting from Nairobi for the New York Tim…",
       "link": "https://thenextweb.com/news/kenya-essay-writing-industry-ai-gig-work-collapse",
@@ -79,16 +129,6 @@
       "category": "News",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/04/7ac0d485-3a7d-4f9a-a7ab-21cdf97dd244_e82a0fbf.jpg?itok=hA9UQDT3&v=1788518337"
-    },
-    {
-      "source": "The Next Web",
-      "title": "OpenAI’s AGI number came from a harness, not the model",
-      "summary": "OpenAI declared the AGI era on the strength of a 99.9% score. Run the same model through the benchmark’s own software, and it scores 62.7%. The gap is not a rounding error or a rival’s complaint. It comes from the organisation that built t…",
-      "link": "https://thenextweb.com/news/openai-astra-arc-agi-3-harness-62-7-vs-99-9-benchmark-revisions",
-      "date": "2026-09-06T12:23:49.000Z",
-      "category": "Research",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/09/OpenAI-Astra.avif"
     },
     {
       "source": "SCMP Tech",
@@ -139,6 +179,26 @@
       "category": "Hardware & Infra",
       "region": "China",
       "image": "https://media.wired.com/photos/6a998bf0d9ba7b75ced0a131/master/pass/DataCenterColumn1.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "An Alien Mind",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "link": "https://openai.com/index/an-alien-mind",
+      "date": "2026-09-06T09:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "date": "2026-09-06T08:00:00.000Z",
+      "category": "Research",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -227,16 +287,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Amplify-2026.png"
     },
     {
-      "source": "The Next Web",
-      "title": "Two more newsrooms join the case against OpenAI and Microsoft",
-      "summary": "The Seattle Times and Newsday have sued OpenAI and Microsoft, alleging the companies methodically scraped articles in a way that bypasses paywalls. The EU’s general-purpose AI code commits signatories not to circumvent access restrictions,…",
-      "link": "https://thenextweb.com/news/seattle-times-newsday-sue-openai-microsoft-copyright-paywall-bypass-gpai-code-of-practice-copyright-chapter-measure-1-2",
-      "date": "2026-09-05T19:49:28.000Z",
-      "category": "Policy & Safety",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/06/microsoft-xbox-spinoff-subsidiary-asha-sharma.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Hikers rescued after using Google Gemini for planning",
       "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
@@ -245,16 +295,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Chinese banks and carriers have turned AI tokens into rewards, monthly plans and collateral",
-      "summary": "Chinese banks, telecom carriers and a Guangzhou district have started packaging AI tokens as credit card rewards, monthly plans and a basis for business lending. Research across 25 European languages finds tokeniser fertility ranges from 1…",
-      "link": "https://thenextweb.com/news/china-ai-tokens-consumer-products-kimi-credit-card-china-telecom-plans-haizhu-token-loan-european-tokeniser-tax",
-      "date": "2026-09-05T19:24:37.000Z",
-      "category": "Research",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/07/ai-pricing-shift-cloud-costs-local-ai-pcs.avif"
     },
     {
       "source": "TechCrunch AI",
@@ -637,16 +677,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/09/04/1600x900/logo/21468_1788533181269_9264b023-a0c2-456c-8b05-6880f33cb2ca_1788533184815_99229d58-843c-4df5-a63e-fdcfc6df3692_46d43829-eba4-4dff-9287-c188d4eb4dce_f3ab9665-57de-48eb-9729-1f90d2cd1149.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "date": "2026-09-04T14:47:11.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "SiliconANGLE",
       "title": "Nvidia bags Hugging Face, AI models play leapfrog and CrowdStrike doubles down on AI",
       "summary": "Perhaps it’s no surprise that Nvidia ended up embracing open artificial intelligence model archive Hugging Face this week following more than a week of rumors. Even at almost $13 billion, it may end up being a steal — especially for a comp…",
@@ -998,9 +1028,9 @@
     },
     {
       "source": "OpenAI",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "date": "2026-09-03T12:00:00.000Z",
       "category": "News",
       "region": "Global",
@@ -1008,9 +1038,9 @@
     },
     {
       "source": "OpenAI",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
       "date": "2026-09-03T12:00:00.000Z",
       "category": "News",
       "region": "Global",
@@ -1323,16 +1353,6 @@
       "image": null
     },
     {
-      "source": "OpenAI",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "date": "2026-09-01T12:00:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "AI safety is designed in the West, and failing users everywhere",
       "summary": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.",
@@ -1360,16 +1380,6 @@
       "date": "2026-09-01T07:37:26.000Z",
       "category": "News",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "link": "https://openai.com/index/gilbert-tobin",
-      "date": "2026-09-01T01:00:00.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
       "image": null
     },
     {
