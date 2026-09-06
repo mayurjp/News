@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T05:59:18.024Z",
-  "count": 172,
+  "updated": "2026-09-06T11:01:11.903Z",
+  "count": 185,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,14 +51,70 @@
   ],
   "items": [
     {
-      "source": "LiveMint Tech",
-      "title": "OpenAI acknowledges wiki incident; plans framework to report unintended AI behaviour",
-      "summary": "OpenAI has acknowledged the growing real-world risks from unintended AI behaviour, including the recent “wiki incident”, and said it is developing a framework for disclosing such incidents, which it plans to share in the coming weeks, whil…",
-      "link": "https://www.livemint.com/technology/openai-acknowledges-wiki-incident-plans-framework-to-report-unintended-ai-behaviour-11788667685046.html",
-      "date": "2026-09-06T04:08:04.000Z",
+      "source": "SCMP Tech",
+      "title": "China will never allow any country in this world to achieve AI dominance: Victor Gao",
+      "summary": "China will thwart US ambitions for global artificial intelligence (AI) dominance, the vice-president of the Centre for China and Globalisation has said, while warning that Washington’s military-focused strategy was pushing towards “AI for…",
+      "link": "https://www.scmp.com/news/china/science/article/3366540/china-will-never-allow-any-country-world-achieve-ai-dominance-victor-gao?utm_source=rss_feed",
+      "date": "2026-09-06T11:00:09.000Z",
       "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/06/b40e0138-a35b-4449-90d2-a0f0436a9832_cfb90ed8.jpg?itok=JYopXLap&v=1788689997"
+    },
+    {
+      "source": "Wired AI",
+      "title": "My Brief Summer Fling With Siri AI",
+      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+      "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "date": "2026-09-06T10:30:00.000Z",
+      "category": "Product",
       "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
+      "image": "https://media.wired.com/photos/6a9957d8075950c219e951f8/master/pass/GettyImages-2255802594.jpg"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+      "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
+      "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+      "date": "2026-09-06T10:00:00.000Z",
+      "category": "Hardware & Infra",
+      "region": "China",
+      "image": "https://media.wired.com/photos/6a998bf0d9ba7b75ced0a131/master/pass/DataCenterColumn1.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "OpenAI acknowledges 'wiki incident'; plans framework to report unintended AI behaviour",
+      "summary": "Recently a research found that a group of rogue OpenAI agents took control of a German website this spring and turned it into a message board for other AI agents",
+      "link": "https://www.thehindubusinessline.com/info-tech/openai-acknowledges-wiki-incident-plans-framework-to-report-unintended-ai-behaviour/article71434529.ece",
+      "date": "2026-09-06T06:59:03.000Z",
+      "category": "Research",
+      "region": "Europe",
+      "image": "https://bl-i.thgim.com/public/incoming/98mza5/article71149168.ece/alternates/LANDSCAPE_1200/2026-06-11T101922Z_626006132_RC2UMCAO1YQG_RTRMADP_3_AI-IPO-RIVALRY.JPG",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/openai-acknowledges-wiki-incident-plans-framework-to-report-unintended-ai-behaviour-11788667685046.html"
+        }
+      ]
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "TCS HyperVault to set up ₹70,000-crore AI data centre campus in Hyderabad",
+      "summary": "The campus will be designed for frontier AI companies and hyperscalers, facilitating high-density GPU deployments for AI training and advanced computing",
+      "link": "https://www.thehindubusinessline.com/info-tech/tcs-hypervault-to-set-up-70000-crore-ai-data-centre-campus-in-hyderabad/article71431695.ece",
+      "date": "2026-09-06T06:12:17.000Z",
+      "category": "Hardware & Infra",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/wjyr25/article71432144.ece/alternates/LANDSCAPE_1200/TCS.DataCentre.jpeg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Chinese military university urged to revise AI course to ‘educate for war’",
+      "summary": "China’s military researchers have proposed a redesigned “AI principles and practice course” for graduate students with “educating for war” at its centre, embedding combat scenarios to better prepare future officers for intelligent warfare.…",
+      "link": "https://www.scmp.com/news/china/military/article/3366490/chinese-military-university-urged-revise-ai-course-educate-war?utm_source=rss_feed",
+      "date": "2026-09-06T06:00:16.000Z",
+      "category": "Research",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/05/5cd23900-d89c-49fb-aa3e-c44b877147ce_214dd67b.jpg?itok=Kskc09tK&v=1788610381"
     },
     {
       "source": "SCMP Tech",
@@ -69,6 +125,16 @@
       "category": "Policy & Safety",
       "region": "Japan",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/04/cedc0322-0934-4db3-b339-4b6a0c3998ba_40e37425.jpg?itok=JY0XzVGr&v=1788518539"
+    },
+    {
+      "source": "Japan Times",
+      "title": "Trump’s embrace of AI data centers adds to GOP’s midterm peril",
+      "summary": "Over the past few months, political strategists have warned Trump administration officials they were in danger of losing the public opinion war over data centers.",
+      "link": "https://www.japantimes.co.jp/news/2026/09/06/world/politics/trump-ai-data-centers-gop-midterms/",
+      "date": "2026-09-05T23:10:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/06/thumbs/400x400/561406.jpg"
     },
     {
       "source": "TechCrunch AI",
@@ -197,26 +263,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/ekhv6o/article71428615.ece/alternates/LANDSCAPE_1200/Telangana-set-tG28GAV3CP.3.jpg.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "Sam Altman calls himself a mega Apple fanboy and says the lawsuit made him sad",
-      "summary": "Sam Altman said he was very sad about Apple’s trade-secrets lawsuit and that his first reaction was that the allegations sounded egregious, while OpenAI has moved to have the case dismissed. California voids non-compete agreements, so an e…",
-      "link": "https://thenextweb.com/news/sam-altman-apple-fanboy-egregious-quote-openai-trade-secrets-lawsuit-california-non-compete-void-germany-50-percent",
-      "date": "2026-09-05T13:13:10.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/04/Sam-altman-open-ai.avif"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "TCS HyperVault to set up ₹70,000-crore AI data centre campus in Hyderabad",
-      "summary": "The campus will be designed for frontier AI companies and hyperscalers, facilitating high-density GPU deployments for AI training and advanced computing",
-      "link": "https://www.thehindubusinessline.com/info-tech/tcs-hypervault-to-set-up-70000-crore-ai-data-centre-campus-in-hyderabad/article71431695.ece",
-      "date": "2026-09-05T13:12:31.000Z",
-      "category": "Hardware & Infra",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/wjyr25/article71432144.ece/alternates/LANDSCAPE_1200/TCS.DataCentre.jpeg"
-    },
-    {
       "source": "SCMP Tech",
       "title": "How can future doctors blend clinical rigour with AI fluency and empathy?",
       "summary": "Medical experts have stressed that Hong Kong’s next generation of healthcare professionals must combine clinical rigour with emotional resilience, an open-minded approach to artificial intelligence (AI) and the drive to transform the secto…",
@@ -245,16 +291,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/sssd2j/article71431919.ece/alternates/LANDSCAPE_1200/2025-10-05T080359Z_1189279773_RC2J5HAREH9W_RTRMADP_3_FOXCONN-RESULTS.JPG"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Japan says progress made on $550B pact, with AI and chips weighing heavily on the next round",
-      "summary": "Japan’s trade minister said discussions on AI and semiconductors will carry very significant weight in the third tranche of its $550B US investment pact, after two rounds went to energy and minerals. The EU’s own framework contains no comp…",
-      "link": "https://thenextweb.com/news/japan-550-billion-us-investment-pact-ai-chips-third-tranche-eu-turnberry-600-billion-40-billion-us-ai-chips-gigafactories",
-      "date": "2026-09-05T11:35:18.000Z",
-      "category": "Business & Funding",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/07/big-tech-2-trillion-ai-spending-commitments-bloomberg.avif"
     },
     {
       "source": "Wired AI",
@@ -354,13 +390,7 @@
       "date": "2026-09-05T00:57:25.000Z",
       "category": "News",
       "region": "United States",
-      "image": null,
-      "relatedSources": [
-        {
-          "source": "Hindu BusinessLine",
-          "link": "https://www.thehindubusinessline.com/info-tech/openai-unveils-gpt-6-astra-model-with-cyber-guardrails/article71425943.ece"
-        }
-      ]
+      "image": null
     },
     {
       "source": "SiliconANGLE",
@@ -693,6 +723,16 @@
       "image": "https://media.wired.com/photos/6a9822cefee0db870262b29d/master/pass/AIvsAIJob.jpg"
     },
     {
+      "source": "AI News",
+      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+      "summary": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations,…",
+      "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+      "date": "2026-09-04T10:00:00.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
       "summary": "Five unexpected ways computing power is entering everyday life in the country.",
@@ -713,12 +753,12 @@
       "image": null,
       "relatedSources": [
         {
-          "source": "Ars Technica AI",
-          "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
+          "source": "AI News",
+          "link": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/"
         },
         {
-          "source": "Wired AI",
-          "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/"
+          "source": "Ars Technica AI",
+          "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
         },
         {
           "source": "NVIDIA",
@@ -734,6 +774,16 @@
       "date": "2026-09-04T09:25:19.000Z",
       "category": "News",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+      "summary": "Just over half of American adults, 50.5%, say a partner’s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Au…",
+      "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+      "date": "2026-09-04T08:25:12.000Z",
+      "category": "News",
+      "region": "United States",
       "image": null
     },
     {
@@ -861,6 +911,16 @@
       "category": "People & Leadership",
       "region": "United States",
       "image": "https://media.wired.com/photos/6a9996ebd275abfc723b2792/master/pass/Model-Behavior-Elon-Musk-Costs-OpenAI-Billion-Dollar-Customer-Business.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+      "summary": "OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, wholesalers, and distributors decide how individual orders should be delivered. Called OmniSTAR, the system evaluates options including own…",
+      "link": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+      "date": "2026-09-03T16:07:18.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "NVIDIA",
@@ -1003,16 +1063,6 @@
       "image": null
     },
     {
-      "source": "Wired AI",
-      "title": "This Is Flock’s AI Search Tool for Cops",
-      "summary": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
-      "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
-      "date": "2026-09-03T10:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6a87505516e3a66e632977e8/master/pass/Security_FlockLetsCopsConductAISearchUsingPolitics_v1.gif"
-    },
-    {
       "source": "Rest of World",
       "title": "I refused to train the AI that could replace me",
       "summary": "AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
@@ -1129,6 +1179,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Motional and MIT AI explains self-driving car decisions",
+      "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that i…",
+      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+      "date": "2026-09-02T15:25:12.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "MIT Tech Review",
       "title": "Facilitating AI integration with simplicity at scale",
       "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it hard…",
@@ -1229,6 +1289,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "ChatGPT Ads passes $1B run rate in 200 days",
+      "summary": "ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expanding self-service ads to new regions. Tens of thousands of advertisers now use the platform and self-service access through Ads Manager is…",
+      "link": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
+      "date": "2026-09-01T16:05:27.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Google AI",
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
@@ -1274,6 +1344,16 @@
       "summary": "Proprietary models are amazing! But sometimes what is of importance is configurability rather than raw power. This has led to the emergence of locally hosted models. The Mac mini has emerged as a surprisingly capable machine for running AI…",
       "link": "https://www.analyticsvidhya.com/blog/2026/09/best-local-llms-mac-mini-2026/",
       "date": "2026-09-01T09:38:02.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Why MCP servers are becoming AI’s newest attack surface",
+      "summary": "As AI adoption gathers pace, so does the evolution of the infrastructure that supports it. New standards and connectors keep appearing, and the ones that catch on spread through the ecosystem within months rather than years. That speed str…",
+      "link": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
+      "date": "2026-09-01T07:37:26.000Z",
       "category": "News",
       "region": "Global",
       "image": null
@@ -1459,6 +1539,16 @@
       "image": "https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo"
     },
     {
+      "source": "AI News",
+      "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
+      "summary": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company’s chief financial officer, told analysts on August 26 that demand from the labs Nvi…",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "date": "2026-08-27T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "India’s data center boom is leaving the people it displaces with nothing",
       "summary": "Communities are being left behind as AI companies secure tax breaks, cheap land from willing governments.",
@@ -1509,6 +1599,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with particip…",
+      "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+      "date": "2026-08-26T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "Why the global push to break free from Big Tech keeps falling short",
       "summary": "In this excerpt from the book “The Rulers: Corporate Power in the Age of AI and the Cloud,” writer Cecilia Rikap examines how Europe, India, Brazil, and China are taking on big tech companies.",
@@ -1517,6 +1617,16 @@
       "category": "News",
       "region": "India",
       "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_cloud_break_final-320x320.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative…",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+      "date": "2026-08-26T09:08:11.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "MIT Tech Review",
@@ -1817,6 +1927,26 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     }
   ]
 }
