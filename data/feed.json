@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T10:22:26.890Z",
-  "count": 176,
+  "updated": "2026-09-07T16:29:28.858Z",
+  "count": 173,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,23 +52,245 @@
   "items": [
     {
       "source": "The Next Web",
-      "title": "Cathay Pacific and Google partner on AI contrail avoidance for ultra-long-haul flights",
-      "summary": "Cathay Pacific has flown more than 80 contrail-avoidance routes in a trial with Google that began in late 2025, adjusting cruise altitude to steer clear of the thin bands of humid air where aircraft exhaust freezes into clouds that trap he…",
-      "link": "https://thenextweb.com/news/google-cathay-pacific-contrail-avoidance-asia-pacific",
-      "date": "2026-09-07T10:11:25.000Z",
+      "title": "OpenAI blocked its agents from posting. They found a wiki that posts on GET",
+      "summary": "The engineers who built the sandbox did think about this. They allowed the agents to read the internet and blocked them from writing to it, by permitting GET requests and refusing everything else. It is the obvious control, and on almost e…",
+      "link": "https://thenextweb.com/news/openai-agents-get-requests-usemod-wiki-sandbox-escape",
+      "date": "2026-09-07T16:16:04.000Z",
       "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/09/Cathay-Pacific-and-Google.avif"
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.avif"
     },
     {
       "source": "The Next Web",
-      "title": "No monitoring system caught the German wiki. Two outside researchers found it by searching the internet.",
-      "summary": "Two outside researchers found 15,000 edits on a German wiki that OpenAI agents had turned into a message board for bypassing restrictions, an incident from May that OpenAI knew about and did not disclose. No automated monitoring caught it.…",
-      "link": "https://thenextweb.com/news/openai-disclosure-ledger-german-wiki-detection",
-      "date": "2026-09-07T10:06:25.000Z",
-      "category": "Research",
+      "title": "The US plans to raise AI-directed cyberattacks with China, Nikkei reports",
+      "summary": "The rogue-agent stories of the past two months have arrived somewhere nobody planned for. They are on the agenda for a meeting between Donald Trump and Xi Jinping. The United States will raise AI safety with China when Xi visits the White…",
+      "link": "https://thenextweb.com/news/us-china-ai-talks-cyberattacks-trump-xi-summit-september",
+      "date": "2026-09-07T15:41:19.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/09/us-china-flags-bilateral-meeting.avif"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Tech Mahindra Partners with PeaceHealth to Build an AI-Driven Healthcare Ecosystem in US",
+      "summary": "Tech Mahindra’s US-based healthcare subsidiary, The HCI Group, will modernise and manage key IT operations of PeaceHealth",
+      "link": "https://www.thehindubusinessline.com/info-tech/tech-mahindra-partners-with-peacehealth-to-build-an-ai-driven-healthcare-ecosystem-in-us/article71438395.ece",
+      "date": "2026-09-07T15:27:50.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/vk0nbz/article71438879.ece/alternates/LANDSCAPE_1200/PO23_Lab.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "UBS now wants AI skills from its junior bankers, Financial Times reports",
+      "summary": "For two years the AI story in banking has been a headcount story. How many graduates a bank takes, and how many it quietly stops taking. UBS has changed the question. It is no longer asking how many juniors it needs. It is asking what a ju…",
+      "link": "https://thenextweb.com/news/ubs-ai-skills-junior-bankers-2027-graduate-hiring",
+      "date": "2026-09-07T15:13:46.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/ubs-headquarters-bahnhofstrasse-zurich.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Berlin fears France’s Palantir rival is a new dependency, Politico reports",
+      "summary": "France and Germany spent the summer agreeing that Europe needs its own battlefield AI. They have not agreed on whose it should be. Internal German government notes seen by Politico Europe show Berlin is wary of Arcadia, the French-built Pa…",
+      "link": "https://thenextweb.com/news/germany-france-palantir-rival-arcadia-dependency-eu-funding",
+      "date": "2026-09-07T14:59:17.000Z",
+      "category": "News",
       "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/07/sam-altman-tiktok-addiction-deleted-openai-sora.avif"
+      "image": "https://media.thenextweb.com/2026/09/palantir-logo-exhibition-stand.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Shadow AI is already inside your company. Here’s how to get control of it",
+      "summary": "Companies are discovering AI agents connected to email, customer data, and code without IT oversight. Finding them is only the beginning. For most of the past decade, the list of software a company ran was, at least in theory, one that som…",
+      "link": "https://thenextweb.com/news/shadow-ai-enterprise-security-reco-control",
+      "date": "2026-09-07T14:22:58.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/shadow-ai-enterprise-security-reco-control2.avif"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Apple’s ramp up in India hiring hints greater role in global tech ecosystem: GlobalData",
+      "summary": "Apple announced hirings focused on AI, data platforms, software engineering, cloud infrastructure, automation and Apple ads among others",
+      "link": "https://www.thehindubusinessline.com/info-tech/apples-ramp-up-in-india-hiring-hints-greater-role-in-global-tech-ecosystem-globaldata/article71438718.ece",
+      "date": "2026-09-07T13:24:03.000Z",
+      "category": "People & Leadership",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/j0c49x/article71438847.ece/alternates/LANDSCAPE_1200/2026-08-09T115932Z_992410978_RC2P3EA4FNET_RTRMADP_3_APPLE-CXMT.JPG"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "UN rights chief warns AI could pose ‘existential’ risk to humanity’",
+      "summary": "UN rights chief Volker Turk warned on Monday that artificial intelligence could pose a threat to humanity, and pledged to press AI firms to reduce risks that his office said included disruptions to services, communications and democratic s…",
+      "link": "https://www.scmp.com/news/world/europe/article/3366672/un-rights-chief-warns-ai-could-pose-existential-risk-humanity?utm_source=rss_feed",
+      "date": "2026-09-07T13:15:50.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/f03cb0dc-2bd9-4cc1-8251-d38ab23adef1_3a8f2850.jpg?itok=RqX_15BX&v=1788786936",
+      "relatedSources": [
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/ai-could-pose-existential-risk-to-humanity-un-rights-chief-warns/article71438007.ece"
+        }
+      ]
+    },
+    {
+      "source": "MediaNama",
+      "title": "Australia to propose a law to turn off algorithmic recommendations on social media",
+      "summary": "The proposed law will let users in Australia opt out of the algorithmic recommendations in social media, reverting their feed to chronological content from friends, family, groups and/pages they follow. The post Australia to propose a law…",
+      "link": "https://www.medianama.com/2026/09/223-australia-law-algorithmic-recommendations-social-media/",
+      "date": "2026-09-07T13:07:01.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "China vows deeper cooperation with Qatar in energy, AI and Middle East de-escalation",
+      "summary": "Chinese Premier Li Qiang pledged to deepen cooperation with Qatar in energy, investment, AI and diplomatic efforts to de-escalate Middle East tensions. Li delivered the remarks during a meeting on Monday in Beijing with Qatari Prime Minist…",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3366671/china-vows-deeper-cooperation-qatar-energy-ai-and-middle-east-de-escalation?utm_source=rss_feed",
+      "date": "2026-09-07T13:00:26.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/72bd4020-24ed-4c69-8522-28d8e0086886_3b8a229a.jpg?itok=tjr7l5cW&v=1788786012"
+    },
+    {
+      "source": "The Next Web",
+      "title": "ByteDance is preparing a real-time spatial video model under Zhang Yiming, Bloomberg reports",
+      "summary": "ByteDance is preparing an AI model for real-time spatial video generation, with founder Zhang Yiming personally overseeing the work and a launch possible as soon as next month, Bloomberg reported, citing people familiar with the matter who…",
+      "link": "https://thenextweb.com/news/bytedance-spatial-video-world-model-zhang-yiming",
+      "date": "2026-09-07T12:53:44.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/06/ByteDance.avif"
+    },
+    {
+      "source": "MediaNama",
+      "title": "OpenAI discloses another instance of model misalignment: What was the ‘Wiki incident’?",
+      "summary": "OpenAI will release a framework for disclosing AI misalignment incidents after rogue agents took over a German wiki site, raising concerns about autonomous systems evading safeguards and coordinating activity. The post OpenAI discloses ano…",
+      "link": "https://www.medianama.com/2026/09/223-openai-model-misalignment/",
+      "date": "2026-09-07T12:36:40.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "AI titans’ ‘circular deals’ are starting to look like ‘daisy chains’",
+      "summary": "The “circular deals” among AI titans increasingly resemble the “daisy chains” of the 1980s savings-and-loan crisis. Forty years ago, interconnected transactions obscured the dangers, multiplied systemic risks and helped inflate asset value…",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3366149/ai-titans-circular-deals-are-starting-look-daisy-chains?utm_source=rss_feed",
+      "date": "2026-09-07T12:30:08.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/02/43182e46-bc91-4634-b8c7-a305b6fd0dd5_4af10ccf.jpg?itok=y_AypQ0X&v=1788359949"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI may accelerate anti-competitive practices in digital markets: CCI chief",
+      "summary": "She said businesses across sectors were rapidly adopting AI tools and applications, bringing benefits in areas such as education, healthcare, logistics and supply chain management",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-may-accelerate-anti-competitive-practices-in-digital-markets-cci-chief/article71438384.ece",
+      "date": "2026-09-07T12:27:56.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/xr2eur/article71438638.ece/alternates/LANDSCAPE_1200/IMG_Ravneet_Kaur_address_2_1_N2DSVC3M.jpg",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/ai-may-accelerate-anti-competitive-practices-in-digital-markets-cci-chief-11788777047734.html"
+        }
+      ]
+    },
+    {
+      "source": "MediaNama",
+      "title": "Cars24 India’s revenue takes another hit as core biz falls 23% in FY26",
+      "summary": "Cars24 India’s FY26 revenue fell 18% to Rs 5,092 crore as its core used-car business weakened, even as losses narrowed 19% amid lower costs, AI-led efficiencies and growth in ancillary services. The post Cars24 India’s revenue takes anothe…",
+      "link": "https://www.medianama.com/2026/09/223-cars24-indias-revenue-falls/",
+      "date": "2026-09-07T12:18:59.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Insilico says its AI-designed lung drug lowered biological age markers in a 42-patient trial",
+      "summary": "Blood samples from a small lung-disease trial have been run through six independently built ageing clocks, and all six returned the same answer: the patients on the drug looked biologically younger than the patients on placebo. “More lifet…",
+      "link": "https://thenextweb.com/news/insilico-rentosertib-proteomic-aging-clocks",
+      "date": "2026-09-07T12:13:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/Alex-Zhavoronkov-PhD-founder-and-co-CEO-of-Insilico-Medicine.avif"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Cross-sector push needed for youth facing ‘paradox of AI fluency’: minister",
+      "summary": "Hong Kong’s labour secretary has called for greater cross-sector efforts to help young people gain job experience amid disruption caused by artificial intelligence (AI), while Singapore’s trade minister has urged embracing a “continuous le…",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366664/cross-sector-push-needed-youth-facing-paradox-ai-fluency-minister?utm_source=rss_feed",
+      "date": "2026-09-07T11:53:19.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/096d342d-5f39-4956-8e1b-59600ca77dda_de4d244c.jpg?itok=LcTX5sDY&v=1788781834"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI has filed an EU incident report on the hijacked German wiki, the Commission says",
+      "summary": "OpenAI has submitted an incident report to the European Commission over the dormant German wiki that its agents took over and used as a messaging channel between themselves. Thomas Regnier, a Commission spokesperson, confirmed the filing,…",
+      "link": "https://thenextweb.com/news/openai-eu-incident-report-german-wiki",
+      "date": "2026-09-07T11:48:53.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "UN rights chief calls for international red lines on AI, warning of existential risk",
+      "summary": "The UN High Commissioner for Human Rights told the Human Rights Council in Geneva that advanced artificial intelligence could pose an existential risk to humanity. He also called on the countries that host AI development and sit in its sup…",
+      "link": "https://thenextweb.com/news/un-rights-chief-ai-red-lines-existential-risk",
+      "date": "2026-09-07T11:32:35.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/Volker-Türk.avif"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Why Tencent is swapping Bilibili equity for debt, and what AI has to do with it",
+      "summary": "Tencent Holdings’ pivot from a core shareholder to a major creditor in Bilibili offers a clear window into how China’s Big Tech players are rebalancing portfolio risk while funding expensive artificial intelligence initiatives. The shift,…",
+      "link": "https://www.scmp.com/tech/big-tech/article/3366657/why-tencent-swapping-bilibili-equity-debt-and-what-ai-has-do-it?utm_source=rss_feed",
+      "date": "2026-09-07T11:30:06.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/a413ec38-ca6a-4ee3-a5b6-cc43f73b6b02_77987546.jpg?itok=sX_F33RO&v=1788778686"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "date": "2026-09-07T11:00:03.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Cathay Pacific, Google scale up AI tests to reduce aviation’s climate impact",
+      "summary": "Hong Kong flag carrier Cathay Pacific Airways and Google are expanding AI-powered flight trials designed to steer aircraft away from contrail-forming zones in the Asia-Pacific region, using the data to inform broader sustainability decisio…",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3366654/cathay-pacific-google-scale-ai-tests-reduce-aviations-climate-impact?utm_source=rss_feed",
+      "date": "2026-09-07T10:45:25.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/d83f6aec-982a-48a3-83d8-5535ed2bfca4_fad9a09c.jpg?itok=bSzcdJTw&v=1788777923"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+      "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+      "date": "2026-09-07T10:30:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6a994fa2bf4e66136bddb432/master/pass/HowYouReallyFeel.jpg"
     },
     {
       "source": "Japan Times",
@@ -89,16 +311,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "AI could pose ‘existential’ risk to humanity, UN rights chief warns",
-      "summary": "Turk's remarks echoed prior warnings from ​top artificial intelligence executives themselves about extinction risks from AI, including ⁠OpenAI CEO Sam Altman",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-could-pose-existential-risk-to-humanity-un-rights-chief-warns/article71438007.ece",
-      "date": "2026-09-07T09:41:46.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/ydxcn4/article71438115.ece/alternates/LANDSCAPE_1200/2026-07-27T182732Z_1663692818_RC2EMMAOJWEE_RTRMADP_3_UN-USA-FRANCE.JPG"
     },
     {
       "source": "Hindu BusinessLine",
@@ -157,22 +369,6 @@
       ]
     },
     {
-      "source": "MediaNama",
-      "title": "Seattle Times, Newsday sue OpenAI and Microsoft over alleged use of copyrighted journalism",
-      "summary": "Seattle Times and Newsday have sued OpenAI and Microsoft, alleging they copied copyrighted journalism without permission to train AI models and generate answers. The post Seattle Times, Newsday sue OpenAI and Microsoft over alleged use of…",
-      "link": "https://www.medianama.com/2026/09/223-seattle-times-sue-openai-copyrighted-journalism/",
-      "date": "2026-09-07T06:25:12.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": null,
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
-        }
-      ]
-    },
-    {
       "source": "Japan Times",
       "title": "Can dogs sniff cancer? AI joins the hunt in India",
       "summary": "Early detection can make a crucial difference to cancer survival rates, but in India, many patients are diagnosed only after the disease has advanced.",
@@ -219,26 +415,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/e25b9554-161a-427b-b8b7-bff4ff1fab5a_cfedab2f.jpg?itok=jWkPIuEA&v=1788751769"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Australians could opt out of social media algorithms under proposed law",
-      "summary": "Australians could be given the option of opting out of powerful social media algorithms under new legislation cracking down on big tech, a minister said on Monday. The draft law requiring a “digital duty of care” is expected to be introduc…",
-      "link": "https://www.scmp.com/news/asia/australasia/article/3366588/australians-could-opt-out-social-media-algorithms-under-proposed-law?utm_source=rss_feed",
-      "date": "2026-09-07T04:28:20.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/03623af8-7563-478e-91c2-7aace686df6b_062510b9.jpg?itok=kyvYAMDw&v=1788755297"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Ride-hailing giant Didi Chuxing to apply to test driverless vehicles in Hong Kong",
-      "summary": "Mainland Chinese ride-hailing giant Didi Chuxing will apply to test autonomous vehicles in a Hong Kong urban area this year, a government adviser has revealed, with the trial runs potentially being expanded later on to cover more new devel…",
-      "link": "https://www.scmp.com/news/hong-kong/transport/article/3366587/didi-apply-driverless-vehicle-tests-hong-kong-year?utm_source=rss_feed",
-      "date": "2026-09-07T04:23:23.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/36a39ca5-ffe4-425b-8d87-b349bd4c4ed4_b0f7d26e.jpg?itok=fNMZ5i4v&v=1788754992"
-    },
-    {
       "source": "ET Tech",
       "title": "AI data centers are less thirsty now, tech giants say",
       "summary": "Data centers are running into a wall of public anger in the United States over their thirst for water and power. \"There are incentives,\" Ren said, but they have more to do with public relations amid the growing backlash to data centers acr…",
@@ -247,16 +423,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-133862384,imgsize-78886.cms"
-    },
-    {
-      "source": "MediaNama",
-      "title": "The product challenges for AI that records for us",
-      "summary": "AI agents are increasingly capturing audio, video, messages and screen activity to understand users better. But as they record more of our lives, questions around consent, privacy and data retention are becoming harder to ignore. The post…",
-      "link": "https://www.medianama.com/2026/09/223-ai-agents-recording-users-privacy-challenges/",
-      "date": "2026-09-07T03:40:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "ET Tech",
@@ -293,26 +459,6 @@
       "category": "People & Leadership",
       "region": "United States",
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "China’s ‘Tesla imitators’ have a new mission: build affordable humanoid robots for consumers",
-      "summary": "When Nio CEO William Li outlined earnings prospects for the Shanghai-based carmaker in March, he could not help but liken the automotive business to the development of robots. “I think robotics will represent a natural extension of our car…",
-      "link": "https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers?utm_source=rss_feed",
-      "date": "2026-09-07T02:00:19.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/04/87d86adb-edb6-4de5-9241-fab28cb8d201_86e41c07.jpg?itok=yRnhYRBk&v=1788519924"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Hong Kong’s yuan pool is growing. Can it turn liquidity into global demand?",
-      "summary": "Hong Kong’s top financial regulators have urged local banks to make greater use of the city’s growing pool of offshore yuan liquidity, while also flagging the need to prepare for a coming wave of autonomous AI systems used in the financial…",
-      "link": "https://www.scmp.com/business/banking-finance/article/3366493/hong-kongs-yuan-pool-growing-can-it-turn-liquidity-global-demand?utm_source=rss_feed",
-      "date": "2026-09-07T01:00:09.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/05/0ca50375-c2fd-445f-b5a6-40fcbedd458d_54e0a6f2.jpg?itok=HKRMot_1&v=1788613127"
     },
     {
       "source": "OpenAI",
@@ -421,6 +567,26 @@
       ]
     },
     {
+      "source": "TechCrunch AI",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "date": "2026-09-05T22:49:55.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": null,
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement/articleshow/133789879.cms"
+        },
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/tech-news/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement-11788578229143.html"
+        }
+      ]
+    },
+    {
       "source": "SiliconANGLE",
       "title": "What to expect at Workiva’s Amplify event: Join theCUBE Sept. 15–16",
       "summary": "As companies entrust more responsibility to artificial intelligence, managing governance and regulatory reporting becomes even more essential. Workiva Inc.’s platform provides AI-powered collaboration tools for streamlining financial repor…",
@@ -481,16 +647,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Ternus__1788609984992_e5e499c2-101b-4726-9a76-d19ec3f6eaf7_1788609985148_7823253b-ee8b-4dfb-bcc5-8f365dd4a5ea_1d53ae5d-1a62-48b8-8ee3-e3247141f9e2_ceb5378f-3aa3-4bec-abd8-8d7f8ea27fb0.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "AI boom lifts Foxconn August sales to $29.14 billion",
-      "summary": "According to the report, the August sales were the second-highest monthly sales in Hon Hai's history, trailing only the NT$946.51 billion ($29.85 billion) recorded in July",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-boom-lifts-foxconn-august-sales-to-2914-billion/article71431889.ece",
-      "date": "2026-09-05T12:00:15.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/sssd2j/article71431919.ece/alternates/LANDSCAPE_1200/2025-10-05T080359Z_1189279773_RC2J5HAREH9W_RTRMADP_3_FOXCONN-RESULTS.JPG"
-    },
-    {
       "source": "Wired AI",
       "title": "OpenAI Agents Hacked Another Website",
       "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
@@ -499,26 +655,6 @@
       "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://media.wired.com/photos/6a9b056f355eb442715c734d/master/pass/Security_OpenAIAgentsTriedtoHackAnotherWebsite_v1-ezgif.com-video-to-gif-converter.gif"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "AI sovereignty crucial for cybersecurity, says Gaganyaan astronaut",
-      "summary": "Gaganyaan astronaut Prasanth Balakrishnan Nair stresses need for greater awareness of cybersecurity and digital threats as AI becomes increasingly integrated into everyday life",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-sovereignty-crucial-for-cybersecurity-says-gaganyaan-astronaut/article71431662.ece",
-      "date": "2026-09-05T10:28:25.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/zdn9gh/article71431685.ece/alternates/LANDSCAPE_1200/NH24PrasanthNair07.JPEG"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Nvidia partner Hon Hai’s sales climb 52% with AI server momentum",
-      "summary": "Revenue in August came to NT$921.8 billion ($29.1 billion); maintained the scorching pace of growth established in July, at 54% y-o-y, and keeps Hon Hai well ahead of expectations",
-      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-partner-hon-hais-sales-climb-52-with-ai-server-momentum/article71431443.ece",
-      "date": "2026-09-05T08:51:36.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/7cw4v/article71040391.ece/alternates/LANDSCAPE_1200/2026-05-29T013422Z_1128350973_RC2QOKAPEQOV_RTRMADP_3_TAIWAN-FOXCONN.JPG"
     },
     {
       "source": "ET Tech",
@@ -539,22 +675,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-133791341,imgsize-391421.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
-      "summary": "The suit in the US District Court for the Southern District of New York alleges that OpenAI and Microsoft scraped the ‌newspapers' websites, including ⁠content ⁠behind paywalls, and incorporated articles into datasets used to train and ope…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement/articleshow/133789879.cms",
-      "date": "2026-09-05T05:54:23.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-133789879,imgsize-36308.cms",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/tech-news/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement-11788578229143.html"
-        }
-      ]
     },
     {
       "source": "ET Tech",
@@ -807,26 +927,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/aiceosleapfrog-chatgpt.png"
     },
     {
-      "source": "LiveMint Tech",
-      "title": "Happy Janmashtami 2026: 5 AI prompts to turn your kid's pics into adorable Krishna avatars for WhatsApp, Facebook status",
-      "summary": "Happy Janmashtami 2026: Follow the social media trend and reimagine your child into adorable, divine little Krishna with the help of artificial intelligence tools like ChatGPT, Google Gemini, Grok and more. Check out prompts.",
-      "link": "https://www.livemint.com/technology/happy-janmashtami-2026-5-ai-prompts-to-turn-your-kids-pics-into-adorable-krishna-avatars-for-whatsapp-facebook-status-11788525495746.html",
-      "date": "2026-09-04T13:53:40.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/04/1600x900/logo/21467_1788529947775_87eafde2-5992-4078-b7cc-7d6106509ce1_1788529951445_83c29576-472e-403d-a773-6c3ac163be60_190c1c5b-7ca4-446b-a213-76dca3ab1761_6d47bfdd-08d8-4a33-b0fb-d55df447e570.jpg"
-    },
-    {
-      "source": "MediaNama",
-      "title": "Cradlewise raises $12 million to make AI cribs for newborns: What about DPDP compliance?",
-      "summary": "Cradlewise has raised $12 million to expand its AI-powered cribs, as questions remain over its finances, child data collection and compliance with India’s DPDP framework. The post Cradlewise raises $12 million to make AI cribs for newborns…",
-      "link": "https://www.medianama.com/2026/09/223-cradlewise-ai-cribs-newborns/",
-      "date": "2026-09-04T13:04:08.000Z",
-      "category": "Policy & Safety",
-      "region": "India",
-      "image": null
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Top 10 GitHub Repositories Trending in August 2026 (AI, Agents & Dev Tooling Edition)",
       "summary": "If you spent any time on GitHub Trending in August, you probably noticed the centre of gravity had shifted again. Models took a back seat to the machinery around them: agent harnesses, skills, memory layers, gateways, and document tooling.…",
@@ -1003,16 +1103,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gfn-thursday-9-3-blog-1920x1080-logo.jpg"
     },
     {
-      "source": "Wired AI",
-      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-      "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
-      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
-      "date": "2026-09-03T13:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6a988e1369e7125a8c650442/master/pass/We-Just-Got-Our-First-Real-Look-at-AI-PCs-with-Nvidia%E2%80%99s-RTX-Spark-%E2%80%98Superchip%E2%80%99.jpg"
-    },
-    {
       "source": "OpenAI",
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
@@ -1141,16 +1231,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Register AI",
-      "title": "AI-assisted mushroom hunting is a recipe for a bad trip",
-      "summary": "Even the best model gets fungus identification right just 65% of the time - talk about a false friend",
-      "link": "https://www.theregister.com/offbeat/2026/09/02/ai-assisted-mushroom-hunting-is-a-recipe-for-a-bad-trip/5294060",
-      "date": "2026-09-02T20:34:41.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=241049&width=800"
     },
     {
       "source": "Ars Technica AI",
@@ -1339,16 +1419,6 @@
       "image": null
     },
     {
-      "source": "The Register AI",
-      "title": "OpenClaw 2.0 pours glitter on slow-burning security dumpster fire",
-      "summary": "Making installation easier and putting a new wrapper on the interface while leaving most of the security to users is a recipe for more trouble with the popular agent harness",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/31/openclaw-20-pours-glitter-on-slow-burning-security-dumpster-fire/5293492",
-      "date": "2026-08-31T19:13:31.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=4094099&width=800"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
       "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
@@ -1379,16 +1449,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag-1152x648.jpg"
     },
     {
-      "source": "Ars Technica AI",
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
-      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-      "date": "2026-08-31T10:00:34.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-1152x648-1787932298.png"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Top 7 Free AI Automation Courses with Certificates",
       "summary": "You don’t need to know anything about AI automation to get started. There are plenty of free courses that can take you from the basics to building your own automations, even if you’re starting from zero. Some are completely beginner-friend…",
@@ -1407,16 +1467,6 @@
       "category": "News",
       "region": "China",
       "image": "https://restofworld.org/wp-content/uploads/2026/08/gordon_newsletter_final-320x320.jpg"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Microsoft's virtual intern Teams Facilitator will be late for the meeting",
-      "summary": "Teams question detection bot postpones debut, will get 2-month extension to practice interrupting you",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/28/microsofts-virtual-intern-teams-facilitator-will-be-late-for-the-meeting/5293045",
-      "date": "2026-08-28T10:29:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=5287779&width=800"
     },
     {
       "source": "Hugging Face",
@@ -1457,16 +1507,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Salesforce boasts: 50% of bookings were from 'customers refilling the tank... they consume Flex Credits, they want more'",
-      "summary": "As SaaS giant gets a boost from Claudeforce, users might want to know how their AI use will be monetized",
-      "link": "https://www.theregister.com/software/2026/08/27/salesforce-boasts-50-of-bookings-were-from-customers-refilling-the-tank-they-consume-flex-credits-they-want-more/5292927",
-      "date": "2026-08-27T13:56:54.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5292961&width=800"
     },
     {
       "source": "NVIDIA",
@@ -1599,16 +1639,6 @@
       "image": null
     },
     {
-      "source": "The Register AI",
-      "title": "McKinsey says enterprise AI is finally 'on the road to ROI'",
-      "summary": "Fasten your seatbelt and empty that bladder: AI investment is rising, but reported enterprise earnings impact remains stubbornly flat",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/5292388",
-      "date": "2026-08-25T17:44:49.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=234929&width=800"
-    },
-    {
       "source": "Google AI",
       "title": "5 ways to upgrade your home decor with Google Search",
       "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
@@ -1709,26 +1739,6 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/08/AIvsAI-Final-320x320.jpg"
     },
     {
-      "source": "The Register AI",
-      "title": "Canonical backs quest to translate mountains of C into safe Rust with AI",
-      "summary": "Bungs banknotes at Bristol boffins to find out if mature code survives the machine",
-      "link": "https://www.theregister.com/software/2026/08/24/canonical-backs-quest-to-translate-mountains-of-c-into-safe-rust-with-ai/5290959",
-      "date": "2026-08-24T09:27:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=1618337&width=800"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Software should work, and talking about it needn't be boring",
-      "summary": "Bingeing the boxed set of binary bafflement",
-      "link": "https://www.theregister.com/columnists/2026/08/24/software-should-work-and-talking-about-it-neednt-be-boring/5290862",
-      "date": "2026-08-24T08:31:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5266492&width=800"
-    },
-    {
       "source": "Rest of World",
       "title": "A dumpling shop becomes a poster child of AI adoption in China",
       "summary": "Business owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”",
@@ -1749,16 +1759,6 @@
       "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
     },
     {
-      "source": "The Register AI",
-      "title": "Slack Code taps into collective vibe, puts AI agents into the group chat",
-      "summary": "Developers can now invite the whole team along for their quality time with the coding bot",
-      "link": "https://www.theregister.com/saas/2026/08/20/slack-code-taps-into-collective-vibe-puts-ai-agents-into-the-group-chat/5290413",
-      "date": "2026-08-20T15:23:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=248129&width=800"
-    },
-    {
       "source": "Rest of World",
       "title": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
       "summary": "Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
@@ -1777,26 +1777,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Mozilla adds ad blocking to Firefox for iOS",
-      "summary": "Experimental feature to block some, but not all, ads",
-      "link": "https://www.theregister.com/software/2026/08/17/mozilla-adds-ad-blocking-to-firefox-for-ios/5288585",
-      "date": "2026-08-17T15:50:56.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5242942&width=800"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Excel's Copilot function is headed for the Recycle Bin",
-      "summary": "Microsoft realizes the side pane should be enough for anyone",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/17/excels-copilot-function-is-headed-for-the-recycle-bin/5288327",
-      "date": "2026-08-17T10:55:06.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=5269830&width=800"
     },
     {
       "source": "Google AI",
