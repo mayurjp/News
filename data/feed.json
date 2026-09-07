@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T04:46:28.266Z",
-  "count": 178,
+  "updated": "2026-09-07T10:22:26.890Z",
+  "count": 176,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,174 @@
   ],
   "items": [
     {
+      "source": "The Next Web",
+      "title": "Cathay Pacific and Google partner on AI contrail avoidance for ultra-long-haul flights",
+      "summary": "Cathay Pacific has flown more than 80 contrail-avoidance routes in a trial with Google that began in late 2025, adjusting cruise altitude to steer clear of the thin bands of humid air where aircraft exhaust freezes into clouds that trap he…",
+      "link": "https://thenextweb.com/news/google-cathay-pacific-contrail-avoidance-asia-pacific",
+      "date": "2026-09-07T10:11:25.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/Cathay-Pacific-and-Google.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "No monitoring system caught the German wiki. Two outside researchers found it by searching the internet.",
+      "summary": "Two outside researchers found 15,000 edits on a German wiki that OpenAI agents had turned into a message board for bypassing restrictions, an incident from May that OpenAI knew about and did not disclose. No automated monitoring caught it.…",
+      "link": "https://thenextweb.com/news/openai-disclosure-ledger-german-wiki-detection",
+      "date": "2026-09-07T10:06:25.000Z",
+      "category": "Research",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/07/sam-altman-tiktok-addiction-deleted-openai-sora.avif"
+    },
+    {
+      "source": "Japan Times",
+      "title": "Japan needs artificial intelligence its factories can plug in",
+      "summary": "Japan's competitiveness will hinge on industrial adoption of AI rather than accumulating national computing capacity.",
+      "link": "https://www.japantimes.co.jp/commentary/2026/09/07/japan/japan-ai-factories/",
+      "date": "2026-09-07T09:51:00.000Z",
+      "category": "News",
+      "region": "Japan",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/06/thumbs/400x400/561341.jpg"
+    },
+    {
+      "source": "MediaNama",
+      "title": "Delhi asks startups how to improve its incubation policy. The AI questions are still unanswered",
+      "summary": "Delhi's Rs 400 crore Startup and Incubation Policy 2026 targets 10,000 startups and four lakh jobs through educational institutions. The post Delhi asks startups how to improve its incubation policy. The AI questions are still unanswered a…",
+      "link": "https://www.medianama.com/2026/09/223-delhi-startup-incubation-policy-2026/",
+      "date": "2026-09-07T09:46:11.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI could pose ‘existential’ risk to humanity, UN rights chief warns",
+      "summary": "Turk's remarks echoed prior warnings from ​top artificial intelligence executives themselves about extinction risks from AI, including ⁠OpenAI CEO Sam Altman",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-could-pose-existential-risk-to-humanity-un-rights-chief-warns/article71438007.ece",
+      "date": "2026-09-07T09:41:46.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/ydxcn4/article71438115.ece/alternates/LANDSCAPE_1200/2026-07-27T182732Z_1663692818_RC2EMMAOJWEE_RTRMADP_3_UN-USA-FRANCE.JPG"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "TCS launches 4,500-square-ft AI-native creative engineering studio in London",
+      "summary": "The new hub will serve as an extension of TCS Interactive, the company’s digital design, marketing and experience-led transformation arm",
+      "link": "https://www.thehindubusinessline.com/info-tech/tcs-launches-4500-square-ft-ai-native-creative-engineering-studio-in-london/article71437986.ece",
+      "date": "2026-09-07T09:37:26.000Z",
+      "category": "Product",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/rgp5op/article71438101.ece/alternates/LANDSCAPE_1200/PO13_TCS.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "China’s Moonshot and Z.ai bring AI model subscription race to Tmall’s retail shelves",
+      "summary": "China’s artificial intelligence developers are competing for paying users on a new consumer front: Alibaba Group Holding’s Tmall, where AI subscription plans are now being sold alongside smartphones, skincare and luxury fashion brands. Moo…",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3366617/chinas-moonshot-and-zai-bring-ai-model-subscription-race-tmalls-retail-shelves?utm_source=rss_feed",
+      "date": "2026-09-07T08:00:13.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/a9cad4ae-7d71-4b76-bd00-356c02546f0b_c1869a68.jpg?itok=qoKfI2Z-&v=1788766970"
+    },
+    {
+      "source": "MediaNama",
+      "title": "Explainer: Meta is testing AI agent integration on WhatsApp. Here is what it means",
+      "summary": "Meta is developing support for third-party AI agents on WhatsApp, allowing users to connect up to five agents while introducing restrictions around encryption, chat access and data retention. The post Explainer: Meta is testing AI agent in…",
+      "link": "https://www.medianama.com/2026/09/223-meta-ai-agent-whatsapp/",
+      "date": "2026-09-07T07:43:43.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "MediaNama",
+      "title": "Swiggy introduces Swiggy Money to its MCP to simplify agentic payments: We tested it and found friction",
+      "summary": "Swiggy has added Swiggy Money to its MCP integrations, allowing AI agents to pay for Food, Instamart and Dineout orders. MediaNama tested the feature on ChatGPT and found some remaining friction. The post Swiggy introduces Swiggy Money to…",
+      "link": "https://www.medianama.com/2026/09/223-swiggy-money-mcp-agentic-payments/",
+      "date": "2026-09-07T07:06:05.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "MediaNama",
+      "title": "Tata’s HyperVault plans Rs 70,000-crore AI data centre in Telangana",
+      "summary": "TCS subsidiary HyperVault has acquired 264 acres in Hyderabad to develop a 1 GW AI data centre campus with an investment of up to Rs 70,000 crore. The post Tata’s HyperVault plans Rs 70,000-crore AI data centre in Telangana appeared first…",
+      "link": "https://www.medianama.com/2026/09/223-tcs-hypervault-ai-data-centre-telangana/",
+      "date": "2026-09-07T06:31:54.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": null,
+      "relatedSources": [
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/tcs-hypervault-to-set-up-70000-crore-ai-data-centre-campus-in-hyderabad/article71431695.ece"
+        }
+      ]
+    },
+    {
+      "source": "MediaNama",
+      "title": "Seattle Times, Newsday sue OpenAI and Microsoft over alleged use of copyrighted journalism",
+      "summary": "Seattle Times and Newsday have sued OpenAI and Microsoft, alleging they copied copyrighted journalism without permission to train AI models and generate answers. The post Seattle Times, Newsday sue OpenAI and Microsoft over alleged use of…",
+      "link": "https://www.medianama.com/2026/09/223-seattle-times-sue-openai-copyrighted-journalism/",
+      "date": "2026-09-07T06:25:12.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": null,
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+        }
+      ]
+    },
+    {
+      "source": "Japan Times",
+      "title": "Can dogs sniff cancer? AI joins the hunt in India",
+      "summary": "Early detection can make a crucial difference to cancer survival rates, but in India, many patients are diagnosed only after the disease has advanced.",
+      "link": "https://www.japantimes.co.jp/news/2026/09/07/asia-pacific/science-health/dogs-sniff-cancer-ai-india/",
+      "date": "2026-09-07T06:15:00.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/07/thumbs/400x400/561672.jpg",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/can-dogs-sniff-cancer-ai-joins-the-hunt-in-india/articleshow/133861685.cms"
+        }
+      ]
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Gujarat uses AI-based grain analyser to grade paddy at MSP procurement centres",
+      "summary": "The pilot, implemented during the Kharif Marketing Season (KMS) 2025-26, analysed 6,191 paddy samples; a total of 341 samples were rejected",
+      "link": "https://www.thehindubusinessline.com/economy/agri-business/gujarat-uses-ai-based-grain-analyser-to-grade-paddy-at-msp-procurement-centres/article71437481.ece",
+      "date": "2026-09-07T05:20:16.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-agri-biz-and-commodity/k4jmxg/article71135027.ece/alternates/LANDSCAPE_1200/Greenply-launchG2PG59VO1.4.jpg.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Nvidia Chief Jensen Huang declares arrival of AGI; Congratulates OpenAI team on GPT-6 Astra model",
+      "summary": "Nvidia Chief Executive Officer Jensen Huang, on X, stated that Artificial general intelligence (AGI) has arrived with the launch of OpenAI's new model GPT-6 Astra.",
+      "link": "https://www.livemint.com/technology/nvidia-chief-jensen-huang-declares-arrival-of-agi-congratulates-openai-team-on-gpt-6-astra-model-11788757083350.html",
+      "date": "2026-09-07T04:58:02.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "China won’t permit AI dominance; South Korea’s deepfake crisis: 5 weekend reads you missed",
+      "summary": "We have put together stories from our coverage last weekend to help you stay informed about news across Asia and beyond. If you would like to see more of our reporting, please consider subscribing. 1. China will never allow any country in…",
+      "link": "https://www.scmp.com/news/world/article/3366582/china-wont-permit-ai-dominance-south-koreas-deepfake-crisis-5-weekend-reads-you-missed?utm_source=rss_feed",
+      "date": "2026-09-07T04:56:06.000Z",
+      "category": "Policy & Safety",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/e25b9554-161a-427b-b8b7-bff4ff1fab5a_cfedab2f.jpg?itok=jWkPIuEA&v=1788751769"
+    },
+    {
       "source": "SCMP Tech",
       "title": "Australians could opt out of social media algorithms under proposed law",
       "summary": "Australians could be given the option of opting out of powerful social media algorithms under new legislation cracking down on big tech, a minister said on Monday. The draft law requiring a “digital duty of care” is expected to be introduc…",
@@ -62,11 +230,11 @@
     },
     {
       "source": "SCMP Tech",
-      "title": "Didi to apply for driverless vehicle tests in Hong Kong this year",
-      "summary": "Chinese ride-hailing giant Didi Chuxing will apply to test autonomous vehicles in a Hong Kong urban area this year, a government adviser has revealed, saying trials should eventually expand to cover more new development areas. The announce…",
+      "title": "Ride-hailing giant Didi Chuxing to apply to test driverless vehicles in Hong Kong",
+      "summary": "Mainland Chinese ride-hailing giant Didi Chuxing will apply to test autonomous vehicles in a Hong Kong urban area this year, a government adviser has revealed, with the trial runs potentially being expanded later on to cover more new devel…",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3366587/didi-apply-driverless-vehicle-tests-hong-kong-year?utm_source=rss_feed",
       "date": "2026-09-07T04:23:23.000Z",
-      "category": "Product",
+      "category": "News",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/36a39ca5-ffe4-425b-8d87-b349bd4c4ed4_b0f7d26e.jpg?itok=fNMZ5i4v&v=1788754992"
     },
@@ -89,16 +257,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "ET Tech",
-      "title": "Can dogs sniff cancer? AI joins the hunt in India",
-      "summary": "When rescue dog Chloe is not tumbling across the grass on a farm outside India's tech capital Bengaluru, she is learning to sniff human breath for cancer with a little help from AI. Fitted with a 3D-printed helmet and harness packed with s…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/can-dogs-sniff-cancer-ai-joins-the-hunt-in-india/articleshow/133861685.cms",
-      "date": "2026-09-07T03:25:31.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://img.etimg.com/photo/msid-133861685,imgsize-50058.cms"
     },
     {
       "source": "ET Tech",
@@ -157,6 +315,16 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/05/0ca50375-c2fd-445f-b5a6-40fcbedd458d_54e0a6f2.jpg?itok=HKRMot_1&v=1788613127"
     },
     {
+      "source": "OpenAI",
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "date": "2026-09-07T00:00:00.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "SiliconANGLE",
       "title": "OpenAI to set misalignment disclosure rules after agents took over a wiki",
       "summary": "OpenAI Group PBC acknowledged Saturday that it did not publicly disclose an episode in which its artificial intelligence agents wrote to outside websites and said it will publish a framework in the coming weeks for reporting misaligned mod…",
@@ -165,36 +333,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/openaiwikiincident.png"
-    },
-    {
-      "source": "The Next Web",
-      "title": "OpenAI’s chief scientist says no lab should keep scaling at maximum speed",
-      "summary": "OpenAI published two posts on Sunday. One says its researchers now get 3.1 days of machine work for every day they put in themselves. The other says nobody should be going this fast. Both are on the company’s own site, dated 6 September, t…",
-      "link": "https://thenextweb.com/news/openai-slowdown-pachocki-alien-mind-research-intern-compute",
-      "date": "2026-09-06T22:14:05.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/04/OpenAI-lawsuite.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "An AI hacking trick is now being used to split the word ‘funding’ in spam",
-      "summary": "For two years, invisible Unicode characters have been the neat trick of AI security research. You hide instructions inside them. A person sees nothing. A language model reads them and does as it is told. Microsoft has now found somebody us…",
-      "link": "https://thenextweb.com/news/ascii-smuggling-phishing-microsoft-unicode-tag-characters",
-      "date": "2026-09-06T21:54:26.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/Microsoft-logo.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Anthropic will reportedly list days before the US midterm elections",
-      "summary": "Anthropic’s stock market debut has moved, and the new date puts it days away from a national election. Reuters reported on Friday that the company expects to start marketing its offering in mid-October at the earliest. The listing would th…",
-      "link": "https://thenextweb.com/news/anthropic-ipo-mid-october-midterms-15bn-credit-facility",
-      "date": "2026-09-06T21:42:16.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/Anthropic-logo-on-screen.avif"
     },
     {
       "source": "TechCrunch AI",
@@ -207,36 +345,6 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "Authors say publishers want a cut of Anthropic’s payout, the NYT reports",
-      "summary": "Anthropic agreed to pay $1.5bn to the authors whose books it pirated. The money is now being counted out. Some of those authors are discovering that a share of it goes to their own publishers. The New York Times reported on Friday that aut…",
-      "link": "https://thenextweb.com/news/anthropic-settlement-authors-publishers-payout-split",
-      "date": "2026-09-06T20:20:06.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Nvidia now holds $99bn in shares of the companies that buy its chips",
-      "summary": "Nvidia sells the chips that the AI industry runs on. It now also owns $99bn of the industry. The figure sits in the company’s own quarterly filing. CNBC’s Kai Nicol-Schwarz pulled it out. Nvidia equity investments stood at $99bn as of 26 J…",
-      "link": "https://thenextweb.com/news/nvidia-equity-investments-99bn-portfolio",
-      "date": "2026-09-06T19:43:23.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/05/Jensen-Huang-CEO-NVIDIA.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "The AI cybersecurity war has a new front line star, and a seven-figure price",
-      "summary": "AI agent breaches have pushed the chief information security officer into the boardroom in America, with seven-figure pay packages and a recruiting market one search firm compares to nothing since cloud. Europe reached the same place by st…",
-      "link": "https://thenextweb.com/news/ciso-boardroom-nis2-liability",
-      "date": "2026-09-06T16:49:35.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/09/ciso-boardroom-nis2-liability.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
@@ -245,36 +353,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Punching above their weight: how China’s AI giants stretch each dollar in compute race",
-      "summary": "The massive gap in artificial intelligence spending between US and Chinese tech titans may not buy the advantage expected for American giants, as lower domestic costs and heavy state support allow Chinese firms to secure far more computing…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3366407/punching-above-their-weight-how-chinas-ai-giants-stretch-each-dollar-compute-race?utm_source=rss_feed",
-      "date": "2026-09-06T13:00:07.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/04/7ac0d485-3a7d-4f9a-a7ab-21cdf97dd244_e82a0fbf.jpg?itok=hA9UQDT3&v=1788518337"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Why China is being urged to study Ukraine’s wartime PR blitz in the AI age",
-      "summary": "China has been urged to draw on the lessons from Ukraine’s communications as it looks at new forms of wartime messaging. A recent study concluded that in the complex modern information environment, possessing advanced technology was not en…",
-      "link": "https://www.scmp.com/news/china/military/article/3366516/why-china-being-urged-study-ukraines-wartime-pr-blitz-ai-age?utm_source=rss_feed",
-      "date": "2026-09-06T12:00:05.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/06/916b55a6-6187-4967-895b-62e8901d6250_bb47f349.jpg?itok=UFHKFwbI&v=1788664992"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "China will never allow any country in this world to achieve AI dominance: Victor Gao",
-      "summary": "China will thwart US ambitions for global artificial intelligence (AI) dominance, the vice-president of the Centre for China and Globalisation has said, while warning that Washington’s military-focused strategy was pushing towards “AI for…",
-      "link": "https://www.scmp.com/news/china/science/article/3366540/china-will-never-allow-any-country-world-achieve-ai-dominance-victor-gao?utm_source=rss_feed",
-      "date": "2026-09-06T11:00:09.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/06/b40e0138-a35b-4449-90d2-a0f0436a9832_cfb90ed8.jpg?itok=JYopXLap&v=1788689997"
     },
     {
       "source": "LiveMint Tech",
@@ -339,36 +417,6 @@
         {
           "source": "LiveMint Tech",
           "link": "https://www.livemint.com/technology/openai-acknowledges-wiki-incident-plans-framework-to-report-unintended-ai-behaviour-11788667685046.html"
-        }
-      ]
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "TCS HyperVault to set up ₹70,000-crore AI data centre campus in Hyderabad",
-      "summary": "The campus will be designed for frontier AI companies and hyperscalers, facilitating high-density GPU deployments for AI training and advanced computing",
-      "link": "https://www.thehindubusinessline.com/info-tech/tcs-hypervault-to-set-up-70000-crore-ai-data-centre-campus-in-hyderabad/article71431695.ece",
-      "date": "2026-09-06T06:12:17.000Z",
-      "category": "Hardware & Infra",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/wjyr25/article71432144.ece/alternates/LANDSCAPE_1200/TCS.DataCentre.jpeg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "date": "2026-09-05T22:49:55.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": null,
-      "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement/articleshow/133789879.cms"
-        },
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/tech-news/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement-11788578229143.html"
         }
       ]
     },
@@ -491,6 +539,22 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-133791341,imgsize-391421.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
+      "summary": "The suit in the US District Court for the Southern District of New York alleges that OpenAI and Microsoft scraped the ‌newspapers' websites, including ⁠content ⁠behind paywalls, and incorporated articles into datasets used to train and ope…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement/articleshow/133789879.cms",
+      "date": "2026-09-05T05:54:23.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-133789879,imgsize-36308.cms",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/tech-news/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement-11788578229143.html"
+        }
+      ]
     },
     {
       "source": "ET Tech",
@@ -703,26 +767,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2025/03/Designer-28.jpeg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "IIIT-H sets up new centre to redefine learning in the age of AI",
-      "summary": "CETLS will focus on students up to Class 12, higher education, executive training, and learning for the third age",
-      "link": "https://www.thehindubusinessline.com/info-tech/iiit-h-sets-up-new-centre-to-redefine-learning-in-the-age-of-ai/article71428106.ece",
-      "date": "2026-09-04T16:02:27.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/a9gw0t/article71428432.ece/alternates/LANDSCAPE_1200/bl25_think1_lead_pix.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "India moves beyond AI adoption to open-source contribution: Red Hat",
-      "summary": "Indian engineers are increasingly recognising that developing deep expertise requires going upstream and understanding technologies through engagement with the wider community",
-      "link": "https://www.thehindubusinessline.com/info-tech/india-moves-beyond-ai-adoption-to-open-source-contribution-red-hat/article71429186.ece",
-      "date": "2026-09-04T15:36:17.000Z",
-      "category": "Open Source",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/vrnwhy/article71429190.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-04%20at%207.52.45%20PM.jpeg"
-    },
-    {
       "source": "Wired AI",
       "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
       "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
@@ -783,26 +827,6 @@
       "image": null
     },
     {
-      "source": "MediaNama",
-      "title": "US lawmakers introduce bill to ban artificial superintelligence: What does it consider dangerous AI?",
-      "summary": "Calling superintelligent AI humanity's problem, Bernie Sanders and Greg Casar introduced the bill and cited recent reports of over 1000 AI agents breaching hugging face and OpenAI systems The post US lawmakers introduce bill to ban artific…",
-      "link": "https://www.medianama.com/2026/09/223-us-bill-ban-artificial-superintelligence/",
-      "date": "2026-09-04T11:14:59.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "MediaNama",
-      "title": "Exclusive: Thaler says India went further than the US on AI art — and still got the author wrong",
-      "summary": "Stephen Thaler says India's Copyright Office got his DABUS case only half right: the artwork can be protected, but he should not have been named its author. The post Exclusive: Thaler says India went further than the US on AI art — and sti…",
-      "link": "https://www.medianama.com/2026/09/223-stephen-thaler-ai-copyright-dabus-india/",
-      "date": "2026-09-04T10:58:28.000Z",
-      "category": "Policy & Safety",
-      "region": "India",
-      "image": null
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Top 10 GitHub Repositories Trending in August 2026 (AI, Agents & Dev Tooling Edition)",
       "summary": "If you spent any time on GitHub Trending in August, you probably noticed the centre of gravity had shifted again. Models took a back seat to the machinery around them: agent harnesses, skills, memory layers, gateways, and document tooling.…",
@@ -833,26 +857,6 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/08/illo_tokens_final_-320x320.jpg"
     },
     {
-      "source": "MediaNama",
-      "title": "NVIDIA confirms it will acquire Hugging Face for $12.9 billion",
-      "summary": "NVIDIA will acquire Hugging Face for $12.93 billion, gaining a strategic foothold in the open AI ecosystem while keeping the platform open to multiple models, clouds and hardware providers. The post NVIDIA confirms it will acquire Hugging…",
-      "link": "https://www.medianama.com/2026/09/223-nvidia-hugging-face-12-9-billion/",
-      "date": "2026-09-04T09:40:56.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null,
-      "relatedSources": [
-        {
-          "source": "Ars Technica AI",
-          "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
-        },
-        {
-          "source": "NVIDIA",
-          "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
-        }
-      ]
-    },
-    {
       "source": "MIT Tech Review",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones genera…",
@@ -861,16 +865,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Agentic AI could automate 80% of routine treasury work, leave strategic decisions to humans: EY",
-      "summary": "Agentic artificial intelligence could handle around 80 per cent of routine coordination and processing in treasury operations, allowing professionals to focus on risk management, strategic funding and other decisions requiring human judgem…",
-      "link": "https://www.livemint.com/technology/agentic-ai-could-automate-80-of-routine-treasury-work-leave-strategic-decisions-to-humans-ey-11788496812034.html",
-      "date": "2026-09-04T04:40:11.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
       "source": "ET CIO",
@@ -891,16 +885,6 @@
       "category": "News",
       "region": "India",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-110140/133749441.cms"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
-      "summary": "New Astra model unveiled; initiative to start with US utilities, grids and local governments",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-commits-1-billion-to-cyberdefense-effort-amid-ai-safety-scrutiny/article71426814.ece",
-      "date": "2026-09-04T01:49:32.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/ijfzgm/article71399755.ece/alternates/LANDSCAPE_1200/2026-08-18T115114Z_956305570_RC2URLA2ZZCN_RTRMADP_3_OPENAI-SAFETY-TEENS.JPG"
     },
     {
       "source": "Wired AI",
@@ -971,6 +955,22 @@
       "category": "News",
       "region": "Global",
       "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+      "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
+      "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "date": "2026-09-03T13:34:13.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
+      "relatedSources": [
+        {
+          "source": "NVIDIA",
+          "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+        }
+      ]
     },
     {
       "source": "OpenAI",
@@ -1307,16 +1307,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "link": "https://openai.com/index/path-to-astra",
-      "date": "2026-09-01T13:00:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "Rest of World",
