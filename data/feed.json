@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T20:35:59.468Z",
-  "count": 190,
+  "updated": "2026-09-07T23:31:39.532Z",
+  "count": 188,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,36 @@
   "items": [
     {
       "source": "The Next Web",
+      "title": "GPUThor breaks the error correction Nvidia recommended against Rowhammer",
+      "summary": "Last year Nvidia told GPU owners worried about Rowhammer to switch on error correction. Four researchers at the University of Toronto have now shown that the same attack, aimed harder, goes straight through it. Their technique, GPUThor, is…",
+      "link": "https://thenextweb.com/news/gputhor-rowhammer-nvidia-ecc-root-shell",
+      "date": "2026-09-07T23:05:51.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/Nvidia.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Jensen Huang says AGI has arrived, and 400,000 more GPUs are coming",
+      "summary": "Jensen Huang said it in four words. “AGI has arrived,” the Nvidia chief executive wrote on X late on Sunday, congratulating OpenAI on GPT-6 Astra. By Monday morning the post had passed 10 million views. The rest of the post is the part wor…",
+      "link": "https://thenextweb.com/news/jensen-huang-agi-has-arrived-gpt-6-astra",
+      "date": "2026-09-07T22:10:31.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/09/jensen-huang-stanford-students-leather-jacket.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Dubai is training 14,000 companies to run AI agents, on a two-year clock",
+      "summary": "Dubai Chambers is putting more than 14,000 companies through training in agentic AI, the kind of software that carries out tasks on its own rather than answering questions. The body launched the courses on 1 September in front of 90 chairp…",
+      "link": "https://thenextweb.com/news/dubai-chambers-agentic-ai-training-14000-companies",
+      "date": "2026-09-07T21:50:56.000Z",
+      "category": "Product",
+      "region": "Middle East",
+      "image": "https://media.thenextweb.com/2026/09/dubai-chambers-conference-room-al-mansoori-lectern.avif"
+    },
+    {
+      "source": "The Next Web",
       "title": "Cognizant put $4.5tn on AI job exposure, then hired 1,500 graduates",
       "summary": "Cognizant announced on Monday that it will hire 1,500 American college graduates this year and build a new job family for the AI era. The company’s own research says AI could take on $4.5tn worth of work Americans currently get paid to do.…",
       "link": "https://thenextweb.com/news/cognizant-ai-jobs-4-5-trillion-graduates",
@@ -89,46 +119,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://media.thenextweb.com/2026/09/andrea-zorzetto-matteo-bossolini-cato-founders.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "AI agent reliability requires a new model of observability",
-      "summary": "The rapid adoption of AI agents is changing the architecture of how organizations operate. Agents can interpret information, make decisions, interact with enterprise systems, and execute tasks with a degree of autonomy that would previousl…",
-      "link": "https://thenextweb.com/news/ai-agent-reliability-observability-moyai-robert-hommes",
-      "date": "2026-09-07T17:24:46.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/09/ai-agent-reliability-observability-moyai-robert-hommes.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "NEURA and SECO will build robot compute modules in Europe",
-      "summary": "A German company designs the robot. An Italian company builds the board that goes inside it. An American company designs the chip that goes on the board. That is the European Physical AI stack as it actually exists. On Monday, two thirds o…",
-      "link": "https://thenextweb.com/news/neura-seco-robot-compute-modules-europe",
-      "date": "2026-09-07T17:16:31.000Z",
-      "category": "Hardware & Infra",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/09/david-reger-neura-max-mauri-seco.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Torvalds joked that AI made Linux 7.3-rc2 this big, and nobody checked",
-      "summary": "Linus Torvalds spent Sunday afternoon doing what he does most Sundays. The result was a Linux 7.3-rc2 that came in far heavier than the calendar says it should. He could not find a single cause for it. So he offered the one everybody reach…",
-      "link": "https://thenextweb.com/news/linux-7-3-rc2-torvalds-ai-joke-tooling",
-      "date": "2026-09-07T16:58:25.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/09/linus-torvalds-dirk-hohndel-keynote-stage.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "OpenAI blocked its agents from posting. They found a wiki that posts on GET",
-      "summary": "The engineers who built the sandbox did think about this. They allowed the agents to read the internet and blocked them from writing to it, by permitting GET requests and refusing everything else. It is the obvious control, and on almost e…",
-      "link": "https://thenextweb.com/news/openai-agents-get-requests-usemod-wiki-sandbox-escape",
-      "date": "2026-09-07T16:16:04.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.avif"
     },
     {
       "source": "Hindu BusinessLine",
@@ -321,16 +311,6 @@
       "category": "Product",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/rgp5op/article71438101.ece/alternates/LANDSCAPE_1200/PO13_TCS.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "China’s Moonshot and Z.ai bring AI model subscription race to Tmall’s retail shelves",
-      "summary": "China’s artificial intelligence developers are competing for paying users on a new consumer front: Alibaba Group Holding’s Tmall, where AI subscription plans are now being sold alongside smartphones, skincare and luxury fashion brands. Moo…",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3366617/chinas-moonshot-and-zai-bring-ai-model-subscription-race-tmalls-retail-shelves?utm_source=rss_feed",
-      "date": "2026-09-07T08:00:13.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/07/a9cad4ae-7d71-4b76-bd00-356c02546f0b_c1869a68.jpg?itok=qoKfI2Z-&v=1788766970"
     },
     {
       "source": "MediaNama",
