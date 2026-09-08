@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T18:43:16.088Z",
-  "count": 175,
+  "updated": "2026-09-08T21:53:22.034Z",
+  "count": 187,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,13 +44,118 @@
     "India",
     "China",
     "Europe",
-    "Japan",
     "South Korea",
     "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "Ars Technica AI",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "date": "2026-09-08T21:11:46.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "date": "2026-09-08T21:10:27.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "date": "2026-09-08T21:04:06.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "US accuses Chinese AI firms of ‘malicious’ copying of AI technology",
+      "summary": "⁠The US government on Tuesday accused Chinese artificial intelligence companies of maliciously copying technology from American AI firms, potentially complicating relations ahead of a planned meeting between leaders of the world’s two bigg…",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3366835/us-accuses-chinese-ai-firms-malicious-copying-ai-technology?utm_source=rss_feed",
+      "date": "2026-09-08T20:50:57.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/09/258dfe32-ff7a-43e5-8c0e-91f116686454_f9187c9e.jpg?itok=3EOd2RZV&v=1788901524",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/us-accuses-chinese-ai-firms-of-malicious-copying-of-ai-technology-11788895815560.html"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI now supplies the image models inside Adobe’s creative studio. It is also turning prompts into things you pass around.",
+      "summary": "OpenAI released ChatGPT Images 2.5 with two new API models, one of which Adobe has already put into Firefly. The company says more than 3 billion images a week are created across ChatGPT and its image API. The notable additions are interfa…",
+      "link": "https://thenextweb.com/news/openai-images-25-adobe-firefly-interface-layer",
+      "date": "2026-09-08T20:47:19.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/09/chatgpt-images-2-5-sample-outputs.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Open-source AI developer Mistral closes €3B funding round",
+      "summary": "French artificial intelligence lab Mistral AI SAS today announced that it has raised €3 billion, or about $3.49 billion, in funding. Samsung Electronics Co. Ltd. led the investment. It was joined by more than two dozen other backers includ…",
+      "link": "https://siliconangle.com/2026/09/08/open-source-ai-developer-mistral-closes-e3b-funding-round/",
+      "date": "2026-09-08T20:36:34.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Mistral1.png"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+      "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "date": "2026-09-08T20:12:51.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6a9e9eca147ff8c9409f7051/master/pass/MetaSignalAi.jpg",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy-11788894594364.html"
+        },
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "The mathematicians published machine-checkable proofs. OpenAI announced its result on a call with reporters.",
+      "summary": "OpenAI says an internal model proved that 3D Navier-Stokes can develop a singularity in finite time, using about 10,000 agents over 88 hours. It described the result on a press call and had not published the proof. Tristan Buckmaster and L…",
+      "link": "https://thenextweb.com/news/openai-navier-stokes-claim-verification-credit",
+      "date": "2026-09-08T20:03:57.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.avif"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "date": "2026-09-08T18:43:09.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1975339882-1024x648.jpg"
+    },
     {
       "source": "The Next Web",
       "title": "Reid Hoffman joins Mosaic Ventures as an advisory partner",
@@ -100,6 +205,16 @@
       "category": "Business & Funding",
       "region": "Europe",
       "image": "https://media.thenextweb.com/2026/09/alphagenome-atlas-uk-biobank.avif"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments",
+      "date": "2026-09-08T17:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -278,6 +393,16 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-07-09-34-23.png"
     },
     {
+      "source": "AI News",
+      "title": "Arm launches Total Design for Physical AI and robotics framework",
+      "summary": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account…",
+      "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "date": "2026-09-08T11:44:10.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "OpenAI",
       "title": "Introducing ChatGPT Images 2.5",
       "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
@@ -338,6 +463,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+      "summary": "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform. The Perfect Basket feature uses Coca-Cola’s Central Recommendation Engine to analyse previous orders…",
+      "link": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+      "date": "2026-09-08T10:00:00.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Japan Times",
       "title": "AI-discovered lung drug reverses aging markers in study",
       "summary": "An experimental lung disease drug developed using artificial intelligence showed promise in reversing biological signs of aging, pointing to broader potential use of the treatment, according to its developer.",
@@ -385,6 +520,26 @@
       "date": "2026-09-08T09:00:00.000Z",
       "category": "Research",
       "region": "United States",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "summary": "Google’s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hou…",
+      "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "date": "2026-09-08T09:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only…",
+      "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "date": "2026-09-08T08:50:39.000Z",
+      "category": "Research",
+      "region": "Global",
       "image": null
     },
     {
@@ -528,6 +683,16 @@
       "image": null
     },
     {
+      "source": "OpenAI",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "link": "https://openai.com/index/1password",
+      "date": "2026-09-08T00:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "TechCrunch AI",
       "title": "Opaque recurrence, and other AI terms that you should probably know",
       "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
@@ -546,6 +711,16 @@
       "category": "Enterprise & Deployment",
       "region": "United States",
       "image": "https://bl-i.thgim.com/public/incoming/vk0nbz/article71438879.ece/alternates/LANDSCAPE_1200/PO23_Lab.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+      "summary": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global retailers and commercial shippers, pairing automated routing…",
+      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+      "date": "2026-09-07T13:01:23.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "Ars Technica AI",
@@ -738,22 +913,6 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "date": "2026-09-05T22:49:55.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": null,
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/tech-news/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement-11788578229143.html"
-        }
-      ]
-    },
-    {
       "source": "SiliconANGLE",
       "title": "What to expect at Workiva’s Amplify event: Join theCUBE Sept. 15–16",
       "summary": "As companies entrust more responsibility to artificial intelligence, managing governance and regulatory reporting becomes even more essential. Workiva Inc.’s platform provides AI-powered collaboration tools for streamlining financial repor…",
@@ -762,26 +921,6 @@
       "category": "Policy & Safety",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Amplify-2026.png"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "date": "2026-09-05T19:35:24.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "date": "2026-09-05T18:05:27.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": null
     },
     {
       "source": "LiveMint Tech",
@@ -802,16 +941,6 @@
       "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://media.wired.com/photos/6a9b056f355eb442715c734d/master/pass/Security_OpenAIAgentsTriedtoHackAnotherWebsite_v1-ezgif.com-video-to-gif-converter.gif"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Rogue OpenAI agents turn German website into message board for other bots: Report",
-      "summary": "A group of rogue OpenAI agents took control of a German website this spring and turned it into a message board for other AI agents, according to new research published Friday and two people familiar with the incident, as reported by Reuter…",
-      "link": "https://www.livemint.com/technology/rogue-openai-agents-turn-german-website-into-message-board-for-other-bots-report-11788576523223.html",
-      "date": "2026-09-05T02:48:42.000Z",
-      "category": "Research",
-      "region": "Europe",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
       "source": "ET CIO",
@@ -904,16 +1033,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Everpure sees AI infrastructure strategy move beyond virtual machines",
-      "summary": "AI infrastructure strategy is expanding beyond compute and storage specifications as artificial intelligence reshapes who manages enterprise applications and data. Infrastructure teams are increasingly being asked to support virtual machin…",
-      "link": "https://siliconangle.com/2026/09/04/everpure-sees-ai-infrastructure-strategy-move-beyond-virtual-machines-wmwareexplore/",
-      "date": "2026-09-04T17:03:50.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Cody-Hosterman-scaled.jpg"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
       "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
@@ -954,6 +1073,16 @@
       "image": "https://media.wired.com/photos/6a9822cefee0db870262b29d/master/pass/AIvsAIJob.jpg"
     },
     {
+      "source": "AI News",
+      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+      "summary": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations,…",
+      "link": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+      "date": "2026-09-04T10:00:00.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
       "summary": "Five unexpected ways computing power is entering everyday life in the country.",
@@ -971,6 +1100,16 @@
       "date": "2026-09-04T09:25:19.000Z",
       "category": "News",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+      "summary": "Just over half of American adults, 50.5%, say a partner’s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Au…",
+      "link": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+      "date": "2026-09-04T08:25:12.000Z",
+      "category": "News",
+      "region": "United States",
       "image": null
     },
     {
@@ -1024,14 +1163,14 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2197730159-1152x648.jpg"
     },
     {
-      "source": "Wired AI",
-      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-      "summary": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
-      "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-      "date": "2026-09-03T18:06:24.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.wired.com/photos/6a99abf8b2409d6188eae980/master/pass/GPT-6-Can-Use-Computer-Better-Than-Human-Business-1015939026.jpg"
+      "source": "AI News",
+      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+      "summary": "OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, wholesalers, and distributors decide how individual orders should be delivered. Called OmniSTAR, the system evaluates options including own…",
+      "link": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+      "date": "2026-09-03T16:07:18.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "NVIDIA",
@@ -1044,6 +1183,26 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg"
     },
     {
+      "source": "AI News",
+      "title": "NVIDIA to acquire Hugging Face for $12.93B",
+      "summary": "NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository’s platform and infrastructure. The transaction targets platform growth and infrastructure investment, aiming to expand AI access for ent…",
+      "link": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
+      "date": "2026-09-03T15:50:31.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null,
+      "relatedSources": [
+        {
+          "source": "Ars Technica AI",
+          "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
+        },
+        {
+          "source": "NVIDIA",
+          "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+        }
+      ]
+    },
+    {
       "source": "DeepMind",
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "summary": "",
@@ -1052,32 +1211,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-      "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
-      "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-      "date": "2026-09-03T13:34:13.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
-      "relatedSources": [
-        {
-          "source": "NVIDIA",
-          "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
-        }
-      ]
-    },
-    {
-      "source": "OpenAI",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "date": "2026-09-03T13:15:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "Hugging Face",
@@ -1098,16 +1231,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gfn-thursday-9-3-blog-1920x1080-logo.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "date": "2026-09-03T12:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Analytics Vidhya",
@@ -1220,16 +1343,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg"
     },
     {
-      "source": "Ars Technica AI",
-      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-      "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-      "date": "2026-09-02T17:58:33.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2250714805-1024x648.jpg"
-    },
-    {
       "source": "DeepMind",
       "title": "Proactive cyber defense for governments and enterprises",
       "summary": "",
@@ -1252,6 +1365,16 @@
       "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
       "date": "2026-09-02T16:18:31.000Z",
       "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Motional and MIT AI explains self-driving car decisions",
+      "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that i…",
+      "link": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+      "date": "2026-09-02T15:25:12.000Z",
+      "category": "Research",
       "region": "Global",
       "image": null
     },
@@ -1384,16 +1507,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://image.theregister.com/?imageId=4094099&width=800"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-      "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-      "date": "2026-08-31T18:10:45.000Z",
-      "category": "Policy & Safety",
-      "region": "Japan",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg"
     },
     {
       "source": "MIT Tech Review",
@@ -1824,6 +1937,26 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     }
   ]
 }
