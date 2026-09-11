@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T19:44:51.790Z",
-  "count": 179,
+  "updated": "2026-09-11T22:37:09.700Z",
+  "count": 193,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -45,13 +45,104 @@
     "China",
     "Europe",
     "Japan",
+    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
     {
+      "source": "SCMP Tech",
+      "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
+      "summary": "A US congressional advisory body on China said on Friday that leading Chinese artificial intelligence firms declined to meet its members during a recent Beijing visit over concerns that doing so could expose the firms to US sanctions. But…",
+      "link": "https://www.scmp.com/news/us/article/3367269/chinese-ai-firms-shunned-us-delegation-over-sanctions-fears-commission-says?utm_source=rss_feed",
+      "date": "2026-09-11T22:36:20.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/12/2fa2c2d2-c379-4b28-83ab-ce3757e0b054_2f8d7256.jpg?itok=y51S8wFZ&v=1789166171"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "AI fight shadows final preparations for Xi Jinping’s White House visit to meet Donald Trump",
+      "summary": "Rising tensions over artificial intelligence are shaping the final preparations for Chinese President Xi Jinping’s visit to the United States. Washington and Beijing are discussing the possibility of folding a long-awaited AI dialogue into…",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3367242/ai-fight-shadows-final-preparations-xi-jinpings-white-house-visit?utm_source=rss_feed",
+      "date": "2026-09-11T22:00:10.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/c8859465-6ffc-4dad-9781-c0df85154926_e5198d5d.jpg?itok=q28Js8eG&v=1789127011"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Dynatrace and Arize AI push observability from detection toward action",
+      "summary": "Enterprise observability is entering a new phase as artificial intelligence changes both the applications companies need to monitor and the way operations teams respond when something goes wrong. Traditional observability platforms were bu…",
+      "link": "https://siliconangle.com/2026/09/11/observability-ai-agents-dynatrace-arize-appdevangle/",
+      "date": "2026-09-11T21:17:44.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Header-Image.png"
+    },
+    {
       "source": "TechCrunch AI",
-      "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue",
+      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+      "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "date": "2026-09-11T20:59:47.000Z",
+      "category": "Open Source",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "date": "2026-09-11T20:57:36.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Chinese AI chip developer Enflame raises $912M in IPO",
+      "summary": "Shares of Shanghai Enflame Technology Co. closed 179% higher today following an initial public offering that raised 6.12 billion yuan, or about $912 billion. The listing drew particularly strong demand from retail investors. Such investors…",
+      "link": "https://siliconangle.com/2026/09/11/chinese-ai-chip-developer-enflame-raises-912m-in-ipo/",
+      "date": "2026-09-11T20:54:40.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Unsplash-1-1.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "date": "2026-09-11T20:33:18.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "date": "2026-09-11T20:30:17.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a…",
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "date": "2026-09-11T20:05:06.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
       "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
       "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
       "date": "2026-09-11T19:35:54.000Z",
@@ -60,9 +151,19 @@
       "image": null
     },
     {
+      "source": "Ars Technica AI",
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "date": "2026-09-11T19:34:09.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg"
+    },
+    {
       "source": "SiliconANGLE",
       "title": "Five9 builds Humantic contact centers instead of full automation",
-      "summary": "Contact centers have spent the past two years trying to maximize a single number, the share of calls AI can handle without a human ever picking up. That framing is starting to look too narrow, since the interactions that matter most — the…",
+      "summary": "Over the past couple of years, many companies have focused on increasing the share of contact center calls AI can handle without human intervention. That measure is starting to look too narrow, since the highest-value, most complex or most…",
       "link": "https://siliconangle.com/2026/09/11/humantic-five9-contactcentersummit/",
       "date": "2026-09-11T19:14:09.000Z",
       "category": "News",
@@ -97,7 +198,7 @@
       "date": "2026-09-11T18:42:52.000Z",
       "category": "News",
       "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
+      "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/maxresdefault_1789159164924_bcaaa393-8181-47f4-afc3-b002febe74bd_1789159168973_0ea08ea1-834a-4301-88d9-1ddcb84ae377_25b08479-e433-4910-84b6-419a0fede062_9b6d4e17-e485-4447-b454-e43e80aa9964.jpg"
     },
     {
       "source": "TechCrunch AI",
@@ -251,7 +352,7 @@
     },
     {
       "source": "MediaNama",
-      "title": "Top Products Launched at Global Fintech Fest 2026",
+      "title": "Global Fintech Fest 2026: Key product launches from agentic UPI payments to Android ATMs",
       "summary": "From the Department of Financial Services' open-source Android ATMs to NPCI's AiNxt to UPI Tap & Pay to PhonePe's Cross Border Scan to BharatPe's Agentic AI assistant for merchants - a range of products have been launched at GFF 2026. The…",
       "link": "https://www.medianama.com/2026/09/223-agentic-ai-products-fintechs-gff-2026/",
       "date": "2026-09-11T13:39:27.000Z",
@@ -308,6 +409,16 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-134065674,imgsize-94480.cms"
+    },
+    {
+      "source": "AI News",
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-…",
+      "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "date": "2026-09-11T12:00:18.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "ET Tech",
@@ -632,26 +743,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Salesforce1.png"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Maven Robotics launches with $100M to scale its industrial robots",
-      "summary": "Industrial robotics startup Maven Robotics Inc. launched today with $100 million in Series A funding, two years after it started working with its first customer. Founded in 2024, the Santa Clara-based company began with mixed-case palletiz…",
-      "link": "https://siliconangle.com/2026/09/10/maven-robotics-launches-with-100m-to-scale-its-industrial-robots/",
-      "date": "2026-09-11T00:12:55.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/mavenrobotics.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "DeepSeek releases V4.1-Flash, says it outperforms flagship V4-Pro",
-      "summary": "Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. today released DeepSeek-V4.1-Flash, the smallest model in a new architecture family. The company said tests by multiple pa…",
-      "link": "https://siliconangle.com/2026/09/10/deepseek-releases-v4-1-flash-says-it-outperforms-flagship-v4-pro/",
-      "date": "2026-09-10T23:45:40.000Z",
-      "category": "Research",
-      "region": "China",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/deepseek-scaled.png"
-    },
-    {
       "source": "Wired AI",
       "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
       "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
@@ -692,16 +783,6 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "date": "2026-09-10T20:57:30.000Z",
-      "category": "News",
-      "region": "China",
-      "image": null
-    },
-    {
       "source": "Wired AI",
       "title": "Is AI Actually Going to Kill Us All?",
       "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
@@ -722,16 +803,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/maxresdefault_1789135797191_fa4f3c2f-f02e-4acb-98cf-9008d0b2dbca_1789135805658_99b59be5-8798-4d2a-9a9a-6ad7aeec9c5b_163b0936-83a6-4349-8c50-736e6b1330af_506d42d7-41a3-4dbb-aab5-abb713045639.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "date": "2026-09-10T19:50:04.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
       "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
@@ -742,23 +813,13 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2271644469-1024x648.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "date": "2026-09-10T17:54:44.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "date": "2026-09-10T17:45:00.000Z",
+      "source": "AI News",
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms…",
+      "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "date": "2026-09-10T16:34:43.000Z",
       "category": "Business & Funding",
-      "region": "India",
+      "region": "Global",
       "image": null
     },
     {
@@ -870,6 +931,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://media.wired.com/photos/6aa1c3b873b15b9694431f67/master/pass/Security_ClearviewAIIsTestinganAIToolThatLetsCops-ezgif.com-video-to-gif-converter.gif"
+    },
+    {
+      "source": "AI News",
+      "title": "JD.com expands physical AI in logistics with 3 million robots",
+      "summary": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones. The c…",
+      "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+      "date": "2026-09-10T10:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "Rest of World",
@@ -1152,6 +1223,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "summary": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Ventur…",
+      "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "date": "2026-09-09T10:34:20.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "Now it’s China’s experts who are gig workers training AI",
       "summary": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
@@ -1160,6 +1241,16 @@
       "category": "News",
       "region": "China",
       "image": "https://restofworld.org/wp-content/uploads/2026/09/illo_ai_pro_clones_sketch-320x320.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and Franc…",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "date": "2026-09-09T08:52:19.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Europe",
+      "image": null
     },
     {
       "source": "The Register AI",
@@ -1242,12 +1333,52 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Arm launches Total Design for Physical AI and robotics framework",
+      "summary": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account…",
+      "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "date": "2026-09-08T11:44:10.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "MIT Tech Review",
       "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person t…",
       "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
       "date": "2026-09-08T10:34:00.000Z",
       "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+      "summary": "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform. The Perfect Basket feature uses Coca-Cola’s Central Recommendation Engine to analyse previous orders…",
+      "link": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+      "date": "2026-09-08T10:00:00.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "summary": "Google’s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hou…",
+      "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "date": "2026-09-08T09:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only…",
+      "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "date": "2026-09-08T08:50:39.000Z",
+      "category": "Research",
       "region": "Global",
       "image": null
     },
@@ -1262,14 +1393,14 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-2263466/133903409.cms"
     },
     {
-      "source": "Ars Technica AI",
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
-      "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "date": "2026-09-07T11:00:03.000Z",
-      "category": "Business & Funding",
+      "source": "AI News",
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+      "summary": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global retailers and commercial shippers, pairing automated routing…",
+      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+      "date": "2026-09-07T13:01:23.000Z",
+      "category": "News",
       "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png"
+      "image": null
     },
     {
       "source": "ET CIO",
@@ -1778,16 +1909,6 @@
       "image": null
     },
     {
-      "source": "MIT Tech Review",
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “…",
-      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "date": "2026-08-26T09:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "The Register AI",
       "title": "McKinsey says enterprise AI is finally 'on the road to ROI'",
       "summary": "Fasten your seatbelt and empty that bladder: AI investment is rising, but reported enterprise earnings impact remains stubbornly flat",
@@ -1865,6 +1986,26 @@
       "date": "2026-08-13T17:04:18.000Z",
       "category": "News",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
       "image": null
     }
   ]
