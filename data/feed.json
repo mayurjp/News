@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T16:31:09.342Z",
-  "count": 190,
+  "updated": "2026-09-11T19:44:51.790Z",
+  "count": 179,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -45,11 +45,140 @@
     "China",
     "Europe",
     "Japan",
-    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue",
+      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "date": "2026-09-11T19:35:54.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Five9 builds Humantic contact centers instead of full automation",
+      "summary": "Contact centers have spent the past two years trying to maximize a single number, the share of calls AI can handle without a human ever picking up. That framing is starting to look too narrow, since the interactions that matter most — the…",
+      "link": "https://siliconangle.com/2026/09/11/humantic-five9-contactcentersummit/",
+      "date": "2026-09-11T19:14:09.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Amit-Mathradas_Thumb.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Amazon Quick is now available on desktop, with a new mobile activity feed",
+      "summary": "Amazon has made its Quick desktop assistant generally available on macOS and Windows, pitching it to enterprise IT as the governed alternative to shadow AI. Quick runs in ordinary European AWS regions with inference kept inside Europe, but…",
+      "link": "https://thenextweb.com/news/amazon-quick-desktop-eu-sovereign-gap",
+      "date": "2026-09-11T19:07:20.000Z",
+      "category": "Product",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/09/amazon-quick-logo-laptop-screen.avif"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+      "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
+      "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "date": "2026-09-11T18:59:25.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6aa4120d92d2b4de236f2240/master/pass/GettyImages-2289768151.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says",
+      "summary": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says",
+      "link": "https://www.livemint.com/technology/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says-11789152172996.html",
+      "date": "2026-09-11T18:42:52.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather th…",
+      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "date": "2026-09-11T18:41:49.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "5 ChatGPT 2.5 Features to Try Today!",
+      "summary": "OpenAI has released ChatGPT Images 2.5, its latest image-generation model, with a greater emphasis on controlled editing than simply producing prettier images. The update promises sharper details, more natural lighting and textures, strong…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/09/chatgpt-images-2-5-features-explained/",
+      "date": "2026-09-11T18:41:31.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Europe’s first truly driverless robotaxi is running in Croatia, on Chinese software",
+      "summary": "Pony.ai and Verne have started fully driverless passenger rides in Zagreb, the first anywhere in Europe, with nobody in the driver’s seat and Uber taking the bookings. The pair want more than 2,000 robotaxis on European roads, but the only…",
+      "link": "https://thenextweb.com/news/europes-first-truly-driverless-robotaxi-is-running-in-croatia-on-chinese-software",
+      "date": "2026-09-11T18:09:13.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/09/verne-uber-robotaxi-zagreb-theatre.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI pauses $200 ChatGPT Pro sign-ups as Astra demand strains its systems",
+      "summary": "OpenAI has stopped selling the $200 tier of ChatGPT Pro, saying demand for its Astra model is straining its systems. European organisations face a second constraint the pause does not touch, because Astra still has no EU data zone deployme…",
+      "link": "https://thenextweb.com/news/openai-pro-pause-astra-eu-zone",
+      "date": "2026-09-11T17:34:49.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/07/openai-dublin-250-jobs-european-headquarters-expansion.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Contact center AI faces its resolution test as metrics fall out of step",
+      "summary": "Artificial intelligence is moving out of the pilot phase in customer service, and knowledge management is emerging as the constraint that decides whether the investment pays off. Contact centers combine high interaction volumes, heavy labo…",
+      "link": "https://siliconangle.com/2026/09/11/knowledge-management-contact-center-ai-contactcentersummit/",
+      "date": "2026-09-11T17:29:17.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Pedro-Andrade_Talkdesk-Clean.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "ChatGPT invented fake police testimony in murder appeal, New Mexico high court says",
+      "summary": "The New Mexico Supreme Court on Wednesday fined the attorney, Stephen Aarons, and held him in contempt for failing to verify ‌the accuracy of ⁠the court ⁠filing, which Aarons said he prepared with help from the AI program.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-invented-fake-police-testimony-in-murder-appeal-new-mexico-high-court-says/articleshow/134080805.cms",
+      "date": "2026-09-11T17:09:35.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-134080805,imgsize-125256.cms"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "date": "2026-09-11T16:46:25.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "AI agents are learning to spend money. Who will handle the payments?",
+      "summary": "AI is already changing how people find and buy things online, comparing prices, narrowing down options, doing in seconds what used to take an afternoon of tabs open. An AI agent could find a flight that fits your schedule, for example. Giv…",
+      "link": "https://thenextweb.com/news/ai-agents-payments-xdc-x402-mastercard",
+      "date": "2026-09-11T16:40:14.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/08/georgia-power-demolishing-homes-ai-data-centres-zuckerberg-agents.avif"
+    },
     {
       "source": "Hindu BusinessLine",
       "title": "Sarvam introduces ‘core intelligence factory’ for third biggest shift in India’s BFSI",
@@ -122,7 +251,7 @@
     },
     {
       "source": "MediaNama",
-      "title": "Agentic AI and other products rolled out by fintechs at GFF 2026",
+      "title": "Top Products Launched at Global Fintech Fest 2026",
       "summary": "From the Department of Financial Services' open-source Android ATMs to NPCI's AiNxt to UPI Tap & Pay to PhonePe's Cross Border Scan to BharatPe's Agentic AI assistant for merchants - a range of products have been launched at GFF 2026. The…",
       "link": "https://www.medianama.com/2026/09/223-agentic-ai-products-fintechs-gff-2026/",
       "date": "2026-09-11T13:39:27.000Z",
@@ -151,26 +280,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "Amazon lets its advertisers buy ads in ChatGPT in a pilot with OpenAI",
-      "summary": "Amazon will let advertisers buy ads in ChatGPT through its own advertising platform. Amazon Ads announced the partnership with OpenAI in a blog post on 10 September. Select US advertisers are already testing it in a pilot. Advertisers who…",
-      "link": "https://thenextweb.com/news/amazon-ads-chatgpt-ads-openai-pilot",
-      "date": "2026-09-11T13:00:00.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/09/amazon-ads-chatgpt-ads-logos.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Trump dismisses AI extinction fears as lab staff urge a slowdown",
-      "summary": "US President Donald Trump has no concerns about AI leading to human extinction. “No, I don’t have any,” he told reporters on Thursday, as he left Dallas. Jeff Mason reported the exchange for Bloomberg. Trump said his worry was losing the r…",
-      "link": "https://thenextweb.com/news/trump-ai-extinction-risk-lab-staff-eu-china",
-      "date": "2026-09-11T12:51:24.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/06/starmer-uk-anthropic-ban-carveout-rejected.avif"
-    },
-    {
       "source": "MediaNama",
       "title": "PayU rolls out AI fraud protection tool for cross-border card payments",
       "summary": "PayU’s Fraud Liability Protect combines AI risk assessment, dynamic authentication and fraud liability protection. The post PayU rolls out AI fraud protection tool for cross-border card payments appeared first on MEDIANAMA .",
@@ -191,16 +300,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/PTI07-29-2026-000560B-0_1786541553868_1786541566925_c4ce15bf-b454-4b3e-a2c2-496531f7f1b1_1789128362707_13d90ab3-9de8-4c98-a740-c29d651d5002_64af20b5-8442-441b-b4f4-55db0de7312c_bd44e932-ac0d-4c73-b9de-6086d8d02c42.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "The UAE is splitting up its $30bn AI data centre after Iran named it as a target",
-      "summary": "The United Arab Emirates has gone back to the drawing board on the biggest AI construction project in the Gulf, according to an exclusive report by Reuters. The original idea was a single campus covering ten square miles of desert outside…",
-      "link": "https://thenextweb.com/news/uae-stargate-data-centre-redesign-iran-threat-underground",
-      "date": "2026-09-11T12:02:51.000Z",
-      "category": "News",
-      "region": "Middle East",
-      "image": "https://media.thenextweb.com/2026/09/UAE-flag.avif"
-    },
-    {
       "source": "ET Tech",
       "title": "FM Sitharamran says AI researcher's resignation raises questions over safeguards",
       "summary": "Finance Minister Nirmala Sitharaman on Thursday questioned whether safeguards being developed by frontier artificial intelligence companies are keeping pace with the rapid advancement of the technology, citing the recent resignation of Ant…",
@@ -209,16 +308,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-134065674,imgsize-94480.cms"
-    },
-    {
-      "source": "AI News",
-      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
-      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-…",
-      "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
-      "date": "2026-09-11T12:00:18.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "ET Tech",
@@ -239,16 +328,6 @@
       "category": "Policy & Safety",
       "region": "India",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Anthropic maps three AI economies, from a mild boost to mass job loss",
-      "summary": "Anthropic has built a model of how AI might reshape the US economy by 2030. Its most extreme case describes an economy roughly a third larger than it would otherwise be. That same case carries knowledge-work unemployment near 18 percent. T…",
-      "link": "https://thenextweb.com/news/anthropic-ai-economic-scenarios-2030",
-      "date": "2026-09-11T11:36:25.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/09/anthropic-diverging-scenario-lines-graph-paper.avif"
     },
     {
       "source": "ET Tech",
@@ -299,6 +378,16 @@
       "category": "News",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/3ae9ae40-fca1-4e4b-84be-d884635bfc2a_308cb5ba.jpg?itok=HKojHuCN&v=1789116889"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "date": "2026-09-11T10:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Rest of World",
@@ -450,13 +539,7 @@
       "date": "2026-09-11T03:53:37.000Z",
       "category": "People & Leadership",
       "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/pphitz/article71454655.ece/alternates/LANDSCAPE_1200/2026-09-02T191410Z_274712225_RC25BNA1BY8U_RTRMADP_3_G20-TECHNOLOGY.JPG",
-      "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-is-open-to-slowing-ai-development-sam-altman-tells-staff/articleshow/134041932.cms"
-        }
-      ]
+      "image": "https://bl-i.thgim.com/public/incoming/pphitz/article71454655.ece/alternates/LANDSCAPE_1200/2026-09-02T191410Z_274712225_RC25BNA1BY8U_RTRMADP_3_G20-TECHNOLOGY.JPG"
     },
     {
       "source": "Japan Times",
@@ -579,16 +662,6 @@
       "image": "https://media.wired.com/photos/6aa304df834bd0176b553b6c/master/pass/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Anthropic says AI now lets lone operators run state-level hacking campaigns",
-      "summary": "Individual hackers are now sustaining campaigns that would have needed many skilled operators a year ago, because artificial intelligence has absorbed the labor that used to set state-backed teams apart. That’s according to AI model develo…",
-      "link": "https://siliconangle.com/2026/09/10/anthropic-says-ai-now-lets-lone-operators-run-state-level-hacking-campaigns/",
-      "date": "2026-09-10T22:50:10.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/anthropicthreatintelligencereport.png"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
@@ -627,16 +700,6 @@
       "category": "News",
       "region": "China",
       "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Security becomes the control plane for enterprise AI factories",
-      "summary": "Artificial intelligence is making companies into factories of intelligence. As AI becomes a new workload, it has also become a new attack surface. The factory model that enterprises are building to produce knowledge at scale was not design…",
-      "link": "https://siliconangle.com/2026/09/10/ai-attack-surface-enterprise-security-securingtheaifactory/",
-      "date": "2026-09-10T20:36:54.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Securing-the-AI-Factory-With-Dell-Technologies-and-Intel-event-feature-2026.png"
     },
     {
       "source": "Wired AI",
@@ -699,16 +762,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "Supply chains detect fast, act slow: How AI agents fix it",
-      "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms…",
-      "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
-      "date": "2026-09-10T16:34:43.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "NVIDIA",
       "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
       "summary": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps…",
@@ -759,29 +812,9 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "AI agents are flooding public services with new requests",
-      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "date": "2026-09-10T14:53:50.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "date": "2026-09-10T14:17:37.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "NVIDIA",
       "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-      "summary": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of partners building on the NVIDIA AI platform. By conne…",
+      "summary": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NV…",
       "link": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
       "date": "2026-09-10T13:00:21.000Z",
       "category": "Enterprise & Deployment",
@@ -837,16 +870,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://media.wired.com/photos/6aa1c3b873b15b9694431f67/master/pass/Security_ClearviewAIIsTestinganAIToolThatLetsCops-ezgif.com-video-to-gif-converter.gif"
-    },
-    {
-      "source": "AI News",
-      "title": "JD.com expands physical AI in logistics with 3 million robots",
-      "summary": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones. The c…",
-      "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
-      "date": "2026-09-10T10:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Rest of World",
@@ -959,16 +982,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/sood_1789001491439_a10b8ffd-702a-453f-8e13-560405665e4a_1789001498175_9355c3f5-a63a-48a5-9aa5-5a67867c9ecd_e3433bd4-85ae-4565-8556-79ee46e87ef7_0a535684-d378-41cb-9951-127334f0b6b2.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "date": "2026-09-10T00:00:37.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "OpenAI",
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
@@ -997,16 +1010,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
-      "summary": "ANTHROPIC-CYBERSECURITY:Anthropic discloses fourth AI hacking incident missed in earlier review",
-      "link": "https://www.livemint.com/technology/anthropic-discloses-fourth-ai-hacking-incident-missed-in-earlier-review-11788992372076.html",
-      "date": "2026-09-09T22:19:31.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
       "source": "Wired AI",
@@ -1129,16 +1132,6 @@
       "image": null
     },
     {
-      "source": "Wired AI",
-      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
-      "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
-      "date": "2026-09-09T13:00:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6a99ec2e5d2ca173f400bbc3/master/pass/00-kepler-wafer_memory_technology.jpg"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
       "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
@@ -1159,16 +1152,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "CloudNC aims to accelerate AI supply chain machining",
-      "summary": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Ventur…",
-      "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
-      "date": "2026-09-09T10:34:20.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "Now it’s China’s experts who are gig workers training AI",
       "summary": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
@@ -1177,16 +1160,6 @@
       "category": "News",
       "region": "China",
       "image": "https://restofworld.org/wp-content/uploads/2026/09/illo_ai_pro_clones_sketch-320x320.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
-      "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and Franc…",
-      "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
-      "date": "2026-09-09T08:52:19.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "Europe",
-      "image": null
     },
     {
       "source": "The Register AI",
@@ -1239,16 +1212,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-85757697-1152x648.jpg"
     },
     {
-      "source": "OpenAI",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "link": "https://openai.com/index/codex-quantum-computing-experiments",
-      "date": "2026-09-08T17:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Hugging Face",
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "summary": "",
@@ -1279,52 +1242,12 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "Arm launches Total Design for Physical AI and robotics framework",
-      "summary": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account…",
-      "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
-      "date": "2026-09-08T11:44:10.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "MIT Tech Review",
       "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person t…",
       "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
       "date": "2026-09-08T10:34:00.000Z",
       "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
-      "summary": "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform. The Perfect Basket feature uses Coca-Cola’s Central Recommendation Engine to analyse previous orders…",
-      "link": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
-      "date": "2026-09-08T10:00:00.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
-      "summary": "Google’s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hou…",
-      "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
-      "date": "2026-09-08T09:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
-      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only…",
-      "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
-      "date": "2026-09-08T08:50:39.000Z",
-      "category": "Research",
       "region": "Global",
       "image": null
     },
@@ -1337,16 +1260,6 @@
       "category": "News",
       "region": "India",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-2263466/133903409.cms"
-    },
-    {
-      "source": "AI News",
-      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
-      "summary": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global retailers and commercial shippers, pairing automated routing…",
-      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
-      "date": "2026-09-07T13:01:23.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Ars Technica AI",
@@ -1765,16 +1678,6 @@
       "image": null
     },
     {
-      "source": "Analytics Vidhya",
-      "title": "10 Essential Agentic AI Concepts Explained Simply",
-      "summary": "AI agents are everywhere right now. You hear terms like tool calling, agent loops, MCP, guardrails thrown around as if its common language… it isn’t! But that is about to change. Agentic AI isn’t nearly as complicated as it sounds once you…",
-      "link": "https://www.analyticsvidhya.com/blog/2026/08/basic-agentic-ai-concepts/",
-      "date": "2026-08-27T16:58:40.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "DeepMind",
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
       "summary": "",
@@ -1962,26 +1865,6 @@
       "date": "2026-08-13T17:04:18.000Z",
       "category": "News",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
       "image": null
     }
   ]
