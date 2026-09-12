@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T05:50:13.184Z",
-  "count": 171,
+  "updated": "2026-09-12T10:51:02.847Z",
+  "count": 191,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,6 +44,7 @@
     "India",
     "China",
     "Europe",
+    "Middle East",
     "United States",
     "Global"
   ],
@@ -55,6 +56,26 @@
       "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "date": "2026-09-14T00:00:00.000Z",
       "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Wired AI",
+      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+      "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "date": "2026-09-12T10:30:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6aa46e54cc5cd3bf9174f66e/master/pass/SecurityRoundUp_09122026_v1-ezgif.com-video-to-gif-converter.gif"
+    },
+    {
+      "source": "ET Tech",
+      "title": "AI for a Billion Indians: Rahul Chari on PhonePe’s AI Strategy",
+      "summary": "",
+      "link": "https://economictimes.indiatimes.com/tech/technology/ai-for-a-billion-indians-rahul-chari-on-phonepes-ai-strategy/videoshow/134120476.cms",
+      "date": "2026-09-12T09:04:47.000Z",
+      "category": "Business & Funding",
       "region": "Global",
       "image": null
     },
@@ -151,7 +172,7 @@
     {
       "source": "SCMP Tech",
       "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
-      "summary": "A US congressional advisory body on China said on Friday that leading Chinese artificial intelligence firms declined to meet its members during a recent Beijing visit over concerns that doing so could expose the firms to US sanctions. But…",
+      "summary": "A US congressional advisory body on China said on Friday that leading Chinese artificial intelligence (AI) firms declined to meet its members during a recent Beijing visit over concerns that doing so could expose the firms to US sanctions.…",
       "link": "https://www.scmp.com/news/us/article/3367269/chinese-ai-firms-shunned-us-delegation-over-sanctions-fears-commission-says?utm_source=rss_feed",
       "date": "2026-09-11T22:36:20.000Z",
       "category": "News",
@@ -449,16 +470,6 @@
       "image": "https://media.thenextweb.com/2026/09/tencent-headquarters-building-sign.avif"
     },
     {
-      "source": "SCMP Tech",
-      "title": "As Singapore weighs joining China-led AI body, does it risk US retaliation?",
-      "summary": "As Singapore considers joining a China-led body on artificial intelligence, analysts say membership would give the city state a bigger say in global governance matters related to the technology but may invite an unfriendly response from Wa…",
-      "link": "https://www.scmp.com/week-asia/politics/article/3367253/singapore-weighs-joining-china-led-ai-body-does-it-risk-us-retaliation?utm_source=rss_feed",
-      "date": "2026-09-11T13:53:24.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/827d1873-2db0-4ec2-959b-f99b93caa5b0_5f6af2f6.jpg?itok=4d54D9Uc&v=1789134791"
-    },
-    {
       "source": "MediaNama",
       "title": "Global Fintech Fest 2026: Key product launches from agentic UPI payments to Android ATMs",
       "summary": "From the Department of Financial Services' open-source Android ATMs to NPCI's AiNxt to UPI Tap & Pay to PhonePe's Cross Border Scan to BharatPe's Agentic AI assistant for merchants - a range of products have been launched at GFF 2026. The…",
@@ -467,16 +478,6 @@
       "category": "Open Source",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Chinese robot startup JoyIn says OpenAI copied its ideas and its website",
-      "summary": "JoyIn, a Chinese robotics startup, has accused OpenAI of copying its ideas and its website. Its chief executive, Guo Renjie, set out the claims in an open letter in Chinese on the company’s WeChat account, dated 10 September. On the same d…",
-      "link": "https://thenextweb.com/news/joyin-openai-copying-claim-aether-alien-mind",
-      "date": "2026-09-11T13:30:43.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/09/OpenAI-Astra.avif"
     },
     {
       "source": "Ars Technica AI",
@@ -517,6 +518,16 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-134065674,imgsize-94480.cms"
+    },
+    {
+      "source": "AI News",
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-…",
+      "link": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "date": "2026-09-11T12:00:18.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "ET Tech",
@@ -577,16 +588,6 @@
       "category": "News",
       "region": "India",
       "image": null
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "I’ll write romance novels if AI solves all maths problems, Chinese Fields winner jokes",
-      "summary": "Deng Yu, the 37-year-old Chinese mathematician who won the 2026 Fields Medal, has a backup plan if artificial intelligence puts him out of a job. On Tuesday, he wrote on social media that “if AI can solve all maths problems, I’ll go home a…",
-      "link": "https://www.scmp.com/news/china/science/article/3367197/ill-write-romance-novels-if-ai-solves-all-maths-chinese-fields-winner-jokes?utm_source=rss_feed",
-      "date": "2026-09-11T10:00:15.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/3ae9ae40-fca1-4e4b-84be-d884635bfc2a_308cb5ba.jpg?itok=HKojHuCN&v=1789116889"
     },
     {
       "source": "OpenAI",
@@ -665,22 +666,6 @@
       ]
     },
     {
-      "source": "Japan Times",
-      "title": "New AI rules called for in U.S. after Anthropic researchers warn of human extinction",
-      "summary": "Alarm grew this week when an Anthropic researcher said the \"people building AI earnestly ​believe that it could kill us all by the end of the decade.\"",
-      "link": "https://www.japantimes.co.jp/business/2026/09/11/us-ai-rules-anthropic-safety/",
-      "date": "2026-09-11T05:29:00.000Z",
-      "category": "Research",
-      "region": "United States",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/thumbs/400x400/562500.jpg",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/more-us-lawmakers-call-for-new-ai-rules-after-anthropic-researchers-warn-of-human-extinction-11789098236542.html"
-        }
-      ]
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",
       "summary": "The company said it has added stronger safeguards in its latest models to restrict biological research that could also be used to make weapons",
@@ -690,10 +675,6 @@
       "region": "United States",
       "image": "https://bl-i.thgim.com/public/incoming/lmn63q/article71454743.ece/alternates/LANDSCAPE_1200/2026-09-10T195449Z_374685200_RC2UNLAFWGCM_RTRMADP_3_ANTHROPIC-CYBERSECURITY.JPG",
       "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-says-it-blocked-misuse-of-its-ai-that-could-have-supported-biological-weapons/articleshow/134042056.cms"
-        },
         {
           "source": "LiveMint Tech",
           "link": "https://www.livemint.com/technology/anthropic-says-it-blocked-misuse-of-its-ai-that-could-have-supported-biological-weapons-11789073499236.html"
@@ -731,6 +712,16 @@
       "image": "https://bl-i.thgim.com/public/incoming/pphitz/article71454655.ece/alternates/LANDSCAPE_1200/2026-09-02T191410Z_274712225_RC25BNA1BY8U_RTRMADP_3_G20-TECHNOLOGY.JPG"
     },
     {
+      "source": "LiveMint Tech",
+      "title": "More US lawmakers call for new AI rules after Anthropic researchers warn of human extinction",
+      "summary": "OPENAI-HUGGING-FACE:More US lawmakers call for new AI rules after Anthropic researchers warn of human extinction",
+      "link": "https://www.livemint.com/technology/more-us-lawmakers-call-for-new-ai-rules-after-anthropic-researchers-warn-of-human-extinction-11789098236542.html",
+      "date": "2026-09-11T03:43:56.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/maxresdefault_1789125872133_c987b357-7f3c-40dd-9564-490b610ca53f_1789125877406_81b55515-1a36-4d36-b2ff-d6e1045fe836_a9c398b5-e3da-4067-98ad-e4e81fd579ee_e677e1b4-8986-4694-8fde-4b8962fdc40a.jpg"
+    },
+    {
       "source": "ET Tech",
       "title": "US Senators from both parties question OpenAI on breach of AI startup Hugging Face",
       "summary": "Sen. Josh Hawley, R-Mo., launched an investigation Thursday into OpenAI for its artificial intelligence system hacking into another AI company on its own. He is seeking more details about the attack on AI startup Hugging Face, which was di…",
@@ -749,6 +740,16 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-134042384,imgsize-53590.cms"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Oracle says AI will save it from the SaaSpocalypse, not bring it on",
+      "summary": "It’s a better interface, can speed installations, and drives IaaS sales too",
+      "link": "https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736",
+      "date": "2026-09-11T02:43:10.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5295741&width=800"
     },
     {
       "source": "SiliconANGLE",
@@ -839,6 +840,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2271644469-1024x648.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms…",
+      "link": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "date": "2026-09-10T16:34:43.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "NVIDIA",
@@ -951,6 +962,16 @@
       "image": "https://media.wired.com/photos/6aa1c3b873b15b9694431f67/master/pass/Security_ClearviewAIIsTestinganAIToolThatLetsCops-ezgif.com-video-to-gif-converter.gif"
     },
     {
+      "source": "AI News",
+      "title": "JD.com expands physical AI in logistics with 3 million robots",
+      "summary": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones. The c…",
+      "link": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+      "date": "2026-09-10T10:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
       "summary": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.",
@@ -1009,6 +1030,16 @@
       "category": "Business & Funding",
       "region": "China",
       "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/maxresdefault_1789041596283_a87ea423-7473-4561-a4dc-b52b40d221f0_1789041603752_09a5b1cb-df4c-4722-a5a7-f722316bf8dc_026b726f-0f5a-4229-902c-31a36cd207f0_c60ce37e-748a-47ef-9994-c7c5eba5fe7c.jpg"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Microsoft goes after Salesforce and ERP users with AI-powered converter",
+      "summary": "Ironically, this idea lands as Salesforce is struggling to sell its own AI",
+      "link": "https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428",
+      "date": "2026-09-10T04:53:32.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://image.theregister.com/?imageId=5295433&width=800"
     },
     {
       "source": "ET CIO",
@@ -1091,16 +1122,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2199506955-1024x648.jpg"
     },
     {
-      "source": "Wired AI",
-      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-      "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
-      "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-      "date": "2026-09-09T18:30:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6aa092c74e574542e273c50f/master/pass/AI-Lab-Hacked-Gadgets-on-Home-Network-Business.jpg"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
       "summary": "\"We really do earnestly believe AI could kill all humans!\"",
@@ -1181,6 +1202,16 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-jesus2-1-1152x648.jpg"
     },
     {
+      "source": "AI News",
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "summary": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Ventur…",
+      "link": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "date": "2026-09-09T10:34:20.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Rest of World",
       "title": "Now it’s China’s experts who are gig workers training AI",
       "summary": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
@@ -1189,6 +1220,26 @@
       "category": "News",
       "region": "China",
       "image": "https://restofworld.org/wp-content/uploads/2026/09/illo_ai_pro_clones_sketch-320x320.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and Franc…",
+      "link": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "date": "2026-09-09T08:52:19.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Europe",
+      "image": null
+    },
+    {
+      "source": "The Register AI",
+      "title": "Another Microsoft team admits it’s struggling to handle flood of AI-generated code",
+      "summary": "Increase in vibe-coded browser extensions sees Edge team automate quality assessments",
+      "link": "https://www.theregister.com/software/2026/09/09/another-microsoft-team-admits-its-struggling-to-handle-flood-of-ai-generated-code/5295185",
+      "date": "2026-09-09T06:34:21.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://image.theregister.com/?imageId=5271891&width=800"
     },
     {
       "source": "MIT Tech Review",
@@ -1261,12 +1312,52 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Arm launches Total Design for Physical AI and robotics framework",
+      "summary": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account…",
+      "link": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "date": "2026-09-08T11:44:10.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "MIT Tech Review",
       "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person t…",
       "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
       "date": "2026-09-08T10:34:00.000Z",
       "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+      "summary": "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform. The Perfect Basket feature uses Coca-Cola’s Central Recommendation Engine to analyse previous orders…",
+      "link": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+      "date": "2026-09-08T10:00:00.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "summary": "Google’s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hou…",
+      "link": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "date": "2026-09-08T09:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only…",
+      "link": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "date": "2026-09-08T08:50:39.000Z",
+      "category": "Research",
       "region": "Global",
       "image": null
     },
@@ -1279,6 +1370,16 @@
       "category": "News",
       "region": "India",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-2263466/133903409.cms"
+    },
+    {
+      "source": "AI News",
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+      "summary": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global retailers and commercial shippers, pairing automated routing…",
+      "link": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+      "date": "2026-09-07T13:01:23.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "ET CIO",
@@ -1481,6 +1582,16 @@
       "image": null
     },
     {
+      "source": "The Register AI",
+      "title": "AI-assisted mushroom hunting is a recipe for a bad trip",
+      "summary": "Even the best model gets fungus identification right just 65% of the time - talk about a false friend",
+      "link": "https://www.theregister.com/offbeat/2026/09/02/ai-assisted-mushroom-hunting-is-a-recipe-for-a-bad-trip/5294060",
+      "date": "2026-09-02T20:34:41.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=241049&width=800"
+    },
+    {
       "source": "DeepMind",
       "title": "Proactive cyber defense for governments and enterprises",
       "summary": "",
@@ -1607,6 +1718,16 @@
       "image": null
     },
     {
+      "source": "The Register AI",
+      "title": "OpenClaw 2.0 pours glitter on slow-burning security dumpster fire",
+      "summary": "Making installation easier and putting a new wrapper on the interface while leaving most of the security to users is a recipe for more trouble with the popular agent harness",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/31/openclaw-20-pours-glitter-on-slow-burning-security-dumpster-fire/5293492",
+      "date": "2026-08-31T19:13:31.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=4094099&width=800"
+    },
+    {
       "source": "MIT Tech Review",
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents es…",
@@ -1637,6 +1758,16 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/08/gordon_newsletter_final-320x320.jpg"
     },
     {
+      "source": "The Register AI",
+      "title": "Microsoft's virtual intern Teams Facilitator will be late for the meeting",
+      "summary": "Teams question detection bot postpones debut, will get 2-month extension to practice interrupting you",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/28/microsofts-virtual-intern-teams-facilitator-will-be-late-for-the-meeting/5293045",
+      "date": "2026-08-28T10:29:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://image.theregister.com/?imageId=5287779&width=800"
+    },
+    {
       "source": "Hugging Face",
       "title": "The Open ASR Leaderboard Adds Its First Global South Language",
       "summary": "",
@@ -1665,6 +1796,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Salesforce boasts: 50% of bookings were from 'customers refilling the tank... they consume Flex Credits, they want more'",
+      "summary": "As SaaS giant gets a boost from Claudeforce, users might want to know how their AI use will be monetized",
+      "link": "https://www.theregister.com/software/2026/08/27/salesforce-boasts-50-of-bookings-were-from-customers-refilling-the-tank-they-consume-flex-credits-they-want-more/5292927",
+      "date": "2026-08-27T13:56:54.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5292961&width=800"
     },
     {
       "source": "NVIDIA",
@@ -1737,6 +1878,16 @@
       "image": null
     },
     {
+      "source": "The Register AI",
+      "title": "McKinsey says enterprise AI is finally 'on the road to ROI'",
+      "summary": "Fasten your seatbelt and empty that bladder: AI investment is rising, but reported enterprise earnings impact remains stubbornly flat",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/5292388",
+      "date": "2026-08-25T17:44:49.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=234929&width=800"
+    },
+    {
       "source": "Google AI",
       "title": "5 ways to upgrade your home decor with Google Search",
       "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
@@ -1745,6 +1896,26 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Canonical backs quest to translate mountains of C into safe Rust with AI",
+      "summary": "Bungs banknotes at Bristol boffins to find out if mature code survives the machine",
+      "link": "https://www.theregister.com/software/2026/08/24/canonical-backs-quest-to-translate-mountains-of-c-into-safe-rust-with-ai/5290959",
+      "date": "2026-08-24T09:27:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=1618337&width=800"
+    },
+    {
+      "source": "The Register AI",
+      "title": "Software should work, and talking about it needn't be boring",
+      "summary": "Bingeing the boxed set of binary bafflement",
+      "link": "https://www.theregister.com/columnists/2026/08/24/software-should-work-and-talking-about-it-neednt-be-boring/5290862",
+      "date": "2026-08-24T08:31:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://image.theregister.com/?imageId=5266492&width=800"
     },
     {
       "source": "DeepMind",
@@ -1784,6 +1955,26 @@
       "date": "2026-08-13T17:04:18.000Z",
       "category": "News",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
       "image": null
     }
   ]
