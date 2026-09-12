@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T22:37:09.700Z",
+  "updated": "2026-09-12T01:09:07.617Z",
   "count": 193,
   "sources": [
     "OpenAI",
@@ -51,6 +51,56 @@
   ],
   "items": [
     {
+      "source": "OpenAI",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "date": "2026-09-14T00:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Bodhan AI launches open-weight foundational AI models for Indic languages",
+      "summary": "The models cover four core capabilities and are designed to help Indian developers deploy, adapt and fine-tune multilingual and multimodal AI",
+      "link": "https://www.thehindubusinessline.com/info-tech/bodhan-ai-launches-open-weight-foundational-ai-models-for-indic-languages/article71457810.ece",
+      "date": "2026-09-12T00:38:05.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/y90k90/article71458985.ece/alternates/LANDSCAPE_1200/IndicOCR.png"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Nvidia in talks to invest in Anthropic’s mega IPO",
+      "summary": "The proposed listing could test investor appetite for frontier AI companies as Anthropic expands computing capacity and strengthens ties with major technology firms.",
+      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-in-talks-to-invest-in-anthropics-mega-ipo/article71458726.ece",
+      "date": "2026-09-11T23:50:49.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/e7mklv/article71458828.ece/alternates/LANDSCAPE_1200/2025-11-14T022009Z_1680496375_RC2BAGAE0ZNS_RTRMADP_3_NVIDIA-CHINA-CHIPS.JPG"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Salesforce introduces new AI agents to automate sales, support tasks",
+      "summary": "Salesforce Inc. today introduced a series of artificial intelligence agents designed to make sales and technical support teams more productive. The agents are rolling out alongside a new version of Agentforce Coworker, an automation tool b…",
+      "link": "https://siliconangle.com/2026/09/11/salesforce-introduces-new-ai-agents-to-automate-sales-support-tasks/",
+      "date": "2026-09-11T23:40:26.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/salesforce.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "date": "2026-09-11T22:58:17.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "SCMP Tech",
       "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
       "summary": "A US congressional advisory body on China said on Friday that leading Chinese artificial intelligence firms declined to meet its members during a recent Beijing visit over concerns that doing so could expose the firms to US sanctions. But…",
@@ -82,12 +132,12 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
-      "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "date": "2026-09-11T20:59:47.000Z",
       "category": "Open Source",
-      "region": "Global",
+      "region": "China",
       "image": null
     },
     {
@@ -279,6 +329,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://media.thenextweb.com/2026/08/georgia-power-demolishing-homes-ai-data-centres-zuckerberg-agents.avif"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "date": "2026-09-11T16:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -733,16 +793,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-11-08-51-48.png"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Salesforce introduces Enterprise AI Harness, AI Control Plane",
-      "summary": "Salesforce Inc. today previewed two offerings that will help customers build and manage artificial intelligence agents. Developers turn a large language model into an agent by extending it with various add-ons. Those add-ons can include pr…",
-      "link": "https://siliconangle.com/2026/09/10/salesforce-introduces-enterprise-ai-harness-ai-control-plane/",
-      "date": "2026-09-11T00:19:52.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Salesforce1.png"
-    },
-    {
       "source": "Wired AI",
       "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
       "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
@@ -770,16 +820,6 @@
       "date": "2026-09-10T21:35:00.000Z",
       "category": "Business & Funding",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "date": "2026-09-10T20:59:51.000Z",
-      "category": "News",
-      "region": "United States",
       "image": null
     },
     {
@@ -993,26 +1033,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/xnbuj2/article71450487.ece/alternates/LANDSCAPE_1200/2026-09-09T135519Z_1777712735_RC2UFZ9IW4GP_RTRMADP_3_OPENAI-CYBERSECURITY-ROGUE-AGENTS.JPG"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Nvidia plans major expansion of data centre capacity in Australia to meet AI demand",
-      "summary": "The chip company is collaborating with Australian firms like Firmus, CDC, NEXTDC, and AirTrunk to develop up to 2 gigawatts of AI-related capacity by 2027",
-      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-plans-major-expansion-of-data-centre-capacity-in-australia-to-meet-ai-demand/article71450101.ece",
-      "date": "2026-09-10T06:36:51.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/zi4ol0/article71450486.ece/alternates/LANDSCAPE_1200/2026-09-10T010504Z_1503528956_RC2URLAM3T99_RTRMADP_3_NVIDIA-JUSTICE-DEPARTMENT-GROQ.JPG"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "DeepSeek launches V4.1-Flash with faster inference and higher throughput",
-      "summary": "The Chinese startup said the latest model focuses on greater capability, faster inference, higher throughput and scaling to larger models",
-      "link": "https://www.thehindubusinessline.com/info-tech/deepseek-launches-v41-flash-with-faster-inference-and-higher-throughput/article71450480.ece",
-      "date": "2026-09-10T06:30:40.000Z",
-      "category": "Product",
-      "region": "China",
-      "image": "https://bl-i.thgim.com/public/incoming/rfb92k/article71450490.ece/alternates/LANDSCAPE_1200/2026-09-09T061207Z_1972347325_RC2GXCA47A54_RTRMADP_3_DEEPSEEK-IPO.JPG"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Chinas AI chipmakers raise prices as high-bandwidth memory shortage bites",
       "summary": "CHINA-AI/MEMORY (EXCLUSIVE,PIX):EXCLUSIVE-China's AI chipmakers raise prices as high-bandwidth memory shortage bites",
@@ -1123,16 +1143,6 @@
       "image": "https://media.wired.com/photos/6aa092c74e574542e273c50f/master/pass/AI-Lab-Hacked-Gadgets-on-Home-Network-Business.jpg"
     },
     {
-      "source": "OpenAI",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "date": "2026-09-09T17:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
       "summary": "\"We really do earnestly believe AI could kill all humans!\"",
@@ -1211,16 +1221,6 @@
       "category": "Policy & Safety",
       "region": "United States",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-jesus2-1-1152x648.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "date": "2026-09-09T11:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "AI News",
