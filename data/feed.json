@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T18:16:47.796Z",
-  "count": 191,
+  "updated": "2026-09-17T21:29:57.295Z",
+  "count": 192,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,224 @@
   ],
   "items": [
     {
+      "source": "SiliconANGLE",
+      "title": "Nvidia, Google and Emerald AI launch flexible data center consortium",
+      "summary": "Nvidia Corp., Google LLC and software startup Emerald AI Inc. have formed an industry consortium to promote the construction of flexible data centers. The AI Energy Management Alliance, or AEMA, officially launched on Wednesday. A flexible…",
+      "link": "https://siliconangle.com/2026/09/17/nvidia-google-and-emerald-ai-launch-flexible-data-center-consortium/",
+      "date": "2026-09-17T20:37:36.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Nvidia.png",
+      "relatedSources": [
+        {
+          "source": "NVIDIA",
+          "link": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/"
+        }
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The fix for rogue AI agents could be more AI",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "date": "2026-09-17T20:34:47.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "date": "2026-09-17T20:34:24.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Advanced AI Society joins the Linux Foundation, launches open verification ecosystem as Congress moves on agent security",
+      "summary": "New York, NY, September 17th, 2026, TechnologyWire As bipartisan legislation demands verifiable agent controls, the Advanced AI Society releases the Proof-of-Control v1.0 draft for public comment and hosts “Who’s Watching the Machines?” ev…",
+      "link": "https://thenextweb.com/news/advanced-ai-society-linux-foundation-proof-of-control",
+      "date": "2026-09-17T20:25:40.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/advanced-ai-society-linux-foundation-proof-of-control.avif"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "date": "2026-09-17T20:24:34.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-1152x648.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "AI agents erase the paper trail, reshaping audit assurance",
+      "summary": "Enterprise audit teams are finding that the evidence trail they depend on does not survive contact with AI agents. Financial and operational data still sits across NetSuite, human resources platforms and data lakes, but the judgment calls…",
+      "link": "https://siliconangle.com/2026/09/17/netsuite-ai-agents-new-audit-assurance-gap-amplify/",
+      "date": "2026-09-17T20:22:32.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_0929-scaled.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Is the AI safety debate about safety or control?",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "date": "2026-09-17T20:19:37.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "date": "2026-09-17T20:10:41.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-907415308-1152x648.jpg",
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+        }
+      ]
+    },
+    {
+      "source": "Google AI",
+      "title": "Making global data easier to explore",
+      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "date": "2026-09-17T20:00:00.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "date": "2026-09-17T20:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Wired AI",
+      "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
+      "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
+      "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
+      "date": "2026-09-17T19:58:28.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6aab095b6efac6d4d3b8cb0b/master/pass/AI-Slowdown-Antitrust-Mess-Business.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Andrew Ng calls the AI extinction warnings science fiction",
+      "summary": "Andrew Ng, who helped start Google Brain and Coursera, told Bloomberg TV that warnings of human extinction from AI are much more science fiction than science, and that the industry stokes them for publicity and to shape regulation. The EU…",
+      "link": "https://thenextweb.com/news/andrew-ng-extinction-science-fiction",
+      "date": "2026-09-17T19:30:21.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/09/andrew-ng-speaking-techcrunch-disrupt.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Microsoft puts post-quantum interoperability to a real-world test",
+      "summary": "Post-quantum interoperability depends on more than whether individual algorithms work. As quantum readiness moves from planning to implementation, testing becomes the bridge between technical standards and deployable protections. Microsoft…",
+      "link": "https://siliconangle.com/2026/09/17/microsoft-tests-post-quantum-interoperability-digicertworldquantumreadinessday/",
+      "date": "2026-09-17T19:16:27.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Lakshmi-Hanspal-DigiCert-and-Karina-Sirota-Goodley-Microsoft-%E2%80%93-DigiCerts-World-Quantum-Readiness-Day-event-2026-2.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Crusoe raises $3.9bn and starts trucking data centres to spare power",
+      "summary": "“Getting there means controlling the infrastructure from electrons to tokens,” said Chase Lochmiller, co-founder and chief executive of Crusoe. He was describing what he called an era of abundance brought by AI. The Denver company announce…",
+      "link": "https://thenextweb.com/news/crusoe-3-9-billion-series-f-30-9-billion-valuation-spark",
+      "date": "2026-09-17T18:59:23.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/crusoe-founders-lochmiller-cavness.avif"
+    },
+    {
+      "source": "Wired AI",
+      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
+      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+      "date": "2026-09-17T18:42:25.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6aab113b6146f3a3b3e310bc/master/pass/Model-Behavior-Year-Dreamforce-Was-Overtaken-by--Debate-Over-Existential-AI-Fears-Business.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Nebius hikes AI cloud prices again as demand for computing power soars",
+      "summary": "Demand for computing capacity to train and run AI models is surging; rival CoreWeave said earlier in the day that it is signing contracts at higher prices.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/nebius-hikes-ai-cloud-prices-again-as-demand-for-computing-power-soars/articleshow/134320037.cms",
+      "date": "2026-09-17T18:37:32.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-134320037,imgsize-6469302.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards",
+      "summary": "The company provided its views in response to a Reuters inquiry days after many of the largest labs called for slower AI development, following an outcry among researchers and others who fear the technology could evade human control and th…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/amazon-enters-ai-safety-fray-calls-for-rigorous-testing-safeguards/articleshow/134320013.cms",
+      "date": "2026-09-17T18:35:54.000Z",
+      "category": "Research",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-134320013,imgsize-2343097.cms"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Comp AI raises $34m to turn compliance into continuous monitoring",
+      "summary": "“Security software shouldn’t just track the work. It should understand the business, perform the work, and act as risk changes,” said Lewis Carhart, chief executive and co-founder of Comp AI. The Miami company has raised a $34m Series A le…",
+      "link": "https://thenextweb.com/news/comp-ai-34m-series-a-agentic-compliance-security",
+      "date": "2026-09-17T18:33:28.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/comp-ai-founders-carhart-fuentes-brothers.avif",
+      "relatedSources": [
+        {
+          "source": "SiliconANGLE",
+          "link": "https://siliconangle.com/2026/09/17/compliance-automation-startup-comp-ai-raises-34m-to-push-into-security/"
+        }
+      ]
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "date": "2026-09-17T18:33:13.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Pinterest launches Visual Search Ads at its advertiser summit",
+      "summary": "“Traditional search advertising has long relied on keywords, but in an AI-driven world, people are expressing themselves in much richer ways,” said Bill Ready, chief executive of Pinterest. The company announced Visual Search Ads on 17 Sep…",
+      "link": "https://thenextweb.com/news/pinterest-visual-search-ads-performance-restyle",
+      "date": "2026-09-17T18:11:26.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/pinterest-san-francisco-headquarters-lobby.avif"
+    },
+    {
       "source": "The Next Web",
       "title": "Nvidia’s Huang expects to sell twice as many chips next year",
       "summary": "Jensen Huang told reporters at King Charles III’s AI summit in Scotland that he expects to sell twice as many chips in the coming year. Nvidia’s own August guidance was 70% revenue growth, with a doubling described as what the company coul…",
@@ -70,6 +288,16 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://media.thenextweb.com/2026/09/finnur-pind-treble-anechoic-chamber.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Even the king of England has his hesitations about AI",
+      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "date": "2026-09-17T17:26:25.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "The Next Web",
@@ -110,16 +338,6 @@
       "category": "News",
       "region": "Europe",
       "image": "https://media.thenextweb.com/2026/06/spacex-colossus-1-technical-problems-rented-anthropic.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "King Charles asks AI chiefs to keep the technology under human control",
-      "summary": "“Those in our world who value deeply our humanity and its vital moral component are anxiously seeking your reassurance that we will not lose control of our destiny, or our souls,” King Charles III told AI leaders on 17 September. The King…",
-      "link": "https://thenextweb.com/news/king-charles-ai-summit-existential-dangers-hassabis-friar",
-      "date": "2026-09-17T16:32:41.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/09/king-charles-windsor-castle-gallery-2023.avif"
     },
     {
       "source": "Hindu BusinessLine",
@@ -182,26 +400,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/7fwdu/article71477767.ece/alternates/LANDSCAPE_1200/20260917336L.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "House Democrats push Johnson to cancel the recess to legislate on AI",
-      "summary": "“This is not a Republican or Democratic issue. This is an American issue, and it is a global issue,” House Democratic Whip Katherine Clark said on 17 September. Her party is pressing Republicans to stay in Washington and legislate on AI. C…",
-      "link": "https://thenextweb.com/news/house-democrats-cancel-recess-ai-safety-jeffries",
-      "date": "2026-09-17T15:57:30.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/09/hakeem-jeffries-speaking-house-floor-us-flag.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Pentagon CTO Emil Michael says the US should not take stakes in AI firms",
-      "summary": "“We don’t want government to get in the middle,” Emil Michael, the Pentagon’s chief technology officer, told CNBC when asked about government stakes in AI companies. Michael appeared on CNBC’s Squawk on the Street on 16 September. Asked wh…",
-      "link": "https://thenextweb.com/news/emil-michael-pentagon-ai-stakes-regulation-cnbc",
-      "date": "2026-09-17T15:02:35.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/09/emil-michael-pentagon-courtyard-autonomous-systems-display.avif"
-    },
-    {
       "source": "ET Tech",
       "title": "GlobalFoundries, Marvell expand chip capacity deal for AI data center connectivity",
       "summary": "The multi-year agreement will increase capacity for GlobalFoundries' silicon germanium (SiGe) technology, which enables faster and more energy-efficient semiconductor devices, at its facility in Burlington, Vermont.",
@@ -262,16 +460,6 @@
       "image": "https://img.etimg.com/photo/msid-134314115,imgsize-3323864.cms"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "date": "2026-09-17T13:46:16.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "ET Tech",
       "title": "CoreWeave launches $3 billion convertible debt sale",
       "summary": "Nvidia-backed CoreWeave said on Thursday it plans to raise $3 billion through a convertible debt offering, highlighting the massive funding needs to support the AI infrastructure.",
@@ -280,16 +468,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-134313784,imgsize-62797.cms"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "date": "2026-09-17T13:38:33.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -330,16 +508,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/ai-perceptions-snapshot-summary.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Compliance automation startup Comp AI raises $34M to push into security",
-      "summary": "Compliance automation startup Comp AI today said it has raised $34 million in new funding to advance its software for preparing companies for security audits. Comp AI plans to spend the money on monitoring that keeps running long after an…",
-      "link": "https://siliconangle.com/2026/09/17/compliance-automation-startup-comp-ai-raises-34m-to-push-into-security/",
-      "date": "2026-09-17T13:00:21.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/compai.png"
     },
     {
       "source": "Japan Times",
@@ -542,16 +710,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/SOUTHKOREA-TV--0_1778146592421_1778146611155_1789622063784_hza7_8abeb83b-3bc3-4154-b575-89467d70420d_co0e.JPG"
     },
     {
-      "source": "ET Tech",
-      "title": "King Charles to call on tech giants for 'reassurances' over AI",
-      "summary": "King Charles III will urge tech giants to ensure that artificial intelligence is geared to serve humanity and that mankind does \"not lose control\", during a conference in Scotland on Thursday. \"Those in our world who value our humanity and…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/king-charles-to-call-on-tech-giants-for-reassurances-over-ai/articleshow/134302693.cms",
-      "date": "2026-09-17T05:37:01.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134302693,imgsize-130618.cms"
-    },
-    {
       "source": "Japan Times",
       "title": "AI is reviving Chinese Marxist economics",
       "summary": "China's Marxist economists argue that AI-driven automation could eliminate the rent trap and undermine capitalism's foundations.",
@@ -560,26 +718,6 @@
       "category": "News",
       "region": "China",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/561521.jpg"
-    },
-    {
-      "source": "ET Tech",
-      "title": "What AI leaders and world governments have to say about 'AI doom' fears",
-      "summary": "AI industry leaders are split over how fast companies should develop the increasingly powerful technology: Anthropic's Dario Amodei, OpenAI's Sam Altman and SpaceX's Elon Musk are seeking a coordinated slowdown, while Meta's Mark Zuckerber…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-ai-leaders-and-world-governments-have-to-say-about-ai-doom-fears/articleshow/134302406.cms",
-      "date": "2026-09-17T05:18:07.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134302406,imgsize-779478.cms"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "date": "2026-09-17T05:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -628,16 +766,6 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563547.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disr…",
-      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "date": "2026-09-17T03:30:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "ET CIO",
       "title": "The 12 decisions that determine whether enterprise AI succeeds",
       "summary": "From data ownership to agentic AI, governance to change management, Anupam Arora of Bharat Forge shares a practical playbook for turning AI experiments into enterprise-wide impact.",
@@ -649,23 +777,13 @@
     },
     {
       "source": "SiliconANGLE",
-      "title": "Open-weight model developer Arcee AI reaches $1B-plus valuation with new funding",
+      "title": "Open-weight model developer Arcee AI reaches $1B+ valuation with new funding",
       "summary": "Open-weight artificial intelligence model developer Arcee AI Inc. said today it has raised an undisclosed amount of cash in a new funding round that lifts its valuation to more than $1 billion. The Series B round was led by Vista Equity Pa…",
       "link": "https://siliconangle.com/2026/09/16/open-weight-model-developer-arcee-ai-reaches-1b-plus-valuation-with-undisclosed-series-b-funding/",
       "date": "2026-09-17T02:26:20.000Z",
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-17-09-23-23.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "OpenAI unveils new framework for reporting ‘AI misalignment’ as it reveals six more worrying incidents",
-      "summary": "OpenAI Group PBC today disclosed six new “concerning” incidents involving artificial intelligence agents behaving badly again. The agents made up data, moved files onto the public internet without permission and hid their mistakes from the…",
-      "link": "https://siliconangle.com/2026/09/16/openai-unveils-new-framework-for-reporting-ai-misalignment-as-it-reveals-six-more-worrying-incidents/",
-      "date": "2026-09-17T01:39:26.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/OpenAI-2.png"
     },
     {
       "source": "LiveMint Tech",
@@ -678,16 +796,6 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "date": "2026-09-17T00:58:49.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "LiveMint Tech",
       "title": "OpenAI to regularly disclose AI misbehavior, warns safety challenges remain",
       "summary": "AI-SAFETY-OPENAI:OpenAI to regularly disclose AI misbehavior, warns safety challenges remain",
@@ -698,39 +806,13 @@
       "image": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/maxresdefault_1789657551995_at54_1789657557643_hfQM_4e521d3c-8234-4145-98cd-ef77c7f878f3_3bUy.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Inference hardware startup Delos Data raises $100M+ in funding",
-      "summary": "Delos Data Inc., a startup that develops hardware for artificial intelligence clusters, has raised more than $100 million in funding. The capital was provided by Matrix, Playground, Socratic Partners, Capricorn, Matter Venture Partners and…",
-      "link": "https://siliconangle.com/2026/09/16/inference-hardware-startup-delos-data-raises-100m-in-funding/",
-      "date": "2026-09-17T00:21:04.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Delos-Data.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Anthropic brings Cowork directly inside Claude’s chat interface",
-      "summary": "Anthropic PBC said today it’s trying to make life simpler for its customers by merging its regular chatbot Claude with its agentic artificial intelligence tool Claude Cowork. The merger, which went into effect immediately, came as the comp…",
-      "link": "https://siliconangle.com/2026/09/16/anthropic-brings-cowork-directly-inside-claudes-chat-interface/",
-      "date": "2026-09-16T23:45:27.000Z",
-      "category": "Business & Funding",
+      "source": "OpenAI",
+      "title": "Introducing Astra for Law",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "link": "https://openai.com/index/astra-for-law",
+      "date": "2026-09-17T00:00:00.000Z",
+      "category": "News",
       "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Claude.png",
-      "relatedSources": [
-        {
-          "source": "Hindu BusinessLine",
-          "link": "https://www.thehindubusinessline.com/info-tech/anthropic-combines-claude-chat-cowork-and-design-into-one-interface/article71473861.ece"
-        }
-      ]
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "date": "2026-09-16T23:43:09.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
       "image": null
     },
     {
@@ -824,6 +906,16 @@
       "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/Untitled_design_-_2026-09-16T221040.328_1789576838154_LcGw_1789576848033_8KOA_2b8a4746-4d95-4e4d-93b6-65979be6134c_lztJ.png"
     },
     {
+      "source": "Hindu BusinessLine",
+      "title": "Anthropic combines Claude chat, Cowork and Design into one interface",
+      "summary": "The update aims to simplify AI-powered work by automatically deploying the capabilities needed for tasks without requiring users to switch tools",
+      "link": "https://www.thehindubusinessline.com/info-tech/anthropic-combines-claude-chat-cowork-and-design-into-one-interface/article71473861.ece",
+      "date": "2026-09-16T16:34:57.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/g3or3q/article71473869.ece/alternates/LANDSCAPE_1200/2026-09-16T142733Z_2095445683_RC2QRLAPLIUT_RTRMADP_3_AI-SAFETY-MICROSOFT-SULEYMAN.JPG"
+    },
+    {
       "source": "OpenAI",
       "title": "Helping older adults use AI in everyday life",
       "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
@@ -862,16 +954,6 @@
       "category": "People & Leadership",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "NVIDIA",
-      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy M…",
-      "link": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
-      "date": "2026-09-16T13:00:33.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/aema-main-feature.png"
     },
     {
       "source": "OpenAI",
@@ -1174,26 +1256,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Wang-Xingxing-Unitree-Robotics-1152x648.jpg"
     },
     {
-      "source": "Ars Technica AI",
-      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-      "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
-      "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-      "date": "2026-09-14T19:28:42.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-1152x648-1789411862.jpg"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "AI leaders want to hit the brakes after years of reckless speed",
-      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-      "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-      "date": "2026-09-14T19:06:13.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-1152x648-1789407457.jpg"
-    },
-    {
       "source": "Google AI",
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
       "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
@@ -1304,16 +1366,6 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/09/illo_real_world_AI_header_FINAL-320x320.jpg"
     },
     {
-      "source": "Wired AI",
-      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
-      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
-      "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-      "date": "2026-09-14T09:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/master/pass/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg"
-    },
-    {
       "source": "AI News",
       "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
       "summary": "Deloitte’s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one…",
@@ -1362,26 +1414,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Wired AI",
-      "title": "AI Agents Are Thirsty for Power",
-      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
-      "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-      "date": "2026-09-13T10:00:00.000Z",
-      "category": "Hardware & Infra",
-      "region": "United States",
-      "image": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/master/pass/DataCenterColumn2.jpg"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "I spent $4,000 on a robot dog from China",
-      "summary": "Unitree might be the world’s most important robotics company.",
-      "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-      "date": "2026-09-12T11:00:53.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-1152x648.jpg"
     },
     {
       "source": "ET CIO",
@@ -1462,16 +1494,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "date": "2026-09-10T16:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Google AI",
@@ -1801,13 +1823,7 @@
       "date": "2026-09-02T16:24:24.000Z",
       "category": "Security & Cyber Risk",
       "region": "Global",
-      "image": null,
-      "relatedSources": [
-        {
-          "source": "Google AI",
-          "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
-        }
-      ]
+      "image": null
     },
     {
       "source": "DeepMind",
