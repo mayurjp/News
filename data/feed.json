@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T06:20:45.675Z",
-  "count": 183,
+  "updated": "2026-09-20T12:25:07.729Z",
+  "count": 195,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -45,10 +45,61 @@
     "China",
     "Europe",
     "South Korea",
+    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "SCMP Tech",
+      "title": "Does Trump’s new AI Force signal tech race escalation ahead of Xi Jinping summit?",
+      "summary": "US President Donald Trump has unveiled a new “AI Force” just days ahead of a state visit by Chinese leader Xi Jinping, in a potential escalation of the high-stakes technology race between the rival powers. Experts said the proposed AI Forc…",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3368158/does-trumps-new-ai-force-signal-tech-race-escalation-ahead-xi-jinping-summit?utm_source=rss_feed",
+      "date": "2026-09-20T12:00:11.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/20/1bc84a4b-748d-4b06-a163-c1ea3bcc7cc2_e7c3c303.jpg?itok=P9pSmFMJ&v=1789901489"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+      "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "date": "2026-09-20T10:30:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6aaa7e94f251bfe9554bf013/master/pass/091626-Meta%20Muse.jpg"
+    },
+    {
+      "source": "Wired AI",
+      "title": "It’s Donald Trump Versus MAGA on Data Centers",
+      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+      "date": "2026-09-20T10:30:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6aad9a65289841154fbf8f24/master/pass/Trump-MAGA-Data-Centers-Column-Science.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Indian firms moving AI from pilots towards deployment: Salesforce",
+      "summary": "Elaborating on Salesforce's India plans, Bhattacharya said a new tower in Bengaluru is expected to come on stream next calendar year as one of its investments in the country",
+      "link": "https://www.thehindubusinessline.com/info-tech/indian-firms-moving-ai-from-pilots-towards-deployment-salesforce/article71487414.ece",
+      "date": "2026-09-20T09:06:30.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/zgss3q/article71487448.ece/alternates/LANDSCAPE_1200/IMG_1603.jpeg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "AI-to-AI communication could change how ads are bought and sold: Report",
+      "summary": "Artificial intelligence could change the way advertisements are bought and sold by enabling automated communication between systems, reducing manual coordination across the fragmented advertising ecosystem, according to a report by ADvendi…",
+      "link": "https://www.livemint.com/technology/aitoai-communication-could-change-how-ads-are-bought-and-sold-report-11789885296164.html",
+      "date": "2026-09-20T06:21:35.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
+    },
     {
       "source": "Hindu BusinessLine",
       "title": "Trump announces ‘AI Force’, plans to appoint ‘AI Czar’ as he vows to keep US ahead of China",
@@ -73,11 +124,21 @@
       "source": "Japan Times",
       "title": "Data center command hub keeps AI up and running",
       "summary": "The goal is not simply to react when something breaks, but to detect warning signs early enough to prevent disruption.",
-      "link": "https://www.japantimes.co.jp/business/2026/09/20/digital-realty-data-command-center/",
+      "link": "https://www.japantimes.co.jp/business/2026/09/20/companies/digital-realty-data-command-center/",
       "date": "2026-09-20T04:42:00.000Z",
       "category": "Hardware & Infra",
       "region": "Global",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564074.jpg"
+    },
+    {
+      "source": "Japan Times",
+      "title": "Altman’s opaque AI is creating a new security dilemma",
+      "summary": "OpenAI has launched a new model called Astra that uses a method called \"recurrent depth\" that can make reasoning more efficient.",
+      "link": "https://www.japantimes.co.jp/commentary/2026/09/20/world/opaque-ai-security-dilemma/",
+      "date": "2026-09-20T03:55:00.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/561388.jpg"
     },
     {
       "source": "Hindu BusinessLine",
@@ -140,22 +201,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/19/9aa1a72f-645b-4159-b8d3-afd123e5e8d0_e396b965.jpg?itok=jYdfo-6Y&v=1789788375"
     },
     {
-      "source": "Japan Times",
-      "title": "Trump says he will appoint a new AI adviser, without providing details",
-      "summary": "Fears are growing in Washington among lawmakers about the risks posed by AI technology on humans and property.",
-      "link": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/trump-ai-adviser/",
-      "date": "2026-09-19T22:43:00.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564036.jpg",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/trump-says-he-will-appoint-a-new-ai-adviser-without-providing-details-11789842927744.html"
-        }
-      ]
-    },
-    {
       "source": "SiliconANGLE",
       "title": "AI governance moves from observability to provable control",
       "summary": "As artificial intelligence agents move from experimental tools into production systems, enterprise governance is being forced to answer a harder question. It is no longer enough to know what an agent did. Organizations increasingly need to…",
@@ -210,6 +255,16 @@
       "category": "News",
       "region": "Europe",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/agntcon2-jasonbloomberg-scaled.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Trump says he will appoint a new AI adviser, without providing details",
+      "summary": "AI-TRUMP:Trump says he will appoint a new AI adviser, without providing details",
+      "link": "https://www.livemint.com/technology/trump-says-he-will-appoint-a-new-ai-adviser-without-providing-details-11789842927744.html",
+      "date": "2026-09-19T18:35:27.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
       "source": "SCMP Tech",
@@ -320,16 +375,6 @@
       "category": "Security & Cyber Risk",
       "region": "Global",
       "image": "https://media.wired.com/photos/6aada5d618f30d6f17ee2971/master/pass/Kernal-Panic-AI-SlowDown-Wont-Stop-Security-Vulnerability-Explosion-Security.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "People in China earn between US$7 and US$15,000 by licensing faces to AI content producers",
-      "summary": "In China, an increasing number of digital face-licensing platforms are connecting ordinary individuals with content creators, enabling them to authorise the use of their likenesses in AI-generated short dramas, advertisements, and games. S…",
-      "link": "https://www.scmp.com/news/people-culture/trending-china/article/3368108/people-china-earn-between-us7-and-us15000-licensing-faces-ai-content-producers?utm_source=rss_feed",
-      "date": "2026-09-19T10:02:47.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/19/59bd4828-b615-4868-a361-92663ce22ed4_fec352d1.jpg?itok=5de2j7ss&v=1789812157"
     },
     {
       "source": "LiveMint Tech",
@@ -500,16 +545,6 @@
       "image": "https://media.thenextweb.com/2026/05/nvidia-photonics-investment-copper-bottleneck-ai-data-centre.avif"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Disney names AI executive as first-ever chief technology officer",
-      "summary": "Disney has had chief technology officers for its business units, but never in a corporate-wide role",
-      "link": "https://www.thehindubusinessline.com/info-tech/disney-names-ai-executive-as-first-ever-chief-technology-officer/article71483661.ece",
-      "date": "2026-09-19T07:01:19.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/3k85d2/article71483901.ece/alternates/LANDSCAPE_1200/1764446243040.jpg"
-    },
-    {
       "source": "The Next Web",
       "title": "Trump and Xi already talked AI guardrails once this year. Nothing was signed, and no chips shipped.",
       "summary": "Sam Altman, Jensen Huang and Tim Cook are expected at the state dinner Donald Trump is hosting for Xi Jinping on 24 September. The same executives were on the Beijing trip in May, where AI safety was discussed, nothing was signed and the U…",
@@ -538,16 +573,6 @@
       "category": "News",
       "region": "China",
       "image": "https://img.etimg.com/photo/msid-134347572,imgsize-57422.cms"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Google says Gemini AI model breached real systems in security test",
-      "summary": "Google’s consumer AI model Gemini hacked multiple systems through guessing login credentials, the company said, the latest case of rogue AI cybersecurity transgressions, which have generated safety concerns. The hacks, first reported by th…",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3368090/google-says-gemini-ai-model-breached-real-systems-security-test?utm_source=rss_feed",
-      "date": "2026-09-19T04:02:58.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/19/4e694c15-94a5-4a2c-ae67-32aa2c5c3510_1a3c2e35.jpg?itok=ZmEYMeN5&v=1789790562"
     },
     {
       "source": "LiveMint Tech",
@@ -806,6 +831,16 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
     },
     {
+      "source": "AI News",
+      "title": "Gartner outlines four AI tiers in warehouse automation",
+      "summary": "Gartner reports that warehouse automation now spans four operational AI tiers as logistics operators transition from software trials to live facility deployments. In an analysis released this month, the research firm concludes that logisti…",
+      "link": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/",
+      "date": "2026-09-18T12:49:34.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "OpenAI",
       "title": "Introducing the Australian Youth Safety Blueprint",
       "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
@@ -876,24 +911,14 @@
       "image": null
     },
     {
-      "source": "Wired AI",
-      "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
-      "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-      "date": "2026-09-18T09:15:00.000Z",
+      "source": "AI News",
+      "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
+      "summary": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra’s multiplayer capabilities, people can get agent to agent collaboration without having to lock-in to any AI model. B…",
+      "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
+      "date": "2026-09-18T09:15:15.000Z",
       "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/master/pass/Napster_lead.jpg"
-    },
-    {
-      "source": "Wired AI",
-      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
-      "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-      "date": "2026-09-18T09:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/master/pass/091526-Bioweapon%20AI.jpg"
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Analytics Vidhya",
@@ -914,16 +939,6 @@
       "category": "Policy & Safety",
       "region": "India",
       "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "India has ‘building blocks’ for semiconductor growth, must bridge knowledge, market gaps: L&T Semiconductor Tech CEO",
-      "summary": "India has the building blocks to strengthen its position in the semiconductor industry but must bridge knowledge and global market-exposure gaps, L&T Semiconductor Technologies CEO Sandeep Kumar said, highlighting artificial intelligence (…",
-      "link": "https://www.livemint.com/technology/india-has-building-blocks-for-semiconductor-growth-must-bridge-knowledge-market-gaps-l-t-semiconductor-tech-ceo-11789708579964.html",
-      "date": "2026-09-18T05:16:19.000Z",
-      "category": "People & Leadership",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
       "source": "Ars Technica AI",
@@ -1006,6 +1021,26 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+      "summary": "The Adecco Group is rolling out Salesforce’s Agentforce Coworker across more than 40 countries following a pilot in the UK and France, the staffing group announced on September 15. The group said the rollout brings agentic AI into the dail…",
+      "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
+      "date": "2026-09-17T11:00:00.000Z",
+      "category": "Product",
+      "region": "Europe",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "Lidl deploys driverless truck for store deliveries in Germany",
+      "summary": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany, assigning it a daily replenishment route between its Edermünde distribution centre and a nearby store. The truck, supplied by Swedish frei…",
+      "link": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
+      "date": "2026-09-17T10:00:00.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Europe",
+      "image": null
+    },
+    {
       "source": "Analytics Vidhya",
       "title": "LLMOps vs MLOps vs AgentOps: What Changes When You’re Operating Language Models at Scale",
       "summary": "Putting AI into production now takes more than deploying a model and tracking accuracy. MLOps made traditional ML manageable, while LLMOps added concerns around prompts, retrieval, evaluation, latency, and cost. AgentOps adds another layer…",
@@ -1076,6 +1111,16 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/mlperf-inference-6-1.png"
     },
     {
+      "source": "AI News",
+      "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+      "summary": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic’s January 2026 constitution, a primary train…",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+      "date": "2026-09-16T14:47:32.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "NVIDIA",
       "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
       "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy M…",
@@ -1122,6 +1167,16 @@
       "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "date": "2026-09-16T12:00:00.000Z",
       "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+      "summary": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated deterministic logic can now bypass con…",
+      "link": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+      "date": "2026-09-16T10:31:09.000Z",
+      "category": "Research",
       "region": "Global",
       "image": null
     },
@@ -1266,6 +1321,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
+      "summary": "Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this Level 4 (L4) heavy rig marks the fourth-generation (Gen-4) i…",
+      "link": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
+      "date": "2026-09-15T11:15:57.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "MIT Tech Review",
       "title": "What’s at stake in AI’s trillion-dollar gamble",
       "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she starte…",
@@ -1284,6 +1349,16 @@
       "category": "Open Source",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/CHOP_still.png"
+    },
+    {
+      "source": "AI News",
+      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem. By Sunny Sandhu, Senior Immigr…",
+      "link": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+      "date": "2026-09-15T07:14:47.000Z",
+      "category": "People & Leadership",
+      "region": "Europe",
+      "image": null
     },
     {
       "source": "Google AI",
@@ -1326,6 +1401,16 @@
       "image": null
     },
     {
+      "source": "AI News",
+      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+      "summary": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and deployment. The draft serves as a technical manual defining system behaviour, operatio…",
+      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+      "date": "2026-09-14T15:30:41.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "NVIDIA",
       "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
       "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multis…",
@@ -1354,6 +1439,16 @@
       "category": "News",
       "region": "United States",
       "image": "https://restofworld.org/wp-content/uploads/2026/09/illo_real_world_AI_header_FINAL-320x320.jpg"
+    },
+    {
+      "source": "AI News",
+      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+      "summary": "Deloitte’s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one…",
+      "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "date": "2026-09-14T08:04:35.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "ET CIO",
@@ -1924,6 +2019,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     },
     {
       "source": "BAIR",
