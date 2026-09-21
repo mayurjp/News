@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T06:24:22.109Z",
+  "updated": "2026-09-21T14:13:33.348Z",
   "count": 198,
   "sources": [
     "OpenAI",
@@ -52,14 +52,310 @@
   ],
   "items": [
     {
-      "source": "Japan Times",
-      "title": "U.S. seeks ‘AI dialogue’ with China as officials set stage for Trump-Xi summit",
-      "summary": "Both sides are looking to ease tensions on trade, technology and other strategic concerns.",
-      "link": "https://www.japantimes.co.jp/business/2026/09/21/bessent-china-talks-ai-trade/",
-      "date": "2026-09-21T06:12:00.000Z",
+      "source": "SCMP Tech",
+      "title": "World leaders meet at UN as planet grapples with climate change, wars, runaway AI",
+      "summary": "Under a global cloud of wars and bitter divisions, world leaders meet at the United Nations in New York this week facing new fears that runaway artificial intelligence could threaten humanity even as climate shocks and escalating prices ar…",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3368291/world-leaders-meet-un-planet-grapples-climate-change-wars-runaway-ai?utm_source=rss_feed",
+      "date": "2026-09-21T13:54:07.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/50be42c9-f015-4eda-a51e-8014ad8eea25_bec0c773.jpg?itok=IAQtJwCL&v=1789998845"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "summary": "",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "date": "2026-09-21T13:44:34.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "OpenAI Model Misalignment Explained Through Six Real Incidents",
+      "summary": "What would an AI agent do when a required file is missing or an API refuses access? The expected response is to explain the limitation… essentially, coming out with it. OpenAI’s latest disclosures shed light in another direction. Models so…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/09/openai-model-misalignment/",
+      "date": "2026-09-21T13:27:18.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "As AI safety fears mount, can a US-China hotline prevent a global crisis?",
+      "summary": "The United States and China’s agreement to establish an official AI dialogue, including a proposed threat-notification system, marks a pragmatic step towards crisis prevention in their tech war, even as deep-seated divisions over chip acce…",
+      "link": "https://www.scmp.com/tech/tech-war/article/3368281/ai-safety-fears-mount-can-us-china-hotline-prevent-global-crisis?utm_source=rss_feed",
+      "date": "2026-09-21T13:00:08.000Z",
+      "category": "Hardware & Infra",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/160f7627-f3e6-4935-a357-76c13a32e1f9_703953c9.jpg?itok=cBhAyygB&v=1789991800"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+      "summary": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
+      "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+      "date": "2026-09-21T13:00:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6ab1289a5263c12dd1677528/master/pass/DSC_9551.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "A single git trick beat the safety lock on four AI coding agents",
+      "summary": "The AI industry already knew attackers could poison plugin marketplaces. Its answer was to lock every plugin to one reviewed version of its code. That lock is what just broke. Researchers at Air Security published a vulnerability on Thursd…",
+      "link": "https://thenextweb.com/news/plugin4shell-ai-coding-agents-zero-click-rce-sha-pinning",
+      "date": "2026-09-21T12:53:24.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/backlit-keyboard-two-monitors-source-code-dark-room.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Spain’s prime minister thinks the AI industry’s safety warnings are partly a fundraising strategy",
+      "summary": "“La autorregulación no funciona.” Self-regulation does not work, Pedro Sánchez told employers and union officials at the Moncloa Palace in Madrid on Monday, closing a government event on artificial intelligence hours before flying to New Y…",
+      "link": "https://thenextweb.com/news/sanchez-ai360-self-regulation-social-contract",
+      "date": "2026-09-21T12:38:30.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/Pedro-Sánchez.avif"
+    },
+    {
+      "source": "ET Tech",
+      "title": "US, China to hold more AI safety meetings in two months in Shenzhen, Scott Bessent says",
+      "summary": "Senior US and Chinese officials will meet again to discuss artificial intelligence dangers and communications protocols in about two months in Shenzhen, China, US Treasury Secretary Scott Bessent said on Monday.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/us-china-to-hold-more-ai-safety-meetings-in-two-months-in-shenzhen-scott-bessent-says/articleshow/134389695.cms",
+      "date": "2026-09-21T12:27:39.000Z",
       "category": "News",
       "region": "China",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/21/thumbs/400x400/564178.jpg"
+      "image": "https://img.etimg.com/photo/msid-134389695,imgsize-4841906.cms"
+    },
+    {
+      "source": "MediaNama",
+      "title": "NSE flags AI use by market participants as potential business risk",
+      "summary": "We missed this earlier: The National Stock Exchange (NSE) rang warning bells about the use of AI by market participants,… The post NSE flags AI use by market participants as potential business risk appeared first on MEDIANAMA .",
+      "link": "https://www.medianama.com/2026/09/223-nse-ai-market-business-risk/",
+      "date": "2026-09-21T12:19:44.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "MediaNama",
+      "title": "OpenAI, Anthropic, Google and xAI sued over calls to slow AI development",
+      "summary": "An antitrust lawsuit accuses Anthropic, OpenAI, SpaceXAI and Google of coordinating to limit the pace of AI development. The post OpenAI, Anthropic, Google and xAI sued over calls to slow AI development appeared first on MEDIANAMA .",
+      "link": "https://www.medianama.com/2026/09/223-openai-anthropic-google-xai-sued-ai-development/",
+      "date": "2026-09-21T12:07:06.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "The Vatican is turning its AI campaign into permanent machinery this week",
+      "summary": "AI4Peace, a symposium on artificial intelligence and conflict, opened on Monday at the Pontifical Lateran University in Rome with a message from Leo XIV. The Pope was not present in the room, and Don Andrea Ciucci, chancellor of the Pontif…",
+      "link": "https://thenextweb.com/news/vatican-ai4peace-association-pope-leo-unesco",
+      "date": "2026-09-21T12:01:28.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/Pope-Leo.avif"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dy…",
+      "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "date": "2026-09-21T12:00:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked unde…",
+      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "date": "2026-09-21T12:00:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in souther…",
+      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "date": "2026-09-21T12:00:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending…",
+      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "date": "2026-09-21T12:00:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Moonshot’s Kimi K3 lands on Amazon in key test for Chinese open-source AI revenue",
+      "summary": "Chinese artificial intelligence start-up Moonshot AI has begun supplying its flagship Kimi K3 model to Amazon Web Services (AWS), one of the world’s largest cloud services providers, in a major test case for how open-weight AI models can g…",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3368274/moonshots-kimi-k3-lands-amazon-key-test-chinese-open-source-ai-revenue?utm_source=rss_feed",
+      "date": "2026-09-21T11:30:06.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/ac80ef27-5e89-4178-8e81-edd293c42dad_4236556e.jpg?itok=WrD9Ucq5&v=1789989148"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Freehand names Krshna Prashant as first marketing lead",
+      "summary": "Freehand is the company whose autonomous AI Teams manage supply-chain spend for Fortune 500 enterprises. It has announced the appointment of Krshna Prashant as its first Marketing Lead. She is the company’s first marketing hire in the Unit…",
+      "link": "https://thenextweb.com/news/freehand-krshna-prashant-first-us-marketing-lead",
+      "date": "2026-09-21T11:00:47.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/Krshna-Prashant.avif"
+    },
+    {
+      "source": "Wired AI",
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+      "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "date": "2026-09-21T10:34:43.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/master/pass/092126-Bensen%20China.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Chinese woman, 65, plays dual roles of beautiful doctor and mum to con man out of US$25,000",
+      "summary": "A 65-year-old Chinese woman used artificial intelligence (AI) to impersonate both a young doctor and her mother, successfully scamming 170,000 yuan (US$25,000) from a man. Liu Hui, a resident of Shanghai, connected with a woman named Yu Xi…",
+      "link": "https://www.scmp.com/news/people-culture/trending-china/article/3368264/chinese-woman-65-plays-dual-roles-beautiful-doctor-and-mum-con-man-out-us25000?utm_source=rss_feed",
+      "date": "2026-09-21T10:16:27.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/a00d89c2-2fd5-4b96-8d73-073bc0a60011_1be3654a.jpg?itok=gDH6cGFA&v=1789985785"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "5 Companies Using NVIDIA AI for Clean Energy",
+      "summary": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New…",
+      "link": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+      "date": "2026-09-21T10:00:35.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/clean-energy-key-visual-1920x1080-1.jpg"
+    },
+    {
+      "source": "Rest of World",
+      "title": "Nvidia’s free AI model could push the UAE closer to the U.S.",
+      "summary": "The Emirates owns the machines but rents the intelligence. Nvidia’s next free AI model could change that.",
+      "link": "https://restofworld.org/2026/nvidia-open-source-ai-models-uae/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "date": "2026-09-21T10:00:00.000Z",
+      "category": "News",
+      "region": "Middle East",
+      "image": "https://restofworld.org/wp-content/uploads/2026/09/Nvidia-UAE-model_-320x320.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "India likely to emerge as global leader in number of AI projects: Rajiv Kumar",
+      "summary": "umar highlighted the transition to AI presents companies with the challenge of building new solutions while continuing to maintain and evolve their existing core capabilities",
+      "link": "https://www.thehindubusinessline.com/info-tech/india-likely-to-emerge-as-global-leader-in-number-of-ai-projects-rajiv-kumar/article71490838.ece",
+      "date": "2026-09-21T09:37:00.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/fiecw6/article71468507.ece/alternates/LANDSCAPE_1200/BL19_Think_Data_analysing.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Chinese regulator drafts rules to protect teenagers from ‘intimate’ AI companions",
+      "summary": "China’s top internet watchdog has drafted new rules to regulate how social platforms and game developers should protect minors, including a ban on offering “virtual intimacy services” to those under 18 as artificial intelligence-powered co…",
+      "link": "https://www.scmp.com/tech/policy/article/3368252/chinese-regulator-drafts-rules-protect-teenagers-intimate-ai-companions?utm_source=rss_feed",
+      "date": "2026-09-21T09:30:21.000Z",
+      "category": "Policy & Safety",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/adbec41d-526a-4df8-8427-fa3b7eef0fc4_54c6a58f.jpg?itok=OzVQ8DTd&v=1789982798"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "US, China agree AI dialogue ahead of Trump-Xi summit",
+      "summary": "Chinese and US negotiators made progress on artificial intelligence (AI) and trade ahead of President Xi Jinping’s visit to the White House later this week. “We had a very successful engagement with the Chinese on trade and AI,” US Treasur…",
+      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3368245/us-china-agree-ai-dialogue-ahead-trump-xi-summit?utm_source=rss_feed",
+      "date": "2026-09-21T09:01:49.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/5ee16e1d-10c2-405c-b70b-48eecc4af476_10b2040b.jpg?itok=S7nVsUa8&v=1789981305",
+      "relatedSources": [
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/09/21/bessent-china-talks-ai-trade/"
+        }
+      ]
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Asia investors demand AI revenue proof as focus shifts from exposure to earnings: BofA",
+      "summary": "Investors in Asia are demanding clearer evidence that artificial intelligence can translate into revenue and earnings, rather than simply seeking exposure to the technology, as the sector moves into a more mature phase, according to Chris…",
+      "link": "https://www.scmp.com/business/china-business/article/3368216/asia-investors-demand-ai-revenue-proof-focus-shifts-exposure-earnings-bofa?utm_source=rss_feed",
+      "date": "2026-09-21T09:00:23.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/4a3cc0a3-15ea-4357-ac1b-c512f2bf9c42_cdcdf50c.jpg?itok=oGqqaYy8&v=1789971895"
+    },
+    {
+      "source": "MediaNama",
+      "title": "India’s drug regulator forms AI expert committee: What we know, what remains unclear",
+      "summary": "DCGI Rajeev Raghuvanshi said CDSCO’s new AI committee will examine how AI can be evaluated, approved and regulated in drug discovery. The post India’s drug regulator forms AI expert committee: What we know, what remains unclear appeared fi…",
+      "link": "https://www.medianama.com/2026/09/223-cdsco-ai-expert-committee/",
+      "date": "2026-09-21T08:36:47.000Z",
+      "category": "Policy & Safety",
+      "region": "India",
+      "image": null
+    },
+    {
+      "source": "ET Tech",
+      "title": "YuVerse takes its last-mile AI proposition to Global Fintech Fest",
+      "summary": "At GFF 2026, YuVerse launched four AI products— Yu1, YuBuild, YuBuild Studio and YuFlux—spanning document-to-decisioning, conversational AI, video creation and workflow automation, making the case for an enterprise AI model focused not jus…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/yuverse-takes-its-last-mile-ai-proposition-to-global-fintech-fest/articleshow/134384539.cms",
+      "date": "2026-09-21T08:25:03.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-134384539,imgsize-874934.cms"
+    },
+    {
+      "source": "MediaNama",
+      "title": "Can Meta lose safe harbour for recommending content? What Indian law actually says",
+      "summary": "Meta's intermediary status is facing fresh scrutiny in India. The dispute raises a larger question over whether recommendation algorithms can affect safe harbour protection. The post Can Meta lose safe harbour for recommending content? Wha…",
+      "link": "https://www.medianama.com/2026/09/223-meta-intermediary-status-safe-harbour/",
+      "date": "2026-09-21T07:55:38.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": null
+    },
+    {
+      "source": "AI News",
+      "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
+      "summary": "AI adoption has outpaced AI governance across enterprise environments, creating a fundamental security problem. Organisations cannot protect what they cannot see, and visibility has become the prerequisite for all other AI security control…",
+      "link": "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/",
+      "date": "2026-09-21T07:50:48.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Microsoft’s new India cloud region to use effectively “zero water” for cooling: Microsoft India President",
+      "summary": "Microsoft’s new India South Central cloud region will use effectively zero water for cooling and is being built to handle AI workloads from day one, said Puneet Chandok, President, Microsoft India and South Asia, adding the tech giant is “…",
+      "link": "https://www.livemint.com/technology/microsofts-new-india-cloud-region-to-use-effectively-zero-water-for-cooling-microsoft-india-president-11789972413401.html",
+      "date": "2026-09-21T06:33:32.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/maxresdefault_1789984749977_6hp9_1789984756894_XmXU_c502325a-e220-4c4b-ae7a-0c0cb7c12a5f_yYSY.jpg"
     },
     {
       "source": "ET Tech",
@@ -164,34 +460,24 @@
       "image": "https://img.etimg.com/photo/msid-134377904,imgsize-9238795.cms"
     },
     {
-      "source": "SCMP Tech",
-      "title": "As the US weighs restrictions on cloud computing, how will China’s AI sector adapt?",
-      "summary": "When Chinese artificial intelligence developers want to train their next-generation frontier models, they all face the same daunting wall: they cannot legally buy the world’s most powerful AI chips. However, the country’s tech giants and s…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3368011/us-weighs-restrictions-cloud-computing-how-will-chinas-ai-sector-adapt?utm_source=rss_feed",
-      "date": "2026-09-21T02:00:26.000Z",
+      "source": "OpenAI",
+      "title": "How V7 gives AI agents institutional memory",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "link": "https://openai.com/index/v7",
+      "date": "2026-09-21T00:00:00.000Z",
       "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/6f41bcad-f109-4dc5-84c5-ffdbb4d57d01_f90d76fa.jpg?itok=mp_pRx1g&v=1789956196"
+      "region": "Global",
+      "image": null
     },
     {
-      "source": "Japan Times",
-      "title": "Japan and ASEAN to consider expanding trade pact",
-      "summary": "At a meeting in Manila, participants expressed interest in strengthening cooperation in energy security, AI and supply chains, among other fields.",
-      "link": "https://www.japantimes.co.jp/business/2026/09/21/japan-asean-study-trade-pact-expansion/",
-      "date": "2026-09-21T00:55:00.000Z",
+      "source": "Hugging Face",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "summary": "",
+      "link": "https://huggingface.co/blog/tokenizers-v1",
+      "date": "2026-09-21T00:00:00.000Z",
       "category": "News",
-      "region": "Japan",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/21/thumbs/400x400/564172.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Chinese AI chipmaker Hygon plots expansion from data centres to robotics",
-      "summary": "Chinese chipmaker Hygon Information Technology is set to release a new chip targeting physical-world applications including robotics, expanding from its current focus on data centres, according to Chinese media reports and company informat…",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics?utm_source=rss_feed",
-      "date": "2026-09-21T00:30:10.000Z",
-      "category": "Hardware & Infra",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/20/ca4b6f75-416e-412a-8250-f3a119a204b7_ad2bb3fc.jpg?itok=ohJgQ5bh&v=1789912315"
+      "region": "Global",
+      "image": null
     },
     {
       "source": "SiliconANGLE",
@@ -202,16 +488,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/AA1MYsde.jpeg"
-    },
-    {
-      "source": "Japan Times",
-      "title": "AI’s wobbly house of cards puts markets and U.S. economy at risk",
-      "summary": "Considering the trillions of dollars that have been spent on AI bets, what happens to Wall Street if they don't pay off?",
-      "link": "https://www.japantimes.co.jp/business/2026/09/21/ai-markets-us-economy-risk/",
-      "date": "2026-09-20T22:07:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/21/thumbs/400x400/564167.jpg"
     },
     {
       "source": "TechCrunch AI",
@@ -256,7 +532,7 @@
     {
       "source": "TechCrunch AI",
       "title": "Is the AI industry really ready to slow down?",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
       "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
       "date": "2026-09-20T18:56:04.000Z",
       "category": "News",
@@ -264,19 +540,9 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "Z.ai encrypted the workspace it uploaded so that only Z.ai could open it. Now only Z.ai can say it was deleted.",
-      "summary": "A Chinese developer who writes as Ferstar looked inside ZCode’s local directory on Friday and found a 313MB encrypted archive waiting to be sent to Alibaba’s cloud storage. It had failed 564 times. A smaller file had already gone. Minxiao…",
-      "link": "https://thenextweb.com/news/zai-zcode-encrypted-upload-only-zai-can-verify",
-      "date": "2026-09-20T18:40:28.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/06/Zhipu-AI-Logo.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
       "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
       "date": "2026-09-20T18:32:52.000Z",
       "category": "News",
@@ -292,66 +558,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Trump says the AI backlash is a Democratic hoax. This week’s polling put Republican opposition to data centres at 47%.",
-      "summary": "President Donald Trump posted twice about artificial intelligence on Saturday. The first post asked his followers to vote on a new name for the technology. The second called the campaign against it a hoax and promised an AI Force and an AI…",
-      "link": "https://thenextweb.com/news/trump-ai-force-hoax-republican-opposition",
-      "date": "2026-09-20T17:49:15.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/President-Donald-Trump.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Apple’s new chief executive built up to unveiling the ideal AI device, then said it was the iPhone.",
-      "summary": "John Ternus opened his first keynote as Apple chief executive by describing the ideal AI device, then said it already exists and is the iPhone. Mark Gurman reports that people inside Apple expected him to introduce the home hub instead, an…",
-      "link": "https://thenextweb.com/news/ternus-ideal-ai-device-is-the-iphone-j490-hub",
-      "date": "2026-09-20T17:07:24.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/04/john-ternus-apple-ceo-profile-hardware-ai.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Zuckerberg’s reason for refusing to coordinate on AI safety is now the argument in an antitrust suit against four rivals.",
-      "summary": "Microsoft AI chief Mustafa Suleyman told CNBC that controlling advanced AI will be a very large challenge, defended regulation, and said the industry’s safety shift is responsible rather than self-interested. He spoke the same day four con…",
-      "link": "https://thenextweb.com/news/suleyman-zuckerberg-dissent-matches-antitrust-argument",
-      "date": "2026-09-20T16:55:21.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/06/microsoft-suleyman-anthropic-expensive-models.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Amodei wrote that coordinating on pace would need an antitrust waiver. Altman said OpenAI would not wait for one. Both lines are now in a lawsuit.",
-      "summary": "Four consumers filed a class action in the Northern District of California on 18 September, naming Anthropic, OpenAI, SpaceXAI and Google. Buist v. Anthropic PBC alleges a horizontal agreement to slow the rate at which the four improve com…",
-      "link": "https://thenextweb.com/news/buist-v-anthropic-antitrust-waiver-evidence-public-agreement",
-      "date": "2026-09-20T16:49:53.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/06/g7-ai-summit-altman-amodei-hassabis.avif"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "US announces AI dialogue with China, launches Board of Trade",
-      "summary": "The United States and China agreed to establish a dialogue on artificial intelligence and put into operation a bilateral trade body following eight hours of negotiations in New York, just days before Chinese President Xi Jinping’s state vi…",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3368171/us-china-seek-xi-trump-summit-deliverables-new-york-talks?utm_source=rss_feed",
-      "date": "2026-09-20T14:34:25.000Z",
-      "category": "Product",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/20/dd2d9113-9599-4498-895b-840d289ed64a_35bc45a8.jpg?itok=8tLigoIC&v=1789914862"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Does Trump’s new AI Force signal tech race escalation ahead of Xi Jinping summit?",
-      "summary": "US President Donald Trump has unveiled a new “AI Force” just days ahead of a state visit by Chinese leader Xi Jinping, in a potential escalation of the high-stakes technology race between the rival powers. Experts said the proposed AI Forc…",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3368158/does-trumps-new-ai-force-signal-tech-race-escalation-ahead-xi-jinping-summit?utm_source=rss_feed",
-      "date": "2026-09-20T12:00:11.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/20/1bc84a4b-748d-4b06-a163-c1ea3bcc7cc2_e7c3c303.jpg?itok=P9pSmFMJ&v=1789901489"
     },
     {
       "source": "Wired AI",
@@ -416,10 +622,6 @@
         {
           "source": "ET Tech",
           "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-spacexai-google-face-federal-antitrust-lawsuit-over-calls-to-slowdown-ai-development/articleshow/134347763.cms"
-        },
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/anthropic-openai-spacexai-google-face-federal-antitrust-lawsuit-over-calls-to-slowdown-ai-development-11789791351245.html"
         }
       ]
     },
@@ -610,16 +812,6 @@
       ]
     },
     {
-      "source": "MediaNama",
-      "title": "TRAI finalises spam rules: Bars apps like Truecaller from blanket-blocking 140, 1600-series calls",
-      "summary": "The new TRAI spam rules introduce AI flagging, A2P call charges and new restrictions on call-management apps. The post TRAI finalises spam rules: Bars apps like Truecaller from blanket-blocking 140, 1600-series calls appeared first on MEDI…",
-      "link": "https://www.medianama.com/2026/09/223-trai-truecaller-140-1600-calls-spam-rules/",
-      "date": "2026-09-19T09:07:26.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Wired AI",
       "title": "Join the WIRED World Fair in Miami on November 4",
       "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
@@ -628,16 +820,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://media.wired.com/photos/6aad7180245943a17ceca34d/master/pass/WWF_2026_META__1080x1350_Phase%202.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "OpenAI told investors in February its compute bill would be around $600bn. A July presentation puts it at $856bn.",
-      "summary": "The Financial Times reported that OpenAI expects negative free cash flow of $278bn between 2026 and 2030, from a July presentation prepared for a computing deal. That figure is an improvement on the roughly $305bn the company projected in…",
-      "link": "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved",
-      "date": "2026-09-19T08:25:45.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/06/gary-marcus-openai-ipo-ai-stocks-risk.avif"
     },
     {
       "source": "Hindu BusinessLine",
@@ -674,32 +856,6 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://bl-i.thgim.com/public/incoming/7phleo/article71483991.ece/alternates/LANDSCAPE_1200/2026-09-18T224757Z_1721626475_RC29LNAK8UEQ_RTRMADP_3_ANTHROPIC-IPO-SENTIMENT.JPG"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
-      "summary": "The partnership comes as AI developers face growing pressure from regulators, companies ‌and researchers to ensure their advanced models are safe and reliable",
-      "link": "https://www.thehindubusinessline.com/info-tech/anthropic-accenture-to-invest-2-billion-in-ai-model-evaluation-as-safety-concerns-rise/article71483693.ece",
-      "date": "2026-09-19T07:41:45.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/7phleo/article71483991.ece/alternates/LANDSCAPE_1200/2026-09-18T224757Z_1721626475_RC29LNAK8UEQ_RTRMADP_3_ANTHROPIC-IPO-SENTIMENT.JPG",
-      "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-accenture-to-invest-2-billion-in-ai-model-evaluation-as-safety-concerns-rise/articleshow/134346922.cms"
-        }
-      ]
-    },
-    {
-      "source": "ET Tech",
-      "title": "AI-generated false intelligence nearly triggered US-China military confrontation: Reports",
-      "summary": "Citing four sources familiar with the incident, CNN reported that the US military moved towards an operation against the ship. Two of the sources said armed US military personnel were preparing to board the vessel, while military aircraft…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/ai-generated-false-intelligence-nearly-triggered-us-china-military-confrontation-reports/articleshow/134347572.cms",
-      "date": "2026-09-19T04:06:18.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://img.etimg.com/photo/msid-134347572,imgsize-57422.cms"
     },
     {
       "source": "ET CIO",
@@ -832,16 +988,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ailogos-1152x648.jpg"
     },
     {
-      "source": "Wired AI",
-      "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
-      "summary": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
-      "link": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
-      "date": "2026-09-18T13:30:00.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6aac7385c5520f8d5bff0aea/master/pass/AdoptADataCenter-Bezzy-Sitting.png"
-    },
-    {
       "source": "Google AI",
       "title": "Co-creating the future of fashion with Google",
       "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
@@ -882,36 +1028,6 @@
       "image": null
     },
     {
-      "source": "MediaNama",
-      "title": "Seller KYC, counterfeit listings & AI: conversation on Indian e-commerce enforcement",
-      "summary": "The experts at the event called for standardised onboarding checks of sellers and sharing of alerts so that a person removed from one platform for selling counterfeits doesn't resurface on another. The post Seller KYC, counterfeit listings…",
-      "link": "https://www.medianama.com/2026/09/223-seller-kyc-counterfeit-ai-e-commerce/",
-      "date": "2026-09-18T11:24:39.000Z",
-      "category": "News",
-      "region": "India",
-      "image": null
-    },
-    {
-      "source": "MediaNama",
-      "title": "Here’s how tech leaders and countries reacted to Amodei’s call to slowdown AI",
-      "summary": "Some tech CEOs like Sam Altman, Elon Musk have backed Amodei's call for slowing down AI while others like Zuckerberg have taken a different approach. The US rejected the call while China termed it a \"Cold War\" playbook. The post Here’s how…",
-      "link": "https://www.medianama.com/2026/09/223-tech-leaders-countries-amodei-slowdown-ai/",
-      "date": "2026-09-18T10:21:55.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": null
-    },
-    {
-      "source": "Wired AI",
-      "title": "The Leftist Split Over AI Doom",
-      "summary": "The left wants AI regulation. They just can’t agree on what it should look like or how concerned they should be.",
-      "link": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
-      "date": "2026-09-18T10:15:00.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6aa9a061b69918de8da37621/master/pass/DSA-split-AI-regulation.jpg"
-    },
-    {
       "source": "Rest of World",
       "title": "The case for a robot tax to redistribute wealth",
       "summary": "In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor.",
@@ -920,16 +1036,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://restofworld.org/wp-content/uploads/2026/09/illo_robot_tax_final-320x320.jpg"
-    },
-    {
-      "source": "MediaNama",
-      "title": "Oversight Board’s recommendations on Meta’s AI labelling raise questions for India’s deepfake rules",
-      "summary": "The Oversight Board overturned Meta’s decision to leave up an AI deepfake of a Scottish councillor and called for wider AI labels, stronger penalties and safeguards for political deepfakes. The post Oversight Board’s recommendations on Met…",
-      "link": "https://www.medianama.com/2026/09/223-oversight-boards-metas-ai-labelling/",
-      "date": "2026-09-18T09:56:04.000Z",
-      "category": "Policy & Safety",
-      "region": "India",
-      "image": null
     },
     {
       "source": "AI News",
@@ -949,16 +1055,6 @@
       "date": "2026-09-18T08:44:02.000Z",
       "category": "People & Leadership",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "MediaNama",
-      "title": "NHAI, GST Network & Mumbai Metro detail their AI use cases at GFF 2026",
-      "summary": "GSTN is using AI to work with unstructured taxpayer documents and support software development, security and multilingual compliance. The post NHAI, GST Network & Mumbai Metro detail their AI use cases at GFF 2026 appeared first on MEDIANA…",
-      "link": "https://www.medianama.com/2026/09/223-nhai-gstn-mumbai-metro-ai-use-cases/",
-      "date": "2026-09-18T05:17:05.000Z",
-      "category": "Policy & Safety",
-      "region": "India",
       "image": null
     },
     {
@@ -1442,16 +1538,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Local-AI_Perplexity-on-Windows_Blog_Feature.jpg"
     },
     {
-      "source": "OpenAI",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "link": "https://openai.com/index/fyxer",
-      "date": "2026-09-14T12:00:00.000Z",
-      "category": "Research",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "The real AI economy is being built by ordinary people",
       "summary": "Far from Silicon Valley pitch decks, workers across Asia and Africa are bypassing tech industry hype to quietly rewire their daily jobs — one prompt, workflow, and local problem at a time.",
@@ -1460,16 +1546,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://restofworld.org/wp-content/uploads/2026/09/illo_real_world_AI_header_FINAL-320x320.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
-      "summary": "Deloitte’s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one…",
-      "link": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-      "date": "2026-09-14T08:04:35.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "ET CIO",
@@ -1532,16 +1608,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-34798/133454946.cms"
     },
     {
-      "source": "NVIDIA",
-      "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "summary": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps…",
-      "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-      "date": "2026-09-10T16:30:35.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg"
-    },
-    {
       "source": "Google AI",
       "title": "3 ways to prep for your next big race with Search",
       "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
@@ -1550,16 +1616,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "MIT Tech Review",
-      "title": "Powering AI is an architecture problem",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single…",
-      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "date": "2026-09-10T11:00:00.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Rest of World",
@@ -1642,26 +1698,6 @@
       "image": "https://image.theregister.com/?imageId=5271891&width=800"
     },
     {
-      "source": "MIT Tech Review",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under n…",
-      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "date": "2026-09-09T03:10:08.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "summary": "",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "date": "2026-09-08T14:23:07.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "DeepMind",
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
@@ -1682,16 +1718,6 @@
       "image": null
     },
     {
-      "source": "MIT Tech Review",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person t…",
-      "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "date": "2026-09-08T10:34:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "GPT-6 Astra: What’s Actually New in OpenAI’s New Frontier Model",
       "summary": "OpenAI has released GPT-6 Astra, its newest frontier model, less than a week after Anthropic’s Claude Fable 5.1. OpenAI calls Astra the world’s most intelligent and aligned model yet. What actually makes Astra different? The simplest way t…",
@@ -1699,16 +1725,6 @@
       "date": "2026-09-05T00:57:25.000Z",
       "category": "News",
       "region": "United States",
-      "image": null
-    },
-    {
-      "source": "MIT Tech Review",
-      "title": "Architecting memory and storage in the AI era",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs…",
-      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "date": "2026-09-04T18:39:19.000Z",
-      "category": "Research",
-      "region": "Global",
       "image": null
     },
     {
@@ -1748,16 +1764,6 @@
       "link": "https://huggingface.co/blog/Hcompany/neomme",
       "date": "2026-09-03T13:13:48.000Z",
       "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "Analytics Vidhya",
-      "title": "OpenCode Explained: The Open-Source AI Coding Agent",
-      "summary": "OpenCode is open source and works with any model, but those are no longer its most interesting features. Model choice is table stakes. What sets OpenCode apart is its architecture, and the trade-offs that come with it, especially if you ar…",
-      "link": "https://www.analyticsvidhya.com/blog/2026/09/opencode-ai-explained/",
-      "date": "2026-09-03T11:49:22.000Z",
-      "category": "Open Source",
       "region": "Global",
       "image": null
     },
@@ -1847,16 +1853,6 @@
       "summary": "",
       "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
       "date": "2026-09-01T17:08:51.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "summary": "",
-      "link": "https://huggingface.co/blog/webgpu-kernels",
-      "date": "2026-09-01T00:00:00.000Z",
       "category": "News",
       "region": "Global",
       "image": null
