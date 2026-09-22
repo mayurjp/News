@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T18:56:49.549Z",
-  "count": 201,
+  "updated": "2026-09-22T22:12:34.697Z",
+  "count": 188,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,34 +51,194 @@
   ],
   "items": [
     {
+      "source": "TechCrunch AI",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "date": "2026-09-22T21:56:43.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "The Next Web",
-      "title": "OpenAI will let outside groups test its models during training",
-      "summary": "OpenAI says it will let third-party groups run technical safety assessments while models are being trained and evaluated rather than only before launch, and is in talks with groups including METR and Redwood Research. It has named no partn…",
-      "link": "https://thenextweb.com/news/openai-evaluators-training-phase",
-      "date": "2026-09-22T18:25:53.000Z",
-      "category": "Research",
+      "title": "Bitdefender built a VPN that hides your AI agent, not you",
+      "summary": "Security can no longer stop at protecting the person behind the screen. It has to extend to the agent itself acting on their behalf. Ciprian Istrate said that on Tuesday. He runs consumer operations at Bitdefender, and the Romanian company…",
+      "link": "https://thenextweb.com/news/bitdefender-vpn-for-ai-agents-beta",
+      "date": "2026-09-22T21:45:40.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/bitdefender-headquarters-bucharest-tower.avif"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "summary": "The frontier AI model race has entered its comparison shopping phase.",
+      "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "date": "2026-09-22T21:25:18.000Z",
+      "category": "News",
       "region": "United States",
-      "image": "https://media.thenextweb.com/2026/07/openai-dublin-250-jobs-european-headquarters-expansion.avif"
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Claude-ChatGPT-1152x648-1790110487.jpg"
     },
     {
       "source": "The Next Web",
-      "title": "A phone maker now has the world’s top open-weight AI model",
-      "summary": "Frontier intelligence, all the modalities, built in public. Xiaomi opened its MiMo-V2.6 announcement with that line on Tuesday. The phone and electric car maker released two open-weight models, Pro and Flash, under an MIT licence. The weig…",
-      "link": "https://thenextweb.com/news/xiaomi-mimo-v2-6-open-weight-model-anthropic-distillation",
-      "date": "2026-09-22T18:25:00.000Z",
-      "category": "Open Source",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/08/xiaomi-headquarters.avif"
+      "title": "Cyera has now raised $1.4bn this year to police AI agents",
+      "summary": "They need to trust what AI agents can see and do before they can scale them. Yotam Segev said that on Tuesday, about what the Global 2000 keeps telling his company. The Cyera cofounder and chief executive was announcing a $400m investment…",
+      "link": "https://thenextweb.com/news/cyera-400m-goldman-sachs-series-g-extension",
+      "date": "2026-09-22T21:24:11.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/cyera-founders-segev-bar-ilan.avif"
     },
     {
-      "source": "ET Tech",
-      "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models",
-      "summary": "The launch of low-cost GPT-6 Sol and GPT-6 Luna follows the rollout of GPT-6 Astra, a faster model for handling more tasks than previous iterations, earlier this month.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/openai-expands-gpt-6-lineup-with-cheaper-sol-and-luna-models/articleshow/134418905.cms",
-      "date": "2026-09-22T18:23:03.000Z",
+      "source": "OpenAI",
+      "title": "Better prompt caching for GPT-6",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "date": "2026-09-22T21:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "The AI boom runs on tens of millions of workers nobody has figured out how to pay, Papaya Global wants to fix that.",
+      "summary": "Ask an AI lab where its workforce is and you get a map, not an address. Researchers in London and Zurich. Engineers in Tel Aviv and Bangalore. Robotics technicians at sites that did not exist a year ago. And underneath all of it, the peopl…",
+      "link": "https://thenextweb.com/news/papaya-global-ai-workforce-infrastructure-payroll",
+      "date": "2026-09-22T20:48:00.000Z",
+      "category": "Research",
+      "region": "India",
+      "image": "https://media.thenextweb.com/2026/09/eynat-guez-papaya-global-portrait.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Cyera raises $400M more amid AI agent security push",
+      "summary": "Cybersecurity startup Cyera Ltd. today announced that it has raised $400 million in funding from Goldman Sachs. The investment bank provided the capital as an extension to a Series G round that closed in June. The latter deal valued Cyera…",
+      "link": "https://siliconangle.com/2026/09/22/cyera-raises-another-400m-amid-ai-agent-security-push/",
+      "date": "2026-09-22T20:23:28.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Cyera-1.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Meta’s AI chief wants Muse to make you $1,000",
+      "summary": "Alexandr Wang has set Meta’s new AI agent a simple target. Meta’s chief AI officer asked on X whether Muse could “make you $1000”, launching a hashtag challenge a few days after Muse went live on 8 September. The replies have been generous…",
+      "link": "https://thenextweb.com/news/meta-muse-money-challenge-wang",
+      "date": "2026-09-22T20:17:13.000Z",
       "category": "Product",
       "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134418905,imgsize-5335807.cms"
+      "image": "https://media.thenextweb.com/2026/09/alexandr-wang-meta-portrait.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "date": "2026-09-22T20:00:00.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "date": "2026-09-22T19:45:47.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "Claude Opus 5.5 Tested: What’s New and How Good is it?",
+      "summary": "What happens when an AI model gets better at reasoning, faster at responding, and cheaper to run at the same time? That is the promise behind Claude Opus 5.5, Anthropic’s latest flagship model and the first release in the Claude 5.5 family…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/09/claude-opus-5-5-tested/",
+      "date": "2026-09-22T19:35:05.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "date": "2026-09-22T19:28:23.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260756748-1024x648.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI names the four things it wants safety assessors to test",
+      "summary": "That access should enable assessors to challenge our assumptions, identify risks we may have missed, and reach their own conclusions about the effectiveness of our safeguards. OpenAI published that on Tuesday, in a document setting out wha…",
+      "link": "https://thenextweb.com/news/openai-third-party-assessment-priorities-principles",
+      "date": "2026-09-22T19:20:43.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/09/openai-logo-smartphone-laptop-zac-wolff-unsplash.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Meta jumps 11% as investors bet on its Muse agent",
+      "summary": "Meta’s shares closed up 11.43% at $741.25 on Monday as investors piled into the company’s bet on AI agents. Trading volume hit 48.5 million shares, well above the three-month average, The Motley Fool reported. The rally made Mark Zuckerber…",
+      "link": "https://thenextweb.com/news/meta-jumps-11-as-investors-bet-on-its-muse-agent",
+      "date": "2026-09-22T19:17:28.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/04/meta-coreweave-21-billion-ai-cloud-deal.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI cuts GPT-6 prices in half with Sol and Luna",
+      "summary": "They are also half the price per token, and even less per task. Sam Altman wrote that on X on Tuesday, about GPT-6 Sol and GPT-6 Luna. OpenAI released both models the same afternoon. They extend the GPT-6 family below GPT-6 Astra, which ar…",
+      "link": "https://thenextweb.com/news/openai-gpt-6-sol-luna-api-price-cut",
+      "date": "2026-09-22T19:13:33.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/09/openai-gpt-6-sol-luna-key-art.avif",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/technology/openai-expands-gpt-6-lineup-with-cheaper-sol-and-luna-models/articleshow/134418905.cms"
+        },
+        {
+          "source": "OpenAI",
+          "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+        }
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "date": "2026-09-22T19:09:11.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Trump tells the UN that AI is now ‘super intelligence’",
+      "summary": "Donald Trump used his address to the UN General Assembly in New York on Tuesday to give artificial intelligence a new name. From now on, he said, US government documents would call it ‘super intelligence’, because ‘artificial’ made the tec…",
+      "link": "https://thenextweb.com/news/trump-tells-the-un-that-ai-is-now-super-intelligence",
+      "date": "2026-09-22T19:06:26.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2025/04/Untitled-design-26.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Coinspaid Dev’s Alexey Tulia on engineering leadership when AI reaches production",
+      "summary": "Alexey Tulia, Executive Leader at Coinspaid Dev, discussed the changing role of engineers and CTOs during the AI Impact in Engineering panel at Tech Race Summit 2026 in Warsaw. His remarks centred on the transition towards AI systems that…",
+      "link": "https://thenextweb.com/news/coinspaid-dev-tulia-ai-agents-engineering-leadership",
+      "date": "2026-09-22T18:57:38.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/alexey-tulia-tech-race-summit.avif"
     },
     {
       "source": "Wired AI",
@@ -89,16 +249,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://media.wired.com/photos/6ab2a6f4d38d5a63a756fca7/master/pass/GettyImages-1683464893%20(1).jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "China is investigating DeepSeek and Moonshot, The Information reports",
-      "summary": "While the CAC summoned all 7 companies namechecked by Anthropic’s report, the probe quickly zeroed in on DeepSeek and Moonshot due to the examples the report detailed. Jing Yang wrote that on Tuesday, about her own story. She and Qianer Li…",
-      "link": "https://thenextweb.com/news/china-cac-probe-deepseek-moonshot-anthropic-data",
-      "date": "2026-09-22T18:04:41.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/09/server-room-corridor-orange-lights.avif"
     },
     {
       "source": "TechCrunch AI",
@@ -119,26 +269,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-134417809,imgsize-2934248.cms"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Anthropic’s cheaper Opus arrives weeks before its IPO",
-      "summary": "Anthropic released Claude Opus 5.5 on Tuesday at $4 per million input tokens and $20 per million output, below the $5 and $25 that Opus 5 has carried since July, and says it performs similarly to the more expensive Fable 5.1 on most work.…",
-      "link": "https://thenextweb.com/news/anthropic-opus-5-5-price-cut",
-      "date": "2026-09-22T17:24:01.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/07/claude-cowork-sandbox-escape-mac-files-sharedroot.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Z.ai apologised, open-sourced ZCode, and wiped the commit history",
-      "summary": "In response to the ZCode product security issues reported by the community, we have completed the necessary remediation and sincerely apologize to all our users. Z.ai posted that on Monday, on ZCode’s official account. The Beijing company,…",
-      "link": "https://thenextweb.com/news/zai-zcode-open-source-commit-history-security-assessment",
-      "date": "2026-09-22T17:10:10.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/09/coder-dark-room-dual-monitors-code.avif"
     },
     {
       "source": "Analytics Vidhya",
@@ -169,16 +299,6 @@
       "category": "Enterprise & Deployment",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Toyota-motor-manufacturing-plant-1152x648.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Dutch government publishes call from 21 countries and the EU for international oversight of frontier AI",
-      "summary": "A joint statement released today by the Dutch government has seen leaders and ministers from 21 countries, together with the European Commission, call for tighter control over frontier AI models, including mandatory testing before their re…",
-      "link": "https://thenextweb.com/news/frontier-ai-joint-statement-21-countries-eu",
-      "date": "2026-09-22T16:54:41.000Z",
-      "category": "Policy & Safety",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/09/Dutch-goverment.avif"
     },
     {
       "source": "ET Tech",
@@ -221,16 +341,6 @@
       "image": "https://img.etimg.com/photo/msid-134416418,imgsize-5043901.cms"
     },
     {
-      "source": "The Next Web",
-      "title": "Parloa says it is partnering with Zalando on AI customer conversations",
-      "summary": "Parloa co-founder and chief executive Malte Kosub said Zalando will use the Berlin company’s AI for customer conversations across Europe, though neither company has published an announcement and Zalando has not commented. Article 50 of the…",
-      "link": "https://thenextweb.com/news/parloa-zalando-ai-conversations",
-      "date": "2026-09-22T16:13:09.000Z",
-      "category": "People & Leadership",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/09/ai-sphere-neural-network-glowing-blue.avif"
-    },
-    {
       "source": "SiliconANGLE",
       "title": "European neocloud Verda raises $189M to build the AI infrastructure of tomorrow",
       "summary": "Helsinki, Finland-based neocloud outfit Verda Cloud Oy, formerly DataCrunch, today announced it has raised $189 million in early-stage funding to expand its artificial intelligence cloud infrastructure, from AI compute capacity to platform…",
@@ -249,16 +359,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://media.wired.com/photos/6ab18726d3445bdfbd468e18/master/pass/Rabbit-is-Back-Gear-OS3_r1.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "The fastest-adopted model on Vercel this year cannot write a word",
-      "summary": "We have lightning in a bottle, and yet it is not useful. Diogo Almeida helped build ChatGPT. He worked on the instruction-following research behind it at OpenAI, and the four years since have left him disappointed by what it became, as he…",
-      "link": "https://thenextweb.com/news/typesafe-jev-decision-model-vercel-fastest-adopted",
-      "date": "2026-09-22T15:55:20.000Z",
-      "category": "Research",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/09/computer-screen-code-terminal-output.avif"
     },
     {
       "source": "Hindu BusinessLine",
@@ -483,16 +583,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2021/03/stethoscope-2617701_1280.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Everyone can find a reason to dislike data center construction",
-      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
-      "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-      "date": "2026-09-22T13:00:00.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Wired AI",
       "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
       "summary": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
@@ -513,16 +603,6 @@
       "image": "https://media.wired.com/photos/6ab1a45fca426ab5b46efa55/master/pass/AI-Models-Built-From-Rat-Brains-Business-Neuron-stimulation.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
-      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-      "date": "2026-09-22T12:23:05.000Z",
-      "category": "Business & Funding",
-      "region": "Europe",
-      "image": null
-    },
-    {
       "source": "SiliconANGLE",
       "title": "Kantata debuts Agent Studio for building custom AI agents in plain language",
       "summary": "Professional services automation software company Kantata Inc. today unveiled Agent Studio, a tool that lets services firms build custom artificial intelligence agents by describing the job they want done in plain language. The release goe…",
@@ -531,16 +611,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/kantanaagentstudio.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Google’s robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots",
-      "summary": "Intrinsic, the intelligent robotics software company owned by Google LLC’s parent Alphabet Inc., said today that it’s open-sourcing the core components of its industrial robotics platform. Announced at ROSCon 2026 in Toronto today, the new…",
-      "link": "https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/",
-      "date": "2026-09-22T12:00:52.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-21-09-12-48.png"
     },
     {
       "source": "NVIDIA",
@@ -581,16 +651,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Googleo_1790075328335_yrUS_1790075333256_sxU8_1a93cec7-439a-4204-8a8d-cc8890175d19_HuBv.png"
-    },
-    {
-      "source": "AI News",
-      "title": "AutoScheduler launches warehouse app builder for logistics teams",
-      "summary": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data. The new software module forms part of the company’s wider Warehouse AI Platform, serving distribution centres…",
-      "link": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
-      "date": "2026-09-22T11:34:39.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -661,16 +721,6 @@
       "category": "Security & Cyber Risk",
       "region": "Global",
       "image": "https://media.wired.com/photos/6ab1b117c967476bab903a3e/master/pass/Security_CommandCenter_v4.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
-      "summary": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028. The potential investment…",
-      "link": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
-      "date": "2026-09-22T10:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Rest of World",
@@ -849,16 +899,6 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "date": "2026-09-21T23:44:28.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
       "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
@@ -949,16 +989,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/2gd77e/article71492522.ece/alternates/LANDSCAPE_1200/2026-07-02T130029Z_1837521868_RC2P56AW0P5D_RTRMADP_3_MICROSOFT-AI.JPG"
     },
     {
-      "source": "AI News",
-      "title": "Multi-agent AI systems are taking over supply chain execution",
-      "summary": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution. Predictive demand models display recommendation…",
-      "link": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
-      "date": "2026-09-21T15:32:54.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "NVIDIA",
       "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
       "summary": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden…",
@@ -990,22 +1020,22 @@
     },
     {
       "source": "OpenAI",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "date": "2026-09-21T12:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
       "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "date": "2026-09-21T12:00:00.000Z",
       "category": "News",
       "region": "United States",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "date": "2026-09-21T12:00:00.000Z",
+      "category": "News",
+      "region": "Global",
       "image": null
     },
     {
@@ -1077,16 +1107,6 @@
       "category": "News",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/fiecw6/article71468507.ece/alternates/LANDSCAPE_1200/BL19_Think_Data_analysing.jpg"
-    },
-    {
-      "source": "AI News",
-      "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
-      "summary": "AI adoption has outpaced AI governance across enterprise environments, creating a fundamental security problem. Organisations cannot protect what they cannot see, and visibility has become the prerequisite for all other AI security control…",
-      "link": "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/",
-      "date": "2026-09-21T07:50:48.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "OpenAI",
@@ -1219,16 +1239,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-1152x648.jpg"
     },
     {
-      "source": "Ars Technica AI",
-      "title": "US government website used Chinese model the FBI called \"malicious\"",
-      "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-      "date": "2026-09-18T17:28:50.000Z",
-      "category": "Open Source",
-      "region": "China",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260760373-1024x648.jpg"
-    },
-    {
       "source": "The Register AI",
       "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
       "summary": "Akademy talk imagines Plasma assembling itself around a personal model of each user",
@@ -1249,16 +1259,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"
     },
     {
-      "source": "Ars Technica AI",
-      "title": "Researchers used Claude to hack OpenAI",
-      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-      "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "date": "2026-09-18T13:30:12.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ailogos-1152x648.jpg"
-    },
-    {
       "source": "Google AI",
       "title": "Co-creating the future of fashion with Google",
       "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
@@ -1267,16 +1267,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "AI News",
-      "title": "Gartner outlines four AI tiers in warehouse automation",
-      "summary": "Gartner reports that warehouse automation now spans four operational AI tiers as logistics operators transition from software trials to live facility deployments. In an analysis released this month, the research firm concludes that logisti…",
-      "link": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/",
-      "date": "2026-09-18T12:49:34.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "OpenAI",
@@ -1309,16 +1299,6 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/09/illo_robot_tax_final-320x320.jpg"
     },
     {
-      "source": "AI News",
-      "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
-      "summary": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra’s multiplayer capabilities, people can get agent to agent collaboration without having to lock-in to any AI model. B…",
-      "link": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
-      "date": "2026-09-18T09:15:15.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Recursive Self-Improvement: The Last AI Built by Humans",
       "summary": "RSI or Recursive Self-improvement has been the talk of the town lately. The term came into surface when it was emphasized as the next step in the LLM evolution cycle by pioneers of the field like Sam Altman, Dario Amodei, and Elon musk. Bu…",
@@ -1327,16 +1307,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
-      "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-      "date": "2026-09-17T22:12:58.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Scaleout-Systems-ALMA-demo-1152x648.png"
     },
     {
       "source": "Google AI",
@@ -1369,26 +1339,6 @@
       "image": null
     },
     {
-      "source": "AI News",
-      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
-      "summary": "The Adecco Group is rolling out Salesforce’s Agentforce Coworker across more than 40 countries following a pilot in the UK and France, the staffing group announced on September 15. The group said the rollout brings agentic AI into the dail…",
-      "link": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
-      "date": "2026-09-17T11:00:00.000Z",
-      "category": "Product",
-      "region": "Europe",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "Lidl deploys driverless truck for store deliveries in Germany",
-      "summary": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany, assigning it a daily replenishment route between its Edermünde distribution centre and a nearby store. The truck, supplied by Swedish frei…",
-      "link": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
-      "date": "2026-09-17T10:00:00.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "Europe",
-      "image": null
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "LLMOps vs MLOps vs AgentOps: What Changes When You’re Operating Language Models at Scale",
       "summary": "Putting AI into production now takes more than deploying a model and tracking accuracy. MLOps made traditional ML manageable, while LLMOps added concerns around prompts, retrieval, evaluation, latency, and cost. AgentOps adds another layer…",
@@ -1409,26 +1359,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-40286/134299557.cms"
     },
     {
-      "source": "OpenAI",
-      "title": "Introducing Astra for Law",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "link": "https://openai.com/index/astra-for-law",
-      "date": "2026-09-17T00:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "Helping older adults use AI in everyday life",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "date": "2026-09-16T16:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "NVIDIA",
       "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
       "summary": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient s…",
@@ -1437,16 +1367,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/mlperf-inference-6-1.png"
-    },
-    {
-      "source": "AI News",
-      "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
-      "summary": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic’s January 2026 constitution, a primary train…",
-      "link": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
-      "date": "2026-09-16T14:47:32.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "NVIDIA",
@@ -1465,16 +1385,6 @@
       "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
       "date": "2026-09-16T12:47:34.000Z",
       "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "AI News",
-      "title": "ChatGPT pioneer launches Jev model for programmatic logic",
-      "summary": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated deterministic logic can now bypass con…",
-      "link": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
-      "date": "2026-09-16T10:31:09.000Z",
-      "category": "Research",
       "region": "Global",
       "image": null
     },
@@ -1779,16 +1689,6 @@
       "image": null
     },
     {
-      "source": "Analytics Vidhya",
-      "title": "GPT-6 Astra: What’s Actually New in OpenAI’s New Frontier Model",
-      "summary": "OpenAI has released GPT-6 Astra, its newest frontier model, less than a week after Anthropic’s Claude Fable 5.1. OpenAI calls Astra the world’s most intelligent and aligned model yet. What actually makes Astra different? The simplest way t…",
-      "link": "https://www.analyticsvidhya.com/blog/2026/09/gpt-6-astra-explained/",
-      "date": "2026-09-05T00:57:25.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
       "summary": "Five unexpected ways computing power is entering everyday life in the country.",
@@ -2047,26 +1947,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
