@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T13:51:13.810Z",
-  "count": 189,
+  "updated": "2026-09-25T18:39:21.785Z",
+  "count": 191,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -34,7 +34,6 @@
     "Policy & Safety",
     "Business & Funding",
     "Enterprise & Deployment",
-    "Open Source",
     "Hardware & Infra",
     "Research",
     "Product",
@@ -52,24 +51,270 @@
   ],
   "items": [
     {
-      "source": "The Next Web",
-      "title": "Microsoft’s new Copilot app adds coding and an always-on Autopilot agent",
-      "summary": "Microsoft has launched a new version of its Copilot app that puts AI chat, coding and long-running agents in one place for work. Jared Spataro, its chief marketing officer for AI at Work, announced it in a blog post on Friday. Chief execut…",
-      "link": "https://thenextweb.com/news/microsoft-copilot-super-app-code-autopilot",
-      "date": "2026-09-25T13:49:27.000Z",
-      "category": "Product",
+      "source": "OpenAI",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "link": "https://openai.com/index/proaction",
+      "date": "2026-09-25T19:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Ahead of U.S. IPO, British AI neocloud Nscale secures $3.36B in convertible finacing",
+      "summary": "The funding, which comes from Third Point, Nvidia and others, will fuel the company's massive AI data center buildout.",
+      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "date": "2026-09-25T18:33:59.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s…",
+      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "date": "2026-09-25T18:22:47.000Z",
+      "category": "News",
       "region": "United States",
-      "image": "https://media.thenextweb.com/2026/09/satya-nadella-onstage-microsoft-build-2026.avif"
+      "image": null
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+      "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "date": "2026-09-25T17:57:37.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "CoreWeave expands full-stack AI cloud push as inference demand grows",
+      "summary": "The rise of AI-native cloud provider CoreWeave Inc. is part of the greater story emerging around operationalizing AI. As enterprises shift from training to inference, neoclouds such as CoreWeave are providing cloud infrastructure tailor-ma…",
+      "link": "https://siliconangle.com/2026/09/25/coreweave-full-stack-agentic-ai-fullyconnected/",
+      "date": "2026-09-25T17:39:03.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Futuristic-Cloud-Orchestration-Data-Center-CoreWeave-Fully-Connected-Market-Insights-feature-2026.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "date": "2026-09-25T17:29:46.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Astra and Opus just passed Turing’s other test",
+      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "date": "2026-09-25T17:24:36.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "The Next Web",
-      "title": "White House asks OpenAI and Anthropic to hold AI models from UK testers",
-      "summary": "The White House has asked OpenAI and Anthropic not to share their new AI models with the UK’s AI Security Institute until the US government has tested them. Politico’s Sophia Cai and Joseph Bambridge reported the request on Thursday. A Bri…",
-      "link": "https://thenextweb.com/news/white-house-openai-anthropic-uk-ai-security-institute-models",
-      "date": "2026-09-25T13:29:31.000Z",
-      "category": "News",
+      "title": "Bill Gates warns AI could cause a billion deaths and says self-regulation is not enough",
+      "summary": "Bill Gates said artificial intelligence is powerful enough to drive events causing a billion deaths, and that self-regulation is not enough because safeguards and monitoring have to be a required thing. The European Union has required them…",
+      "link": "https://thenextweb.com/news/gates-ai-risk-eu-enforcement",
+      "date": "2026-09-25T17:16:30.000Z",
+      "category": "Policy & Safety",
       "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/09/trump-burnham-bilateral-un-headquarters.avif"
+      "image": "https://media.thenextweb.com/2026/08/Bill-Gates.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Peter Thiel says the pope’s AI encyclical was ‘working for’ China",
+      "summary": "Peter Thiel has called Pope Leo XIV a “useful idiot” for the Chinese Communist Party over the pope’s call to regulate AI. The PayPal and Palantir co-founder spoke to Axel Springer chief executive Mathias Döpfner on the MD Meets podcast, re…",
+      "link": "https://thenextweb.com/news/peter-thiel-pope-leo-useful-idiot-china-ai-regulation",
+      "date": "2026-09-25T17:12:12.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/09/peter-thiel-smiling-onstage-dark-suit-microphone.avif"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+      "date": "2026-09-25T16:58:20.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6ab6a387ee39eece457c4cb2/master/pass/GettyImages-2235057505.jpg",
+      "relatedSources": [
+        {
+          "source": "The Next Web",
+          "link": "https://thenextweb.com/news/anthropic-pentagon-supply-chain-risk-appeals-court-ruling"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "Pentagon seeks $30.3m for an AI lie detector that reads the body from afar",
+      "summary": "The Pentagon wants $30.3m over five years to build an AI lie detector that reads the body without touching it. The programme, called Polygraph+ or Polygraph Next, appears in the Defense Counterintelligence and Security Agency’s 2027 budget…",
+      "link": "https://thenextweb.com/news/pentagon-ai-lie-detector-polygraph-next",
+      "date": "2026-09-25T16:50:25.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/pentagon-aerial-view-arlington-virginia.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Nscale closed a $3.36B pre-IPO round led by Third Point, with $1B from Nvidia still to come",
+      "summary": "Nscale has closed a $3.36B pre-IPO convertible note round led by Third Point, with Nvidia, Apollo, Citadel and the Abu Dhabi Investment Council among the investors, three weeks after it was reported to be seeking up to $3.5B. The London co…",
+      "link": "https://thenextweb.com/news/nscale-3-36bn-pre-ipo-round",
+      "date": "2026-09-25T16:39:42.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/09/nscale-3-5-billion-pre-ipo-financing-nvidia-third-point-103bn-contracts-narvik-norway-new-york-listing.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Anthropic seeks 50.1% voting control for founders, The Information reports",
+      "summary": "Anthropic wants its seven co-founders to keep control of the company after it goes public. The company is asking shareholders to approve a special class of shares for them, The Information reported on Thursday. Chief executive Dario Amodei…",
+      "link": "https://thenextweb.com/news/anthropic-founders-voting-control-ipo",
+      "date": "2026-09-25T16:18:28.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/08/Anthropic-logo-on-screen.avif",
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
+        },
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-seeks-50-1-voting-control-for-cofounders-ahead-of-ipo/articleshow/134474140.cms"
+        }
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "date": "2026-09-25T16:16:52.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s…",
+      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "date": "2026-09-25T16:00:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Qualcomm launches AI earbud chip, glasses platforms and a health alliance",
+      "summary": "Qualcomm wants earbuds and glasses, not phone screens, to be the way people talk to AI agents. At its Snapdragon Summit in Maui, it launched Snapdragon Sound Elite Gen 2, its first audio chip built for AI agents, and new platforms for smar…",
+      "link": "https://thenextweb.com/news/snapdragon-sound-elite-gen-2-ai-glasses-health-alliance",
+      "date": "2026-09-25T15:55:45.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/snapdragon-sound-elite-gen-2-earbuds.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "date": "2026-09-25T15:48:14.000Z",
+      "category": "Research",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Snapdragon Summit: Qualcomm’s 5GHz phone chips, AI earbuds and Linux PCs",
+      "summary": "Qualcomm used its Snapdragon Summit in Maui this week to pitch its chips as the hardware for AI agents. In three days, it launched two flagship phone chips and a chip for AI earbuds and glasses. It also brought Linux to its X2 laptop proce…",
+      "link": "https://thenextweb.com/news/snapdragon-summit-2026-qualcomm-8-elite-gen-6-linux-sound-elite",
+      "date": "2026-09-25T15:43:29.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/cristiano-amon-snapdragon-summit-2026-keynote-stage.avif"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Gartner’s 2027+ predictions: robots everywhere, disposable apps and rising AI costs",
+      "summary": "Predicts 10 billion autonomous agents clogging public services, 80% of front-line workers aided by physical AI, and disposable apps reshaping software",
+      "link": "https://www.thehindubusinessline.com/info-tech/gartners-2027-predictions-robots-everywhere-disposable-apps-and-rising-ai-costs/article71509413.ece",
+      "date": "2026-09-25T15:25:50.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/gdttfw/article71509556.ece/alternates/LANDSCAPE_1200/IMG_AI_Artificial_Intell_2_1_NSE06F9V.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Infosys nears July lows, Wipro hits fresh 52-week low",
+      "summary": "AI transition and market volatility weigh on IT stocks.",
+      "link": "https://www.thehindubusinessline.com/info-tech/infosys-nears-july-lows-wipro-hits-fresh-52-week-low/article71509264.ece",
+      "date": "2026-09-25T15:00:53.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/c2rd4e/article71509608.ece/alternates/LANDSCAPE_1200/Infosys-Q1FY27-GBVG98UAU.4.jpg.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
+      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "date": "2026-09-25T15:00:00.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Blue Cloud arm bags $15.5 million order from IBM Cloud",
+      "summary": "The work would include assessing AI workloads and existing infrastructure, followed by high-level architecture and detailed design, and building GPU compute clusters, high-performance storage, and networking",
+      "link": "https://www.thehindubusinessline.com/info-tech/blue-cloud-arm-bags-155-million-order-from-ibm-cloud/article71509436.ece",
+      "date": "2026-09-25T14:52:17.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/gdttfw/article71509556.ece/alternates/LANDSCAPE_1200/IMG_AI_Artificial_Intell_2_1_NSE06F9V.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Exclusive: Warp adds programmable agents to its AI-native HR platform",
+      "summary": "Warp today launched an artificial intelligence agent designed to automate routine human resources work, extending its AI-native employee management platform with customizable workflows that can act without continual human prompting. The co…",
+      "link": "https://siliconangle.com/2026/09/25/exclusive-warp-adds-programmable-agents-to-its-ai-native-hr-platform/",
+      "date": "2026-09-25T14:43:10.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Ayush-Sharma-Warp-e1790347283917.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "date": "2026-09-25T14:15:00.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "More agents go rogue — but AI companies aren’t slowing down yet",
+      "summary": "It’s becoming more apparent every day that artificial intelligence agents are escaping our control — but it’s not yet apparent who or what is going to rein them in. This week a researcher found that a swarm of AI agents, at least two of th…",
+      "link": "https://siliconangle.com/2026/09/25/more-agents-go-rogue-but-ai-companies-arent-slowing-down-yet/",
+      "date": "2026-09-25T14:00:16.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/rogueaiagents-gemini-scaled.jpeg"
     },
     {
       "source": "SCMP Tech",
@@ -82,16 +327,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/a9e40bcb-d997-4753-bc8f-374875e292b9_96863a54.jpg?itok=V6WM5ckG&v=1790342079"
     },
     {
-      "source": "The Next Web",
-      "title": "Prince Harry warns AI companion chatbots want children’s attachment",
-      "summary": "Prince Harry has warned that AI companion chatbots are repeating social media’s harm to children, with technology that is “more persuasive, more intimate, and more powerful”. He spoke on Wednesday at the Clinton Global Initiative in New Yo…",
-      "link": "https://thenextweb.com/news/prince-harry-ai-companion-chatbots-children",
-      "date": "2026-09-25T13:13:13.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/09/prince-harry-arlington-national-cemetery-section-60.avif"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Ingram Micro steps up India expansion as AI, data centres drive tech demand",
       "summary": "The company has opened more than 500 positions in India this year, said Flavio Moraes Junior, Chief Country Executive, Ingram Micro India",
@@ -102,16 +337,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/vwxj1q/article71508837.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-25%20at%206.19.54%20PM.jpeg"
     },
     {
-      "source": "The Next Web",
-      "title": "Sanders bill would ban superintelligence and create a Department of AI",
-      "summary": "Senator Bernie Sanders and Representative Greg Casar have introduced a bill to permanently ban artificial superintelligence in the US. The Ban Artificial Superintelligence Act would also pause work on the most advanced AI. And it would cre…",
-      "link": "https://thenextweb.com/news/sanders-casar-superintelligence-ban-department-of-ai",
-      "date": "2026-09-25T12:58:18.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/09/bernie-sanders-microphone-stanford-us-flag.avif"
-    },
-    {
       "source": "SCMP Tech",
       "title": "China overtakes US as top workplace for elite AI researchers, study finds",
       "summary": "For China’s elite artificial intelligence researchers, Silicon Valley no longer holds the unrivalled appeal it once did. A growing number are opting to stay home to build their careers, helping China overtake the United States as the leadi…",
@@ -120,16 +345,6 @@
       "category": "Research",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/95ccac42-914c-435b-b35d-8a4e696e2f63_05d51dc5.jpg?itok=Ry9ZfbE9&v=1790328276"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Xi tells Trump the US and China can jointly prevent AI misuse and abuse",
-      "summary": "Chinese President Xi Jinping told Donald Trump at the White House on Thursday that the US and China can continue their dialogue on artificial intelligence. The two sides can also jointly prevent its misuse and abuse, according to China’s f…",
-      "link": "https://thenextweb.com/news/us-china-ai-dialogue-xi-trump-misuse",
-      "date": "2026-09-25T12:27:04.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/09/xi-trump-oval-office-seated.avif"
     },
     {
       "source": "SCMP Tech",
@@ -152,6 +367,16 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295026360-1024x648.jpg"
     },
     {
+      "source": "MediaNama",
+      "title": "YouTube expands likeness detection to voices as Indian courts target AI voice clones",
+      "summary": "Expanding the likeness detection tool to include voice, YouTube said this \"will improve match accuracy\" and lay \"the groundwork for broader voice protections over time\". The post YouTube expands likeness detection to voices as Indian court…",
+      "link": "https://www.medianama.com/2026/09/223-youtube-likeness-detection-voices-clones/",
+      "date": "2026-09-25T10:56:18.000Z",
+      "category": "Policy & Safety",
+      "region": "India",
+      "image": null
+    },
+    {
       "source": "LiveMint Tech",
       "title": "Apple’s next big launch: Touchscreen MacBook, Apple TV 4K and smart home hub reportedly coming soon",
       "summary": "Apple is reportedly developing a redesigned MacBook Pro with OLED touchscreen, a new Apple TV 4K with AI-powered Siri, and a long-rumoured HomePad smart hub. Devices could launch in October, though timing remains unconfirmed.",
@@ -172,6 +397,16 @@
       "image": "https://bl-i.thgim.com/public/incoming/ujlf2j/article71499307.ece/alternates/LANDSCAPE_1200/2026-09-21T145446Z_230924563_RC2FUHAJ8KWR_RTRMADP_3_ALPHABET-PRODUCTS-GOOGLEBOOK.JPG"
     },
     {
+      "source": "MediaNama",
+      "title": "Pine Labs, Google Cloud partner to expand agentic commerce to merchants",
+      "summary": "Pine Labs has partnered with Google Cloud to build AI tools for merchant advertising, customer support and payments. It is also developing Jarvis, a platform to help merchants manage operations. The post Pine Labs, Google Cloud partner to…",
+      "link": "https://www.medianama.com/2026/09/223-pine-labs-agentic-commerce-merchants/",
+      "date": "2026-09-25T09:46:05.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Hindu BusinessLine",
       "title": "AI infrastructure investment seen surging to $769 billion in 2026 amid growing safety concerns",
       "summary": "OpenAI is in discussions with investors for additional funding that could value the company at around $1.2 trillion, while SoftBank has launched an $11 billion bond offering to help fund a further $10 billion investment in OpenAI",
@@ -188,14 +423,14 @@
       ]
     },
     {
-      "source": "The Next Web",
-      "title": "Chinese cities offer subsidies and cheap computing to lure AI film studios",
-      "summary": "Local governments across China are competing to attract AI filmmakers with subsidised rent, living allowances and cheap computing power, Reuters reported on Friday. Zhu Zhili set up an AI film studio in Shenzhen two years ago. He told the…",
-      "link": "https://thenextweb.com/news/china-cities-subsidies-ai-film-studios",
-      "date": "2026-09-25T09:37:13.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/06/China-flag.avif"
+      "source": "MediaNama",
+      "title": "What’s new from Made on YouTube 2026?",
+      "summary": "The 2026 'Made on YouTube' event saw a range of new updates like Custom Feeds for viewers, Gemini Omni integration with Shorts for creators, likeness detection tool for AI voices, live auto-dubbing. The post What’s new from Made on YouTube…",
+      "link": "https://www.medianama.com/2026/09/223-whats-new-made-on-youtube-2026/",
+      "date": "2026-09-25T09:33:10.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "Japan Times",
@@ -238,16 +473,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/7288fc10-1929-401c-96ca-d96cbb694426_a7131b11.jpg?itok=gBPOAJU4&v=1790325354"
     },
     {
-      "source": "The Next Web",
-      "title": "Trump and House Speaker Mike Johnson will reportedly meet tech CEOs on AI on 29 September",
-      "summary": "US President Donald Trump and House Speaker Mike Johnson will meet tech chief executives to discuss artificial intelligence on Tuesday, 29 September, Axios reported the plans on Thursday, citing a source familiar with them. A source also c…",
-      "link": "https://thenextweb.com/news/trump-johnson-tech-ceos-ai-meeting",
-      "date": "2026-09-25T08:15:44.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/06/trump-anthropic-not-national-security-threat-axios-interview.avif"
-    },
-    {
       "source": "ET Tech",
       "title": "Inside the deal engine room: VCs and PEs make the case for ERP as a governance variable",
       "summary": "At an NTT Data Business Solutions India roundtable, a cohort of leading VCs and PE investors argued that the maturity of a company’s ERP and AI adoption, data quality and underlying processes is rapidly emerging as a priced governance vari…",
@@ -284,16 +509,6 @@
       ]
     },
     {
-      "source": "The Next Web",
-      "title": "OpenAI is reportedly preparing to preview a GPT-6 Cyber security model",
-      "summary": "OpenAI is preparing to preview GPT-6 Cyber, a model built for cybersecurity work, in the coming weeks, Fortune reported on Thursday, citing multiple people familiar with the plans. Alongside the model, OpenAI plans to launch a new product…",
-      "link": "https://thenextweb.com/news/openai-gpt-6-cyber-preview-fortune",
-      "date": "2026-09-25T07:12:48.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/06/gary-marcus-openai-ipo-ai-stocks-risk.avif"
-    },
-    {
       "source": "Japan Times",
       "title": "NEC building 1-petabit-capacity subsea cable for Meta",
       "summary": "The Petal cable will help meet the growing data transmission needs of artificial intelligence companies.",
@@ -314,6 +529,16 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/4efa6ba4-346b-43e2-97a6-b6207639cccc_dadbee48.jpg?itok=grVmuUIk&v=1790316946"
     },
     {
+      "source": "MediaNama",
+      "title": "NPCI chief Dilip Asbe cites AI cyber threats, including Claude Mythos, to defend UPI MDR",
+      "summary": "NPCI chief Dilip Asbe says the new UPI merchant charge will fund security and capacity. He estimates it will raise Rs 13,000–15,000 crore in its first year but has not detailed how the money will be spent. The post NPCI chief Dilip Asbe ci…",
+      "link": "https://www.medianama.com/2026/09/223-npci-ai-cyber-threats-mythos-upi-mdr/",
+      "date": "2026-09-25T06:08:02.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "SCMP Tech",
       "title": "AI war, Taiwan and translation: SCMP answers your questions from Xi-Trump summit",
       "summary": "This live article is freely available to our registered users. Please log in or create an account. Xi’s US summit: Access real-time updates, geopolitical risk analysis, and exclusive reporting from an Asian perspective. Subscribe now with…",
@@ -332,16 +557,6 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-134476419,imgsize-53614.cms"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "date": "2026-09-25T05:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": null
     },
     {
       "source": "ET Tech",
@@ -398,16 +613,6 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-134474212,imgsize-45423.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Anthropic seeks 50.1% voting control for cofounders ahead of IPO",
-      "summary": "The new arrangement, which emulates a founder-control structure at Palantir, would award the co-founders a special class of shares giving them collective voting control in most corporate matters, and would apply as long as three of the sev…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-seeks-50-1-voting-control-for-cofounders-ahead-of-ipo/articleshow/134474140.cms",
-      "date": "2026-09-25T03:17:30.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134474140,imgsize-33636.cms"
     },
     {
       "source": "ET CIO",
@@ -500,16 +705,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Jenna-Cline-scaled.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Neo4j makes the case for knowledge graphs as shared context for AI agents",
-      "summary": "Knowledge graphs can give enterprise agents a shared understanding of how data, business rules and processes fit together. However, that context becomes harder to maintain when each new agent carries its own version of what the business kn…",
-      "link": "https://siliconangle.com/2026/09/24/neo4j-makes-case-knowledge-graphs-shared-context-ai-agents-neo4jgraphsummit/",
-      "date": "2026-09-24T19:38:27.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Jesus-Barrasa-field-chief-technology-officer-Gen-AI-of-Neo4j-scaled-e1790278744851.jpg"
-    },
-    {
       "source": "Wired AI",
       "title": "I Think I Found an AI Agent Worth the Risk",
       "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
@@ -520,26 +715,6 @@
       "image": "https://media.wired.com/photos/6ab4547c6d288ac352d9673f/master/pass/Model-Behavior-AI-Worth-the-Risk-Business.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "date": "2026-09-24T19:15:00.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "date": "2026-09-24T19:00:42.000Z",
-      "category": "Open Source",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
       "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
@@ -548,76 +723,6 @@
       "category": "Hardware & Infra",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DataOne-drone-image-via-Sustain-SJ-1152x648.jpg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
-      "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-      "date": "2026-09-24T18:11:44.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
-      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "date": "2026-09-24T17:39:24.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "AI agents creating a new insider security risk: theCUBE’s Oktane keynote analysis",
-      "summary": "AI agent security now depends on knowing what agents can do after they gain access. Agents can act across applications, pass work to other agents and make changes faster than security teams can review them. That makes visibility and permis…",
-      "link": "https://siliconangle.com/2026/09/24/ai-agents-security-thecubes-keynote-analysis-oktane/",
-      "date": "2026-09-24T17:25:56.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Krista-Case-and-Rebecca-Knight-theCUBE-Okta-Oktane-2026.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Palo Alto Networks tackles the risks of autonomous AI agents",
-      "summary": "AI agent security now has to govern what autonomous software can do, not just what it can say. The shift from chatbots to autonomous agents changes the enterprise risk equation now that agents can access tools, retain information and act w…",
-      "link": "https://siliconangle.com/2026/09/24/ai-agent-security-palo-alto-networks-googlecloudaiagentsinaction/",
-      "date": "2026-09-24T17:06:36.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/07/Spencer-Thellmann-Palo-Alto-Networks.png"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "date": "2026-09-24T17:00:00.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "date": "2026-09-24T16:46:47.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
-      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "date": "2026-09-24T16:35:13.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "DeepMind",
@@ -640,16 +745,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/suncatcher-1152x648.png"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense sta…",
-      "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "date": "2026-09-24T16:03:36.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
       "summary": "\"There will obviously be legal consequences,\" prime minister promises.",
@@ -658,16 +753,6 @@
       "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1336652477-1152x648.jpg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google tests letting Gemini call businesses for you",
-      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-      "date": "2026-09-24T16:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Wired AI",
@@ -750,16 +835,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/AF-0000000212056767-master-black-background-scaled.png"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Sarvam founder bets on leveraging AI to fend off tech monopolies",
-      "summary": "AI offers tech companies an opportunity to make up for the lost ground, the Sarvam AI chief said",
-      "link": "https://www.thehindubusinessline.com/info-tech/sarvam-founderbets-on-leveraging-ai-to-fend-off-tech-monopolies/article71503676.ece",
-      "date": "2026-09-24T13:29:32.000Z",
-      "category": "People & Leadership",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/87k4ew/article71503685.ece/alternates/LANDSCAPE_1200/SARVAM.jpg"
-    },
-    {
       "source": "NVIDIA",
       "title": "Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW",
       "summary": "A warped Manhattan is waiting in the cloud this week. Remedy Entertainment’s CONTROL Resonant brings Dylan Faden’s extraordinary abilities and a paranatural crisis to GeForce NOW at launch. With the release comes the final days of the CONT…",
@@ -776,6 +851,16 @@
       "link": "https://www.analyticsvidhya.com/blog/2026/09/gpt-6-sol-and-luna/",
       "date": "2026-09-24T12:34:52.000Z",
       "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "MediaNama",
+      "title": "5 strategic signals from Meta Connect 2026 about its AI agent Muse",
+      "summary": "Meta plans to earn a fee when its Muse AI agent makes purchases for users. Its commerce push raises questions about how the agent ranks products, authorises payments and handles mistakes. The post 5 strategic signals from Meta Connect 2026…",
+      "link": "https://www.medianama.com/2026/09/223-signals-meta-connect-muse/",
+      "date": "2026-09-24T12:01:35.000Z",
+      "category": "Business & Funding",
       "region": "United States",
       "image": null
     },
@@ -798,26 +883,6 @@
       "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://media.wired.com/photos/6ab4f83dee18064acd928033/master/pass/092426-Canada%20Open%20AI%20Hack%20Sam.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "YouTube Shopping expands merchant ecosystem in India as creator payouts surge over 160%",
-      "summary": "Platform adds Amazon, AJIO, Meesho, Snapdeal and Tata CLiQ; new AI tools to aid product discovery ahead of festive season",
-      "link": "https://www.thehindubusinessline.com/info-tech/youtube-shopping-expands-merchant-ecosystem-in-india-as-creator-payouts-surge-over-160/article71503519.ece",
-      "date": "2026-09-24T10:21:38.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/todays-paper/ybd5d3/article69816545.ece/alternates/LANDSCAPE_1200/AI-content-cracGBLEKT1JO.4.jpg.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "OpenAI agent hacked Medicare. Will anyone be held responsible?",
-      "summary": "Prime Minister Anthony Albanese revealed the hack while in New York to advocate for tighter international regulation of AI systems at the United Nations.",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-agent-hacked-medicare-will-anyone-be-held-responsible/article71503117.ece",
-      "date": "2026-09-24T07:49:01.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/xfwz0a/article71503273.ece/alternates/LANDSCAPE_1200/2026-09-12T012554Z_1110879571_RC2UFZ9B4QXD_RTRMADP_3_OPENAI-SECURITY.JPG"
     },
     {
       "source": "LiveMint Tech",
@@ -1150,26 +1215,6 @@
       "image": null
     },
     {
-      "source": "OpenAI",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "date": "2026-09-23T00:00:00.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "summary": "The frontier AI model race has entered its comparison shopping phase.",
-      "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "date": "2026-09-22T21:25:18.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Claude-ChatGPT-1152x648-1790110487.jpg"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Claude Opus 5.5 Tested: What’s New and How Good is it?",
       "summary": "What happens when an AI model gets better at reasoning, faster at responding, and cheaper to run at the same time? That is the promise behind Claude Opus 5.5, Anthropic’s latest flagship model and the first release in the Claude 5.5 family…",
@@ -1178,16 +1223,6 @@
       "category": "News",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "Wired AI",
-      "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
-      "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
-      "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
-      "date": "2026-09-22T18:19:13.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.wired.com/photos/6ab2a6f4d38d5a63a756fca7/master/pass/GettyImages-1683464893%20(1).jpg"
     },
     {
       "source": "Analytics Vidhya",
