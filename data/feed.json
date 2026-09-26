@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T13:08:32.271Z",
-  "count": 193,
+  "updated": "2026-09-26T17:12:48.920Z",
+  "count": 190,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -49,6 +49,96 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "The Next Web",
+      "title": "Google’s India AI hub cleared for 2.51GW, not 1GW, the Guardian reports",
+      "summary": "Google’s $15bn AI datacentre project in Andhra Pradesh has state environmental clearance for 2.51GW of capacity, more than double the 1GW announced, according to clearance papers seen by the Guardian. Hannah Ellis-Petersen and Aakash Hassa…",
+      "link": "https://thenextweb.com/news/google-india-ai-datacentre-andhra-pradesh-land",
+      "date": "2026-09-26T16:59:00.000Z",
+      "category": "Hardware & Infra",
+      "region": "India",
+      "image": "https://media.thenextweb.com/2026/07/Google-logo.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Why markdown is becoming the default language between search data and AI models",
+      "summary": "Across the infrastructure layer that powers AI applications, Markdown has been emerging as a new standard. More providers are turning to it as the default output for anything a model needs to read, and moving beyond JavaScript Object Notat…",
+      "link": "https://thenextweb.com/news/markdown-default-language-search-data-ai-models",
+      "date": "2026-09-26T16:43:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/543474-2.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Oxford let OpenAI train AI models on Bodleian texts, the Guardian reports",
+      "summary": "Oxford has let OpenAI use old texts from its Bodleian Library to train its AI models, according to internal papers seen by the Guardian. Ethan Penny and Dan Milmo broke the story on Saturday. The papers say texts that OpenAI scanned at the…",
+      "link": "https://thenextweb.com/news/oxford-bodleian-openai-training-data",
+      "date": "2026-09-26T16:06:39.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/05/openai-malta-chatgpt-plus-free-citizens.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI took 2.5 hours to stop an AI agent that escaped its sandbox",
+      "summary": "OpenAI took about two and a half hours to stop an AI agent that reached the public internet from a training sandbox. Its monitoring had flagged the problem within minutes. The company disclosed the 20 September incident in an incident repo…",
+      "link": "https://thenextweb.com/news/openai-sandbox-agent-ai-kill-switch",
+      "date": "2026-09-26T15:11:51.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/09/sam-altman-profile-microphone.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "CoreWeave’s next test: From GPU scarcity to a durable AI cloud",
+      "summary": "Ahead of CoreWeave Inc.’s Fully Connected conference, we have made a notable investment in proprietary customer research with Qualitate. Rather than simply repeat the earnings call, we went to the people evaluating, buying and running the…",
+      "link": "https://siliconangle.com/2026/09/26/coreweaves-next-test-from-gpu-scarcity-to-a-durable-ai-cloud/",
+      "date": "2026-09-26T15:08:15.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/coreweave-demand-survey.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "McDonald’s tests Archy, an AI drive-thru voice for English and Spanish",
+      "summary": "McDonald’s is testing an AI voice assistant called Archy that takes drive-thru orders in English and Spanish. The company presented it at its investor day at its Chicago headquarters on 23 September. Archy has been more than 90% accurate i…",
+      "link": "https://thenextweb.com/news/mcdonalds-archy-ai-drive-thru-english-spanish",
+      "date": "2026-09-26T15:06:38.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/drive-thru-takeaway-bag-car-window.avif"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "Agentic Context Engineering (ACE): Self-Improving Language Models",
+      "summary": "Agentic Context Learning or ACE is a learning paradigm that lets an AI agent improve across tasks by editing the context it reads, while leaving model weights unchanged. The paper outlining the techniques show why full rewrites fail, how t…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/09/agentic-context-engineering/",
+      "date": "2026-09-26T14:27:41.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Hollywood studios want film graduates who already use AI, Semafor reports",
+      "summary": "Hollywood studios are turning to film schools for graduates who already know how to use AI video tools, rather than training their own staff, Semafor reported on Thursday. “How do we find people who already know how to use this?” studios a…",
+      "link": "https://thenextweb.com/news/hollywood-film-schools-ai-talent-runway",
+      "date": "2026-09-26T14:16:49.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/07/hollywood.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "date": "2026-09-26T14:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
     {
       "source": "SCMP Tech",
       "title": "Trade truce extension aside, was AI the real Xi-Trump summit breakthrough?",
@@ -138,16 +228,6 @@
       "category": "News",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/26/482ba590-188f-473b-80c2-e50f5d976a8c_4d514db1.jpg?itok=nLVxEnEg&v=1790401498"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Xi-Trump summit: China and US find common ground on AI, tariffs and fentanyl",
-      "summary": "China and the United States have agreed to improve cooperation on artificial intelligence, tariffs and chemical precursor control, following Chinese President Xi Jinping’s visit to the United States. In statements released on Saturday, the…",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3368884/xi-trump-summit-china-and-us-open-super-intelligence-communications-channel?utm_source=rss_feed",
-      "date": "2026-09-26T04:49:50.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/26/ba1bb5bb-2ca8-4505-ac0b-1d7252cdf6ae_7cac8bb1.jpg?itok=onS2enBQ&v=1790398424"
     },
     {
       "source": "SCMP Tech",
@@ -342,16 +422,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Shane-Callahan-scaled-e1790365275827.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "Infrastructure complexity is reshaping how smaller technology firms operate",
-      "summary": "As organizations become increasingly dependent on interconnected digital systems, the boundaries between communications, computing infrastructure, virtualization, software development, and artificial intelligence are becoming less distinct…",
-      "link": "https://thenextweb.com/news/infrastructure-complexity-smaller-tech-firms-synchresis",
-      "date": "2026-09-25T19:13:52.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/09/infrastructure-complexity-smaller-tech-firms-synchresis.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
       "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its sto…",
@@ -422,16 +492,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/humanxoutside-scaled.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Collibra brings runtime governance to enterprise AI agents",
-      "summary": "Runtime governance is becoming critical as autonomous agents move from answering questions to taking action across enterprise systems. Organizations need to govern both the business context agents receive and the boundaries they operate wi…",
-      "link": "https://siliconangle.com/2026/09/25/collibra-brings-runtime-governance-enterprise-ai-agents-neo4jgraphsummit/",
-      "date": "2026-09-25T18:39:25.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Felix-scaled-e1790361634296.jpg"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
       "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
@@ -472,36 +532,6 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Astra and Opus just passed Turing’s other test",
-      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "date": "2026-09-25T17:24:36.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Bill Gates warns AI could cause a billion deaths and says self-regulation is not enough",
-      "summary": "Bill Gates said artificial intelligence is powerful enough to drive events causing a billion deaths, and that self-regulation is not enough because safeguards and monitoring have to be a required thing. The European Union has required them…",
-      "link": "https://thenextweb.com/news/gates-ai-risk-eu-enforcement",
-      "date": "2026-09-25T17:16:30.000Z",
-      "category": "Policy & Safety",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/08/Bill-Gates.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Peter Thiel says the pope’s AI encyclical was ‘working for’ China",
-      "summary": "Peter Thiel has called Pope Leo XIV a “useful idiot” for the Chinese Communist Party over the pope’s call to regulate AI. The PayPal and Palantir co-founder spoke to Axel Springer chief executive Mathias Döpfner on the MD Meets podcast, re…",
-      "link": "https://thenextweb.com/news/peter-thiel-pope-leo-useful-idiot-china-ai-regulation",
-      "date": "2026-09-25T17:12:12.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/09/peter-thiel-smiling-onstage-dark-suit-microphone.avif"
-    },
-    {
       "source": "Wired AI",
       "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
       "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
@@ -509,33 +539,7 @@
       "date": "2026-09-25T16:58:20.000Z",
       "category": "Policy & Safety",
       "region": "United States",
-      "image": "https://media.wired.com/photos/6ab6a387ee39eece457c4cb2/master/pass/GettyImages-2235057505.jpg",
-      "relatedSources": [
-        {
-          "source": "The Next Web",
-          "link": "https://thenextweb.com/news/anthropic-pentagon-supply-chain-risk-appeals-court-ruling"
-        }
-      ]
-    },
-    {
-      "source": "The Next Web",
-      "title": "Pentagon seeks $30.3m for an AI lie detector that reads the body from afar",
-      "summary": "The Pentagon wants $30.3m over five years to build an AI lie detector that reads the body without touching it. The programme, called Polygraph+ or Polygraph Next, appears in the Defense Counterintelligence and Security Agency’s 2027 budget…",
-      "link": "https://thenextweb.com/news/pentagon-ai-lie-detector-polygraph-next",
-      "date": "2026-09-25T16:50:25.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/09/pentagon-aerial-view-arlington-virginia.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Nscale closed a $3.36B pre-IPO round led by Third Point, with $1B from Nvidia still to come",
-      "summary": "Nscale has closed a $3.36B pre-IPO convertible note round led by Third Point, with Nvidia, Apollo, Citadel and the Abu Dhabi Investment Council among the investors, three weeks after it was reported to be seeking up to $3.5B. The London co…",
-      "link": "https://thenextweb.com/news/nscale-3-36bn-pre-ipo-round",
-      "date": "2026-09-25T16:39:42.000Z",
-      "category": "Business & Funding",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/09/nscale-3-5-billion-pre-ipo-financing-nvidia-third-point-103bn-contracts-narvik-norway-new-york-listing.avif"
+      "image": "https://media.wired.com/photos/6ab6a387ee39eece457c4cb2/master/pass/GettyImages-2235057505.jpg"
     },
     {
       "source": "Hindu BusinessLine",
@@ -546,26 +550,6 @@
       "category": "News",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/c2rd4e/article71509608.ece/alternates/LANDSCAPE_1200/Infosys-Q1FY27-GBVG98UAU.4.jpg.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Anthropic seeks 50.1% voting control for founders, The Information reports",
-      "summary": "Anthropic wants its seven co-founders to keep control of the company after it goes public. The company is asking shareholders to approve a special class of shares for them, The Information reported on Thursday. Chief executive Dario Amodei…",
-      "link": "https://thenextweb.com/news/anthropic-founders-voting-control-ipo",
-      "date": "2026-09-25T16:18:28.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/Anthropic-logo-on-screen.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Qualcomm launches AI earbud chip, glasses platforms and a health alliance",
-      "summary": "Qualcomm wants earbuds and glasses, not phone screens, to be the way people talk to AI agents. At its Snapdragon Summit in Maui, it launched Snapdragon Sound Elite Gen 2, its first audio chip built for AI agents, and new platforms for smar…",
-      "link": "https://thenextweb.com/news/snapdragon-sound-elite-gen-2-ai-glasses-health-alliance",
-      "date": "2026-09-25T15:55:45.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/09/snapdragon-sound-elite-gen-2-earbuds.avif"
     },
     {
       "source": "Hindu BusinessLine",
@@ -586,16 +570,6 @@
       "category": "Hardware & Infra",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/gdttfw/article71509556.ece/alternates/LANDSCAPE_1200/IMG_AI_Artificial_Intell_2_1_NSE06F9V.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "In Paris, Pope warns against losing humanity in ‘paradise of machines’",
-      "summary": "Pope Leo on Friday warned against losing humanity in a “paradise of machines”, after church bells rang and thousands gathered to welcome him to France amid worldwide concern over the dangers of artificial intelligence. “If we are to avoid…",
-      "link": "https://www.scmp.com/news/world/europe/article/3368852/paris-pope-warns-against-losing-humanity-paradise-machines?utm_source=rss_feed",
-      "date": "2026-09-25T13:14:40.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/a9e40bcb-d997-4753-bc8f-374875e292b9_96863a54.jpg?itok=V6WM5ckG&v=1790342079"
     },
     {
       "source": "Hindu BusinessLine",
@@ -1720,16 +1694,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://restofworld.org/wp-content/uploads/2026/09/illo_google_earth_doubt_final-320x320.jpg"
-    },
-    {
-      "source": "Analytics Vidhya",
-      "title": "Bodhan AI Releases Four Indic Models for OCR, Translation and Speech",
-      "summary": "A Hindi lesson can mix English terms (loan words), scanned tables and handwritten equations. Making that content searchable, translating it and reading it aloud requires several kinds of AI. Bodhan AI and AI4Bharat’s four new models target…",
-      "link": "https://www.analyticsvidhya.com/blog/2026/09/bodhan-ai-indic-models/",
-      "date": "2026-09-10T06:54:03.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "The Register AI",
