@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25T22:23:53.509Z",
-  "count": 193,
+  "updated": "2026-09-26T01:36:45.307Z",
+  "count": 189,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -50,6 +50,52 @@
   ],
   "items": [
     {
+      "source": "LiveMint Tech",
+      "title": "NYT reports OpenAIs agents meddled with US Govt sites, Sam Altman commits to more transparency",
+      "summary": "The report further said that the incident involving the Commerce Department and the S.E.C. were confirmed by OpenAI, which said it was continuing to investigate the situation.",
+      "link": "https://www.livemint.com/technology/nyt-reports-openais-agents-meddled-with-us-govt-sites-sam-altman-commits-to-more-transparency-11790385479699.html",
+      "date": "2026-09-26T01:17:59.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "What to expect at Dell’s AI Leadership Symposium: Join theCUBE Sept. 29",
+      "summary": "Enterprise AI is moving past experimentation, and the infrastructure decisions behind it are becoming business decisions. As companies put AI into production, the conversation is expanding beyond models and GPUs to the data, infrastructure…",
+      "link": "https://siliconangle.com/2026/09/25/dell-ai-infrastructure-leadership-symposium-dellaileadershipsymposium/",
+      "date": "2026-09-26T00:55:38.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Dell-Technologies-AI-Leadership-Symposium-2026.png",
+      "relatedSources": [
+        {
+          "source": "SiliconANGLE",
+          "link": "https://siliconangle.com/2026/09/25/unified-storage-data-ai-netappinsight/"
+        }
+      ]
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "AI data center builder Nscale raises $3.36B ahead of IPO",
+      "summary": "Nscale Ltd. today announced that it has secured $3.36 billion in funding to support its data center construction push. The capital will arrive in two tranches. Nscale expects to receive $2.26 billion in the near future from a consortium th…",
+      "link": "https://siliconangle.com/2026/09/25/ai-data-center-builder-nscale-raises-3-36b-ahead-of-ipo/",
+      "date": "2026-09-26T00:37:14.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Nscale1-1.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "date": "2026-09-25T23:11:10.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "SiliconANGLE",
       "title": "Federal appeals court upholds Pentagon’s Claude ban",
       "summary": "The D.C. Circuit Court of Appeals today upheld the U.S. Defense Department’s ban on Claude. The decision comes a month after another federal court ruled that the ban is illegal. The diverging decisions stem from the fact that the matter is…",
@@ -68,16 +114,6 @@
       "category": "Research",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "What to expect at NetApp INSIGHT: Join theCUBE Sept. 30",
-      "summary": "As artificial intelligence goes into production, unified storage could be the glue that keeps everything together. NetApp Inc., a leader in enterprise data storage, wants to lift the burden of AI on enterprise infrastructure. Data manageme…",
-      "link": "https://siliconangle.com/2026/09/25/unified-storage-data-ai-netappinsight/",
-      "date": "2026-09-25T22:07:38.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/NetApp-INSIGHT-2026.png"
     },
     {
       "source": "Ars Technica AI",
@@ -276,16 +312,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "CoreWeave expands full-stack AI cloud push as inference demand grows",
-      "summary": "The rise of AI-native cloud provider CoreWeave Inc. is part of the greater story emerging around operationalizing AI. As enterprises shift from training to inference, neoclouds such as CoreWeave are providing cloud infrastructure tailor-ma…",
-      "link": "https://siliconangle.com/2026/09/25/coreweave-full-stack-agentic-ai-fullyconnected/",
-      "date": "2026-09-25T17:39:03.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Futuristic-Cloud-Orchestration-Data-Center-CoreWeave-Fully-Connected-Market-Insights-feature-2026.png"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
       "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
@@ -388,16 +414,6 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s…",
-      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "date": "2026-09-25T16:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "The Next Web",
       "title": "Qualcomm launches AI earbud chip, glasses platforms and a health alliance",
       "summary": "Qualcomm wants earbuds and glasses, not phone screens, to be the way people talk to AI agents. At its Snapdragon Summit in Maui, it launched Snapdragon Sound Elite Gen 2, its first audio chip built for AI agents, and new platforms for smar…",
@@ -436,16 +452,6 @@
       "category": "Hardware & Infra",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/gdttfw/article71509556.ece/alternates/LANDSCAPE_1200/IMG_AI_Artificial_Intell_2_1_NSE06F9V.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Exclusive: Warp adds programmable agents to its AI-native HR platform",
-      "summary": "Warp today launched an artificial intelligence agent designed to automate routine human resources work, extending its AI-native employee management platform with customizable workflows that can act without continual human prompting. The co…",
-      "link": "https://siliconangle.com/2026/09/25/exclusive-warp-adds-programmable-agents-to-its-ai-native-hr-platform/",
-      "date": "2026-09-25T14:43:10.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Ayush-Sharma-Warp-e1790347283917.png"
     },
     {
       "source": "SCMP Tech",
@@ -650,16 +656,6 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565118.jpg"
     },
     {
-      "source": "SCMP Tech",
-      "title": "From Suzhou to AI: Singapore, China eye new playbook for economic ties",
-      "summary": "Singapore and China should look to the next phase of cooperation through potential projects in artificial intelligence and the green economy, after decades of economic ties anchored by industrial parks, eco-cities and transport corridors.…",
-      "link": "https://www.scmp.com/week-asia/economics/article/3368773/suzhou-ai-singapore-china-eye-new-playbook-economic-ties?utm_source=rss_feed",
-      "date": "2026-09-25T06:15:55.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/4efa6ba4-346b-43e2-97a6-b6207639cccc_dadbee48.jpg?itok=grVmuUIk&v=1790316946"
-    },
-    {
       "source": "MediaNama",
       "title": "NPCI chief Dilip Asbe cites AI cyber threats, including Claude Mythos, to defend UPI MDR",
       "summary": "NPCI chief Dilip Asbe says the new UPI merchant charge will fund security and capacity. He estimates it will raise Rs 13,000–15,000 crore in its first year but has not detailed how the money will be spent. The post NPCI chief Dilip Asbe ci…",
@@ -668,16 +664,6 @@
       "category": "Security & Cyber Risk",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "AI war, Taiwan and translation: SCMP answers your questions from Xi-Trump summit",
-      "summary": "This live article is freely available to our registered users. Please log in or create an account. Xi’s US summit: Access real-time updates, geopolitical risk analysis, and exclusive reporting from an Asian perspective. Subscribe now with…",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3368493/live-qa-scmp-answers-your-questions-about-washington-xi-trump-summit?utm_source=rss_feed",
-      "date": "2026-09-25T05:55:06.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/c3898f26-a904-4d30-9ad6-1b544884d7ec_7222aa67.jpg?itok=RL2GuyuS&v=1790303842"
     },
     {
       "source": "ET Tech",
@@ -714,16 +700,6 @@
           "link": "https://www.livemint.com/technology/one-small-step-for-tpus-google-ceo-sundar-pichai-announces-project-suncatcher-to-test-ai-compute-in-space-11790309041454.html"
         }
       ]
-    },
-    {
-      "source": "Japan Times",
-      "title": "China fuels rush to turn AI video into an industry",
-      "summary": "Local governments are promising to build tech clusters and offering subsidies to AI filmmakers and startups, a familiar industrial policy playbook.",
-      "link": "https://www.japantimes.co.jp/news/2026/09/25/asia-pacific/society/china-ai-video-industry/",
-      "date": "2026-09-25T03:59:00.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565068.jpg"
     },
     {
       "source": "ET Tech",
@@ -994,16 +970,6 @@
       "category": "News",
       "region": "China",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/china-vs-us-ai-race-1152x648.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "AI firms should not get regulatory waivers, Nvidia CEO says on podcast",
-      "summary": "AI-REGULATION-NVIDIA:AI firms should not get regulatory waivers, Nvidia CEO says on podcast",
-      "link": "https://www.livemint.com/technology/ai-firms-should-not-get-regulatory-waivers-nvidia-ceo-says-on-podcast-11790195173475.html",
-      "date": "2026-09-23T20:26:13.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/maxresdefault_1790202927501_FSrN_1790202935453_0N2W_ba2c9ce6-456f-4e00-a8ba-addc4f745582_VWIC.jpg"
     },
     {
       "source": "Hugging Face",
