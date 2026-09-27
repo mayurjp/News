@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T01:30:08.761Z",
-  "count": 190,
+  "updated": "2026-09-27T08:14:26.217Z",
+  "count": 192,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -50,14 +50,100 @@
   ],
   "items": [
     {
+      "source": "SCMP Tech",
+      "title": "Hong Kong delays AI copyright law to focus on guidelines first",
+      "summary": "Hong Kong authorities will delay a proposed legal amendment to protect copyrighted works from being used to train artificial intelligence (AI) models and will issue operational guidelines first, the South China Morning Post has learned. Th…",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3368913/hong-kong-delays-ai-copyright-law-focus-guidelines-first?utm_source=rss_feed",
+      "date": "2026-09-27T08:00:16.000Z",
+      "category": "Policy & Safety",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/26/dc0c1c0b-e173-40de-9c8a-0ab7ba00335f_1d1923d0.jpg?itok=G-Vw4VCS&v=1790430367"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "AI integration, digital platforms steer growth across Indias expanding tourism landscape",
+      "summary": "Artificial intelligence and digital platforms are increasingly steering the Indian tourism sector, driving more personalised and seamless travel experiences alongside record domestic and international visitor traffic.",
+      "link": "https://www.livemint.com/technology/ai-integration-digital-platforms-steer-growth-across-indias-expanding-tourism-landscape-11790493781275.html",
+      "date": "2026-09-27T07:23:00.000Z",
+      "category": "Product",
+      "region": "India",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Hong Kong can offer AI governance solutions for major economies: Paul Chan",
+      "summary": "Hong Kong can offer trusted solutions in artificial intelligence (AI) governance for major economies by leveraging the city’s unique strengths, including its common law system, internationally connected standards and professional services,…",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368931/hong-kong-can-offer-ai-governance-solutions-major-economies-paul-chan?utm_source=rss_feed",
+      "date": "2026-09-27T05:43:38.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/27/9ef19b5d-08ee-4a1e-8955-abd3bfadbaec_f2c60cff.jpg?itok=nh3STMEu&v=1790487757"
+    },
+    {
       "source": "Hindu BusinessLine",
-      "title": "OpenAI agentic AI system breaches sandbox, gains unauthorised access to public internet",
-      "summary": "The incident prompted OpenAI to pause training with tool use on its most capable models until the sandbox flaw was resolved.",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-agentic-ai-system-breaches-sandbox-gains-unauthorised-access-to-public-internet/article71515078.ece",
-      "date": "2026-09-27T00:44:30.000Z",
+      "title": "When AI agents go rogue: Australia breach offers warning for countries like India",
+      "summary": "For countries such as India, with vast government databases and increasingly digitised public infrastructure, researchers say the incident should serve as a warning.",
+      "link": "https://www.thehindubusinessline.com/info-tech/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india/article71515281.ece",
+      "date": "2026-09-27T05:31:39.000Z",
       "category": "Security & Cyber Risk",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/akdi1q/article71515302.ece/alternates/LANDSCAPE_1200/iStock-2172388197.jpg",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india-11790481067426.html"
+        }
+      ]
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "OpenAI pauses training of latest AI after agentic models gains unauthorised access to US government sites",
+      "summary": "Another agentic AI system under training in internet-free environment gained access to the web to reach an external, third-party chatbot.",
+      "link": "https://www.thehindubusinessline.com/info-tech/openai-agentic-ai-system-breaches-sandbox-gains-unauthorised-access-to-public-internet/article71515078.ece",
+      "date": "2026-09-27T05:21:24.000Z",
+      "category": "News",
       "region": "United States",
       "image": "https://bl-i.thgim.com/public/incoming/8l9eu6/article71515079.ece/alternates/LANDSCAPE_1200/2026-09-25T203349Z_1364290519_RC29LNAH406T_RTRMADP_3_AI-SAFETY-OPENAI.JPG"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+      "summary": "The Medicare breach, condemned by Prime Minister Anthony Albanese, is one of the highest-profile incidents of AI agents accessing ‌external systems outside the US",
+      "link": "https://www.thehindubusinessline.com/info-tech/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe/article71515241.ece",
+      "date": "2026-09-27T04:41:04.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/4hryx5/article71503273.ece/alternates/LANDSCAPE_1200/2026-09-12T012554Z_1110879571_RC2UFZ9B4QXD_RTRMADP_3_OPENAI-SECURITY.JPG"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Hyperscaler cloud revenues projected to top USD 1 trillion by 2030 amid AI, digital asset convergence: Report",
+      "summary": "Hyperscaler cloud revenues could exceed USD 1 trillion annually by 2030, driven by expanding demand for computing resources required to train and run artificial intelligence (AI) systems, according to a BlackRock report. It highlighted how…",
+      "link": "https://www.livemint.com/technology/hyperscaler-cloud-revenues-projected-to-top-usd-1-trillion-by-2030-amid-ai-digital-asset-convergence-report-11790477745714.html",
+      "date": "2026-09-27T02:55:45.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
+    },
+    {
+      "source": "Japan Times",
+      "title": "Japanese anime actor fights TikTok over AI voice cloning",
+      "summary": "AI imitation is a growing concern among performers worldwide, and the threat has roiled Japan's storied animation industry.",
+      "link": "https://www.japantimes.co.jp/news/2026/09/27/japan/crime-legal/japan-voice-actor-court-fight-tiktok-ai-voice-cloning/",
+      "date": "2026-09-27T02:31:00.000Z",
+      "category": "News",
+      "region": "Japan",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565226.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "date": "2026-09-27T01:30:00.000Z",
+      "category": "News",
+      "region": "India",
+      "image": null
     },
     {
       "source": "SCMP Tech",
@@ -260,16 +346,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/r1v6io/article71300140.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U913LO212_R1521727298_3_fa3f1feb-bb9c-4bd0-9f4d-53a38b64562d.jpg"
     },
     {
-      "source": "Japan Times",
-      "title": "China and U.S. to open AI ‘communication channel’ after summit",
-      "summary": "U.S. President Donald Trump and Chinese leader Xi Jinping discussed matters ranging from AI and trade to the stalled war in Iran.",
-      "link": "https://www.japantimes.co.jp/news/2026/09/26/world/us-china-ai-communication-line/",
-      "date": "2026-09-26T06:03:00.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565198.jpg"
-    },
-    {
       "source": "SCMP Tech",
       "title": "China’s AI-led transformation is taking shape. Why are some economists urging caution?",
       "summary": "As AI becomes an increasingly important part of China’s economic transformation, economists and industry leaders are raising concerns about two potential risks: inflated valuations for humanoid robotics companies and the technology widenin…",
@@ -278,22 +354,6 @@
       "category": "News",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/26/482ba590-188f-473b-80c2-e50f5d976a8c_4d514db1.jpg?itok=nLVxEnEg&v=1790401498"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "OpenAI says its AI agents posted user images online in error",
-      "summary": "OpenAI acknowledged on Friday that its artificial intelligence tools had posted images from ChatGPT users onto online sites without the company’s knowledge, the latest example of AI agents operating outside their bounds. The company also c…",
-      "link": "https://www.scmp.com/news/us/science-technology/article/3368883/openai-says-its-ai-agents-posted-user-images-online-error?utm_source=rss_feed",
-      "date": "2026-09-26T04:48:13.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/26/c9e7ef1f-a67c-4b4c-85e6-609b9121b637_1febb81f.jpg?itok=cYUjnrp6&v=1790398086",
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
-        }
-      ]
     },
     {
       "source": "ET Tech",
@@ -362,26 +422,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Nscale1-1.png"
     },
     {
-      "source": "Japan Times",
-      "title": "Spotting AI writing: How reliable are the detectors?",
-      "summary": "Claims that a Canadian-Haitian writer used AI tools to write his best-selling debut novel are posing questions about how AI can be detected.",
-      "link": "https://www.japantimes.co.jp/news/2026/09/26/world/spotting-ai-writing-focus/",
-      "date": "2026-09-26T00:37:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565186.jpg"
-    },
-    {
-      "source": "Japan Times",
-      "title": "OpenAI’s models accessed public U.S. Census and SEC data",
-      "summary": "The company's agentic AI systems interacted with public U.S. Census and SEC data, people familiar with the situation said.",
-      "link": "https://www.japantimes.co.jp/business/2026/09/26/tech/openai-us-census-sec-data/",
-      "date": "2026-09-26T00:29:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565185.jpg"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
@@ -400,6 +440,16 @@
       "category": "Policy & Safety",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/pentagon.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "date": "2026-09-25T22:20:47.000Z",
+      "category": "Research",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Ars Technica AI",
@@ -552,16 +602,6 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s…",
-      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "date": "2026-09-25T18:22:47.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
       "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
@@ -652,16 +692,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/macbook_comparisions_1783340480439_1783340524836_e56b3a34-a13f-40e4-bde8-434b1a4cad88_1790330372186_O8MJ_25e75947-a876-4bb8-9610-252d35e0b26a_tOjv.png"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Google Cloud steps up partnerships in India as AI adoption moves to production",
-      "summary": "By providing a direct line back to Google‘s core product and research groups, customers receive support that de-risks AI adoption, accelerates time-to-market, and maximizes the return on their AI investments",
-      "link": "https://www.thehindubusinessline.com/info-tech/google-cloud-steps-up-partnerships-in-india-as-ai-adoption-moves-to-production/article71504900.ece",
-      "date": "2026-09-25T10:24:03.000Z",
-      "category": "Research",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/ujlf2j/article71499307.ece/alternates/LANDSCAPE_1200/2026-09-21T145446Z_230924563_RC2FUHAJ8KWR_RTRMADP_3_ALPHABET-PRODUCTS-GOOGLEBOOK.JPG"
-    },
-    {
       "source": "MediaNama",
       "title": "Pine Labs, Google Cloud partner to expand agentic commerce to merchants",
       "summary": "Pine Labs has partnered with Google Cloud to build AI tools for merchant advertising, customer support and payments. It is also developing Jarvis, a platform to help merchants manage operations. The post Pine Labs, Google Cloud partner to…",
@@ -670,22 +700,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "AI infrastructure investment seen surging to $769 billion in 2026 amid growing safety concerns",
-      "summary": "OpenAI is in discussions with investors for additional funding that could value the company at around $1.2 trillion, while SoftBank has launched an $11 billion bond offering to help fund a further $10 billion investment in OpenAI",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-infrastructure-investment-seen-surging-to-769-billion-in-2026-amid-growing-safety-concerns/article71507773.ece",
-      "date": "2026-09-25T09:45:05.000Z",
-      "category": "Policy & Safety",
-      "region": "Japan",
-      "image": "https://bl-i.thgim.com/public/incoming/nju6l6/article71508092.ece/alternates/LANDSCAPE_1200/2026-09-23T174215Z_1823447225_RC25PNAVE277_RTRMADP_3_AI-TECHNOLOGY.JPG",
-      "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-infrastructure-investment-seen-surging-to-769-billion-in-2026-amid-growing-safety-concerns/articleshow/134479284.cms"
-        }
-      ]
     },
     {
       "source": "MediaNama",
@@ -726,6 +740,16 @@
       "category": "News",
       "region": "India",
       "image": "https://img.etimg.com/photo/msid-134479353,imgsize-1607067.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "AI infrastructure investment seen surging to $769 billion in 2026 amid growing safety concerns",
+      "summary": "The estimate is based on nearly $384 billion invested in the first half of 2026 and assumes the current pace continues through the year. It compares with $145 billion invested in the technology in 2025, making AI infrastructure and model a…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-infrastructure-investment-seen-surging-to-769-billion-in-2026-amid-growing-safety-concerns/articleshow/134479284.cms",
+      "date": "2026-09-25T07:58:11.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-134479284,imgsize-50546.cms"
     },
     {
       "source": "Analytics Vidhya",
@@ -950,16 +974,6 @@
       "image": null
     },
     {
-      "source": "LiveMint Tech",
-      "title": "YouTube gets 30+ new features: AI editing tool to help creators; custom feeds, shorts series and more coming for users",
-      "summary": "The company said the new tools are intended to give viewers greater control over the content they consume while helping creators produce, manage and earn from their work.",
-      "link": "https://www.livemint.com/technology/youtube-gets-30-new-features-ai-editing-tool-to-help-creators-custom-feeds-shorts-series-and-more-coming-for-users-11790245559585.html",
-      "date": "2026-09-24T11:11:44.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Untitled_design_-_2026-09-24T160405.675_1790246048085_0sXE_1790246057317_CdXv_90fdf742-2a3e-4367-8502-f56ef9789cfc_O7vv.png"
-    },
-    {
       "source": "Wired AI",
       "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
       "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
@@ -968,26 +982,6 @@
       "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://media.wired.com/photos/6ab4f83dee18064acd928033/master/pass/092426-Canada%20Open%20AI%20Hack%20Sam.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Meta unveils $1,299 VR glasses with eye tracking, hologram calls and AI features: All you need to know",
-      "summary": "Meta has unveiled its new $1,299 VR Glasses, featuring eye tracking, hand controls, virtual screens and hologram video calls. The company also announced Muse Charm, a pocket-sized device designed to provide quick access to its Muse AI agen…",
-      "link": "https://www.livemint.com/technology/meta-unveils-1-299-vr-glasses-with-eye-tracking-hologram-calls-and-ai-features-all-you-need-to-know-11790220108779.html",
-      "date": "2026-09-24T03:49:36.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/maxresdefault_1790243423883_JScp_1790243432929_56JL_b55e91dd-6741-409a-9a51-5da692f179d0_qLLX.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Australias prime minister criticizes OpenAI over government website security breach",
-      "summary": "Australia's prime minister criticizes OpenAI over government website security breach",
-      "link": "https://www.livemint.com/technology/australias-prime-minister-criticizes-openai-over-government-website-security-breach-11790211186516.html",
-      "date": "2026-09-24T00:53:06.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/maxresdefault_live_1790215150534_vKUO_1790215156727_oFBD_eb8fec58-5612-4b45-9fb2-835ccec7eb5b_sjiS.jpg"
     },
     {
       "source": "Wired AI",
@@ -1974,6 +1968,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     },
     {
       "source": "BAIR",
