@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T18:27:02.630Z",
-  "count": 189,
+  "updated": "2026-09-27T22:14:42.602Z",
+  "count": 183,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -50,14 +50,66 @@
   ],
   "items": [
     {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "date": "2026-09-27T20:34:28.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": null,
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-amodei-to-have-white-house-dinner-with-trump-says-axios/articleshow/134523438.cms"
+        }
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "date": "2026-09-27T19:57:30.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "The Next Web",
-      "title": "China reportedly may let Alibaba and ByteDance buy new Nvidia chips",
-      "summary": "China’s government has signalled it may let firms such as Alibaba and ByteDance buy Nvidia’s new RTX Pro 5500 chip. The Information reported the news on Sunday, citing two people familiar with the matter. China’s tech ministry recently ask…",
-      "link": "https://thenextweb.com/news/china-alibaba-bytedance-nvidia-rtx-pro-5500",
-      "date": "2026-09-27T18:16:51.000Z",
-      "category": "Hardware & Infra",
+      "title": "UK campaigners who beat AI copyright plan warn Australia",
+      "summary": "Campaigners who helped stop the UK from letting AI companies train on copyrighted work without permission have warned Australia not to try the same thing. They spoke to Dan Milmo for the Guardian. Australia’s government is weighing an opt-…",
+      "link": "https://thenextweb.com/news/uk-campaigners-warn-australia-ai-copyright",
+      "date": "2026-09-27T18:57:18.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/09/recording-studio-mixing-desk-vocalist.avif"
+    },
+    {
+      "source": "ET Tech",
+      "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips: The Information",
+      "summary": "China's Ministry of Industry and Information Technology recently asked companies including ByteDance and Alibaba to report their plans to purchase Nvidia's RTX PRO 5500 chips, according to the report.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information/articleshow/134525276.cms",
+      "date": "2026-09-27T18:41:20.000Z",
+      "category": "News",
       "region": "China",
-      "image": "https://media.thenextweb.com/2026/04/uk-biobank-health-data-alibaba-breach.avif"
+      "image": "https://img.etimg.com/photo/msid-134525276,imgsize-1110272.cms",
+      "relatedSources": [
+        {
+          "source": "The Next Web",
+          "link": "https://thenextweb.com/news/china-alibaba-bytedance-nvidia-rtx-pro-5500"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "Trump to host Anthropic’s Dario Amodei at White House dinner, Axios reports",
+      "summary": "President Donald Trump plans to host Anthropic boss Dario Amodei at a private White House dinner on Sunday evening. Maria Curi and Marc Caputo broke the news for Axios, citing people familiar with the matter. It would be the first one-on-o…",
+      "link": "https://thenextweb.com/news/trump-amodei-anthropic-white-house-dinner",
+      "date": "2026-09-27T18:39:02.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/anthropic-dario-amodei-open-weights-position-not-ban.avif"
     },
     {
       "source": "The Next Web",
@@ -68,16 +120,6 @@
       "category": "Security & Cyber Risk",
       "region": "Global",
       "image": "https://media.thenextweb.com/2026/09/team-meeting-laptops-boardroom.avif"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Anthropic CEO Amodei to have White House dinner with Trump: Axios",
-      "summary": "Anthropic CEO Dario Amodei will have a White House dinner with US President Donald Trump, Axios reported on Sunday.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-amodei-to-have-white-house-dinner-with-trump-says-axios/articleshow/134523438.cms",
-      "date": "2026-09-27T16:54:24.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134523438,imgsize-1007984.cms"
     },
     {
       "source": "ET Tech",
@@ -292,16 +334,6 @@
       "image": null
     },
     {
-      "source": "SCMP Tech",
-      "title": "Amid many thorny issues with China, Trump pushes to rename AI as superintelligence",
-      "summary": "US President Donald Trump is pushing for a rebrand of artificial intelligence (AI) — and looking to get the world’s other AI superpower, China, on board. All US government documents, and “hopefully the world’s”, will use the term “superint…",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3368921/amid-many-thorny-issues-china-trump-pushes-rename-ai-superintelligence?utm_source=rss_feed",
-      "date": "2026-09-26T22:15:40.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/27/1b32ab9f-657a-47ae-bae2-e84dc6536540_cf75bc3d.jpg?itok=d8WJmbvK&v=1790460932"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Insurers claim AI is already increasing healthcare costs",
       "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
@@ -312,16 +344,6 @@
       "image": null
     },
     {
-      "source": "SCMP Tech",
-      "title": "Why US chip controls took a back seat at the Xi-Trump summit",
-      "summary": "There is little question that Jensen Huang and Lisa Su, the heads of US semiconductor chip giants Nvidia and Advanced Micro Devices (AMD), had secured two of the best seats in the house at the White House state dinner on Thursday evening:…",
-      "link": "https://www.scmp.com/news/us/article/3368918/why-us-chip-controls-took-back-seat-xi-trump-summit?utm_source=rss_feed",
-      "date": "2026-09-26T18:57:23.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/27/e85a7b6c-131c-438a-860f-e50c6b71df51_4f4ac486.jpg?itok=9t6ftXHk&v=1790449037"
-    },
-    {
       "source": "The Next Web",
       "title": "Australian inquiry asks Altman and Amodei to testify",
       "summary": "The heads of OpenAI and Anthropic have been asked to face an Australian Senate inquiry into AI and datacentres. The move follows cases in which OpenAI agents got into Australian and US government websites, Luca Ittimani reported for the Gu…",
@@ -330,26 +352,6 @@
       "category": "Policy & Safety",
       "region": "United States",
       "image": "https://media.thenextweb.com/2026/09/claude-chatgpt-app-icons-iphone.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Google’s India AI hub cleared for 2.51GW, not 1GW, the Guardian reports",
-      "summary": "Google’s $15bn AI datacentre project in Andhra Pradesh has state environmental clearance for 2.51GW of capacity, more than double the 1GW announced, according to clearance papers seen by the Guardian. Hannah Ellis-Petersen and Aakash Hassa…",
-      "link": "https://thenextweb.com/news/google-india-ai-datacentre-andhra-pradesh-land",
-      "date": "2026-09-26T16:59:00.000Z",
-      "category": "Hardware & Infra",
-      "region": "India",
-      "image": "https://media.thenextweb.com/2026/07/Google-logo.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Why markdown is becoming the default language between search data and AI models",
-      "summary": "Across the infrastructure layer that powers AI applications, Markdown has been emerging as a new standard. More providers are turning to it as the default output for anything a model needs to read, and moving beyond JavaScript Object Notat…",
-      "link": "https://thenextweb.com/news/markdown-default-language-search-data-ai-models",
-      "date": "2026-09-26T16:43:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/09/543474-2.avif"
     },
     {
       "source": "SiliconANGLE",
@@ -380,16 +382,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "ET Tech",
-      "title": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman",
-      "summary": "Union Finance Minister Nirmala Sitharaman highlighted the need for investment in AI, semiconductor chips, and quantum technology. She stated that strengthening digital infrastructure will support AI adoption across various sectors. Additio…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-infrastructure-revolution-fm-sitharaman-promotes-ai-semiconductors-and-quantum-technology-investments/articleshow/134504988.cms",
-      "date": "2026-09-26T12:26:13.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://img.etimg.com/photo/msid-134504988,imgsize-126250.cms"
     },
     {
       "source": "LiveMint Tech",
@@ -598,16 +590,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Shane-Callahan-scaled-e1790365275827.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its sto…",
-      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "date": "2026-09-25T19:13:38.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
       "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
@@ -646,16 +628,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "date": "2026-09-25T18:48:33.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "SiliconANGLE",
@@ -1942,26 +1914,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
