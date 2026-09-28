@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T00:51:44.929Z",
-  "count": 186,
+  "updated": "2026-09-28T06:58:11.049Z",
+  "count": 180,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -34,6 +34,7 @@
     "Policy & Safety",
     "Business & Funding",
     "Enterprise & Deployment",
+    "Open Source",
     "Hardware & Infra",
     "Research",
     "Product",
@@ -49,6 +50,108 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "SCMP Tech",
+      "title": "As China mulls how to make open-weight AI less dangerous, report proposes 6-stage process",
+      "summary": "Amid intensifying debate over the risks posed by rapid advancements in artificial intelligence, Chinese developers dominating the open-weight ecosystem are grappling with a unique problem: how to ensure their user-modifiable models remain…",
+      "link": "https://www.scmp.com/tech/article/3369015/china-mulls-how-make-open-weight-ai-less-dangerous-report-proposes-6-stage-process?utm_source=rss_feed",
+      "date": "2026-09-28T06:00:05.000Z",
+      "category": "Open Source",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/38d9014e-3bd6-4194-87b7-f0f24bd79137_39e6db84.jpg?itok=dR8hhGei&v=1790572323"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Xiaomi-backed robotics chip designer clears hearing, eyes US$100m Hong Kong IPO: sources",
+      "summary": "Zhuhai Amicro Technology, a Xiaomi-backed chipmaker, is preparing to begin premarketing for a Hong Kong initial public offering (IPO) of more than US$100 million as early as this week, according to people familiar with the matter. The comp…",
+      "link": "https://www.scmp.com/business/china-business/article/3369017/xiaomi-backed-robotics-chip-designer-clears-hearing-eyes-us100m-hong-kong-ipo-sources?utm_source=rss_feed",
+      "date": "2026-09-28T05:14:07.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/70a3cc59-b561-4ab2-a5c5-a1d9ad5ca7dd_0c35d8d6.jpg?itok=D3M6G8Id&v=1790572447"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Anthropic, OpenAI sound the alarm on AI safety - and seek to shape how it's controlled",
+      "summary": "Anthropic and OpenAI CEOs say America’s top models are so powerful they’re dangerous and should be regulated and independently tested before release",
+      "link": "https://www.thehindubusinessline.com/info-tech/anthropic-openai-sound-the-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled/article71518159.ece",
+      "date": "2026-09-28T03:31:15.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/cthl7w/article71518281.ece/alternates/LANDSCAPE_1200/2026-09-27T042223Z_473273503_RC2TRLA6PPT4_RTRMADP_3_OPENAI-CYBERSECURITY-AUSTRALIA.JPG",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-sound-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled/articleshow/134520269.cms"
+        }
+      ]
+    },
+    {
+      "source": "ET Tech",
+      "title": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
+      "summary": "Separately, AI evaluator Transluce said agents that appeared to come from OpenAI tried unsuccessfully to hack into a Department of Education website, a detail that OpenAI has not confirmed.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways/articleshow/134530903.cms",
+      "date": "2026-09-28T03:27:10.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-134530903,imgsize-57376.cms",
+      "relatedSources": [
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/openai-agentic-ai-system-breaches-sandbox-gains-unauthorised-access-to-public-internet/article71515078.ece"
+        }
+      ]
+    },
+    {
+      "source": "ET Tech",
+      "title": "Trump said he would dine with Anthropic CEO Dario Amodei amid mounting AI debate",
+      "summary": "Trump told reporters after returning to Joint Base Andrews in Maryland that he was grabbing dinner at 10 pm with Dario Amodei. The meal comes just two days after Amodei's company faced a setback in a court case against the government over…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-said-he-would-dine-with-anthropic-ceo-dario-amodei-amid-mounting-ai-debate/articleshow/134530799.cms",
+      "date": "2026-09-28T03:18:53.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-134530799,imgsize-1007984.cms"
+    },
+    {
+      "source": "Japan Times",
+      "title": "From geisha face paint to servers, Sakai Chemical emerges as AI linchpin",
+      "summary": "Production capacity is quickly filling up at the Osaka-based company, which provides raw materials for capacitors necessary in AI data centers.",
+      "link": "https://www.japantimes.co.jp/business/2026/09/28/companies/sakai-chemical-ai-linchpin/",
+      "date": "2026-09-28T03:02:00.000Z",
+      "category": "News",
+      "region": "Japan",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/28/thumbs/400x400/565376.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "AI adoption set to accelerate, but data centres may not deliver comparable job gains: WEF",
+      "summary": "Artificial intelligence adoption is expected to accelerate globally over the next 12 months, with economists seeing productivity gains from the technology, even as concerns persist over the ability of data-centre investment to generate com…",
+      "link": "https://www.livemint.com/technology/ai-adoption-set-to-accelerate-but-data-centres-may-not-deliver-comparable-job-gains-wef-11790563781276.html",
+      "date": "2026-09-28T02:49:40.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "AWS CloudWatch Omni goes after the hardest question in agentic AI: Why did the agent do that?",
+      "summary": "For decades, the observability industry has answered one basic question: Is it running? Agentic artificial intelligence breaks that model. An agent can return a clean response, meet its latency target and throw no errors, yet still give a…",
+      "link": "https://siliconangle.com/2026/09/27/aws-cloudwatch-omni-goes-after-the-hardest-question-in-agentic-ai-why-did-the-agent-do-that/",
+      "date": "2026-09-28T02:06:54.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/omni-teaser-v5-amazon-low.da5123a96aff5bacec62cd97ae8335f742413aaf.gif"
+    },
+    {
+      "source": "ET Tech",
+      "title": "a16z’s Raghuram isn't writing off India AI yet; insurers weigh new rules",
+      "summary": "Happy Monday! a16z’s Raghu Raghuram said India can build frontier AI companies by using its talent. This and more in today’s ETtech Morning Dispatch.",
+      "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/a16zs-raghu-raghuram-on-indias-ai-potential-insurance-cos-navigate-new-proposal/articleshow/134529607.cms",
+      "date": "2026-09-28T01:54:52.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://img.etimg.com/photo/msid-134529607,imgsize-819965.cms"
+    },
     {
       "source": "SiliconANGLE",
       "title": "Researcher links 16,000 scans of a UN statistics portal to OpenAI agents",
@@ -213,16 +316,6 @@
     },
     {
       "source": "ET Tech",
-      "title": "Anthropic, OpenAI sound alarm on AI safety — and seek to shape how it's controlled",
-      "summary": "The CEOs of Anthropic and OpenAI recently declared America's cutting-edge models are so powerful, they're dangerous, and need to be regulated and independently tested before being released. In a rare instance of unity, they have sketched a…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-sound-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled/articleshow/134520269.cms",
-      "date": "2026-09-27T12:30:27.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134520269,imgsize-135904.cms"
-    },
-    {
-      "source": "ET Tech",
       "title": "Hyperscaler cloud revenues projected to top $1 trillion by 2030 amid AI, digital asset convergence: Report",
       "summary": "Hyperscaler cloud revenues could exceed $1 trillion annually by 2030, driven by expanding demand for computing resources required to train and run artificial intelligence (AI) systems, according to a BlackRock report. It highlighted how co…",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/hyperscaler-cloud-revenues-projected-to-top-usd-1-trillion-by-2030-amid-ai-digital-asset-convergence-report/articleshow/134519352.cms",
@@ -258,52 +351,6 @@
       ]
     },
     {
-      "source": "ET Tech",
-      "title": "AI startup Black Forest Labs urges optimism from Europe despite safety fears",
-      "summary": "Europe needs to view artificial intelligence with more optimism -- despite growing warnings about its dangers -- or risk falling further behind, the head of a leading European AI start-up warned. \"I think the mindset in Europe needs to shi…",
-      "link": "https://economictimes.indiatimes.com/tech/startups/ai-startup-urges-optimism-from-europe-despite-safety-fears/articleshow/134518987.cms",
-      "date": "2026-09-27T11:11:14.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://img.etimg.com/photo/msid-134518987,imgsize-89054.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-      "summary": "OpenAI's Sam Altman and Anthropic's Dario Amodei have been sent written requests to appear at the inquiry, which is to hold public hearings in the capital Canberra on Thursday, said a spokesperson for Senator Sarah Hanson-Young of the Aust…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe/articleshow/134518946.cms",
-      "date": "2026-09-27T11:08:52.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134518946,imgsize-74980.cms",
-      "relatedSources": [
-        {
-          "source": "Hindu BusinessLine",
-          "link": "https://www.thehindubusinessline.com/info-tech/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe/article71515241.ece"
-        }
-      ]
-    },
-    {
-      "source": "ET Tech",
-      "title": "OpenAI pauses training, tool-use of top AI models after agent bypasses internet curbs",
-      "summary": "The agent, OpenAI said, bypassed the curbs through a gap in its Domain Name System (DNS) filtering and used it to send questions to a public chatbot service. According to a report by OpenAI, the pause will stay in place until OpenAI has co…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-training-tool-use-of-top-ai-models-after-agent-bypasses-internet-curbs/articleshow/134518875.cms",
-      "date": "2026-09-27T11:07:17.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134518875,imgsize-9574096.cms"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Hong Kong delays AI copyright law to focus on guidelines first",
-      "summary": "Hong Kong authorities will delay a proposed legal amendment to protect copyrighted works from being used to train artificial intelligence (AI) models and will issue operational guidelines first, the South China Morning Post has learned. Th…",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3368913/hong-kong-delays-ai-copyright-law-focus-guidelines-first?utm_source=rss_feed",
-      "date": "2026-09-27T08:00:16.000Z",
-      "category": "Policy & Safety",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/26/dc0c1c0b-e173-40de-9c8a-0ab7ba00335f_1d1923d0.jpg?itok=G-Vw4VCS&v=1790430367"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "AI integration, digital platforms steer growth across Indias expanding tourism landscape",
       "summary": "Artificial intelligence and digital platforms are increasingly steering the Indian tourism sector, driving more personalised and seamless travel experiences alongside record domestic and international visitor traffic.",
@@ -314,34 +361,14 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Hong Kong can offer AI governance solutions for major economies: Paul Chan",
-      "summary": "Hong Kong can offer trusted solutions in artificial intelligence (AI) governance for major economies by leveraging the city’s unique strengths, including its common law system, internationally connected standards and professional services,…",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368931/hong-kong-can-offer-ai-governance-solutions-major-economies-paul-chan?utm_source=rss_feed",
-      "date": "2026-09-27T05:43:38.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/27/9ef19b5d-08ee-4a1e-8955-abd3bfadbaec_f2c60cff.jpg?itok=nh3STMEu&v=1790487757"
-    },
-    {
       "source": "Hindu BusinessLine",
-      "title": "OpenAI pauses training of latest AI after agentic models gains unauthorised access to US government sites",
-      "summary": "Another agentic AI system under training in internet-free environment gained access to the web to reach an external, third-party chatbot.",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-agentic-ai-system-breaches-sandbox-gains-unauthorised-access-to-public-internet/article71515078.ece",
-      "date": "2026-09-27T05:21:24.000Z",
-      "category": "News",
+      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+      "summary": "The Medicare breach, condemned by Prime Minister Anthony Albanese, is one of the highest-profile incidents of AI agents accessing ‌external systems outside the US",
+      "link": "https://www.thehindubusinessline.com/info-tech/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe/article71515241.ece",
+      "date": "2026-09-27T04:41:04.000Z",
+      "category": "Security & Cyber Risk",
       "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/8l9eu6/article71515079.ece/alternates/LANDSCAPE_1200/2026-09-25T203349Z_1364290519_RC29LNAH406T_RTRMADP_3_AI-SAFETY-OPENAI.JPG"
-    },
-    {
-      "source": "Japan Times",
-      "title": "Japanese anime actor fights TikTok over AI voice cloning",
-      "summary": "AI imitation is a growing concern among performers worldwide, and the threat has roiled Japan's storied animation industry.",
-      "link": "https://www.japantimes.co.jp/news/2026/09/27/japan/crime-legal/japan-voice-actor-court-fight-tiktok-ai-voice-cloning/",
-      "date": "2026-09-27T02:31:00.000Z",
-      "category": "News",
-      "region": "Japan",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565226.jpg"
+      "image": "https://bl-i.thgim.com/public/incoming/4hryx5/article71503273.ece/alternates/LANDSCAPE_1200/2026-09-12T012554Z_1110879571_RC2UFZ9B4QXD_RTRMADP_3_OPENAI-SECURITY.JPG"
     },
     {
       "source": "TechCrunch AI",
@@ -362,16 +389,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Australian inquiry asks Altman and Amodei to testify",
-      "summary": "The heads of OpenAI and Anthropic have been asked to face an Australian Senate inquiry into AI and datacentres. The move follows cases in which OpenAI agents got into Australian and US government websites, Luca Ittimani reported for the Gu…",
-      "link": "https://thenextweb.com/news/australia-senate-inquiry-altman-amodei-openai-medicare",
-      "date": "2026-09-26T17:08:09.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/09/claude-chatgpt-app-icons-iphone.avif"
     },
     {
       "source": "SiliconANGLE",
@@ -620,16 +637,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-1152x648.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Notre Dame’s network refresh shows the AI era starts with paying down technical debt",
-      "summary": "Every organization I talk to wants to be “AI-ready,” but few want to discuss what that entails. It’s rarely a new model or agent. More often, it’s the unglamorous work of ripping out a decade’s worth of infrastructure debt so the network c…",
-      "link": "https://siliconangle.com/2026/09/25/notre-dames-network-refresh-shows-the-ai-era-starts-with-paying-down-technical-debt/",
-      "date": "2026-09-25T19:08:21.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/MC-8.25.26-Students-Walking-scaled.jpg"
-    },
-    {
       "source": "OpenAI",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
@@ -678,16 +685,6 @@
       "category": "News",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/c2rd4e/article71509608.ece/alternates/LANDSCAPE_1200/Infosys-Q1FY27-GBVG98UAU.4.jpg.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Gartner’s 2027+ predictions: robots everywhere, disposable apps and rising AI costs",
-      "summary": "Predicts 10 billion autonomous agents clogging public services, 80% of front-line workers aided by physical AI, and disposable apps reshaping software",
-      "link": "https://www.thehindubusinessline.com/info-tech/gartners-2027-predictions-robots-everywhere-disposable-apps-and-rising-ai-costs/article71509413.ece",
-      "date": "2026-09-25T15:25:50.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/gdttfw/article71509556.ece/alternates/LANDSCAPE_1200/IMG_AI_Artificial_Intell_2_1_NSE06F9V.jpg"
     },
     {
       "source": "Ars Technica AI",
@@ -760,16 +757,6 @@
       "image": null
     },
     {
-      "source": "MediaNama",
-      "title": "NPCI chief Dilip Asbe cites AI cyber threats, including Claude Mythos, to defend UPI MDR",
-      "summary": "NPCI chief Dilip Asbe says the new UPI merchant charge will fund security and capacity. He estimates it will raise Rs 13,000–15,000 crore in its first year but has not detailed how the money will be spent. The post NPCI chief Dilip Asbe ci…",
-      "link": "https://www.medianama.com/2026/09/223-npci-ai-cyber-threats-mythos-upi-mdr/",
-      "date": "2026-09-25T06:08:02.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Australia steps up response to AI after OpenAI bot breaches health system database",
       "summary": "OPENAI-CYBERSECURITY/ (PIX):Australia steps up response to AI after OpenAI bot breaches health system database",
@@ -798,16 +785,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-82328/134473149.cms"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Analysis-Oracle, Blue Owl project delay sends ripples through AI financing, sources say",
-      "summary": "AI-FINANCE-ORACLE-BLUE-OWL-CAPITAL:Analysis-Oracle, Blue Owl project delay sends ripples through AI financing, sources say",
-      "link": "https://www.livemint.com/technology/analysisoracle-blue-owl-project-delay-sends-ripples-through-ai-financing-sources-say-11790290849254.html",
-      "date": "2026-09-24T23:00:48.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
       "source": "Wired AI",
@@ -916,16 +893,6 @@
       "link": "https://www.analyticsvidhya.com/blog/2026/09/gpt-6-sol-and-luna/",
       "date": "2026-09-24T12:34:52.000Z",
       "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "MediaNama",
-      "title": "5 strategic signals from Meta Connect 2026 about its AI agent Muse",
-      "summary": "Meta plans to earn a fee when its Muse AI agent makes purchases for users. Its commerce push raises questions about how the agent ranks products, authorises payments and handles mistakes. The post 5 strategic signals from Meta Connect 2026…",
-      "link": "https://www.medianama.com/2026/09/223-signals-meta-connect-muse/",
-      "date": "2026-09-24T12:01:35.000Z",
-      "category": "Business & Funding",
       "region": "United States",
       "image": null
     },
@@ -1924,26 +1891,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
