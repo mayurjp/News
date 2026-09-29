@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T02:00:01.133Z",
-  "count": 189,
+  "updated": "2026-09-29T08:34:53.617Z",
+  "count": 185,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,6 +44,7 @@
     "India",
     "China",
     "Europe",
+    "Japan",
     "South Korea",
     "Middle East",
     "United States",
@@ -51,14 +52,312 @@
   ],
   "items": [
     {
+      "source": "MediaNama",
+      "title": "What is sovereign AI? Rajasthan’s AI portal privacy policy raises the question and does not answer it",
+      "summary": "Rajasthan’s AI portal promises to host user data in India, but its privacy policy leaves unanswered questions about AI models, user prompts, data retention, third-party access and the DPDP Act. The post What is sovereign AI? Rajasthan’s AI…",
+      "link": "https://www.medianama.com/2026/09/223-sovereign-ai-rajasthans-privacy-policy/",
+      "date": "2026-09-29T07:45:56.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI cancels October launch of GPT-6.1 Astra after failed safety tests",
+      "summary": "OpenAI has called off the October release of GPT-6.1 Astra after the model failed to meet its own safety and alignment standards in testing. The Wall Street Journal broke the news on Monday, and OpenAI later confirmed the decision to Reute…",
+      "link": "https://thenextweb.com/news/openai-cancels-launch-of-gpt-6-1-astra",
+      "date": "2026-09-29T07:37:18.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.avif",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-scraps-planned-october-launch-of-gpt-6-1-astra-over-safety-concerns/articleshow/134559031.cms"
+        }
+      ]
+    },
+    {
       "source": "Japan Times",
-      "title": "Government eyes supporting use of AI and drones to manage bear population",
-      "summary": "Environment Minister Hiroyoshi Sasagawa emphasized that prompt action regarding bears will give \"a sense of security\" to the public.",
-      "link": "https://www.japantimes.co.jp/news/2026/09/29/japan/ai-drone-bear-management/",
-      "date": "2026-09-29T01:51:00.000Z",
+      "title": "Trial of AI robot for visually impaired people shown in Tokyo",
+      "summary": "The robot is being developed by the National Museum of Emerging Science and Innovation with the aim of eventually offering it as a rental service.",
+      "link": "https://www.japantimes.co.jp/news/2026/09/29/japan/japan-ai-robot-suitcase-for-visually-impaired/",
+      "date": "2026-09-29T07:33:00.000Z",
+      "category": "News",
+      "region": "Japan",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/29/thumbs/400x400/565763.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Google takes EU to court over orders to share search data with AI rivals",
+      "summary": "Google has gone to court to challenge two EU orders that would require it to open Android to rival AI assistants and share search data with other search engines, Reuters reported. It filed both cases at the EU General Court in Luxembourg o…",
+      "link": "https://thenextweb.com/news/google-challenges-eu-dma-orders-search-data",
+      "date": "2026-09-29T07:24:38.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/09/Google-building.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Anthropic founders to keep 50.1% of votes after IPO through Founder LLC",
+      "summary": "Anthropic’s seven co-founders will hold 50.1% of the company’s voting power after it lists. They will do so through a new entity called the Founder LLC, according to a draft IPO filing reviewed by Reuters. The setup is meant to let them pu…",
+      "link": "https://thenextweb.com/news/anthropic-founder-llc-voting-control-ipo",
+      "date": "2026-09-29T07:05:50.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/anthropic-meta-10-billion-compute-deal-talks.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Meta signs deal for Firmus AI computing capacity in Southeast Asia",
+      "summary": "Meta has signed deals to rent AI chips at data centers in Southeast Asia run by Firmus, an Australian company that builds them, the two companies announced. Meta has reserved a certain amount of capacity and can add more if needed. Also, t…",
+      "link": "https://thenextweb.com/news/meta-signs-deal-for-firmus-ai-computing-capacity-in-southeast-asia",
+      "date": "2026-09-29T06:57:55.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/09/meta-firmus-logos.avif",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-taps-australias-firmus-for-ai-computing-capacity-in-southeast-asia/articleshow/134554559.cms"
+        }
+      ]
+    },
+    {
+      "source": "MediaNama",
+      "title": "Delhi HC orders Meta to remove explicit AI deepfakes of woman with PM Modi",
+      "summary": "Delhi High Court directed Meta to remove alleged deepfake content involving a woman and Prime Minister Narendra Modi. The post Delhi HC orders Meta to remove explicit AI deepfakes of woman with PM Modi appeared first on MEDIANAMA .",
+      "link": "https://www.medianama.com/2026/09/223-delhi-hc-orders-takedown-ai-deepfakes-modi/",
+      "date": "2026-09-29T06:56:55.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "OpenAI apologises for Australian government website hack by rogue AI agent, vows to ‘rebuild trust’",
+      "summary": "Sam Altman-led OpenAI has apologised for the hacking of an Australian government website by a rogue AI agent, acknowledging shortcomings in its handling of the incident and pledging to take accountability and “rebuild trust with the Austra…",
+      "link": "https://www.livemint.com/technology/openai-apologises-for-australian-government-website-hack-by-rogue-ai-agent-vows-to-rebuild-trust-11790662099536.html",
+      "date": "2026-09-29T06:08:19.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-apologies-for-australian-government-website-hack-pledges-to-rebuild-trust/articleshow/134556114.cms"
+        }
+      ]
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Google fights EU attempt to prise open Android to rival AI bots",
+      "summary": "Google will appeal the EU move under the Digital Markets Act because it would hamper users’ security",
+      "link": "https://www.thehindubusinessline.com/info-tech/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots/article71522693.ece",
+      "date": "2026-09-29T06:01:56.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-news/4oh2h2/article71510447.ece/alternates/LANDSCAPE_1200/Google-Cloud-stGT1GJ1U47.5.jpg.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "‘Important and consequential’: Nvidia’s Jensen Huang on US-China AI race, risk management",
+      "summary": "The US and China need to improve communication, work together more closely and more fully embrace technology to stem risks associated with artificial intelligence, the founder of Nvidia said on Monday. “We should recognise that we’re compe…",
+      "link": "https://www.scmp.com/news/us/diplomacy/article/3369150/important-and-consequential-nvidias-jensen-huang-us-china-ai-race-risk-management?utm_source=rss_feed",
+      "date": "2026-09-29T05:20:17.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/fd0a67e4-1c3c-40f7-87de-8e9e65751244_3c3f015a.jpg?itok=3nBITSB2&v=1790658912"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "date": "2026-09-29T05:13:43.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "ET Tech",
+      "title": "Google appeals against EU order to share data, open Android to AI rivals",
+      "summary": "Google said Tuesday it has appealed an EU decision requiring it to share data with other search engines and open up its Android system to rival AI services, citing privacy concerns. But Google countered that Android is already open and int…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/google-appeals-against-eu-order-to-share-data-open-android-to-ai-rivals/articleshow/134556835.cms",
+      "date": "2026-09-29T05:06:04.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://img.etimg.com/photo/msid-134556835,imgsize-79698.cms"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
+      "summary": "Anthropic’s revenue grew 12-fold in 2025 to nearly $4.6 billion, even as the company lost more than $8 billion on an operating basis",
+      "link": "https://www.thehindubusinessline.com/info-tech/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs/article71522564.ece",
+      "date": "2026-09-29T04:57:47.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/7phleo/article71483991.ece/alternates/LANDSCAPE_1200/2026-09-18T224757Z_1721626475_RC29LNAK8UEQ_RTRMADP_3_ANTHROPIC-IPO-SENTIMENT.JPG",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs/articleshow/134554130.cms"
+        }
+      ]
+    },
+    {
+      "source": "ET Tech",
+      "title": "Nvidia settles trademark lawsuit over 'Modulus' AI software",
+      "summary": "Nvidia has settled a trademark lawsuit brought by financial technology company Modulus Financial Engineering over Nvidia's \"Modulus\" AI software, according to a filing in Austin, Texas federal court.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-settles-trademark-lawsuit-over-modulus-ai-software/articleshow/134556565.cms",
+      "date": "2026-09-29T04:50:07.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-134556565,imgsize-112942.cms"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies",
+      "summary": "US chip giant Advanced Micro Devices (AMD) has agreed to acquire World Labs, the artificial intelligence start-up founded by renowned Chinese-American computer scientist Li Fei-Fei, for US$8.2 billion in an all-stock deal, as the company s…",
+      "link": "https://www.scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies?utm_source=rss_feed",
+      "date": "2026-09-29T04:30:18.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/af1103fc-b609-4bef-92a8-7e7cda39b0fd_ec961686.jpg?itok=B82LIqg1&v=1790654968"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "OpenAI pledges task force after hacking of Australia government website",
+      "summary": "OpenAi models also accessed information from US government websites, the company said",
+      "link": "https://www.thehindubusinessline.com/info-tech/openai-pledges-task-force-after-hacking-of-australia-government-website/article71522389.ece",
+      "date": "2026-09-29T04:12:01.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/vzhyyy/article71522396.ece/alternates/LANDSCAPE_1200/2026-09-28T223038Z_1656552687_RC29LNAECGOF_RTRMADP_3_AI-SAFETY-OPENAI.JPG"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Nvidia is touting a software tool to contain runaway AI. How would it work?",
+      "summary": "The chipmaker unveiled its Open Agent Safety Platform amid growing AI-safety concerns after several incidents of AI systems acting on their own to breach other organisations",
+      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-is-touting-a-software-tool-to-contain-runaway-ai-how-would-it-work/article71522339.ece",
+      "date": "2026-09-29T03:49:40.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/4nazcf/article71522452.ece/alternates/LANDSCAPE_1200/2026-09-28T140417Z_1673032965_RC2LEGA79EZ9_RTRMADP_3_NVIDIA-STOCK.JPG",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-is-touting-a-software-tool-to-contain-runaway-ai-how-would-it-work/articleshow/134554998.cms"
+        }
+      ]
+    },
+    {
+      "source": "Japan Times",
+      "title": "AI’s reliance on journalism fuels calls to keep newsrooms viable",
+      "summary": "UNESCO's proposed Guidance on Fair Compensation for News could help create a new value-exchange model.",
+      "link": "https://www.japantimes.co.jp/commentary/2026/09/29/world/ai-trusted-journalism/",
+      "date": "2026-09-29T03:39:00.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/29/thumbs/400x400/565270.jpg"
+    },
+    {
+      "source": "Japan Times",
+      "title": "Pope Leo says concerns about AI doom scenarios are not ‘fake news’",
+      "summary": "Leo, the first U.S. pope, also directly criticized technology CEOs who argued there should be no guardrails on the technology.",
+      "link": "https://www.japantimes.co.jp/news/2026/09/29/world/pope-leo-ai-doom/",
+      "date": "2026-09-29T03:39:00.000Z",
       "category": "News",
       "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/29/thumbs/400x400/565529.jpg"
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/29/thumbs/400x400/565642.jpg",
+      "relatedSources": [
+        {
+          "source": "SCMP Tech",
+          "link": "https://www.scmp.com/news/world/europe/article/3369117/pope-leo-says-concerns-about-ai-doom-scenarios-are-not-fake-news?utm_source=rss_feed"
+        }
+      ]
+    },
+    {
+      "source": "Japan Times",
+      "title": "AMD to buy Fei-Fei Li’s World Labs AI startup for $8.2 billion",
+      "summary": "World Labs develops AI software that can run applications in the physical world.",
+      "link": "https://www.japantimes.co.jp/business/2026/09/29/tech/amd-feifei-li-world-labs-billion/",
+      "date": "2026-09-29T03:26:00.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/29/thumbs/400x400/565620.jpg",
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+        }
+      ]
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "AI agent identity security demands layered defenses, Omdia says",
+      "summary": "AI agent identity security is testing whether consolidated platforms can protect a growing class of machine identities. Palo Alto Networks Inc.’s acquisition of CyberArk Software Ltd. reflects broader consolidation in the identity security…",
+      "link": "https://siliconangle.com/2026/09/28/ai-agent-identity-security-demands-layered-defenses-omdia-says-oktane/",
+      "date": "2026-09-29T03:17:21.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_1936.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
+      "summary": "“Our development of highly advanced models, platforms, and applications and expansion of use cases could further increase the risk that ‌our models cause harm,” Anthropic said",
+      "link": "https://www.thehindubusinessline.com/info-tech/anthropic-warns-ai-may-pose-existential-risks-to-humanity-in-ipo-filing/article71522327.ece",
+      "date": "2026-09-29T02:56:18.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/gsqx7v/article71522404.ece/alternates/LANDSCAPE_1200/2026-09-28T231945Z_192208165_RC29LNAOGIFJ_RTRMADP_3_ANTHROPIC-IPO.JPG",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/exclusiveanthropic-warns-ai-may-pose-existential-risks-to-humanity-in-ipo-filing-11790641120485.html"
+        }
+      ]
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "OpenAI delays latest model over security concerns, as industry faces new safety pressures",
+      "summary": "OpenAI delayed GPT-6.1 Astra amid a broader push to slow autonomous AI development until safety measures catch up",
+      "link": "https://www.thehindubusinessline.com/info-tech/openai-delays-latest-model-over-security-concerns-as-industry-faces-new-safety-pressures/article71522387.ece",
+      "date": "2026-09-29T02:43:40.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/vzhyyy/article71522396.ece/alternates/LANDSCAPE_1200/2026-09-28T223038Z_1656552687_RC29LNAECGOF_RTRMADP_3_AI-SAFETY-OPENAI.JPG"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Anthropic's path from AI startup to industry-defining IPO",
+      "summary": "Anthropic's IPO prospectus, reviewed by Reuters, laid out a sweeping vision in which AI would reshape the global economy more profoundly than industrialization, electricity and the internet, as the Claude maker moved closer to what could b…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-path-from-ai-startup-to-industry-defining-ipo/articleshow/134554374.cms",
+      "date": "2026-09-29T02:40:08.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-134554374,imgsize-860619.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Anthropic leaders to control AI lab via 'Founder LLC' to promote public good over market forces",
+      "summary": "Anthropic has long positioned itself as the virtuous AI company. An early look at its IPO filing shows how it is creating a new \"Founder LLC\" vehicle aimed at serving the common good, while insulating its leaders from market forces.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-leaders-to-control-ai-lab-via-founder-llc-to-promote-public-good-over-market-forces/articleshow/134554345.cms",
+      "date": "2026-09-29T02:37:43.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-134554345,imgsize-113822.cms"
+    },
+    {
+      "source": "Japan Times",
+      "title": "AI faces $6 trillion test to justify data centers, Bain says",
+      "summary": "Consulting firm Bain & Co.'s report highlights the hurdles ahead to make the current pace of artificial intelligence development sustainable.",
+      "link": "https://www.japantimes.co.jp/business/2026/09/29/tech/ai-6-trillion-data-centers-bain/",
+      "date": "2026-09-29T02:30:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/29/thumbs/400x400/565584.jpg"
     },
     {
       "source": "SiliconANGLE",
@@ -69,16 +368,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_2025-scaled.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How we will do better for Australia",
-      "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "date": "2026-09-29T01:00:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "LiveMint Tech",
@@ -104,13 +393,7 @@
       "date": "2026-09-29T00:40:47.000Z",
       "category": "Policy & Safety",
       "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/OpenAI-2-1.png",
-      "relatedSources": [
-        {
-          "source": "The Next Web",
-          "link": "https://thenextweb.com/news/florida-openai-temporary-injunction-model-development-uthmeier"
-        }
-      ]
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/OpenAI-2-1.png"
     },
     {
       "source": "TechCrunch AI",
@@ -131,16 +414,6 @@
       "category": "Policy & Safety",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-variety/1863va/article68602982.ece/alternates/LANDSCAPE_1200/TRAI-disconnectGH0D9IVQ4.4.jpg.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Exclusive-Anthropic warns AI may pose existential risks to humanity in IPO filing",
-      "summary": "ANTHROPIC-IPO-RISK:Exclusive-Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
-      "link": "https://www.livemint.com/technology/exclusiveanthropic-warns-ai-may-pose-existential-risks-to-humanity-in-ipo-filing-11790641120485.html",
-      "date": "2026-09-29T00:18:40.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
       "source": "Hindu BusinessLine",
@@ -170,13 +443,7 @@
       "date": "2026-09-28T22:59:28.000Z",
       "category": "Business & Funding",
       "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Nvidia-1.png",
-      "relatedSources": [
-        {
-          "source": "The Next Web",
-          "link": "https://thenextweb.com/news/nvidia-150bn-share-buyback-235bn-record"
-        }
-      ]
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Nvidia-1.png"
     },
     {
       "source": "MIT Tech Review",
@@ -187,16 +454,6 @@
       "category": "News",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "Japan Times",
-      "title": "Beijing broadens travel curbs to encompass family of top AI talent in China",
-      "summary": "That further restricts the freedom of China's most influential tech talent — a category that encompasses entrepreneurs, researchers and executives.",
-      "link": "https://www.japantimes.co.jp/business/2026/09/29/tech/china-travel-curbs-ai-talent/",
-      "date": "2026-09-28T22:13:00.000Z",
-      "category": "Research",
-      "region": "China",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/29/thumbs/400x400/565515.jpg"
     },
     {
       "source": "SiliconANGLE",
@@ -217,16 +474,6 @@
       "category": "Policy & Safety",
       "region": "China",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Pope Leo says concerns about AI doom scenarios are not ‘fake news’",
-      "summary": "Pope Leo on Monday ⁠said concerns that artificial intelligence ⁠could destroy the world are not “fake news” and should be taken seriously, in an apparent rebuke of US President Donald Trump. The first US pope, who has warned of the dangers…",
-      "link": "https://www.scmp.com/news/world/europe/article/3369117/pope-leo-says-concerns-about-ai-doom-scenarios-are-not-fake-news?utm_source=rss_feed",
-      "date": "2026-09-28T21:45:41.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/64b43e60-2329-444c-8515-2a9f7f34af23_6a8df88d.jpg?itok=OCH5tUGs&v=1790631756"
     },
     {
       "source": "SCMP Tech",
@@ -289,16 +536,6 @@
       "image": "https://media.thenextweb.com/2026/09/geoffrey-hinton-portrait-2026-blue-collar.avif"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "date": "2026-09-28T20:39:33.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "SiliconANGLE",
       "title": "Meta hires MongoDB CEO CJ Desai to lead new enterprise AI business",
       "summary": "Meta Platforms Inc. is launching a new business unit that will provide artificial intelligence services to enterprises. The Meta Enterprise Platform, as it’s called, will be led by longtime technology executive CJ Desai. The company stated…",
@@ -306,13 +543,7 @@
       "date": "2026-09-28T20:13:29.000Z",
       "category": "People & Leadership",
       "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Meta_Headquarters_Sign.jpg",
-      "relatedSources": [
-        {
-          "source": "The Next Web",
-          "link": "https://thenextweb.com/news/meta-enterprise-platform-cj-desai-mongodb-ceo"
-        }
-      ]
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Meta_Headquarters_Sign.jpg"
     },
     {
       "source": "SiliconANGLE",
@@ -355,24 +586,24 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "UK AI minister says AI testing is not enough, Fortune reports",
-      "summary": "The UK’s AI minister, Kanishka Narayan, says countries must “harden” their defences against AI risk. Testing models is no longer enough, he said. He was answering a question from Fortune at the Labour Party’s annual conference. Fortune’s K…",
-      "link": "https://thenextweb.com/news/kanishka-narayan-ai-risk-harden-defences-fortune",
-      "date": "2026-09-28T19:17:54.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/09/kanishka-narayan-uk-ai-minister-portrait-garden.avif"
+      "source": "OpenAI",
+      "title": "How we will do better for Australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "date": "2026-09-28T19:00:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "Anthropic ends discounts once tokens run out, The Information reports",
-      "summary": "Anthropic ends enterprise customers’ discounts once they use up the tokens covered by their contracts, The Information reported on Monday. OpenAI takes a more flexible approach, the report said. Kevin McLaughlin of The Information spoke to…",
-      "link": "https://thenextweb.com/news/anthropic-openai-enterprise-discounts-tokens-the-information",
-      "date": "2026-09-28T19:07:22.000Z",
+      "source": "OpenAI",
+      "title": "Towards safety cases for frontier AI training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "date": "2026-09-28T19:00:00.000Z",
       "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/09/claude-chat-laptop-screen-model-unavailable-notice.avif"
+      "region": "Global",
+      "image": null
     },
     {
       "source": "Google AI",
@@ -395,16 +626,6 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "Anthropic releases Claude Sonnet 5.5 with the cyber limits it reserved for its best models",
-      "summary": "Anthropic has released Claude Sonnet 5.5, which scores 70.6% on the Terminal-Bench 4.0 agentic coding test against 10.3% for Sonnet 5 and 66.4% for the more expensive Opus 5.5. It is the first Sonnet to ship with frontier-style cyber safeg…",
-      "link": "https://thenextweb.com/news/sonnet-5-5-cyber-distillation",
-      "date": "2026-09-28T18:30:03.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.avif"
-    },
-    {
       "source": "ET Tech",
       "title": "Anthropic rolls out second Claude 5.5 model as it builds toward IPO",
       "summary": "Anthropic on Monday released Claude Sonnet 5.5, the second model in its Claude 5.5 family, as the AI lab expands its product lineup ahead of aplanned IPO. Here are some more",
@@ -413,26 +634,6 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-134548694,imgsize-73300.cms"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Anthropic debuts Claude Sonnet 5.5 running 30% faster than the previous-generation AI model",
-      "summary": "Anthropic PBC today announced the launch of Claude Sonnet 5.5, the most capable mid-tier model in the company’s AI family, designed for everyday tasks and a clear upgrade over the previous generation, running over 30% faster at a lower cos…",
-      "link": "https://siliconangle.com/2026/09/28/anthropic-debuts-claude-sonnet-5-5-running-30-faster-than-the-previous-generation-ai-model/",
-      "date": "2026-09-28T18:00:39.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/antrhopic-image-003.png"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Anthropic, OpenAI will not attend Australian senate AI hearing on October 1",
-      "summary": "Anthropic will not appear before an Australian senate committee hearing on AI on October 1, a source familiar with the matter said, days after a disclosure that an agent from OpenAI gained unauthorized access to the country's health system…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-will-not-attend-australian-senate-ai-hearing-on-october-1/articleshow/134548680.cms",
-      "date": "2026-09-28T18:00:18.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134548680,imgsize-1041548.cms"
     },
     {
       "source": "TechCrunch AI",
@@ -445,32 +646,12 @@
       "image": null
     },
     {
-      "source": "ET Tech",
-      "title": "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says",
-      "summary": "The White House meeting, which will include Mike Johnson, comes as leading AI companies are calling for slowing development of increasingly capable AI systems, warning of the risks to humanity and appealing for governments to work together…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trumps-ai-meeting-with-tech-ceos-to-focus-on-finding-balance-us-house-speaker-says/articleshow/134548648.cms",
-      "date": "2026-09-28T17:58:36.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134548648,imgsize-70290.cms"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
       "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
       "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
       "date": "2026-09-28T17:29:50.000Z",
       "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "date": "2026-09-28T17:09:02.000Z",
-      "category": "Security & Cyber Risk",
       "region": "United States",
       "image": null
     },
@@ -483,16 +664,6 @@
       "category": "Research",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "ET Tech",
-      "title": "HCLTech software unit to acquire European firm Robotiq.ai for 9 million euros",
-      "summary": "The company will acquire 100% of the outstanding equity of Robotiq.ai to be acquired by HCL Technologies Austria GmbH, a step- down wholly owned subsidiary of HCLTech, for a cash consideration of nine million euros adjusted for customary p…",
-      "link": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-software-unit-acquires-european-firm-robotiq-ai-for-9-million-euros/articleshow/134547380.cms",
-      "date": "2026-09-28T16:44:27.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://img.etimg.com/photo/msid-134547380,imgsize-65362.cms"
     },
     {
       "source": "Ars Technica AI",
@@ -515,36 +686,6 @@
       "image": null
     },
     {
-      "source": "ET Tech",
-      "title": "Gemini can now call businesses for you: Unboxing Google’s new AI feature",
-      "summary": "Google is set to roll out its Call for Me feature in the Gemini app for selected users. This feature allows users to automate calls to businesses and check services like prices and hours. Users must be 18 or older, possess a Pixel 11 devic…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gemini-can-now-call-businesses-for-you-unboxing-googles-new-ai-feature/articleshow/134546026.cms",
-      "date": "2026-09-28T15:09:29.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134546026,imgsize-64350.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit",
-      "summary": "Florida sued OpenAI in June accusing the company of misrepresenting the safety of its ChatGPT platform, saying it has harmed children by ​providing information to school shooters, offering guidance on self-harm and addicting young ‌users.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/florida-asks-court-to-bar-openai-from-developing-new-models-as-part-of-child-harm-lawsuit/articleshow/134545674.cms",
-      "date": "2026-09-28T14:48:23.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134545674,imgsize-5373767.cms"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "China targets AI and frontier tech in newly unveiled innovation blueprint",
-      "summary": "China’s top state research body has put artificial intelligence (AI) and other frontier technologies at the heart of its new five-year plan unveiled on Monday, as global competition in science and technology heats up. The Chinese Academy o…",
-      "link": "https://www.scmp.com/news/china/science/article/3369084/china-targets-ai-and-frontier-tech-newly-unveiled-innovation-blueprint?utm_source=rss_feed",
-      "date": "2026-09-28T14:00:17.000Z",
-      "category": "Research",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/88ee63f1-c6a3-4559-9383-0d314809ff5c_5408b666.jpg?itok=KG8ns1-b&v=1790594463"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "India among Fireflies.ai’s top three markets as Fred takes on more workplace tasks",
       "summary": "Fireflies.ai plans to eventually expand its offering to enterprise customers",
@@ -553,46 +694,6 @@
       "category": "News",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/e4lis4/article71519722.ece/alternates/LANDSCAPE_1200/IMG_3406.JPG"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Strong AI demand prompts Hong Kong trade body to raise export growth forecast",
-      "summary": "Stronger-than-expected global demand for artificial intelligence-related products has prompted the Trade Development Council to sharply raise its full-year forecast for Hong Kong export growth in 2026 to as much as 47 per cent. The latest…",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369092/strong-ai-demand-prompts-hong-kong-trade-body-raise-exports-growth-forecast?utm_source=rss_feed",
-      "date": "2026-09-28T13:29:29.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/285bae76-4ad0-48eb-b42f-1b41139fbe89_75da38b3.jpg?itok=XHyqN9n8&v=1790598472"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Seligman Ventures doubles capital to $1 billion as AI boom revives hardware bets",
-      "summary": "Seligman Investments has doubled the deployable capital of its venture arm to $1 billion less than a year after launching it, betting that the physical bottlenecks of the artificial intelligence buildout will produce the next wave of large…",
-      "link": "https://economictimes.indiatimes.com/tech/funding/seligman-ventures-doubles-capital-to-1-billion-as-ai-boom-revives-hardware-bets/articleshow/134544025.cms",
-      "date": "2026-09-28T13:22:02.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134544025,imgsize-5834174.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Cerebras to supply AI systems to cloud computing startup Gimlet Labs",
-      "summary": "By Max A.- Cerebras Systems plans to supply AI chips and hardware with capacity to consume roughly 100 megawatts to startup Gimlet Labs to help run its cloud computing business, the companies said on Monday.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/cerebras-to-supply-ai-systems-to-cloud-computing-startup-gimlet-labs/articleshow/134543712.cms",
-      "date": "2026-09-28T13:17:06.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134543712,imgsize-1126041.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "AI agent firm Instinct raises $1 billion in latest funding round",
-      "summary": "AI agent firm Instinct said on Monday it has raised $1 billion at a $10 billion valuation in a Series C funding round. The round drew investments from Sequoia Capital, Benchmark Capital and Coatue, Instinct said in a statement.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agent-firm-instinct-raises-1-billion-in-latest-funding-round/articleshow/134542852.cms",
-      "date": "2026-09-28T12:34:25.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134542852,imgsize-1934470.cms"
     },
     {
       "source": "MediaNama",
@@ -615,16 +716,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/369tk2/article71519690.ece/alternates/LANDSCAPE_1200/2026-09-10T010504Z_1503528956_RC2URLAM3T99_RTRMADP_3_NVIDIA-JUSTICE-DEPARTMENT-GROQ.JPG"
     },
     {
-      "source": "ET Tech",
-      "title": "Nvidia adds $150 billion to existing share repurchase plan",
-      "summary": "Nvidia has emerged as one of the biggest beneficiaries of the AI boom, with demand for its pricey chips and related technology powering rapid revenue growth.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-adds-150-billion-to-existing-share-repurchase-plan/articleshow/134541762.cms",
-      "date": "2026-09-28T11:51:35.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134541762,imgsize-87680.cms"
-    },
-    {
       "source": "Wired AI",
       "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
       "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
@@ -635,16 +726,6 @@
       "image": "https://media.wired.com/photos/6aba376a2b66b9dd652c1c6c/master/pass/092826-OpenAi%20Whitehouse%20Hack.jpg"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Chinese chip foundry CanSemi’s IPO oversubscribed 2,360 times as investors chase AI boom",
-      "summary": "Chinese chip foundry CanSemi Technology’s Shenzhen initial public offering (IPO) is emerging as one of mainland China’s most sought-after tech listings this year, as investors bet on its push into silicon photonics and its role in domestic…",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3369074/chinese-chip-foundry-cansemis-ipo-oversubscribed-2360-times-investors-chase-ai-boom?utm_source=rss_feed",
-      "date": "2026-09-28T11:30:11.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/f1d89e19-6f91-4832-93ae-223e3b800ad7_c2e70ad9.jpg?itok=x4-lg_Uw&v=1790589808"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
       "summary": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
@@ -653,16 +734,6 @@
       "category": "Hardware & Infra",
       "region": "United States",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/microsoft-data-center-champion-1152x648.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "AI PCs will drive the next phase of enterprise computing: Dell",
-      "summary": "Dell reports AI-enabled PCs will transform enterprise computing; by 2028, 98% of PCs may have AI capabilities, boosting productivity and data sovereignty",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-pcs-will-drive-the-next-phase-of-enterprise-computing-dell/article71515932.ece",
-      "date": "2026-09-28T10:58:15.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/vrf21q/article71516723.ece/alternates/LANDSCAPE_1200/1756835890340.jpg"
     },
     {
       "source": "Wired AI",
@@ -685,16 +756,6 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/09/SK-Hynix-Samsung-2-320x320.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "AI spending growth seen slowing sharply by 2028, marking shift towards software: Morgan Stanley",
-      "summary": "The transition does not mean the end of the infrastructure buildout. Instead, AI-related demand is expected to remain strong because the industry continues to face shortages of power, labour and regulatory capacity",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-spending-growth-seen-slowing-sharply-by-2028-marking-shift-towards-software-morgan-stanley/article71518970.ece",
-      "date": "2026-09-28T09:50:16.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/afg2dg/article71515082.ece/alternates/LANDSCAPE_1200/2025-03-06T154653Z_273325563_RC2LICATFOOC_RTRMADP_3_USA-STOCKS-SOFTWARE-CHIPS.JPG"
-    },
-    {
       "source": "Hugging Face",
       "title": "Holo4: powering generalist computer-use agents",
       "summary": "",
@@ -713,16 +774,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://media.wired.com/photos/6ab66fcabccfe76e77e84940/master/pass/092526-Math%20Art%20AI.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "ByteDance grabs one-fifth of China’s data centre capacity as AI drives infrastructure boom",
-      "summary": "ByteDance accounts for roughly one-fifth of China’s delivered data centre capacity, making the TikTok owner the country’s largest tenant and a main driver of its artificial intelligence buildout, according to new estimates by research firm…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3369056/bytedance-grabs-one-fifth-chinas-data-centre-capacity-ai-drives-infrastructure-boom?utm_source=rss_feed",
-      "date": "2026-09-28T09:00:41.000Z",
-      "category": "Research",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/482ba14e-38dd-4a7b-a129-c4d1d1fea00f_d8409007.jpg?itok=rvzQW9H5&v=1790585994"
     },
     {
       "source": "Wired AI",
@@ -745,16 +796,6 @@
       "image": "https://media.wired.com/photos/6aba2329e8d78c42cabc4ad2/master/pass/092826-Nvidia%20OpenShell.jpg"
     },
     {
-      "source": "MediaNama",
-      "title": "US and China agree to formal AI dialogue, plan channel for AI incidents",
-      "summary": "Xi-Trump talks on AI come amid growing debate over frontier AI safety and US restrictions on China’s access to advanced technology. The post US and China agree to formal AI dialogue, plan channel for AI incidents appeared first on MEDIANAM…",
-      "link": "https://www.medianama.com/2026/09/223-china-us-ai-dialogue-xi-trump/",
-      "date": "2026-09-28T08:51:46.000Z",
-      "category": "News",
-      "region": "China",
-      "image": null
-    },
-    {
       "source": "MIT Tech Review",
       "title": "Who’s liable when AI agents go rogue?",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI ag…",
@@ -773,16 +814,6 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Anthropic, OpenAI sound the alarm on AI safety - and seek to shape how it's controlled",
-      "summary": "Anthropic and OpenAI CEOs say America’s top models are so powerful they’re dangerous and should be regulated and independently tested before release",
-      "link": "https://www.thehindubusinessline.com/info-tech/anthropic-openai-sound-the-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled/article71518159.ece",
-      "date": "2026-09-28T03:31:15.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/cthl7w/article71518281.ece/alternates/LANDSCAPE_1200/2026-09-27T042223Z_473273503_RC2TRLA6PPT4_RTRMADP_3_OPENAI-CYBERSECURITY-AUSTRALIA.JPG"
     },
     {
       "source": "LiveMint Tech",
@@ -815,16 +846,6 @@
       "image": null
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "India ranks in ‘low’ category in AI adoption curve despite high search interest",
-      "summary": "In highly mature tech markets like Western Europe and Japan, relative search interest sits in the “low” or “very low” quintiles",
-      "link": "https://www.thehindubusinessline.com/info-tech/india-ranks-in-low-category-in-ai-adoption-curve-despite-high-search-interest/article71516354.ece",
-      "date": "2026-09-27T13:58:04.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/g3o90j/article71516431.ece/alternates/LANDSCAPE_1200/IMG_iStock-2207141986_2_1_00GJ4R81.jpg"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "AI integration, digital platforms steer growth across Indias expanding tourism landscape",
       "summary": "Artificial intelligence and digital platforms are increasingly steering the Indian tourism sector, driving more personalised and seamless travel experiences alongside record domestic and international visitor traffic.",
@@ -835,30 +856,14 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
+      "source": "LiveMint Tech",
       "title": "When AI agents go rogue: Australia breach offers warning for countries like India",
-      "summary": "For countries such as India, with vast government databases and increasingly digitised public infrastructure, researchers say the incident should serve as a warning.",
-      "link": "https://www.thehindubusinessline.com/info-tech/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india/article71515281.ece",
-      "date": "2026-09-27T05:31:39.000Z",
+      "summary": "When AI agents go rogue: Australia breach offers warning for countries like India",
+      "link": "https://www.livemint.com/technology/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india-11790481067426.html",
+      "date": "2026-09-27T03:51:06.000Z",
       "category": "Security & Cyber Risk",
       "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/akdi1q/article71515302.ece/alternates/LANDSCAPE_1200/iStock-2172388197.jpg",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india-11790481067426.html"
-        }
-      ]
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "OpenAI pauses training of latest AI after agentic models gains unauthorised access to US government sites",
-      "summary": "Another agentic AI system under training in internet-free environment gained access to the web to reach an external, third-party chatbot.",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-agentic-ai-system-breaches-sandbox-gains-unauthorised-access-to-public-internet/article71515078.ece",
-      "date": "2026-09-27T05:21:24.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/8l9eu6/article71515079.ece/alternates/LANDSCAPE_1200/2026-09-25T203349Z_1364290519_RC29LNAH406T_RTRMADP_3_AI-SAFETY-OPENAI.JPG"
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
       "source": "LiveMint Tech",
@@ -1009,16 +1014,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295026360-1024x648.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Apple’s next big launch: Touchscreen MacBook, Apple TV 4K and smart home hub reportedly coming soon",
-      "summary": "Apple is reportedly developing a redesigned MacBook Pro with OLED touchscreen, a new Apple TV 4K with AI-powered Siri, and a long-rumoured HomePad smart hub. Devices could launch in October, though timing remains unconfirmed.",
-      "link": "https://www.livemint.com/technology/apples-next-big-launch-touchscreen-macbook-apple-tv-4k-and-smart-home-hub-reportedly-coming-soon-11790330176111.html",
-      "date": "2026-09-25T10:32:15.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/macbook_comparisions_1783340480439_1783340524836_e56b3a34-a13f-40e4-bde8-434b1a4cad88_1790330372186_O8MJ_25e75947-a876-4bb8-9610-252d35e0b26a_tOjv.png"
     },
     {
       "source": "MIT Tech Review",
@@ -1202,32 +1197,22 @@
     },
     {
       "source": "OpenAI",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "link": "https://openai.com/index/ringg",
-      "date": "2026-09-23T12:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "date": "2026-09-23T12:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
       "title": "How invideo improves color grading 3x with GPT‑6 Astra",
       "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "date": "2026-09-23T12:00:00.000Z",
       "category": "News",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "link": "https://openai.com/index/ringg",
+      "date": "2026-09-23T12:00:00.000Z",
+      "category": "News",
+      "region": "United States",
       "image": null
     },
     {
