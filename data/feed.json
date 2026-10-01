@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01T19:33:53.055Z",
-  "count": 184,
+  "updated": "2026-10-01T23:54:29.261Z",
+  "count": 175,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,152 @@
   ],
   "items": [
     {
+      "source": "NVIDIA",
+      "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the…",
+      "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+      "date": "2026-10-01T23:44:13.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/twitter-gif-2104993966043320759-v5.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Report: Anthropic targets pre-Thanksgiving IPO launch, despite warning of AI’s ‘existential risks’",
+      "summary": "Artificial intelligence giant Anthropic PBC is reportedly forging ahead with its plans to go public and has set a new target date of Nov. 9, according to a report from Bloomberg that cited anonymous sources familiar with the matter — meani…",
+      "link": "https://siliconangle.com/2026/10/01/report-anthropic-targets-pre-thanksgiving-ipo-launch-despite-warning-of-ais-existential-risks/",
+      "date": "2026-10-01T23:43:54.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-02-06-40-17.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Salesforce to acquire AI customer research startup Listen Labs in reported $2B deal",
+      "summary": "Salesforce Inc. has signed a definitive agreement to acquire artificial intelligence customer research startup Listen Labs Inc., three weeks after reports first surfaced that the two companies were in talks. Business Insider broke the news…",
+      "link": "https://siliconangle.com/2026/10/01/salesforce-to-acquire-ai-customer-research-startup-listen-labs-in-reported-2b-deal/",
+      "date": "2026-10-01T22:56:51.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/salesforcelistenlabs.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "OpenAI dismisses three safety researchers accused of sharing confidential material",
+      "summary": "OpenAI Group PBC today confirmed it has dismissed three researchers it says mishandled sensitive company information. According to The Wall Street Journal, the three were safety researchers who allegedly shared confidential material with a…",
+      "link": "https://siliconangle.com/2026/10/01/openai-dismisses-three-safety-researchers-accused-of-sharing-confidential-material/",
+      "date": "2026-10-01T22:31:38.000Z",
+      "category": "Research",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/OpenAI-2.png"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Whatever AI Safety Is, It’s Not This",
+      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+      "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+      "date": "2026-10-01T22:10:42.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6abd667878587a545496ec2f/master/pass/Model-Behavior-Trump-AI-Business.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "date": "2026-10-01T21:08:11.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Feds Cook sees AI inflationary push as a top 2027 risk",
+      "summary": "USA-FED-COOK:Fed's Cook sees AI inflationary push as a top 2027 risk",
+      "link": "https://www.livemint.com/technology/feds-cook-sees-ai-inflationary-push-as-a-top-2027-risk-11790887301700.html",
+      "date": "2026-10-01T20:41:41.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Armadin nabs $255.5M to detect vulnerabilities with AI agent swarms",
+      "summary": "Cybersecurity startup Armadin Inc. today announced that it has raised $255.5 million in funding at a valuation exceeding $2.5 billion. Andreessen Horowitz and Accel co-led the Series B round. They were joined by Alphabet Inc.’s GV startup…",
+      "link": "https://siliconangle.com/2026/10/01/armadin-nabs-255-5m-to-detect-vulnerabilities-with-ai-agent-swarms/",
+      "date": "2026-10-01T20:15:38.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/security-265130_1280.jpg"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+      "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+      "date": "2026-10-01T20:11:55.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+      "date": "2026-10-01T19:58:31.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/master/pass/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "IBM allows on-prem deployment of its Bob agentic development platform",
+      "summary": "IBM Corp. today announced a self-hosted deployment option for IBM Bob, its agentic software development platform, allowing enterprises to use artificial intelligence to build and modernize applications within their own infrastructure.. The…",
+      "link": "https://siliconangle.com/2026/10/01/ibm-allows-on-prem-deployment-of-its-bob-agentic-development-platform/",
+      "date": "2026-10-01T19:49:51.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IBM-logo-image.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Japan eyes $140bn AI data centre push with Dell and JERA, FT reports",
+      "summary": "Japan’s biggest power generator is teaming up with Dell to build AI data centres across the country. The push could cost as much as $140bn, the Financial Times reported. JERA, Dell and UK developer RHAELM signed a non-binding agreement on…",
+      "link": "https://thenextweb.com/news/japan-140bn-ai-data-centre-dell-jera",
+      "date": "2026-10-01T19:45:44.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/08/Japan-flag.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "NetApp’s ‘sleeping giant’ moment as AI brings new data buyers",
+      "summary": "Artificial intelligence has pulled data infrastructure out of the back office and into conversations with buyers who never had to think about storage before. For longtime storage providers, that shift is a rare chance to retell their story…",
+      "link": "https://siliconangle.com/2026/10/01/data-infrastructure-draws-new-buyers-netapp-ai-pitch-netappinsight/",
+      "date": "2026-10-01T19:43:52.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_2212-scaled.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI cuts ties with three staff over sensitive information, WSJ reports",
+      "summary": "OpenAI has parted ways with three employees who it says mishandled sensitive company information. The Wall Street Journal first reported the exits on Thursday. Two of the three were safety researchers, and one was a research programme mana…",
+      "link": "https://thenextweb.com/news/openai-parts-ways-three-staff-sensitive-information",
+      "date": "2026-10-01T19:34:03.000Z",
+      "category": "Research",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/07/Sam-Altman.-podcast.avif",
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
+        }
+      ]
+    },
+    {
       "source": "TechCrunch AI",
       "title": "ChatGPT can now virtually try on clothes for you",
       "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
@@ -63,7 +209,7 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Google thinks SpaceX’s Starship has to launch 1,600 times before space data centers get off the ground",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
       "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
       "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
       "date": "2026-10-01T19:18:03.000Z",
@@ -169,16 +315,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "date": "2026-10-01T18:14:42.000Z",
-      "category": "Research",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
       "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
       "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
@@ -268,16 +404,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Ian-Buck-vice-president-and-general-manager-hyperscale-and-HPC-at-Nvidia-Corp-scaled.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "AWS debuts Strands Decider 2B, a first lightweight decision model for accelerate agentic workflows",
-      "summary": "Amazon Web Services Inc.’s Strands Labs team has been playing around with an emerging class of lightweight artificial intelligence systems known as “decision models,” and it’s now making the fruits of that work available to the open-source…",
-      "link": "https://siliconangle.com/2026/10/01/aws-debuts-strands-decider-2b-a-first-lightweight-decision-model-for-accelerate-agentic-workflows/",
-      "date": "2026-10-01T16:00:34.000Z",
-      "category": "Open Source",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-10-01-09-25-59.png"
-    },
-    {
       "source": "SCMP Tech",
       "title": "Hong Kong invests billions to accelerate innovation of impactful solutions as an AI-powered future comes into focus",
       "summary": "[The content of this article has been produced by our advertising partner.] Artificial intelligence has rapidly evolved from an emerging technology into a cornerstone of Hong Kong's economic transformation strategy. Under the Government's…",
@@ -316,16 +442,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "AI-driven law firm Arceus Legal raises $17M to move beyond contract work",
-      "summary": "Artificial intelligence-driven law firm Arceus Legal today disclosed that it has raised $17 million in funding to expand beyond the commercial contract work it started with. Arceus provides legal services to fast-growing companies at a fla…",
-      "link": "https://siliconangle.com/2026/10/01/ai-driven-law-firm-arceus-legal-raises-17m-to-move-beyond-contract-work/",
-      "date": "2026-10-01T15:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/arceus.png"
     },
     {
       "source": "TechCrunch AI",
@@ -376,26 +492,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/fungibility-blog-1280x680-1.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "ServiceNow launches conversational interface to its service desk",
-      "summary": "ServiceNow Inc. is enhancing the artificial intelligence features in its service desk offering with Flow, a feature that handles employee requests via a natural language interface with extensive automation. The company said it’s targeting…",
-      "link": "https://siliconangle.com/2026/10/01/servicenow-launches-conversational-interface-to-its-service-desk/",
-      "date": "2026-10-01T13:00:45.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2025/01/soc.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Exabeam’s Nova AI agent becomes a persistent investigator as LogRhythm gets AI updates",
-      "summary": "Behavior intelligence company Exabeam Inc. today introduced a batch of new artificial intelligence features that push its cloud-based New-Scale platform further into agent-driven investigations. The company’s on-premises LogRhythm security…",
-      "link": "https://siliconangle.com/2026/10/01/exabeams-nova-ai-agent-becomes-a-persistent-investigator-as-logrhythm-gets-ai-updates/",
-      "date": "2026-10-01T13:00:19.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/06/exabeam.png"
     },
     {
       "source": "TechCrunch AI",
@@ -456,16 +552,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-134618284,imgsize-8534245.cms"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "date": "2026-10-01T12:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "LiveMint Tech",
@@ -584,24 +670,14 @@
       "image": "https://img.etimg.com/photo/msid-134607124,imgsize-180534.cms"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Metaview wants to eliminate recruiting grunt work and speed up hiring after raising $60M",
-      "summary": "Artificial intelligence recruiting software startup Metaview Labs Inc. said today the industry is ready for a “Claude Code moment” after it closed on $60 million in a Series C funding. The round was led by Insight Partners and saw the part…",
-      "link": "https://siliconangle.com/2026/09/30/metaview-wants-to-eliminate-recruiting-grunt-work-and-speed-up-hiring-after-raising-60m-in-funding/",
-      "date": "2026-10-01T01:40:24.000Z",
-      "category": "People & Leadership",
+      "source": "OpenAI",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "link": "https://openai.com/index/the-den-family-social",
+      "date": "2026-10-01T00:00:00.000Z",
+      "category": "News",
       "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-10-01-08-35-30.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Micron almost quadruples its revenue thanks to AI’s insatiable demand for memory chips",
-      "summary": "Memory chipmaker Micron Technology Inc. predictably delivered another blowout quarter in its latest financial results, with no sign of a slowdown in the demand for artificial intelligence infrastructure. The company reported fiscal fourth-…",
-      "link": "https://siliconangle.com/2026/09/30/micron-almost-quadruples-its-revenue-thanks-to-ais-insatiable-demand-for-memory-chips/",
-      "date": "2026-09-30T23:37:45.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2024-12-19-06-29-58-768x453-1.png"
+      "image": null
     },
     {
       "source": "Wired AI",
@@ -708,16 +784,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Show colleagues how much you care by sending an AI avatar to your Google Meet call",
-      "summary": "MeetTwins is still in development, but it's a genius idea if the goal is to prove more time-wasting calls should just be emails",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/show-colleagues-how-much-you-care-by-sending-an-ai-avatar-to-your-google-meet-call/5300205",
-      "date": "2026-09-30T16:03:07.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5300222&width=800"
     },
     {
       "source": "Ars Technica AI",
@@ -916,16 +982,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-1152x648.jpg"
     },
     {
-      "source": "Ars Technica AI",
-      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
-      "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-      "date": "2026-09-29T21:14:49.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AMD-World-Labs-1152x648-1790711860.jpg"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Trump vows to never stifle AI as he gathers with tech executives urging caution",
       "summary": "Trump vows to never 'stifle' AI as he gathers with tech executives urging caution",
@@ -944,16 +1000,6 @@
       "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "At UN, developing nations call for bigger say in shaping AI future",
-      "summary": "UN-ASSEMBLY/CLIMATE-AI (PIX):At UN, developing nations call for bigger say in shaping AI future",
-      "link": "https://www.livemint.com/technology/at-un-developing-nations-call-for-bigger-say-in-shaping-ai-future-11790706920129.html",
-      "date": "2026-09-29T18:35:19.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
       "source": "Wired AI",
@@ -1047,22 +1093,22 @@
     },
     {
       "source": "OpenAI",
-      "title": "DevDay 2026 Recap",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "link": "https://openai.com/index/devday-2026-recap",
-      "date": "2026-09-29T10:00:00.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
       "title": "Introducing GPT-6.1 Sol",
       "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol",
       "date": "2026-09-29T10:00:00.000Z",
       "category": "News",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
+      "title": "DevDay 2026 Recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "link": "https://openai.com/index/devday-2026-recap",
+      "date": "2026-09-29T10:00:00.000Z",
+      "category": "Product",
+      "region": "United States",
       "image": null
     },
     {
@@ -1107,22 +1153,22 @@
     },
     {
       "source": "OpenAI",
-      "title": "Towards safety cases for frontier AI training",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "date": "2026-09-28T19:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
       "title": "How we will do better for Australia",
       "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "link": "https://openai.com/index/how-we-will-do-better-for-australia",
       "date": "2026-09-28T19:00:00.000Z",
       "category": "Security & Cyber Risk",
       "region": "United States",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
+      "title": "Towards safety cases for frontier AI training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "date": "2026-09-28T19:00:00.000Z",
+      "category": "News",
+      "region": "Global",
       "image": null
     },
     {
@@ -1156,26 +1202,6 @@
       "image": null
     },
     {
-      "source": "Wired AI",
-      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-      "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
-      "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-      "date": "2026-09-28T11:32:19.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://media.wired.com/photos/6aba376a2b66b9dd652c1c6c/master/pass/092826-OpenAi%20Whitehouse%20Hack.jpg"
-    },
-    {
-      "source": "Wired AI",
-      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-      "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
-      "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "date": "2026-09-28T10:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6ab67a543b15d40264a17301/master/pass/092526-AI%20Coworker.jpg"
-    },
-    {
       "source": "Rest of World",
       "title": "South Korea’s AI chip giants are fighting for a bigger role in America’s AI boom",
       "summary": "Samsung and SK Hynix dominate the high-bandwidth memory market. Now they are competing to become indispensable to Nvidia, OpenAI, and other U.S. AI companies.",
@@ -1203,16 +1229,6 @@
       "date": "2026-09-28T08:06:22.000Z",
       "category": "News",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "date": "2026-09-28T07:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
       "image": null
     },
     {
@@ -1486,16 +1502,6 @@
       "image": null
     },
     {
-      "source": "NVIDIA",
-      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete fact…",
-      "link": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
-      "date": "2026-09-21T18:00:07.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/end-to-end-press-dsx-ready-kv-1920x1080-1.png"
-    },
-    {
       "source": "MIT Tech Review",
       "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
       "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dy…",
@@ -1554,16 +1560,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-6997906/134346653.cms"
-    },
-    {
-      "source": "The Register AI",
-      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-      "summary": "Akademy talk imagines Plasma assembling itself around a personal model of each user",
-      "link": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-      "date": "2026-09-18T14:25:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5297398&width=800"
     },
     {
       "source": "Google AI",
@@ -1676,36 +1672,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp"
     },
     {
-      "source": "The Register AI",
-      "title": "Oracle says AI will save it from the SaaSpocalypse, not bring it on",
-      "summary": "It’s a better interface, can speed installations, and drives IaaS sales too",
-      "link": "https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736",
-      "date": "2026-09-11T02:43:10.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5295741&width=800"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Microsoft goes after Salesforce and ERP users with AI-powered converter",
-      "summary": "Ironically, this idea lands as Salesforce is struggling to sell its own AI",
-      "link": "https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428",
-      "date": "2026-09-10T04:53:32.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=5295433&width=800"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Another Microsoft team admits it’s struggling to handle flood of AI-generated code",
-      "summary": "Increase in vibe-coded browser extensions sees Edge team automate quality assessments",
-      "link": "https://www.theregister.com/software/2026/09/09/another-microsoft-team-admits-its-struggling-to-handle-flood-of-ai-generated-code/5295185",
-      "date": "2026-09-09T06:34:21.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=5271891&width=800"
-    },
-    {
       "source": "DeepMind",
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
@@ -1726,16 +1692,6 @@
       "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo"
     },
     {
-      "source": "The Register AI",
-      "title": "AI-assisted mushroom hunting is a recipe for a bad trip",
-      "summary": "Even the best model gets fungus identification right just 65% of the time - talk about a false friend",
-      "link": "https://www.theregister.com/offbeat/2026/09/02/ai-assisted-mushroom-hunting-is-a-recipe-for-a-bad-trip/5294060",
-      "date": "2026-09-02T20:34:41.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=241049&width=800"
-    },
-    {
       "source": "DeepMind",
       "title": "Proactive cyber defense for governments and enterprises",
       "summary": "",
@@ -1754,46 +1710,6 @@
       "category": "Security & Cyber Risk",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Register AI",
-      "title": "OpenClaw 2.0 pours glitter on slow-burning security dumpster fire",
-      "summary": "Making installation easier and putting a new wrapper on the interface while leaving most of the security to users is a recipe for more trouble with the popular agent harness",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/31/openclaw-20-pours-glitter-on-slow-burning-security-dumpster-fire/5293492",
-      "date": "2026-08-31T19:13:31.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=4094099&width=800"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Microsoft's virtual intern Teams Facilitator will be late for the meeting",
-      "summary": "Teams question detection bot postpones debut, will get 2-month extension to practice interrupting you",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/28/microsofts-virtual-intern-teams-facilitator-will-be-late-for-the-meeting/5293045",
-      "date": "2026-08-28T10:29:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://image.theregister.com/?imageId=5287779&width=800"
-    },
-    {
-      "source": "The Register AI",
-      "title": "Salesforce boasts: 50% of bookings were from 'customers refilling the tank... they consume Flex Credits, they want more'",
-      "summary": "As SaaS giant gets a boost from Claudeforce, users might want to know how their AI use will be monetized",
-      "link": "https://www.theregister.com/software/2026/08/27/salesforce-boasts-50-of-bookings-were-from-customers-refilling-the-tank-they-consume-flex-credits-they-want-more/5292927",
-      "date": "2026-08-27T13:56:54.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=5292961&width=800"
-    },
-    {
-      "source": "The Register AI",
-      "title": "McKinsey says enterprise AI is finally 'on the road to ROI'",
-      "summary": "Fasten your seatbelt and empty that bladder: AI investment is rising, but reported enterprise earnings impact remains stubbornly flat",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/25/mckinsey-says-enterprise-ai-is-finally-on-the-road-to-roi/5292388",
-      "date": "2026-08-25T17:44:49.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://image.theregister.com/?imageId=234929&width=800"
     },
     {
       "source": "BAIR",
