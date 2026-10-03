@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T22:59:29.287Z",
-  "count": 194,
+  "updated": "2026-10-03T02:01:05.265Z",
+  "count": 188,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,42 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "date": "2026-10-03T00:45:39.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Robotics AI developer FieldAI reportedly raising $700M in funding",
+      "summary": "FieldAI Inc., a startup that develops artificial intelligence models for robots, is reportedly seeking $700 million in funding. A source told Business Insider today that the round could value the company at $10 billion. That’s five times w…",
+      "link": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding/",
+      "date": "2026-10-03T00:30:26.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/FieldAI.png"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "date": "2026-10-02T23:03:16.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+        }
+      ]
+    },
     {
       "source": "SCMP Tech",
       "title": "Trump expected to name Jay Clayton as AI tsar",
@@ -170,16 +206,6 @@
       "category": "People & Leadership",
       "region": "China",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1258977050-2-1024x648.jpg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "date": "2026-10-02T18:11:27.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "TechCrunch AI",
@@ -438,16 +464,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Anthropic-IPO-and-the-Rogue-AI-Agents.png"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, a…",
-      "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "date": "2026-10-02T14:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "NVIDIA",
       "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
       "summary": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVI…",
@@ -498,16 +514,6 @@
       "image": "https://img.etimg.com/photo/msid-134637989,imgsize-1405083.cms"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Decades of DIY best-of-breed give way to pretested stacks as AI raises integration risk",
-      "summary": "As enterprises push AI out of pilots and into production, FlexPod, the converged infrastructure franchise built by NetApp Inc. and Cisco Systems Inc., is being recast as a pretested answer to AI’s complexity. Customers want a trusted platf…",
-      "link": "https://siliconangle.com/2026/10/02/flexpod-brings-validated-ai-infrastructure-enterprises-netappinsight/",
-      "date": "2026-10-02T11:02:11.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/James-Cole-Alvaro-Celis-CLEAN-Thumb.jpg"
-    },
-    {
       "source": "Rest of World",
       "title": "Who gets to decide if AI is safe? Africa wants a say",
       "summary": "African companies race to adopt American and Chinese AI, with little attention paid to safety.",
@@ -546,16 +552,6 @@
       "category": "News",
       "region": "South Korea",
       "image": null
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "China’s AI compute ambitions demand innovation",
-      "summary": "China has set a five-year goal for the expansion of intelligent computing capacity to drive artificial intelligence (AI) that calls for a more than fourfold increase on what was in place at the end of June this year. To reach the 2030 targ…",
-      "link": "https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation?utm_source=rss_feed",
-      "date": "2026-10-02T07:05:21.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/02/d34003e1-297c-430f-b9b5-3173cbb5284c_7c5d0cb2.jpg?itok=bNzRDE7c&v=1790924098"
     },
     {
       "source": "Hindu BusinessLine",
@@ -618,16 +614,6 @@
       "image": "https://img.etimg.com/photo/msid-134630829,imgsize-112868.cms"
     },
     {
-      "source": "Japan Times",
-      "title": "SoftBank stock investors see past credit risks to AI returns",
-      "summary": "Masayoshi Son's diverse exposure across the AI landscape —ranging from robotics, data centers and energy — reassures some equity investors.",
-      "link": "https://www.japantimes.co.jp/business/2026/10/02/companies/softbank-ai-return-investors/",
-      "date": "2026-10-02T02:39:00.000Z",
-      "category": "News",
-      "region": "Japan",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566354.jpg"
-    },
-    {
       "source": "ET Tech",
       "title": "Anthropic's Dario Amodei: AI's most visible CEO and enigma",
       "summary": "The surge in artificial intelligence and the heated debate around its risks have made Anthropic CEO Dario Amodei the most visible tech leader -- though the 43-year-old remains an enigma. \"I think he is one of the great legends in tech and…",
@@ -646,16 +632,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-134630579,imgsize-1065327.cms"
-    },
-    {
-      "source": "Japan Times",
-      "title": "Apollo to back $15 billion AI infrastructure project in Japan",
-      "summary": "The project, aimed at strengthening AI capacity, is expected to see capital deployed across land, power infrastructure, construction and computing.",
-      "link": "https://www.japantimes.co.jp/business/2026/10/02/companies/apollo-japan-ai/",
-      "date": "2026-10-02T02:30:00.000Z",
-      "category": "Business & Funding",
-      "region": "Japan",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566385.jpg"
     },
     {
       "source": "OpenAI",
@@ -1034,16 +1010,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/graduate-fellowship-2026-updated.png"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Google's early attempt to pay websites for AI answers is struggling",
-      "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
-      "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
-      "date": "2026-09-30T16:03:48.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg"
     },
     {
       "source": "The Register AI",
@@ -1984,26 +1950,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
