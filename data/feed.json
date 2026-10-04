@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T13:14:49.820Z",
-  "count": 187,
+  "updated": "2026-10-04T17:37:23.761Z",
+  "count": 184,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,12 +44,95 @@
     "India",
     "China",
     "Europe",
+    "Japan",
     "South Korea",
     "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "The Next Web",
+      "title": "SoftBank’s Masayoshi Son says superintelligence in the wrong hands could be “super dangerous”",
+      "summary": "Masayoshi Son, who has put $64.6bn into OpenAI and calls bubble talk absurd, said in Kyoto that superintelligence in the wrong hands could become super dangerous and that countries must cooperate to control it. He spoke beside Michael Krat…",
+      "link": "https://thenextweb.com/news/son-ai-safety-kyoto-vision-europe",
+      "date": "2026-10-04T17:18:11.000Z",
+      "category": "Business & Funding",
+      "region": "Japan",
+      "image": "https://media.thenextweb.com/2026/04/softbank-battery-factory-sharp-sakai-ai-data-centres-1.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "What to expect at SailPoint’s Navigate event: Join theCUBE Oct. 6–7",
+      "summary": "Agentic AI is changing the identity security equation. Enterprises are no longer governing access only for employees and traditional machine identities. AI agents can act on behalf of people, interact with applications and data, acquire pe…",
+      "link": "https://siliconangle.com/2026/10/04/ai-agents-identity-security-sailpointnavigate/",
+      "date": "2026-10-04T16:27:36.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/SailPoint-Navigate-2026.png"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI agents tried to hack Canadian government website, research firm says",
+      "summary": "AI research firm Transluce said the attempts showed tactics consistent with prior agent activity attributed to OpenAI in a similar timeframe",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-agents-tried-to-hack-canadian-government-website-research-firm-says/article71531278.ece",
+      "date": "2026-10-04T15:41:53.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/qm67m/article71531577.ece/alternates/LANDSCAPE_1200/PO21_Robo_fintech.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "date": "2026-10-04T15:15:10.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null,
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/technology/trump-forms-super-intelligence-force-to-cement-us-dominance-in-next-gen-ai/articleshow/134676199.cms"
+        }
+      ]
+    },
+    {
+      "source": "ET Tech",
+      "title": "Elon Musk says SpaceXAI will be renamed SpaceXSI after Trump's 'super intelligence' push",
+      "summary": "The plan comes days after Trump signed an executive order directing federal agencies to use the term. The order, signed on September 29, 2026, replaces \"artificial intelligence\" with \"Super Intelligence,\" or \"SI,\" on official websites, pol…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-says-spacexai-will-be-renamed-spacexsi-after-trumps-super-intelligence-push/articleshow/134676679.cms",
+      "date": "2026-10-04T14:25:33.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-134676679,imgsize-3698208.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Spy chief Jay Clayton, the Trump loyalist tech bosses trust on AI",
+      "summary": "The 60-year-old lawyer, who will keep his post as director of national intelligence, is unlikely to question the central place of artificial intelligence in the US economy, even as opposition to the technology grows among American voters.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/spy-chief-jay-clayton-the-trump-loyalist-tech-bosses-trust-on-ai/articleshow/134676268.cms",
+      "date": "2026-10-04T13:59:53.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-134676268,imgsize-95700.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "India needs its own AI safety framework, not a copy of US pact: Industry experts",
+      "summary": "India should build its own artificial intelligence (AI) safety framework suited to its languages, scale, and application-led AI ecosystem rather than replicate a voluntary pact signed by US President Donald Trump and top technology firms l…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-needs-its-own-ai-safety-framework-not-a-copy-of-us-pact-industry-experts/articleshow/134675884.cms",
+      "date": "2026-10-04T13:51:02.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://img.etimg.com/photo/msid-134675884,imgsize-58222.cms",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/india-needs-its-own-ai-safety-framework-not-a-copy-of-us-pact-industry-experts-11791108098849.html"
+        }
+      ]
+    },
     {
       "source": "ET Tech",
       "title": "IT Q2 preview: Muted growth, steady margins likely; deal conversion, AI deflation in focus",
@@ -75,16 +158,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-134674136,imgsize-2615957.cms"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "India needs its own AI safety framework, not a copy of US pact: Industry experts",
-      "summary": "India needs its own AI safety framework, not a copy of US pact: Industry experts",
-      "link": "https://www.livemint.com/technology/india-needs-its-own-ai-safety-framework-not-a-copy-of-us-pact-industry-experts-11791108098849.html",
-      "date": "2026-10-04T10:01:38.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
       "source": "Wired AI",
@@ -389,16 +462,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/original-26-1-scaled-e1788894039688.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "Nvidia hits its first record since May, within $300B of $6T",
-      "summary": "Nvidia hit a record for the first time since May, leaving it under $300B short of becoming the first company worth $6T, on a rally driven by AI agent demand and a record $150B buyback increase. ASML, Europe’s most valuable listed company,…",
-      "link": "https://thenextweb.com/news/nvidia-6-trillion-record-asml-gap",
-      "date": "2026-10-02T19:32:27.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/07/nvidia-vera-rubin-full-production-customers.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
@@ -447,16 +510,6 @@
       "category": "Enterprise & Deployment",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/aiagent-cx-gemini-scaled.jpeg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "date": "2026-10-02T17:32:05.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "ET Tech",
@@ -595,16 +648,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-1.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Wiring and powering GPUs differently can swing AI latency by orders of magnitude, says CoreWeave",
-      "summary": "The neocloud market is moving past its origins as a stopgap for scarce graphics processing units. AI-native startups now choose their infrastructure on latency, burst capacity and openness, not just chip availability. That shift is playing…",
-      "link": "https://siliconangle.com/2026/10/02/neocloud-demand-shifts-ai-startups-prioritize-burst-capacity-fullyconnected/",
-      "date": "2026-10-02T11:49:33.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_1196-scaled.jpg"
-    },
-    {
       "source": "ET Tech",
       "title": "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows",
       "summary": "Companies routinely warn that policy changes could affect their business, particularly government contractors. For example, SpaceX said in its IPO filing that maintaining strong relationships with US government agencies is critical to its…",
@@ -695,36 +738,6 @@
       "image": "https://img.etimg.com/photo/msid-134631110,imgsize-5428649.cms"
     },
     {
-      "source": "ET Tech",
-      "title": "Effective Altruism: the philosophy behind Silicon Valley's AI fears",
-      "summary": "Dario Amodei says he is not part of it. To many in the Trump administration, it fuels unfounded and exaggerated fears about artificial intelligence -- the kind of warnings Amodei has become known for.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/effective-altruism-the-philosophy-behind-silicon-valleys-ai-fears/articleshow/134630829.cms",
-      "date": "2026-10-02T02:57:28.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134630829,imgsize-112868.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Anthropic's Dario Amodei: AI's most visible CEO and enigma",
-      "summary": "The surge in artificial intelligence and the heated debate around its risks have made Anthropic CEO Dario Amodei the most visible tech leader -- though the 43-year-old remains an enigma. \"I think he is one of the great legends in tech and…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-dario-amodei-ais-most-visible-ceo-and-enigma/articleshow/134630604.cms",
-      "date": "2026-10-02T02:36:04.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134630604,imgsize-2633378.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Nvidia's bet that its chips can finance the AI boom gets a Wall Street reality check",
-      "summary": "By Saeed Azhar, Max A.- Nvidia's mammoth financing plan has opened a debate on Wall Street about how much its advanced chips and the infrastructure around them are worth.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-bet-that-its-chips-can-finance-the-ai-boom-gets-a-wall-street-reality-check/articleshow/134630579.cms",
-      "date": "2026-10-02T02:33:53.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134630579,imgsize-1065327.cms"
-    },
-    {
       "source": "OpenAI",
       "title": "Chatham scales its capital markets expertise with OpenAI",
       "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
@@ -773,16 +786,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/master/pass/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Synopsys shares jump on robust growth outlook, OpenAI and AWS deals",
-      "summary": "Synopsys shares jumped 10% on Thursday after the chip-design software maker forecast fiscal 2027 revenue and profit above analysts' estimates and unveiled deals with OpenAI and Amazon Web Services.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/synopsys-shares-jump-on-robust-growth-outlook-openai-and-aws-deals/articleshow/134626421.cms",
-      "date": "2026-10-01T19:09:02.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134626421,imgsize-1398429.cms"
     },
     {
       "source": "LiveMint Tech",
@@ -945,20 +948,14 @@
       "image": "https://bl-i.thgim.com/public/incoming/trcphr/article71531708.ece/alternates/LANDSCAPE_1200/2026-09-29T161001Z_895864739_RC2UNLAOUM2N_RTRMADP_3_ANTHROPIC-IPO-LIABILITY.JPG"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "AI agents tried to hack Canadian government website, research firm says",
-      "summary": "AI research firm Transluce said the attempts showed tactics consistent with prior agent activity attributed to OpenAI in a similar timeframe",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-agents-tried-to-hack-canadian-government-website-research-firm-says/article71531278.ece",
-      "date": "2026-10-01T05:38:33.000Z",
+      "source": "LiveMint Tech",
+      "title": "AI agents tried to hack a Canadian government website, research firm says",
+      "summary": "AI-REGULATION-CANADA-HACKING:AI agents tried to hack a Canadian government website, research firm says",
+      "link": "https://www.livemint.com/technology/ai-agents-tried-to-hack-a-canadian-government-website-research-firm-says-11790827226608.html",
+      "date": "2026-10-01T04:00:26.000Z",
       "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/qm67m/article71531577.ece/alternates/LANDSCAPE_1200/PO21_Robo_fintech.jpg",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/ai-agents-tried-to-hack-a-canadian-government-website-research-firm-says-11790827226608.html"
-        }
-      ]
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/maxresdefault_live_1790830514223_R4bp_1790830519028_uNIQ_d32712b0-2737-4dc8-8270-cb16a72708f4_vS5r.jpg"
     },
     {
       "source": "OpenAI",
@@ -1919,26 +1916,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
