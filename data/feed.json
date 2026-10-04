@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T21:20:34.746Z",
-  "count": 177,
+  "updated": "2026-10-04T00:40:40.418Z",
+  "count": 188,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,16 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "Hugging Face",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "date": "2026-10-03T22:56:48.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
     {
       "source": "SiliconANGLE",
       "title": "9 insights from ‘Private Tech Trailblazers’: Vertical AI becomes the growth engine",
@@ -460,6 +470,16 @@
       "image": "https://bl-i.thgim.com/public/incoming/9r9zx0/article71538066.ece/alternates/LANDSCAPE_1200/bl28-think-dc-pG0HGF0PS8.4.jpg.jpg"
     },
     {
+      "source": "Hugging Face",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "summary": "",
+      "link": "https://huggingface.co/blog/allenai/astabrief",
+      "date": "2026-10-02T15:19:50.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "Hindu BusinessLine",
       "title": "Centre fortifies India’s AI mission with Sovereign Compute Pool amid rising GPU costs",
       "summary": "The official said that the government is also preparing further bids for additional computing capacity, as it seeks to build a government-controlled pool of AI compute alongside capacity sourced from private providers",
@@ -498,16 +518,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-1152x648.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "What’s in a name? Why Trump wants to rebrand AI as ‘super intelligence’",
-      "summary": "US President Donald Trump wants to retire one of the technology sector’s most recognisable acronyms, arguing that the term “artificial intelligence”, or AI, is no longer fit for purpose. On Tuesday, Trump signed an executive order directin…",
-      "link": "https://www.scmp.com/tech/policy/article/3369617/whats-name-why-trump-wants-rebrand-ai-super-intelligence?utm_source=rss_feed",
-      "date": "2026-10-02T14:00:30.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/02/d988dd96-1fe1-4f82-9379-c536fb0845a4_cb7c815f.jpg?itok=2EkaEAlI&v=1790944363"
     },
     {
       "source": "SiliconANGLE",
@@ -608,6 +618,16 @@
       "category": "Product",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/2szq4o/article71535905.ece/alternates/LANDSCAPE_1200/AI%20ethics.jpg"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "date": "2026-10-02T04:01:31.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "ET Tech",
@@ -1132,6 +1152,16 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-18524843/134577358.cms"
     },
     {
+      "source": "Hugging Face",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "summary": "",
+      "link": "https://huggingface.co/blog/open-tts-leaderboard",
+      "date": "2026-09-30T00:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "LiveMint Tech",
       "title": "Trump vows to never stifle AI as he gathers with tech executives urging caution",
       "summary": "Trump vows to never 'stifle' AI as he gathers with tech executives urging caution",
@@ -1140,6 +1170,26 @@
       "category": "News",
       "region": "Global",
       "image": "https://www.livemint.com/lm-img/img/2026/09/30/1600x900/maxresdefault_1790740500624_aU3g_1790740506534_0u4q_a1a98911-ea76-4f69-9ec0-d99f2db16e2d_Lg4z.jpg"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "date": "2026-09-29T15:30:38.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "summary": "",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "date": "2026-09-29T13:07:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "Analytics Vidhya",
@@ -1262,6 +1312,16 @@
       "image": "https://restofworld.org/wp-content/uploads/2026/09/SK-Hynix-Samsung-2-320x320.jpg"
     },
     {
+      "source": "Hugging Face",
+      "title": "Holo4: powering generalist computer-use agents",
+      "summary": "",
+      "link": "https://huggingface.co/blog/Hcompany/holo4",
+      "date": "2026-09-28T09:44:05.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "MIT Tech Review",
       "title": "Who’s liable when AI agents go rogue?",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI ag…",
@@ -1327,6 +1387,16 @@
       "summary": "",
       "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
       "date": "2026-09-24T16:20:39.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "summary": "",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "date": "2026-09-24T14:08:57.000Z",
       "category": "News",
       "region": "Global",
       "image": null
@@ -1490,6 +1560,26 @@
       "category": "News",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-42592/134400422.cms"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "summary": "",
+      "link": "https://huggingface.co/blog/evaleval-aisi",
+      "date": "2026-09-22T00:00:00.000Z",
+      "category": "Research",
+      "region": "Europe",
+      "image": null
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Transformers now runs llama.cpp quants",
+      "summary": "",
+      "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "date": "2026-09-22T00:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "Rest of World",
@@ -1840,6 +1930,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     },
     {
       "source": "BAIR",
