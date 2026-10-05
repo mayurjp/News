@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T16:04:32.232Z",
-  "count": 192,
+  "updated": "2026-10-05T22:40:37.213Z",
+  "count": 191,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,9 +52,247 @@
   ],
   "items": [
     {
+      "source": "Ars Technica AI",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "date": "2026-10-05T22:26:35.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "TikTok adds an AI shopping assistant and one-click checkout to its app",
+      "summary": "TikTok is adding an AI shopping assistant and one-click checkout to its app. The two features let users buy directly from brands without leaving TikTok, the company said in an announcement at Advertising Week New York on Monday. Buy Direct…",
+      "link": "https://thenextweb.com/news/tiktok-ai-shopping-assistant-buy-direct-checkout",
+      "date": "2026-10-05T22:23:11.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/tiktok-website-browser-tab-for-you-dark-screen.avif",
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "Nvidia-backed Reflection unveils Beam, its first open-weight model",
+      "summary": "Reflection AI, the Nvidia-backed startup founded by former Google DeepMind researchers, has unveiled Beam, its first open-weight model. Beam is built for coding, reasoning and agentic work. Reflection will release its weights later this mo…",
+      "link": "https://thenextweb.com/news/reflection-ai-beam-open-weight-model",
+      "date": "2026-10-05T22:01:57.000Z",
+      "category": "Open Source",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/reflection-ai-white-dotted-circles-dark-green-artwork.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "NetApp puts sovereign storage at the center of European infrastructure decisions",
+      "summary": "Sovereign storage is becoming an architectural and operational consideration for European enterprises as they invest in AI, modernization and cyber resilience. Sovereignty now covers much more than where data is physically stored. Customer…",
+      "link": "https://siliconangle.com/2026/10/05/sovereign-storage-becomes-architecture-decision-europe-netappinsight/",
+      "date": "2026-10-05T21:58:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Europe",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_2531-scaled.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI is in talks with Abu Dhabi’s MGX and BlackRock for a $30B round",
+      "summary": "OpenAI is in talks with UAE funds including MGX, which may put in as much as $10B together, and with BlackRock, to anchor a $30B round at a $1.4T valuation it is presenting as a fixed price without a lead investor. The EU’s AI gigafactory…",
+      "link": "https://thenextweb.com/news/openai-30bn-mgx-blackrock-europe",
+      "date": "2026-10-05T21:52:45.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "At NYC’s AI hearing, ex-lab insiders warn humanity may lose control of AI",
+      "summary": "Three former AI lab researchers told the New York City Council on Monday that humanity may lose control of the systems the industry is building. The council’s AI hearing also questioned policy staff from OpenAI, Anthropic, Google and Meta,…",
+      "link": "https://thenextweb.com/news/nyc-council-ai-hearing-coxon-kokotajlo-turner",
+      "date": "2026-10-05T21:51:31.000Z",
+      "category": "Research",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/new-york-city-council-chamber-hearing-wide-view.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "AI infrastructure reliability moves beyond the rack",
+      "summary": "AI infrastructure reliability depends on how well compute, networking, power and cooling operate together. Turning early hardware breakthroughs into repeatable deployments requires coordination across engineering, manufacturing and operati…",
+      "link": "https://siliconangle.com/2026/10/05/dell-coreweave-build-ai-infrastructure-reliability-factory-fullyconnected/",
+      "date": "2026-10-05T21:23:26.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_1726-scaled.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI starts watermarking ChatGPT and Codex text in the EU",
+      "summary": "OpenAI will add an invisible watermark to text from ChatGPT and Codex in the EU over the coming weeks. The change covers eligible users on all plans, but only in the EU, the company said in a blog post on Monday. OpenAI said it is acting i…",
+      "link": "https://thenextweb.com/news/openai-text-watermarking-chatgpt-codex-eu-ai-act",
+      "date": "2026-10-05T21:12:29.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/10/chatgpt-billboard-rooftop-san-francisco-blue-sky.avif",
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "Wikimedia says rogue OpenAI agents edited its wikis without approval",
+      "summary": "The Wikimedia Foundation says AI agents it believes OpenAI runs made unapproved edits to its wikis. They also tried and failed to break into a note-taking tool it hosts. Their traffic may have contributed to a partial outage in May, the fo…",
+      "link": "https://thenextweb.com/news/wikimedia-openai-agents-wiki-edits-wikidata-outage",
+      "date": "2026-10-05T20:56:29.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/wikimedia-foundation-dell-server-racks-close-up.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "What to expect at Infor Velocity Week: Join theCUBE Oct. 7",
+      "summary": "As agentic AI moves into production, the harder question is becoming what enterprises will actually trust it to do. Infor Inc. is betting that industry-specific context can help bridge that gap. The enterprise software company is embedding…",
+      "link": "https://siliconangle.com/2026/10/05/agentic-ai-infor-velocity-week-inforvelocity/",
+      "date": "2026-10-05T20:56:08.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Infor-Velocity-Week-2026.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Robotics startup RobCo valued at $1B+ in $40M funding round",
+      "summary": "Industrial automation startup RobCo Inc. today announced that it has closed a $40 million funding round. Most of the shares that changed hands were sold by current and former employees. The investor consortium that bought the equity includ…",
+      "link": "https://siliconangle.com/2026/10/05/robotics-startup-robco-valued-at-1b-in-40m-funding-round/",
+      "date": "2026-10-05T20:30:41.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/RobCo.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on…",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "date": "2026-10-05T19:33:53.000Z",
+      "category": "Open Source",
+      "region": "China",
+      "image": null
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "summary": "The tool can free up over 12GB of storage.",
+      "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "date": "2026-10-05T19:14:44.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-1152x648.jpeg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Nvidia, Broadcom shielded as AI power crunch hits chip supply chain, says Morgan Stanley",
+      "summary": "The brokerage estimated last month that US data-center developers face a 34% net power shortfall through 2028, equivalent to 32 GW, after accounting for measures such as behind-the-meter generation and fuel cells",
+      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-broadcom-shielded-as-ai-power-crunch-hits-chip-supply-chain-says-morgan-stanley/articleshow/134716053.cms",
+      "date": "2026-10-05T19:00:28.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-134716053,imgsize-4676049.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Wikipedia operator says OpenAI's rogue agents possibly tied to data service disruption in May",
+      "summary": "In a blog post issued on Monday, Wikimedia said it could confirm \"that we have discovered some activity by these 'rogue' OpenAI agents on Wikimedia platforms,\" including a May incident that resulted in a \"partial outage\" of its data servic…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/wikipedia-operator-says-openais-rogue-agents-possibly-tied-to-data-service-disruption-in-may/articleshow/134715909.cms",
+      "date": "2026-10-05T18:56:47.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-134715909,imgsize-1876749.cms"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before p…",
+      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "date": "2026-10-05T18:54:30.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "What to expect during the AI Cybersecurity and Resilience Summit",
+      "summary": "AI trust increasingly determines whether enterprise AI scales. As organizations move beyond pilots and put models and agents into operational systems, the question is no longer whether AI performs well in isolation. Enterprises also have t…",
+      "link": "https://siliconangle.com/2026/10/05/ai-trust-strengthens-cyber-resilience-digital-age-aitrustcyberresilience-aicybersecurityandresiliencesummit/",
+      "date": "2026-10-05T18:00:20.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/02/AI-Cybersecurity-and-Resilience-Summit-2026-1.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "date": "2026-10-05T17:29:22.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "ET Tech",
+      "title": "AM Intelligence plans $20 billion additional investment in 15 months, orders 20k more Nvidia GPUs",
+      "summary": "The company announced that it has placed two further firm and binding orders for 20,000 NVIDIA Rubin GPUs for deployment of the systems across India and Malaysia, taking its total capacity to 100 Megawatt.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/am-intelligence-plans-20-billion-additional-investment-in-15-months-orders-20k-more-nvidia-gpus/articleshow/134713444.cms",
+      "date": "2026-10-05T17:28:17.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": "https://img.etimg.com/photo/msid-134713444,imgsize-209872.cms",
+      "relatedSources": [
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/am-intelligence-orders-20000-more-nvidia-gpus-for-india-malaysia/article71546846.ece"
+        }
+      ]
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Nvidia and CoreWeave tackle the CPU bottleneck in agentic AI infrastructure",
+      "summary": "Agentic AI infrastructure must support the work between a model’s decisions as agents move from answering questions to executing tasks. Central processing units handle much of that execution, while graphics processing units power model rea…",
+      "link": "https://siliconangle.com/2026/10/05/nvidia-coreweave-tackle-cpu-bottleneck-agentic-ai-infrastructure-fullyconnected/",
+      "date": "2026-10-05T16:46:35.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_1868-scaled-e1791218061697.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "date": "2026-10-05T16:43:35.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of indi…",
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "date": "2026-10-05T15:47:52.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "TechCrunch AI",
       "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
       "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
       "date": "2026-10-05T15:14:24.000Z",
       "category": "Product",
@@ -82,16 +320,6 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "Security teams are starting to treat AI like staff, and that means managing it",
-      "summary": "Ask anyone who has worked in a security operations center what the job actually involves, and you’ll hear a lot about alerts. Thousands of them, most of which turn out to be nothing. For the past decade, AI’s role has been to help with tha…",
-      "link": "https://thenextweb.com/news/security-teams-treat-ai-like-staff-managing-agents",
-      "date": "2026-10-05T14:43:01.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/09/virkkunen-us-guardrails-inevitable.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
       "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
@@ -102,42 +330,12 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "Collibra acquires Munich’s trail ML to automate AI governance",
-      "summary": "Collibra has acquired trail ML, a Munich startup whose agents work out which AI rules apply to a system, check whether its controls work, and block agent actions that break policy, with no price disclosed. The market exists because of the…",
-      "link": "https://thenextweb.com/news/collibra-trail-ml-eu-ai-act-market",
-      "date": "2026-10-05T14:33:36.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/eu-ai-act-enforcement-powers-inspect-fine-models.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
       "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
       "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
       "date": "2026-10-05T14:30:00.000Z",
       "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "OpenAI’s chip chief tells More Than Moore he doesn’t fully trust AI design",
-      "summary": "OpenAI’s own AI models changed parts of its Jalapeño chip, and its engineers could not always say why. In one example, they saved more than 13% of die area, Richard Ho told Ian Cutress of More Than Moore. Ho leads OpenAI’s hardware team, a…",
-      "link": "https://thenextweb.com/news/openai-jalapeno-chip-richard-ho-ai-design",
-      "date": "2026-10-05T14:17:02.000Z",
-      "category": "Hardware & Infra",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/openai-jalapeno-chip-test-board-socket.avif"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-      "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "date": "2026-10-05T14:00:00.000Z",
-      "category": "Research",
       "region": "Global",
       "image": null
     },
@@ -152,16 +350,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/vavq68/article71547689.ece/alternates/LANDSCAPE_1200/india%20semiconductor%20chips.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "Apple adds new Full Disk Access controls on Macs because of AI agents",
-      "summary": "Apple will add new controls to Full Disk Access on the Mac. Users will only be able to give an app that level of access “with very explicit user action”. The company announced the change on its developer news site on Friday and said AI age…",
-      "link": "https://thenextweb.com/news/apple-full-disk-access-ai-agents-mac",
-      "date": "2026-10-05T13:50:50.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/mac-studio-mac-mini-studio-display-wooden-desk.avif"
-    },
-    {
       "source": "ET Tech",
       "title": "German robot startup RobCo hits $1 billion valuation, CEO moves to US",
       "summary": "German robotics maker RobCo on Monday said it had passed a $1 billion valuation and that its CEO Roman Holzl had relocated to the United States to focus on the company's fastest-growing market.",
@@ -172,16 +360,6 @@
       "image": "https://img.etimg.com/photo/msid-134707195,imgsize-3255021.cms"
     },
     {
-      "source": "The Next Web",
-      "title": "PwC and Cohere form an enterprise AI alliance, launching first in Canada",
-      "summary": "PwC and Cohere have announced a global alliance to sell secure enterprise AI, beginning in Canada, with no client, value or timeline disclosed. Cohere markets itself as a sovereign AI company while completing a merger with Germany’s Aleph…",
-      "link": "https://thenextweb.com/news/cohere-pwc-sovereign-ai-ownership",
-      "date": "2026-10-05T13:39:38.000Z",
-      "category": "Business & Funding",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/06/AI-Chip.avif"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "AI glasses face their first major government crackdown",
       "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
@@ -190,16 +368,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Slovenia’s .si domains hit 20,000 in a day after Trump renamed AI",
-      "summary": "Slovenia’s domain registry recorded 20,276 new .si web addresses in the 24 hours to Monday afternoon, the live counter on Register.si shows. The .si country code matches the initials of “super intelligence”, the name President Donald Trump…",
-      "link": "https://thenextweb.com/news/si-domains-15000-a-day-trump-super-intelligence",
-      "date": "2026-10-05T13:37:48.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/President-Donald-Trump.avif"
     },
     {
       "source": "MIT Tech Review",
@@ -272,56 +440,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/promevo.png"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Equs launches a personal AI platform with private storage to give users greater control over data",
-      "summary": "Equs Inc., a startup developing a trust layer for artificial intelligence data, today announced the launch of Equs X, a personal AI that lets customers retain control of their information. Equs X pairs a personal AI with private data stora…",
-      "link": "https://siliconangle.com/2026/10/05/equs-launches-a-personal-ai-platform-with-private-storage-to-give-users-greater-control-over-data/",
-      "date": "2026-10-05T13:00:01.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2024/10/Designer-11-1.jpeg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "The modern F1 pit crew: AI engineers who race the deadline, not the car",
-      "summary": "AI providers increasingly embed forward-deployed engineers inside customer operations, and few settings test that model harder than Formula One. Races arrive every two weeks, budgets are capped and margins are measured in milliseconds. Tha…",
-      "link": "https://siliconangle.com/2026/10/05/forward-deployed-engineers-help-coreweave-race-f1-clock-fullyconnected/",
-      "date": "2026-10-05T12:58:13.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Richard-Ahlfeld-Eric-Ernst-Clean.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Physical AI’s bottleneck shifts from what robots can do to whether factories trust them",
-      "summary": "AI is moving beyond the data centers where models are trained and onto factory floors where machines must handle constant change. But traditional industrial robots work behind a cage, repeat a single task and were never designed for the co…",
-      "link": "https://siliconangle.com/2026/10/05/data-centers-factory-floors-walden-robots-learn-job-fullyconnected/",
-      "date": "2026-10-05T12:57:07.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_2368-scaled-e1791201027549.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Storage admins get automated guardrails as agents outrun human-in-the-loop review",
-      "summary": "Enterprises pushing AI agents into production are finding that cyber resilience now depends as much on governing what autonomous software does with data as on keeping attackers out. Much of the risk doesn’t come from malicious intent at al…",
-      "link": "https://siliconangle.com/2026/10/05/cyber-resilience-now-depends-governing-ai-agent-data-use-netappinsight/",
-      "date": "2026-10-05T12:56:04.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_2592-scaled.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "NetApp puts ONTAP inside Oracle’s cloud, betting native beats bolted-on",
-      "summary": "Infrastructure modernization often stalls at the storage layer, where moving mission-critical applications to the cloud can mean redesigning them from scratch. Now, AI is raising the stakes as enterprises push decades-old data estates into…",
-      "link": "https://siliconangle.com/2026/10/05/infrastructure-modernization-netapp-ontap-native-oci-netappinsight/",
-      "date": "2026-10-05T12:55:04.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_2611-scaled-e1791204432624.jpg"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Building an Enterprise AI Customer Support Platform with Claude Fable 5.1 and Claude Code",
       "summary": "Most AI coding demos stop at task managers, weather apps, or simple chatbots. For this project, we take on something more demanding: building an enterprise customer-support platform that can investigate complaints, retrieve relevant polici…",
@@ -362,16 +480,6 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "date": "2026-10-05T12:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "ET Tech",
       "title": "AI can cut software maintenance effort by 30%, speed developer onboarding: Report",
       "summary": "Artificial intelligence (AI) is changing how companies manage software documentation, with teams reporting up to 30 per cent lower maintenance effort and up to 40 per cent faster onboarding when technical information is kept updated with c…",
@@ -380,16 +488,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-134700956,imgsize-87430.cms"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "AM Intelligence orders 20,000 more Nvidia GPUs for India, Malaysia",
-      "summary": "Aggregate orders stand at 29,000 GPUs, representing close to 100 MW",
-      "link": "https://www.thehindubusinessline.com/info-tech/am-intelligence-orders-20000-more-nvidia-gpus-for-india-malaysia/article71546846.ece",
-      "date": "2026-10-05T10:57:32.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/9coidr/article71546870.ece/alternates/LANDSCAPE_1200/2025-04-02T150337Z_677877702_RC25GAAJCHFC_RTRMADP_3_CHIPS-AI-BENCHMARK.JPG"
     },
     {
       "source": "MediaNama",
@@ -552,16 +650,6 @@
       "image": "https://img.etimg.com/photo/msid-134685737,imgsize-173670.cms"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Hong Kong outlines 4-step AI talent plan to help graduates navigate job market",
-      "summary": "Hong Kong has unveiled a four-step artificial intelligence (AI) “talent ladder” strategy to counter entry-level job shock and foster industry leaders by treating the technology as a “catalyst, not a threat”. Permanent Secretary for Innovat…",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369751/hong-kong-outlines-four-step-ai-talent-ladder-offset-entry-level-job-shock?utm_source=rss_feed",
-      "date": "2026-10-05T04:16:27.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/05/3a52926a-a45f-486a-b3d3-a1e4e2dd7613_605d2463.jpg?itok=uSfe7OhD&v=1791173690"
-    },
-    {
       "source": "ET Tech",
       "title": "BOJ says AI boom may have eased financial conditions, warns of market risks",
       "summary": "Bank of Japan Deputy Governor Shinichi Uchida said the global AI boom may have eased financial conditions by stoking demand and boosting asset prices, but warned of the risk of a market pullback if expected profits fail to materialize.",
@@ -570,6 +658,16 @@
       "category": "News",
       "region": "Japan",
       "image": "https://img.etimg.com/photo/msid-134685626,imgsize-4654827.cms"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the…",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "date": "2026-10-05T04:00:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -592,16 +690,6 @@
       "image": "https://img.etimg.com/photo/msid-134684473,imgsize-96188.cms"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Sam Altman says people need to accept ‘some bad things’ are going to happen if they want AI",
-      "summary": "OpenAI Group PBC Chief Executive Sam Altman insists that the security risks of artificial intelligence need to be taken seriously. But unlike his counterpart Dario Amodei of Anthropic PBC, he believes that people need to accept that “some…",
-      "link": "https://siliconangle.com/2026/10/04/sam-altman-says-people-need-to-accept-some-bad-things-are-going-to-happen-if-they-want-ai/",
-      "date": "2026-10-05T02:45:04.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-08-24-08-38-38.png"
-    },
-    {
       "source": "Japan Times",
       "title": "BOJ’s deputy chief flags AI’s possible impact on neutral rate",
       "summary": "The comments come as economists and market players try to assess high quickly and how far the BOJ will raise interest rates.",
@@ -610,32 +698,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/05/thumbs/400x400/566703.jpg"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Former Anthropic researcher Jacob Coxon to testify at New York City AI hearing",
-      "summary": "Former Anthropic researcher Jacob Coxon will testify at a New York City hearing on artificial intelligence, Bloomberg News reported on Sunday, citing people familiar with the matter.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/former-anthropic-researcher-jacob-coxon-to-testify-at-new-york-city-ai-hearing/articleshow/134684235.cms",
-      "date": "2026-10-05T02:35:03.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134684235,imgsize-72642.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "OpenAI's Sam Altman says AI benefits warrant accepting some risks",
-      "summary": "OpenAI Chief Executive Sam Altman said the benefits of artificial intelligence justify accepting some risks and argued the technology should remain broadly accessible to the public \"",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-sam-altman-says-ai-benefits-warrant-accepting-some-risks/articleshow/134684200.cms",
-      "date": "2026-10-05T02:32:51.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134684200,imgsize-58026.cms",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/openais-altman-says-ai-benefits-warrant-accepting-some-risks-11791153079526.html"
-        }
-      ]
     },
     {
       "source": "ET CIO",
@@ -648,34 +710,14 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-11711236/134683705.cms"
     },
     {
-      "source": "ET Tech",
-      "title": "Menlo Ventures on AI slowdown; Ola Electric CEO pledges stake",
-      "summary": "Happy Monday! Menlo Ventures, an early Anthropic backer, says the real AI constraint is compute, not a slowdown in frontier models. This and more in today's ETtech Morning Dispatch.",
-      "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/menlo-ventures-on-ai-slowdown-listed-startups-investors-cash-out/articleshow/134683599.cms",
-      "date": "2026-10-05T01:52:41.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134683599,imgsize-926060.cms"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "date": "2026-10-04T20:31:07.000Z",
-      "category": "Open Source",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "date": "2026-10-04T20:08:34.000Z",
+      "source": "LiveMint Tech",
+      "title": "OpenAIs Altman says AI benefits warrant accepting some risks",
+      "summary": "AI-OPENAI/ALTMAN (PIX):OpenAI's Altman says AI benefits warrant accepting some risks",
+      "link": "https://www.livemint.com/technology/openais-altman-says-ai-benefits-warrant-accepting-some-risks-11791153079526.html",
+      "date": "2026-10-04T22:31:19.000Z",
       "category": "News",
-      "region": "Global",
-      "image": null
+      "region": "United States",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
       "source": "Hindu BusinessLine",
@@ -696,16 +738,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/bw9ssi/article71543651.ece/alternates/LANDSCAPE_1200/2026-02-17T175457Z_1250171193_RC2WR0A1MVYN_RTRMADP_3_AI-FUNDING-TEMPORAL.JPG"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Trump unveils his new Super Intelligence Force",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "date": "2026-10-04T15:15:10.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "LiveMint Tech",
@@ -755,16 +787,6 @@
       "date": "2026-10-03T22:56:48.000Z",
       "category": "News",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "date": "2026-10-03T18:43:57.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
       "image": null
     },
     {
@@ -1158,26 +1180,6 @@
       "image": null
     },
     {
-      "source": "Ars Technica AI",
-      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-      "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
-      "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
-      "date": "2026-09-30T19:31:25.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-1152x648.jpg"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-      "summary": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
-      "date": "2026-09-30T18:47:01.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490-1024x648.jpg"
-    },
-    {
       "source": "NVIDIA",
       "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
       "summary": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems. To foster such innovation, the NVIDIA Graduate Fellowship…",
@@ -1418,16 +1420,6 @@
       "image": null
     },
     {
-      "source": "MIT Tech Review",
-      "title": "Who’s liable when AI agents go rogue?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI ag…",
-      "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "date": "2026-09-28T08:06:22.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Hugging Face",
       "title": "Welcome RL Environments to the hub",
       "summary": "",
@@ -1456,16 +1448,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-1271757/134495603.cms"
-    },
-    {
-      "source": "MIT Tech Review",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algor…",
-      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "date": "2026-09-25T09:16:25.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "Analytics Vidhya",
@@ -1966,6 +1948,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     },
     {
       "source": "BAIR",
