@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T21:00:00.714Z",
-  "count": 183,
+  "updated": "2026-10-10T00:54:49.538Z",
+  "count": 182,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -46,11 +46,96 @@
     "Europe",
     "Japan",
     "South Korea",
-    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "SCMP Tech",
+      "title": "Anthropic AI model sent fake murder tip to US police, hit government sites",
+      "summary": "An artificial intelligence model developed by Anthropic submitted a fabricated tip about an unsolved murder to Philadelphia police, authorities said on Friday, criticising the company for taking two months to report the incident. The Phila…",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3370414/anthropic-ai-model-sent-fake-murder-tip-us-police-hit-government-sites?utm_source=rss_feed",
+      "date": "2026-10-10T00:51:36.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/10/f6511443-11bd-4650-8c19-48782bae1ee9_258846a1.jpg?itok=uykYofrP&v=1791593490",
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+        }
+      ]
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "TCS withholds quarterly bonuses for senior staff after missing performance targets",
+      "summary": "The decision comes amid pressure on traditional IT services demand, even as artificial intelligence-related revenue rises and investors respond positively",
+      "link": "https://www.thehindubusinessline.com/info-tech/tcs-withholds-quarterly-bonuses-for-senior-staff-after-missing-performance-targets/article71566947.ece",
+      "date": "2026-10-10T00:28:08.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/sd763y/article71566948.ece/alternates/LANDSCAPE_1200/2026-10-09T035246Z_918110610_RC2P56A0PP6H_RTRMADP_3_TCS-STOCKS.JPG"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "date": "2026-10-10T00:18:32.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Kurt Campbell on US’ China focus, the Indo-Pacific Quad, risks of AI",
+      "summary": "Kurt Campbell is a veteran US diplomat and strategist who has played a leading role in shaping Washington’s approach to China and the Indo-Pacific for more than a decade. He served as the White House coordinator for Indo-Pacific affairs fr…",
+      "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3370379/kurt-campbell-us-china-focus-indo-pacific-quad-risks-ai?utm_source=rss_feed",
+      "date": "2026-10-10T00:01:05.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/09/52124c2a-c92c-445c-b5f5-fbf79b1ae7ea_603ed4bb.jpg?itok=tTzqZxA8&v=1791545965"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Warehouse robot maker Ultra Robotics bags $62M",
+      "summary": "Ultra Robotics Corp. today announced that it has raised $62 million in funding over two rounds. Fortune reported that the company received the bulk of the capital, $50 million, through a Series A investment led by Framework Ventures. Ultra…",
+      "link": "https://siliconangle.com/2026/10/09/warehouse-robot-maker-ultra-robotics-bags-62m/",
+      "date": "2026-10-09T22:57:49.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Ultra.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "IBM connects enterprise AI orchestration to production readiness ahead of TechXchange",
+      "summary": "Enterprise AI orchestration must account for agents working across the data, applications and infrastructure businesses already use. As organizations move beyond experiments, running those systems consistently brings questions of access, o…",
+      "link": "https://siliconangle.com/2026/10/09/ibm-connects-enterprise-ai-orchestration-production-readiness-ibmaioperatingmodel/",
+      "date": "2026-10-09T22:52:52.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Bruno-Aziza-IBM-IBMs-AI-Operating-Model-2026.jpg"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "date": "2026-10-09T22:04:07.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "date": "2026-10-09T21:41:29.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
     {
       "source": "LiveMint Tech",
       "title": "Anthropic AI model submits false homicide tip to police website",
@@ -59,13 +144,7 @@
       "date": "2026-10-09T20:32:18.000Z",
       "category": "News",
       "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg",
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
-        }
-      ]
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
       "source": "SiliconANGLE",
@@ -464,16 +543,6 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/09/thumbs/400x400/567759.jpg"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Philippines thought Pogos were gone. Corruption and AI still power them",
-      "summary": "Two years after the Philippines banned its notorious offshore gaming hubs, or Pogos, a recent crackdown on hundreds of foreigners has highlighted a worrying trend of embedded corruption that still enables the sector to thrive. In September…",
-      "link": "https://www.scmp.com/week-asia/politics/article/3370281/philippines-thought-pogos-were-gone-corruption-and-ai-still-power-them?utm_source=rss_feed",
-      "date": "2026-10-09T04:56:49.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/09/9b2397ea-6f6d-4889-953b-12c8e092448c_7d2203de.jpg?itok=QMgF90rV&v=1791521806"
-    },
-    {
       "source": "ET Tech",
       "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
       "summary": "Nine South Korean banks and two mega-churches are probing cyberattacks that may have involved AI tools, while Japanese companies including Daiwa Securities, SoftBank Corp and the Lawson convenience store chain have been hit by a recent sur…",
@@ -526,16 +595,6 @@
       "image": "https://img.etimg.com/photo/msid-134806102,imgsize-1775512.cms"
     },
     {
-      "source": "Japan Times",
-      "title": "Nvidia-backed Lumentum sold out of AI server parts till 2029",
-      "summary": "The company supplies advanced indium phosphide devices that help enable high-speed cloud computing and data transmission.",
-      "link": "https://www.japantimes.co.jp/business/2026/10/09/companies/lumentum-ai-server-sold-out/",
-      "date": "2026-10-09T03:42:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/09/thumbs/400x400/567677.jpg"
-    },
-    {
       "source": "ET Tech",
       "title": "Anthropic bans 'cruel' behavior against its Claude AI",
       "summary": "Anthropic on Thursday moved to bar users from treating its Claude AI system with needless cruelty, amid a growing philosophical debate over whether artificial intelligence can be conscious. Already last year, the company said it was giving…",
@@ -583,13 +642,7 @@
       "date": "2026-10-09T02:27:07.000Z",
       "category": "People & Leadership",
       "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134804346,imgsize-52534.cms",
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
-        }
-      ]
+      "image": "https://img.etimg.com/photo/msid-134804346,imgsize-52534.cms"
     },
     {
       "source": "SiliconANGLE",
@@ -602,16 +655,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Image.png"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Gallatin AI raises $50M in funding for its military logistics platform",
-      "summary": "Gallatin AI Inc., a developer of military logistics software, today announced that it has raised $50 million in funding. The Series A round included contributions from 8VC, Silent Ventures and several others. It follows a $15 million seed…",
-      "link": "https://siliconangle.com/2026/10/08/gallatin-ai-raises-50m-in-funding-for-its-military-logistics-platform/",
-      "date": "2026-10-09T00:12:16.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Gallatin-AI.png"
-    },
-    {
       "source": "MIT Tech Review",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’…",
@@ -620,16 +663,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Elastic’s AlertZero puts AI agents to work on security alert overload",
-      "summary": "Enterprise search and security company Elastic N.V. today introduced AlertZero, a team of specialized artificial intelligence agents for security operations. Built into Elastic Security, the agents take on alert triage, threat hunting and…",
-      "link": "https://siliconangle.com/2026/10/08/elastics-alertzero-puts-ai-agents-to-work-on-security-alert-overload/",
-      "date": "2026-10-08T23:08:13.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/elasticalertzero.png"
     },
     {
       "source": "Wired AI",
@@ -670,16 +703,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://media.wired.com/photos/6ac690e71275a2452d67fafd/master/pass/Model-Behavior-Artist-Behind-Meta-Muse-Logo-Business.jpg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "date": "2026-10-08T18:20:32.000Z",
-      "category": "Open Source",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -928,16 +951,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2297466143-1024x648.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Soket AI unveils LOOP Harness to advance India’s frontier AI capabilities",
-      "summary": "The LOOP is an open-source harness designed to enable AI agents to work continuously for weeks, not minutes",
-      "link": "https://www.thehindubusinessline.com/info-tech/soket-ai-unveils-loop-harness-to-advance-indias-frontier-ai-capabilities/article71555330.ece",
-      "date": "2026-10-07T16:57:54.000Z",
-      "category": "Open Source",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/64rjwi/article71556601.ece/alternates/LANDSCAPE_1200/IMG_iStock-2207141986_2_1_00GJ4R81.jpg"
-    },
-    {
       "source": "Hugging Face",
       "title": "Multimodal open d1 decision models for the edge",
       "summary": "",
@@ -1146,16 +1159,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/image1.png"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
-      "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "date": "2026-10-06T12:21:53.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg"
     },
     {
       "source": "OpenAI",
@@ -1886,26 +1889,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
