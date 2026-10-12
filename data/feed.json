@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T00:35:21.777Z",
-  "count": 181,
+  "updated": "2026-10-12T07:24:26.339Z",
+  "count": 184,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,14 +52,150 @@
   ],
   "items": [
     {
-      "source": "SiliconANGLE",
-      "title": "Report: Amazon in talks with AI startup Decart over possible $7B acquisition",
-      "summary": "Amazon.com Inc. is reportedly engaged in discussion over the potential acquisition of artificial intelligence developer Decart.ai Inc. in a deal that could be worth up to $7 billion. Decart has developed software that makes it easier for d…",
-      "link": "https://siliconangle.com/2026/10/11/report-amazon-in-talks-with-ai-startup-decart-over-possible-7b-acquisition/",
-      "date": "2026-10-12T00:31:19.000Z",
+      "source": "SCMP Tech",
+      "title": "DeepSeek’s cost-saving AI may lead to inaccuracy in model performance: research",
+      "summary": "New research has exposed a potential flaw in the memory-saving technology underpinning DeepSeek’s models, marking a rare challenge to a breakthrough that has helped the Chinese artificial intelligence lab close the gap with US rivals OpenA…",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3370550/deepseeks-cost-saving-ai-may-lead-inaccuracy-model-performance-research?utm_source=rss_feed",
+      "date": "2026-10-12T07:00:07.000Z",
+      "category": "Research",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/12/f91d9a59-a01f-40b8-9a3f-0b946056ff7f_33015f3f.jpg?itok=Z3lwoROR&v=1791784877"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Short-term impact of AI investments will be cushioned by margin: TCS CEO K Krithivasan",
+      "summary": "",
+      "link": "https://www.thehindubusinessline.com/info-tech/short-term-impact-of-ai-investments-will-be-cushioned-by-margin-tcs-ceo-k-krithivasan/article71573973.ece",
+      "date": "2026-10-12T06:43:15.000Z",
+      "category": "People & Leadership",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/5vjz2k/article71573972.ece/alternates/LANDSCAPE_1200/K%20Krithivasan_CEO_Image.jpg"
+    },
+    {
+      "source": "MediaNama",
+      "title": "Claude AI sent a false murder tip to US police during testing; Anthropic took 2 months to detect it",
+      "summary": "Anthropic reported that, during testing, its Claude AI submitted a false homicide tip to Philadelphia police. In response, the FTC advised AI companies to report such incidents and take steps to prevent harm. The post Claude AI sent a fals…",
+      "link": "https://www.medianama.com/2026/10/223-claude-false-murder-tip-testing/",
+      "date": "2026-10-12T06:31:00.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "LLM Batching Explained: Static vs Dynamic vs Continuous Batching",
+      "summary": "Imagine four people booking a ride to the same destination. If each person takes a separate taxi, four vehicles make the same trip. But if they travel together in a bus, everyone reaches the destination in a single trip. The bus carries mo…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/10/llm-batching/",
+      "date": "2026-10-12T06:19:14.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Japan Times",
+      "title": "Tokyo police to set up section for autonomous driving accidents",
+      "summary": "The Tokyo force hopes to accumulate expertise and share it with police departments in other prefectures.",
+      "link": "https://www.japantimes.co.jp/news/2026/10/12/japan/tokyo-police-autonomous-driving/",
+      "date": "2026-10-12T06:11:00.000Z",
+      "category": "News",
+      "region": "Japan",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/568011.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI is a growth driver, not cannibalising existing revenues: TCS",
+      "summary": "In an interview with businessline, CEO K Krithivasan and COO Aarthi Subramanian discuss the tapering of traditional IT services, the changing nature of enterprise AI demand, and how human-AI collaboration could reshape the way technology s…",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-is-a-growth-driver-not-cannibalising-existing-revenues-tcs/article71571858.ece",
+      "date": "2026-10-12T05:47:04.000Z",
+      "category": "People & Leadership",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/dlmicu/article71571856.ece/alternates/LANDSCAPE_1200/Aarthi%20Subramanian_COO.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "US reverses course on Britain's testing of AI models",
+      "summary": "American AI developers can give the British government early access to AI models for safety testing without running afoul of US President Donald",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-reverses-course-on-britains-testing-of-ai-models/articleshow/134882085.cms",
+      "date": "2026-10-12T04:07:41.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://img.etimg.com/photo/msid-134882085,imgsize-2221137.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
+      "summary": "Analysts say demand for Taiwan Semiconductor Manufacturing Co's (TSMC) AI chipmaking capacity, as well as its advanced chip packaging technology, CoWoS, remains strong.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom/articleshow/134881889.cms",
+      "date": "2026-10-12T03:49:13.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-134881889,imgsize-1281114.cms"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Amazon in talks to buy AI startup Decart for around $7 billion",
+      "summary": "Decart's Lucy model, backed by ‌Nvidia, can edit live video ‌in ⁠real time",
+      "link": "https://www.thehindubusinessline.com/info-tech/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion/article71573638.ece",
+      "date": "2026-10-12T03:30:18.000Z",
       "category": "Business & Funding",
       "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-12-07-31-02.png"
+      "image": "https://bl-i.thgim.com/public/incoming/zetj2n/article71573687.ece/alternates/LANDSCAPE_1200/2026-10-12T020705Z_847743760_RC2LSCAVAYRW_RTRMADP_3_DECART-M-A-AMAZON.JPG",
+      "relatedSources": [
+        {
+          "source": "SiliconANGLE",
+          "link": "https://siliconangle.com/2026/10/11/report-amazon-in-talks-with-ai-startup-decart-over-possible-7b-acquisition/"
+        }
+      ]
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Hong Kong’s ‘AI city brain’ could undergo testing next typhoon season: Eric Chan",
+      "summary": "Hong Kong’s artificial intelligence management system could take shape and be tested as early as the typhoon season next year, the government’s No 2 official has said, adding that the project will give authorities a “full picture” of the c…",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3370509/hong-kongs-ai-city-brain-could-undergo-testing-next-typhoon-season-eric-chan?utm_source=rss_feed",
+      "date": "2026-10-12T03:00:05.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/11/7dc7ac31-d88c-4219-8cf9-0e83901794da_d6172126.jpg?itok=aZigoxIb&v=1791726996"
+    },
+    {
+      "source": "ET CIO",
+      "title": "Exploring Agentic AI: Trust boundaries and the risks of safe models being exploited by fraudsters",
+      "summary": "Faced with increasing urgency, boards in banking and finance are turning to generative AI for productivity boosts. However, this technology brings forth governance dilemmas that cannot be ignored. Current safety protocols focus mainly on u…",
+      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/exploring-agentic-ai-trust-boundaries-and-the-risks-of-safe-models-being-exploited-by-fraudsters/134880644",
+      "date": "2026-10-12T02:30:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-54982/134880644.cms"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "As AI and the Iran war loom, China’s energy technocrats are on the fast track",
+      "summary": "This is a special contribution from the Centre on Contemporary China and the World at the University of Hong Kong. Read the full report at the end of the article. It will be available on the institute website cccw.hku.hk from October 13. W…",
+      "link": "https://www.scmp.com/news/china/politics/article/3370383/ai-and-iran-war-loom-chinas-energy-technocrats-are-fast-track?utm_source=rss_feed",
+      "date": "2026-10-12T02:00:26.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/09/66e67e68-8261-4630-a687-4b1dc0894981_47c8a160.jpg?itok=MowFtGry&v=1791546806"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "BotMan AI uses knowledge graphs for legacy modernization",
+      "summary": "Legacy modernization requires understanding how an application’s code, data and business rules fit together before rebuilding it. BotMan AI uses an AI-powered migration pipeline that maps an application’s dependencies, business logic and d…",
+      "link": "https://siliconangle.com/2026/10/11/botman-ai-uses-knowledge-graphs-for-legacy-modernization-neo4jdatatoknowledge/",
+      "date": "2026-10-12T01:46:26.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Alejandro-DAndrea.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Days after AI missile test, North Korea fires more projectiles",
+      "summary": "North Korea on Monday fired multiple ballistic missiles off its east coast, Seoul’s military said, after weeks of mounting friction over a landmine explosion along the countries’ heavily fortified border. South Korea’s Joint Chiefs of Staf…",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3370521/days-after-ai-missile-test-north-korea-fires-another-projectile?utm_source=rss_feed",
+      "date": "2026-10-12T01:01:42.000Z",
+      "category": "People & Leadership",
+      "region": "South Korea",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/12/6a9fa521-f62c-4dfd-8088-e26b62db44ff_ac529351.jpg?itok=NVrKAgIV&v=1791766701"
     },
     {
       "source": "ET Tech",
@@ -181,7 +317,13 @@
       "date": "2026-10-11T16:16:38.000Z",
       "category": "People & Leadership",
       "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/lpkdep/article71572005.ece/alternates/LANDSCAPE_1200/K%20Krithivasan_CEO_Image.jpg"
+      "image": "https://bl-i.thgim.com/public/incoming/lpkdep/article71572005.ece/alternates/LANDSCAPE_1200/K%20Krithivasan_CEO_Image.jpg",
+      "relatedSources": [
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/traditional-it-growth-to-taper-as-ai-takes-centre-stage-tcs-ceo/article71571793.ece"
+        }
+      ]
     },
     {
       "source": "SiliconANGLE",
@@ -330,32 +472,6 @@
       "image": null
     },
     {
-      "source": "SCMP Tech",
-      "title": "Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom",
-      "summary": "Japanese semiconductor materials giant Sumitomo Bakelite plans to expand production of advanced chip packaging materials in China and Singapore, marking the second such announcement for its Chinese operations in less than four months as ar…",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
-      "date": "2026-10-11T03:04:32.000Z",
-      "category": "Hardware & Infra",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/11/5cc3b5c9-959c-419e-af61-be894ef84f7e_d5a56088.jpg?itok=6oObqj1o&v=1791687789"
-    },
-    {
-      "source": "Japan Times",
-      "title": "Trump’s AI liability push opens blame game for models gone rogue",
-      "summary": "Further complicating any finding of responsibility, a model's behavior is shaped by both its AI developer and the end user deploying the system.",
-      "link": "https://www.japantimes.co.jp/business/2026/10/11/tech/trump-ai-liability-models-rogue/",
-      "date": "2026-10-10T23:43:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567863.jpg",
-      "relatedSources": [
-        {
-          "source": "The Next Web",
-          "link": "https://thenextweb.com/news/trump-ai-liability-rogue-agents-blame"
-        }
-      ]
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
       "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
@@ -404,6 +520,16 @@
       "category": "Enterprise & Deployment",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/329-_-Breaking-Analysis-_-329-AI_Control_Gap_Final.pptx_.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Trump’s AI liability push leaves rogue-agent blame unclear, Bloomberg says",
+      "summary": "The Trump administration is betting that the threat of lawsuits will keep AI companies honest. But it is far from clear who would pay when an AI agent goes rogue, Maggie Eastland reported for Bloomberg. Treasury Secretary Scott Bessent and…",
+      "link": "https://thenextweb.com/news/trump-ai-liability-rogue-agents-blame",
+      "date": "2026-10-10T15:34:04.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/trump-super-intelligence-luncheon-east-room.avif"
     },
     {
       "source": "The Next Web",
@@ -532,16 +658,6 @@
       "image": null
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Warehouse robot maker Ultra Robotics bags $62M",
-      "summary": "Ultra Robotics Corp. today announced that it has raised $62 million in funding over two rounds. Fortune reported that the company received the bulk of the capital, $50 million, through a Series A investment led by Framework Ventures. Ultra…",
-      "link": "https://siliconangle.com/2026/10/09/warehouse-robot-maker-ultra-robotics-bags-62m/",
-      "date": "2026-10-09T22:57:49.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Ultra.jpg"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
       "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
@@ -612,26 +728,6 @@
       "image": null
     },
     {
-      "source": "ET Tech",
-      "title": "If a startup can reach orbit, India can build AI the world wants: Satyan Gajwani, Chairman, Times Internet",
-      "summary": "",
-      "link": "https://economictimes.indiatimes.com/tech/startups/if-a-startup-can-reach-orbit-india-can-build-ai-the-world-wants-satyan-gajwani/videoshow/134836838.cms",
-      "date": "2026-10-09T14:35:05.000Z",
-      "category": "News",
-      "region": "India",
-      "image": null
-    },
-    {
-      "source": "ET Tech",
-      "title": "Where will India's deep tech be in 10 years? Pixxel, Agrani Labs, BrainSight AI founders explain",
-      "summary": "",
-      "link": "https://economictimes.indiatimes.com/tech/startups/where-will-indias-deep-tech-be-in-10-years-pixxel-agrani-labs-brainsight-ai-founders-explain/videoshow/134836290.cms",
-      "date": "2026-10-09T14:07:40.000Z",
-      "category": "News",
-      "region": "India",
-      "image": null
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Fragmented government data undermines India’s AI ambitions: Report",
       "summary": "Poor quality data causes fiscal leakage equivalent to 4–7% of India’s annual welfare spending, the report said",
@@ -640,26 +736,6 @@
       "category": "News",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/todays-paper/tp-news/ew1baj/article71557312.ece/alternates/LANDSCAPE_1200/RBI-Governor-saGTVGKONMP.4.jpg.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Study cautions against blind trust in medical imaging AI",
-      "summary": "In a recent study using four AI models, when researchers removed information of chest X-rays provided to the models, their ability to identify the relevant regions declined",
-      "link": "https://www.thehindubusinessline.com/info-tech/study-cautions-against-blind-trust-in-medical-imaging-ai/article71564048.ece",
-      "date": "2026-10-09T13:10:54.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/2gkag4/article71564231.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__Clinical_2_1_MCCT022L.jpg"
-    },
-    {
-      "source": "MediaNama",
-      "title": "Anthropic blocks abusive behavior towards Claude, drops ban on campaign targeting in policy update",
-      "summary": "While the blanket ban on campaign targeting was removed as it blocked legitimate civic work, the ban on abusive behavior towards Claude was introduced for users who are repeatedly cruel to the AI model. The post Anthropic blocks abusive be…",
-      "link": "https://www.medianama.com/2026/10/223-anthropic-abuse-claude-ban-campaign-targeting/",
-      "date": "2026-10-09T11:01:02.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "LiveMint Tech",
@@ -690,16 +766,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "OpenAI says it has fired three researchers for violating sensitive information policy",
-      "summary": "OpenAI asserts in its statement that the dismissal of the employees was not over raising ‌safety concerns or speaking out",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-says-it-has-fired-three-researchers-for-violating-sensitive-information-policy/article71563046.ece",
-      "date": "2026-10-09T07:31:24.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/mabkfh/article71563105.ece/alternates/LANDSCAPE_1200/2026-10-09T021309Z_1765656166_RC2UFZ9LATOJ_RTRMADP_3_OPENAI-REVENUE.JPG"
     },
     {
       "source": "OpenAI",
@@ -790,26 +856,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://media.wired.com/photos/6ac690e71275a2452d67fafd/master/pass/Model-Behavior-Artist-Behind-Meta-Muse-Logo-Business.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "India’s AI-native startups enter faster growth phase as AI model costs fall: AWS",
-      "summary": "Falling token costs and greater access to AI capabilities are helping startups move faster from experimentation to commercial deployment, AWS said",
-      "link": "https://www.thehindubusinessline.com/info-tech/indias-ai-native-startups-enter-faster-growth-phase-as-ai-model-costs-fall-aws/article71560450.ece",
-      "date": "2026-10-08T17:58:30.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/6q5ezt/article71226488.ece/alternates/LANDSCAPE_1200/2026-06-08T140557Z_1556224703_RC2LPLA71NVK_RTRMADP_3_BRITAIN-AI.JPG"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "TCS trumps Q2 estimates on global, AI-led growth; Net profit jumps 15% to ₹13,884 crore",
-      "summary": "Porsche and Best Buy wins boost growth; India business declines 10.3% sequentially",
-      "link": "https://www.thehindubusinessline.com/info-tech/tcs-trumps-q2-estimates-on-global-ai-led-growth-net-profit-jumps-15-to-13884-crore/article71561029.ece",
-      "date": "2026-10-08T17:04:05.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/7mvu5f/article71561115.ece/alternates/LANDSCAPE_1200/2026-10-07T112423Z_995068433_RC2NF5AP5X94_RTRMADP_3_TCS-RESULTS.JPG"
     },
     {
       "source": "OpenAI",
@@ -1490,16 +1536,6 @@
       "category": "Open Source",
       "region": "China",
       "image": "https://restofworld.org/wp-content/uploads/2026/09/illo_hugging_face_china_final-320x320.jpg"
-    },
-    {
-      "source": "Analytics Vidhya",
-      "title": "7 Open-Source Memory GitHub Projects on AI Memory",
-      "summary": "AI agents can handle large context windows, yet still forget what happened after a session ends. Memory systems close that gap by preserving useful facts, preferences, relationships, and task state, giving agents continuity beyond a single…",
-      "link": "https://www.analyticsvidhya.com/blog/2026/09/github-projects-on-ai-memory/",
-      "date": "2026-09-29T08:48:34.000Z",
-      "category": "Open Source",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Google AI",
