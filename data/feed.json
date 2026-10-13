@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T17:58:27.775Z",
+  "updated": "2026-10-13T00:44:28.912Z",
   "count": 186,
   "sources": [
     "OpenAI",
@@ -52,12 +52,184 @@
   ],
   "items": [
     {
+      "source": "Analytics Vidhya",
+      "title": "OpenAI Decisions API: What it is and how to use it?",
+      "summary": "Imagine building an AI agent that has to decide whether a customer complaint needs human intervention, which department should handle a query, or whether a submitted delivery photo is valid. Getting these decisions right matters. A false p…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/10/openai-decisions-api/",
+      "date": "2026-10-13T00:39:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Intel, Broadcom CEOs flag AI industry challenges at financial event",
+      "summary": "Intel Corp. Chief Executive Lip-Bu Tan and Hock Tan, his counterpart at Broadcom Inc., have flagged capital access as a potential challenge for the artificial intelligence sector. The executives shared their observations today during a fin…",
+      "link": "https://siliconangle.com/2026/10/12/intel-broadcom-ceos-flag-ai-industry-challenges-trends-at-financial-event/",
+      "date": "2026-10-13T00:11:17.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Intel.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "NYT, Economist among publishers joining coalition to curb unpaid AI use",
+      "summary": "NEWS PUBLISHERS-AI/:NYT, Economist among publishers joining coalition to curb unpaid AI use",
+      "link": "https://www.livemint.com/technology/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-11791846088141.html",
+      "date": "2026-10-12T23:01:27.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Meta releases Muse Wonder AI models built to run personal and professional agents",
+      "summary": "Meta Platforms Inc. today released Muse Wonder and Muse Wonder Full, two artificial intelligence models it says are its most capable yet at running agents that handle personal and professional tasks. Meta aimed the release at the longer, m…",
+      "link": "https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/",
+      "date": "2026-10-12T22:36:05.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/musewonder.png",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-releases-muse-wonder-ai-models-to-challenge-anthropic-and-openai/articleshow/134901136.cms"
+        }
+      ]
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Dell and Intel weigh the costs of enterprise AI scalability",
+      "summary": "Enterprise AI scalability is running into a hard budget wall for some customers. As agentic workloads multiply, cloud token bills are consuming allocations faster than planned, prompting companies to rethink where inference should run. Tha…",
+      "link": "https://siliconangle.com/2026/10/12/dell-intel-weigh-costs-enterprise-ai-scalability-dellaileadershipsymposium/",
+      "date": "2026-10-12T21:24:56.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_0554-scaled.jpg"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "date": "2026-10-12T20:59:50.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Microsoft debuts multichiplet Maia 300 inference accelerator",
+      "summary": "Microsoft Corp. today pulled back the curtains on Maia 300, its newest internally developed artificial intelligence accelerator. The chip is optimized for inference, the process of generating responses to AI queries. Microsoft estimates th…",
+      "link": "https://siliconangle.com/2026/10/12/microsoft-debuts-multichiplet-maia-300-inference-accelerator/",
+      "date": "2026-10-12T20:11:12.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Microsoft.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "AI governance shifts to runtime as always-on agents spread",
+      "summary": "As enterprises move from debating artificial intelligence adoption to deploying it, AI governance has become the harder question. Autonomous agents now run around the clock across a sprawl of platforms, and controls built for deterministic…",
+      "link": "https://siliconangle.com/2026/10/12/ai-governance-shifts-runtime-always-agents-spread-dellaileadershipsymposium/",
+      "date": "2026-10-12T20:02:38.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_0437-scaled.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "What to expect from theCUBE’s Smarsh EDGE analysis: Tune in Oct. 15",
+      "summary": "Financial institutions are adopting artificial intelligence faster than many compliance teams can establish the controls needed to oversee it. That gap is raising new questions about AI-powered compliance and regulatory accountability. As…",
+      "link": "https://siliconangle.com/2026/10/12/ai-powered-compliance-smarshedge/",
+      "date": "2026-10-12T19:48:13.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Smarsh-EDGE-2026.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Deepgram targets voice AI on air-gapped laptops",
+      "summary": "Voice AI is quickly becoming core infrastructure as people swap screens and clicks for conversations with their devices. That shift puts new pressure on the compute, storage and partnerships behind the models doing the listening and talkin…",
+      "link": "https://siliconangle.com/2026/10/12/deepgram-targets-voice-ai-air-gapped-laptops-dellaileadershipsymposium/",
+      "date": "2026-10-12T19:17:22.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_0324-scaled.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Trump administration plans to move AI testing agency officials to White House: The Information",
+      "summary": "The Trump administration is planning to move three senior officials of the Center for Advancing Innovation and Standards for Super Intelligence to the White House, The Information reported on Monday, citing a White House official.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-administration-plans-to-move-ai-testing-agency-officials-to-white-house-the-information/articleshow/134901531.cms",
+      "date": "2026-10-12T18:59:49.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-134901531,imgsize-.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "UK given access to safety-test latest AI models, minister says",
+      "summary": "Scrutiny of AI safety has intensified after developers including Anthropic and OpenAI disclosed instances of rogue or undesired behaviour by AI agents. Some industry figures have warned the technology could pose an existential threat to hu…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-given-access-to-safety-test-latest-ai-models-minister-says/articleshow/134901262.cms",
+      "date": "2026-10-12T18:39:26.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://img.etimg.com/photo/msid-134901262,imgsize-176628.cms"
+    },
+    {
+      "source": "The Next Web",
+      "title": "AMD puts 32,768 CPU cores in a rack built for AI agents",
+      "summary": "AMD has published Helion, an open rack blueprint for running AI agents rather than training models, with a CPU-only version holding up to 32,768 cores. Partner systems are due in November, and the pitch is how many agents fit in each watt.…",
+      "link": "https://thenextweb.com/news/amd-helion-agentic-rack-power",
+      "date": "2026-10-12T18:29:03.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/amd-illuminated-logo-sign-escalator-lobby.avif"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "date": "2026-10-12T18:21:36.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+      "relatedSources": [
+        {
+          "source": "MediaNama",
+          "link": "https://www.medianama.com/2026/10/223-claude-false-murder-tip-testing/"
+        }
+      ]
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Dell’s AI partner ecosystem adapts to Silicon Valley’s build-it-yourself buyers",
+      "summary": "Silicon Valley’s AI partner ecosystem is changing as enterprises push artificial intelligence projects out of pilots and into production. In the region where much of the AI stack is invented, infrastructure providers are learning that sell…",
+      "link": "https://siliconangle.com/2026/10/12/dells-ai-partner-ecosystem-adapts-silicon-valley-build-it-yourself-buyers-dellaileadershipsymposium/",
+      "date": "2026-10-12T18:16:07.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_0262-scaled.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI adds 200 Dublin jobs and builds its second applied AI lab",
+      "summary": "OpenAI is adding 200 roles in Dublin and building an applied AI lab at its EU headquarters, taking planned Irish hiring to 450. The move lands two days before Ireland hosts the International AI Summit under its EU presidency. OpenAI is add…",
+      "link": "https://thenextweb.com/news/openai-dublin-applied-ai-lab",
+      "date": "2026-10-12T18:07:53.000Z",
+      "category": "People & Leadership",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/07/openai-dublin-250-jobs-european-headquarters-expansion.avif"
+    },
+    {
       "source": "TechCrunch AI",
       "title": "Meta releases its first frontier model, Muse Wonder",
-      "summary": "Meta's Superintelligence Lab released a pair of new state-of-the-art models on Monday, Muse Wonder and Muse Wonder Full, the company's first attempt at a frontier model.",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
       "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
       "date": "2026-10-12T17:56:56.000Z",
-      "category": "News",
+      "category": "Research",
       "region": "United States",
       "image": null,
       "relatedSources": [
@@ -72,6 +244,16 @@
       ]
     },
     {
+      "source": "Wired AI",
+      "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+      "summary": "Musk, we find your lack of security disturbing.",
+      "link": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+      "date": "2026-10-12T17:55:12.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6acd1d72b814f6f25010ecb2/master/pass/Musk-Brags-About-Lego-Grok-Star-Wars-Haul-Gear.jpg"
+    },
+    {
       "source": "Ars Technica AI",
       "title": "Russia was not ready for the data center war it started with Ukraine",
       "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
@@ -84,7 +266,7 @@
     {
       "source": "TechCrunch AI",
       "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
       "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
       "date": "2026-10-12T17:19:14.000Z",
       "category": "News",
@@ -133,8 +315,18 @@
     },
     {
       "source": "TechCrunch AI",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "date": "2026-10-12T15:45:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
       "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "summary": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
       "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
       "date": "2026-10-12T15:31:19.000Z",
       "category": "Policy & Safety",
@@ -172,16 +364,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Cisco Systems scales programmable AI network capacity with new silicon and repluggable optics innovations",
-      "summary": "Cisco Systems Inc. took to the stage at the annual Open Compute Project Global Summit today, unveiling a new suite of open silicon and optical networking systems as it delivered one of the event’s most eagerly anticipated keynotes. The new…",
-      "link": "https://siliconangle.com/2026/10/12/cisco-systems-scales-programmable-ai-network-capacity-with-new-silicon-and-repluggable-optics-innovations/",
-      "date": "2026-10-12T15:00:03.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-12-10-10-43.png"
-    },
-    {
       "source": "ET Tech",
       "title": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
       "summary": "The Maia 300, as the chip is called, is the third generation of the company's custom chips designed to handle AI data crunching such as coding and carrying out complex business tasks on a user's behalf. Its predecessor is already running M…",
@@ -212,16 +394,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/rrdzpz/article71575761.ece/alternates/LANDSCAPE_1200/Microsoft%20Maia%20300%20AI%20chip.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "Google launches $180 Fitbit Edge with a bigger screen and AI coach",
-      "summary": "Google has launched the Fitbit Edge, a $179.99 fitness tracker that sits between its screenless Fitbit Air and the Pixel Watch 5, the company said on Monday. It is on pre-order now and reaches shops on 27 October. A Stephen Curry special e…",
-      "link": "https://thenextweb.com/news/google-fitbit-edge-launch-price",
-      "date": "2026-10-12T14:04:03.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/google-fitbit-edge.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
       "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. Thi…",
@@ -250,16 +422,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/53b11b/article71575293.ece/alternates/LANDSCAPE_1200/2026-09-30T144403Z_165909550_RC2ITNAG4D5M_RTRMADP_3_WALMART-INDIA.JPG"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Mistlabs takes its Ambi AI system out of beta on Apple devices with $26M in funding",
-      "summary": "Ambient intelligence startup Mistlabs Ltd. today brought its Ambi artificial intelligence system out of beta test on Apple Inc. devices, backed by $26 million in new funding. Ambi is designed to act without being asked. Chief Executive Pet…",
-      "link": "https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/",
-      "date": "2026-10-12T13:00:06.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Ambi-by-Mistlabs.png"
     },
     {
       "source": "TechCrunch AI",
@@ -300,16 +462,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/fj4txm/article71574933.ece/alternates/LANDSCAPE_1200/IMG_DSC01831_2_1_88EL1VQ9.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "E-commerce AI startup Loops raises $3.5M to create smoother online shopping experiences",
-      "summary": "Agentic e-commerce startup Loops Smart AI wants to help online retailers create more seamless buying journeys and streamline the shopping experience after raising $3.5 million in seed funding today. Andreessen Horowitz’s a16z speedrun acce…",
-      "link": "https://siliconangle.com/2026/10/12/e-commerce-ai-startup-loops-raises-3-5m-to-create-smoother-online-shopping-experiences/",
-      "date": "2026-10-12T12:00:10.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-12-08-49-25.png"
     },
     {
       "source": "Hindu BusinessLine",
@@ -382,16 +534,6 @@
       "image": null
     },
     {
-      "source": "SCMP Tech",
-      "title": "How China harnesses AI microdramas to shape public opinion at home and abroad",
-      "summary": "Beijing is rapidly scaling up the use of artificial intelligence (AI) to produce short-form videos and microdramas in its publicity campaigns, aligning with directives stressing technology’s role in strengthening ideological work and guidi…",
-      "link": "https://www.scmp.com/news/china/politics/article/3370547/how-china-harnesses-ai-microdramas-shape-public-opinion-home-and-abroad?utm_source=rss_feed",
-      "date": "2026-10-12T08:03:06.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/12/df1ebd10-7cbc-4635-8085-591c4b49ce83_50ac3fdf.jpg?itok=q8tsQq-J&v=1791784486"
-    },
-    {
       "source": "Japan Times",
       "title": "IMF chief warns of threat from AI to jobs and taxes",
       "summary": "Kristalina Georgieva said the technology is already hollowing out demand for many human workers by taking over routine, repetitive tasks.",
@@ -402,16 +544,6 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/568014.jpg"
     },
     {
-      "source": "SCMP Tech",
-      "title": "DeepSeek’s cost-saving AI may lead to inaccuracy in model performance: research",
-      "summary": "New research has exposed a potential flaw in the memory-saving technology underpinning DeepSeek’s models, marking a rare challenge to a breakthrough that has helped the Chinese artificial intelligence lab close the gap with US rivals OpenA…",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3370550/deepseeks-cost-saving-ai-may-lead-inaccuracy-model-performance-research?utm_source=rss_feed",
-      "date": "2026-10-12T07:00:07.000Z",
-      "category": "Research",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/12/f91d9a59-a01f-40b8-9a3f-0b946056ff7f_33015f3f.jpg?itok=Z3lwoROR&v=1791784877"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Short-term impact of AI investments will be cushioned by margin: TCS CEO K Krithivasan",
       "summary": "",
@@ -420,16 +552,6 @@
       "category": "People & Leadership",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/5vjz2k/article71573972.ece/alternates/LANDSCAPE_1200/K%20Krithivasan_CEO_Image.jpg"
-    },
-    {
-      "source": "MediaNama",
-      "title": "Claude AI sent a false murder tip to US police during testing; Anthropic took 2 months to detect it",
-      "summary": "Anthropic reported that, during testing, its Claude AI submitted a false homicide tip to Philadelphia police. In response, the FTC advised AI companies to report such incidents and take steps to prevent harm. The post Claude AI sent a fals…",
-      "link": "https://www.medianama.com/2026/10/223-claude-false-murder-tip-testing/",
-      "date": "2026-10-12T06:31:00.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "Analytics Vidhya",
@@ -489,13 +611,7 @@
       "date": "2026-10-12T03:30:18.000Z",
       "category": "Business & Funding",
       "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/zetj2n/article71573687.ece/alternates/LANDSCAPE_1200/2026-10-12T020705Z_847743760_RC2LSCAVAYRW_RTRMADP_3_DECART-M-A-AMAZON.JPG",
-      "relatedSources": [
-        {
-          "source": "SiliconANGLE",
-          "link": "https://siliconangle.com/2026/10/11/report-amazon-in-talks-with-ai-startup-decart-over-possible-7b-acquisition/"
-        }
-      ]
+      "image": "https://bl-i.thgim.com/public/incoming/zetj2n/article71573687.ece/alternates/LANDSCAPE_1200/2026-10-12T020705Z_847743760_RC2LSCAVAYRW_RTRMADP_3_DECART-M-A-AMAZON.JPG"
     },
     {
       "source": "ET CIO",
@@ -508,16 +624,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-54982/134880644.cms"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "BotMan AI uses knowledge graphs for legacy modernization",
-      "summary": "Legacy modernization requires understanding how an application’s code, data and business rules fit together before rebuilding it. BotMan AI uses an AI-powered migration pipeline that maps an application’s dependencies, business logic and d…",
-      "link": "https://siliconangle.com/2026/10/11/botman-ai-uses-knowledge-graphs-for-legacy-modernization-neo4jdatatoknowledge/",
-      "date": "2026-10-12T01:46:26.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Alejandro-DAndrea.jpg"
-    },
-    {
       "source": "ET Tech",
       "title": "ET Startup Awards 2026 | Govt backing and patient capital propel India's leap into AI and chips: Satyan Gajwani",
       "summary": "Gajwani said the ecosystem, once driven by fintech, food delivery, SaaS, commerce, quick commerce and direct-to-consumer brands, was witnessing founders focused on deep, proprietary technology. Indian startups are now building semiconducto…",
@@ -528,22 +634,6 @@
       "image": "https://img.etimg.com/photo/msid-134874377,imgsize-173992.cms"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Nvidia reportedly in early talks to buy, acquihire or invest more in Reflection AI",
-      "summary": "Nvidia Corp. is in early talks to acquire open-weight model developer Reflection AI Inc. or invest more in the startup, according to the Financial Times. People familiar with the matter told the paper that an agreement could come within we…",
-      "link": "https://siliconangle.com/2026/10/11/nvidia-reportedly-in-early-talks-to-buy-acqui-hire-or-invest-more-in-reflection-ai/",
-      "date": "2026-10-11T22:38:36.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Reflection-AI.png",
-      "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/startups/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft/articleshow/134868290.cms"
-        }
-      ]
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Will the HomeView be Apple’s first smart home success?",
       "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
@@ -552,26 +642,6 @@
       "category": "Product",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "What to expect during SEMICON West: Join theCUBE Oct. 14",
-      "summary": "The semiconductor industry is entering a new era of hardware engineering as artificial intelligence accelerates demand for more powerful chips, interconnected systems and faster product development. But increasing design complexity, power…",
-      "link": "https://siliconangle.com/2026/10/11/ai-powered-engineering-semiconwest/",
-      "date": "2026-10-11T20:39:00.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/SEMICON-West-2026.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Why AI agents might not be right for you",
-      "summary": "There’s no question that 2026 is the year of the artificial intelligence agent. AI agents are remarkably ubiquitous, as people use them to write code, communicate with customers, identify and resolve issues in their information technology…",
-      "link": "https://siliconangle.com/2026/10/11/why-ai-agents-might-not-be-right-for-you/",
-      "date": "2026-10-11T19:59:34.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/holdup.jpg"
     },
     {
       "source": "TechCrunch AI",
@@ -602,16 +672,6 @@
       "category": "News",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/rs712r/article71572249.ece/alternates/LANDSCAPE_1200/amundi.jpeg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
-      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "date": "2026-10-11T14:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "ET Tech",
@@ -654,32 +714,6 @@
       "image": "https://img.etimg.com/photo/msid-134868659,imgsize-42532.cms"
     },
     {
-      "source": "ET Tech",
-      "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
-      "summary": "In March, US prosecutors charged Ting-Wei \"Willy\" Sun and two others associated with Super Micro, including a co-founder, with conspiring to divert about $2.5 billion worth of US AI technology to China in violation of export laws.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china/articleshow/134868642.cms",
-      "date": "2026-10-11T10:12:38.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://img.etimg.com/photo/msid-134868642,imgsize-106598.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Most trustworthy AI system demands least inherent model trust: Microsoft CEO Satya Nadella",
-      "summary": "The most trustworthy Super Intelligence system will not be the one powered by the model users trust the most, but rather the system that allows people to trust the model the least, Microsoft CEO Satya Nadella stated in a post on X.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/most-trustworthy-ai-system-demands-least-inherent-model-trust-microsoft-ceo-satya-nadella/articleshow/134868309.cms",
-      "date": "2026-10-11T09:47:03.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134868309,imgsize-89419.cms",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/most-trustworthy-ai-system-demands-least-inherent-model-trust-says-microsoft-ceo-satya-nadella-11791687133324.html"
-        }
-      ]
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Guardrails, safe architecture key to unlocking AI gains for enterprises: Airtel Business CEO",
       "summary": "Guardrails, safe architecture key to unlocking AI gains for enterprises: Airtel Business CEO",
@@ -698,6 +732,16 @@
       "category": "News",
       "region": "Global",
       "image": null
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Most trustworthy AI system demands least inherent model trust, says Microsoft CEO Satya Nadella",
+      "summary": "The most trustworthy Super Intelligence system will not be the one powered by the model users trust the most, but rather the system that allows people to trust the model the least, Microsoft Chief Executive Officer Satya Nadella stated in…",
+      "link": "https://www.livemint.com/technology/most-trustworthy-ai-system-demands-least-inherent-model-trust-says-microsoft-ceo-satya-nadella-11791687133324.html",
+      "date": "2026-10-11T02:52:12.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/12/1600x900/maxresdefault_1791826397162_k8MV_1791826401877_cwGO_1b36cb0a-ccab-4765-ab23-8fc679346a8d_SuR5.jpg"
     },
     {
       "source": "LiveMint Tech",
@@ -868,16 +912,6 @@
       "category": "News",
       "region": "Japan",
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
-      "summary": "SOUTHKOREA-CYBERATTACKS/DEVELOPER:Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
-      "link": "https://www.livemint.com/technology/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-11791510804166.html",
-      "date": "2026-10-09T01:53:23.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "China",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
       "source": "MIT Tech Review",
@@ -1070,26 +1104,6 @@
       "image": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/master/pass/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg"
     },
     {
-      "source": "Wired AI",
-      "title": "The New ChatGPT Is More Show Than Tell",
-      "summary": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
-      "link": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
-      "date": "2026-10-07T18:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.wired.com/photos/6ac65e502270cfac88fdd69c/master/pass/Intelligent%20UI.png"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-      "summary": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-      "date": "2026-10-07T17:57:39.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2297466143-1024x648.jpg"
-    },
-    {
       "source": "Hugging Face",
       "title": "Multimodal open d1 decision models for the edge",
       "summary": "",
@@ -1098,16 +1112,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
-      "link": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-      "date": "2026-10-07T14:12:37.000Z",
-      "category": "Open Source",
-      "region": "Europe",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2-1152x648.jpg"
     },
     {
       "source": "Hugging Face",
@@ -1527,16 +1531,6 @@
       "date": "2026-09-29T13:07:00.000Z",
       "category": "News",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "Analytics Vidhya",
-      "title": "Claude Sonnet 5.5 Review: Faster Agentic Coding & Visual QA",
-      "summary": "A practical guide to what changed, the benchmarks that matter, the cost controls developers should not miss, and one hands-on demo worth building. Anthropic has just released Claude Sonnet 5.5. It is the middle child of the Claude family,…",
-      "link": "https://www.analyticsvidhya.com/blog/2026/09/claude-sonnet-5-5-review/",
-      "date": "2026-09-29T11:22:11.000Z",
-      "category": "News",
-      "region": "United States",
       "image": null
     },
     {
