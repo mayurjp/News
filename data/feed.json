@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T01:14:43.779Z",
-  "count": 185,
+  "updated": "2026-10-14T06:12:46.052Z",
+  "count": 186,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,12 +44,159 @@
     "India",
     "China",
     "Europe",
+    "Japan",
     "South Korea",
     "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "NVIDIA",
+      "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+      "summary": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that p…",
+      "link": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "date": "2026-10-14T06:04:15.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Europe",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/uk-ecosystem-industries.png"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners ar…",
+      "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+      "date": "2026-10-14T06:00:28.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Europe",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gtc-berlin-smart-cities-blog.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "CtrlS to invest ₹10,000 crore in Bihar to strengthen digital infrastructure",
+      "summary": "The company’s ₹400-crore AI and cloud-ready data centre in Patna was formally inaugurated on Tuesday and currently offers an IT load of 12 MW with the potential to expand per-future demand.",
+      "link": "https://www.thehindubusinessline.com/info-tech/ctrls-to-invest-10000-crore-in-bihar-to-strengthen-digital-infrastructure/article71580745.ece",
+      "date": "2026-10-14T05:30:46.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/2nmlxq/article71582402.ece/alternates/LANDSCAPE_1200/iStock-1172954424.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Google launches Gemini 4 Argon, targets complex coding, cybersecurity and scientific research",
+      "summary": "New model priced at $2 per million input tokens; ranks first on Vals Index and boosts coding productivity",
+      "link": "https://www.thehindubusinessline.com/info-tech/google-launches-gemini-4-argon-targets-complex-coding-cybersecurity-and-scientific-research/article71582177.ece",
+      "date": "2026-10-14T05:19:09.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/mwkw6b/article71582358.ece/alternates/LANDSCAPE_1200/2026-10-13T160324Z_1336090057_RC29YJADA4C6_RTRMADP_3_GOOGLE-AI.JPG"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Chainguard puts Claude Mythos on flaw hunting, secures coding agents and widens Libraries",
+      "summary": "Secure software supply chain solution provider Chainguard Inc. today unveiled a vulnerability-hunting service that uses frontier artificial intelligence models such as Anthropic PBC’s Claude Mythos 5.1, as well as two products for securing…",
+      "link": "https://siliconangle.com/2026/10/14/chainguard-puts-claude-mythos-on-flaw-hunting-secures-coding-agents-and-widens-libraries/",
+      "date": "2026-10-14T05:00:58.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/chainguard.png"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Why AI makes computer worms harder to stop",
+      "summary": "Anthropic's warning that AI-powered \"worms\" could soon spread across smart gadgets is the latest in a series of studies showing how artificial intelligence could supercharge self-spreading malware. A computer worm is malicious software tha…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/why-ai-makes-computer-worms-harder-to-stop/articleshow/134932397.cms",
+      "date": "2026-10-14T04:49:16.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-134932397,imgsize-43334.cms"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "Gemini 4 Argon Hands-On Review: Capabilities and Performance",
+      "summary": "Google’s Gemini 4 Argon promises stronger capabilities across creative, analytical, and document-heavy tasks. But how well does it perform in practice? From generating videos and building websites to analyzing data and reconciling conflict…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/10/gemini-4-argon-review/",
+      "date": "2026-10-14T04:12:50.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "ET Tech",
+      "title": "EU takes a page from Ireland's AI playbook",
+      "summary": "The EU wants to catch up in the AI race by taking a cue from Ireland -- an early adopter of the technology which has rolled out the red carpet for data centres despite local backlash. The EU wants to ramp up its capacity and is pouring bil…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-takes-a-page-from-irelands-ai-playbook/articleshow/134931453.cms",
+      "date": "2026-10-14T03:47:14.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://img.etimg.com/photo/msid-134931453,imgsize-43334.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet",
+      "summary": "SoftBank's promise to pay its highest-ever yields in a record $11 billion junk-bond offering highlights the pressure on CEO Masayoshi Son to secure returns on his all-in bet on AI amid concerns about possible overheating in the market.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-junk-bond-sale-raises-stakes-for-ceo-sons-all-in-ai-bet/articleshow/134930375.cms",
+      "date": "2026-10-14T02:30:24.000Z",
+      "category": "People & Leadership",
+      "region": "Japan",
+      "image": "https://img.etimg.com/photo/msid-134930375,imgsize-1725216.cms",
+      "relatedSources": [
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/10/14/companies/softbank-junk-bond-sale/"
+        }
+      ]
+    },
+    {
+      "source": "ET CIO",
+      "title": "Philips’ AI bet is on redesigning work, not adding AI to every step",
+      "summary": "At Philips, Shez Partovi, Chief AI Officer says the opportunity is not adding AI to individual tasks but rethinking how work moves across the organisation from end to end.",
+      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/philips-ai-bet-is-on-redesigning-work-not-adding-ai-to-every-step/134930020",
+      "date": "2026-10-14T02:30:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-40402/134930020.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Anthropic seeks rehearing of case over Pentagon's security risk branding",
+      "summary": "Anthropic asked a US appeals court on Tuesday to reconsider a ruling that upheld the Pentagon's decision to label the AI company as a national security supply chain risk over a dispute about safety guardrails on its technology.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-seeks-rehearing-of-case-over-pentagons-security-risk-branding/articleshow/134930323.cms",
+      "date": "2026-10-14T02:26:52.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-134930323,imgsize-26892.cms"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "OpenAI says staffer arrested for hidden recording device in office",
+      "summary": "The company used AI to identify the planted device and the person who placed it; the worker has been fired, OpenAI said",
+      "link": "https://www.thehindubusinessline.com/info-tech/openai-says-staffer-arrested-for-hidden-recording-device-in-office/article71582127.ece",
+      "date": "2026-10-14T02:09:02.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/ekrcs5/article71582128.ece/alternates/LANDSCAPE_1200/2026-10-13T200140Z_2047224655_RC2QRLARIBNM_RTRMADP_3_OPENAI-SPYING-FBI.JPG"
+    },
+    {
+      "source": "DeepMind",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "date": "2026-10-14T02:00:14.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://lh3.googleusercontent.com/m134KeViYlQXqWaac-fW1TuTvCk1ZQ2EnHF72xH6anzjd4iKukfGHvV3o5PiDTJfSytjxUF2E1rwAAHlZ4ZyCkGkOHV7Uij2ZZ3zsbVZUAFCMCccZQ=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "source": "Japan Times",
+      "title": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says",
+      "summary": "Abdulrahman Alfozan is alleged to have installed the recording device in an executive conference room at the AI company.",
+      "link": "https://www.japantimes.co.jp/news/2026/10/14/world/crime-legal/saudi-openai-fbi-arrest-bug/",
+      "date": "2026-10-14T01:29:00.000Z",
+      "category": "News",
+      "region": "Middle East",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/thumbs/400x400/568232.jpg"
+    },
     {
       "source": "SiliconANGLE",
       "title": "Pluto Security nabs $42M to help enterprises secure their AI agents",
@@ -113,7 +260,7 @@
     {
       "source": "TechCrunch AI",
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
       "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
       "date": "2026-10-13T23:13:31.000Z",
       "category": "People & Leadership",
@@ -477,16 +624,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/OCP-Blog-Banner-op-1.2-adj-1340x447-1.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Workday makes Sana its new home for AI-driven HR and finance",
-      "summary": "Enterprise management software company Workday Inc. today announced that it wants to turn its existing knowledge of people, money and business rules into an operational foundation for agentic artificial intelligence tools. At Workday Risin…",
-      "link": "https://siliconangle.com/2026/10/13/workday-makes-sana-its-new-home-for-ai-driven-hr-and-finance/",
-      "date": "2026-10-13T15:25:42.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2025/02/Designer-24.jpeg"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "They war-gamed dimming the Sun. It went even worse than you think.",
       "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
@@ -577,16 +714,6 @@
       "image": "https://img.etimg.com/photo/msid-134919388,imgsize-371834.cms"
     },
     {
-      "source": "ET Tech",
-      "title": "High data centre, chip costs and cheaper AI models pose risks to capacity usage: Infosys CEO",
-      "summary": "High data centre and chip costs, coupled with emerging AI models offering cheaper inference, pose risks to AI infrastructure investments and future capacity utilisation, Infosys CEO Salil Parekh said.",
-      "link": "https://economictimes.indiatimes.com/tech/information-tech/high-data-centre-chip-costs-and-cheaper-ai-models-pose-risks-to-capacity-usage-infosys-ceo/articleshow/134918407.cms",
-      "date": "2026-10-13T12:40:17.000Z",
-      "category": "People & Leadership",
-      "region": "India",
-      "image": "https://img.etimg.com/photo/msid-134918407,imgsize-141467.cms"
-    },
-    {
       "source": "NVIDIA",
       "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
       "summary": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI co…",
@@ -615,16 +742,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/master/pass/10122026_BE_Wikepidia_v2.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Why Samsung, SK Hynix and CXMT shares are under pressure despite strong AI demand",
-      "summary": "A sharp sell-off in Asian memory chip stocks this week signals growing investor doubts over whether the sector’s AI-driven profit boom can last, even as soaring prices drive strong quarterly earnings across the sector. Shares in market lea…",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3370739/why-samsung-sk-hynix-and-cxmt-shares-are-under-pressure-despite-strong-ai-demand?utm_source=rss_feed",
-      "date": "2026-10-13T10:30:05.000Z",
-      "category": "Business & Funding",
-      "region": "South Korea",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/13/eb0bc713-1f73-42db-963a-0f187d363984_25e94c26.jpg?itok=Z5MFsSUQ&v=1791884864"
     },
     {
       "source": "Hindu BusinessLine",
@@ -677,16 +794,6 @@
       "image": null
     },
     {
-      "source": "ET Tech",
-      "title": "US, India must deepen cooperation on AI, semiconductors for shared security: Gina Raimondo",
-      "summary": "She recalled that during an earlier meeting with Prime Minister Narendra Modi, their conversation centred on AI and the potential for India and the United States to collaborate in the field.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-india-must-deepen-cooperation-on-ai-semiconductors-for-shared-security-gina-raimondo/articleshow/134912781.cms",
-      "date": "2026-10-13T08:46:17.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://img.etimg.com/photo/msid-134912781,imgsize-98534.cms"
-    },
-    {
       "source": "MediaNama",
       "title": "Turkey bans social media for under-15s, restricts infinite scrolling, ads and algorithms for teenagers",
       "summary": "Turkey has banned children under 15 from social media and has introduced age verification requirements as well as restrictions on advertising, algorithms and various platform features for teenagers aged 15 to 17. The post Turkey bans socia…",
@@ -707,16 +814,6 @@
       "image": null
     },
     {
-      "source": "Japan Times",
-      "title": "AI and latest digital technologies on display at CEATEC show in Chiba",
-      "summary": "A record 246 startup companies and universities, along with 194 overseas firms, are taking part in the four-day technology event.",
-      "link": "https://www.japantimes.co.jp/business/2026/10/13/tech/ceatec-open/",
-      "date": "2026-10-13T06:50:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/13/thumbs/400x400/568162.jpg"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Zoho says it cannot offer usual pay hikes to employees this year as AI disrupts costs",
       "summary": "Sridhar Vembu cites higher server prices, geopolitical uncertainty; company will try to avoid mass layoffs, and hasn’t been hiring for the past 18 months",
@@ -725,16 +822,6 @@
       "category": "People & Leadership",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/bvqv1c/article71577990.ece/alternates/LANDSCAPE_1200/sridhar%20vembu.jpg"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Fortnite-maker Epic Games makes 'huge pivot' with AI, CEO says",
-      "summary": "Fortnite-maker Epic Games is making a \"huge pivot\" towards using artificial intelligence (AI) to boost video game development, CEO Tim Sweeney said on Monday. It also lands about six months after Epic said it would lay off more than 1,000…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/fortnite-maker-epic-games-makes-huge-pivot-with-ai-ceo-says/articleshow/134909206.cms",
-      "date": "2026-10-13T05:34:31.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134909206,imgsize-23304.cms"
     },
     {
       "source": "LiveMint Tech",
@@ -757,16 +844,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/france-ai-ecosystem-gtc-berlin-updated.jpeg"
     },
     {
-      "source": "ET Tech",
-      "title": "Character.AI files for bankruptcy, agrees to sell some assets to Disney for $20 million",
-      "summary": "Character.AI said on Monday it had filed for Chapter 11 bankruptcy in the US and agreed to sell some of its assets to Walt Disney for $20 million. The AI entertainment platform said it intends to continue operating as it completes the sale.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/character-ai-files-for-bankruptcy-agrees-to-sell-some-assets-to-disney-for-20-million/articleshow/134908390.cms",
-      "date": "2026-10-13T04:47:25.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134908390,imgsize-95554.cms"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Companies cutting jobs as investments shift toward AI",
       "summary": "Thousands of roles cut since late 2025 as automation reshapes industries exposed to technology shifts",
@@ -775,26 +852,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/todays-paper/tp-opinion/3q4eac/article69379176.ece/alternates/LANDSCAPE_1200/bl27-think2-midGEKE5T20M.3.jpg.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Meta unveils Muse Wonder AI models to advance ‘personal superintelligence’ push",
-      "summary": "The company said the models are its most capable to date and are built to perform tasks that require sustained work rather than simply responding to individual prompts",
-      "link": "https://www.thehindubusinessline.com/info-tech/meta-unveils-muse-wonder-ai-models-to-advance-personal-superintelligence-push/article71577808.ece",
-      "date": "2026-10-13T03:55:41.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/enqh5u/article71577872.ece/alternates/LANDSCAPE_1200/2026-10-06T135019Z_94772462_RC23PNAXH1U3_RTRMADP_3_META-PLATFORMS-AI-CITI.JPG"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Anthropic says new measures cut Claude model distillation attacks by up to 99%",
-      "summary": "Company tightens safeguards amid US-China AI competition and bans accounts linked to extraction efforts",
-      "link": "https://www.thehindubusinessline.com/info-tech/anthropic-says-new-measures-cut-claude-model-distillation-attacks-by-up-to-99/article71577794.ece",
-      "date": "2026-10-13T03:39:17.000Z",
-      "category": "Policy & Safety",
-      "region": "China",
-      "image": "https://bl-i.thgim.com/public/incoming/trcphr/article71531708.ece/alternates/LANDSCAPE_1200/2026-09-29T161001Z_895864739_RC2UNLAOUM2N_RTRMADP_3_ANTHROPIC-IPO-LIABILITY.JPG"
     },
     {
       "source": "LiveMint Tech",
@@ -815,16 +872,6 @@
       "category": "News",
       "region": "India",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-77228/134906061.cms"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Empower India plans AI, robotics expansion to tap growing demand",
-      "summary": "The company will deploy, integrate, and customise third-party technologies for enterprises, rather than develop proprietary AI or robotics hardware",
-      "link": "https://www.thehindubusinessline.com/info-tech/empower-india-plans-ai-robotics-expansion-to-tap-growing-demand/article71577766.ece",
-      "date": "2026-10-13T02:03:11.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/juovzi/article71577790.ece/alternates/LANDSCAPE_1200/28dctngr-F-MSMEGQHFBV0HO.6.jpg.jpg"
     },
     {
       "source": "Analytics Vidhya",
@@ -1447,16 +1494,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"
     },
     {
-      "source": "NVIDIA",
-      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "summary": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVI…",
-      "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-      "date": "2026-10-02T13:00:39.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-1.jpg"
-    },
-    {
       "source": "Rest of World",
       "title": "Who gets to decide if AI is safe? Africa wants a say",
       "summary": "African companies race to adopt American and Chinese AI, with little attention paid to safety.",
@@ -1475,16 +1512,6 @@
       "category": "Research",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "NVIDIA",
-      "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-      "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the…",
-      "link": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-      "date": "2026-10-01T23:44:13.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/twitter-gif-2104993966043320759-v5.png"
     },
     {
       "source": "Analytics Vidhya",
@@ -1527,16 +1554,6 @@
       "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo"
     },
     {
-      "source": "Analytics Vidhya",
-      "title": "OpenAI Dot: How to Access & Automate Work with OpenAI’s Agent",
-      "summary": "That is a slightly awkward introduction to OpenAI Dot, but a useful one. In this article I’ll be discussing what this autonomous 24/7 agent (which consumes no usage) can do, what it is, how you can access it (along with its setup), and a l…",
-      "link": "https://www.analyticsvidhya.com/blog/2026/09/chatgpt-dot-access-setup-hands-on/",
-      "date": "2026-09-30T11:40:22.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Rest of World",
       "title": "AI companies want to embed safety evaluators, but countries need their own",
       "summary": "At a Rest of World event in New York last week, speakers explored how countries sidelined by the U.S.-China race can retain some control over safety standards as they adopt models from OpenAI, Anthropic, and others.",
@@ -1545,16 +1562,6 @@
       "category": "News",
       "region": "China",
       "image": "https://fastly.restofworld.org/uploads/2026/09/illo_ai_safety_concentration_final.jpg?width=160&dpr=2&crop=1:1"
-    },
-    {
-      "source": "ET CIO",
-      "title": "Mercedes-Benz’s AI and software-defined vehicle shift: Umang Dharmik on the future of automotive innovation",
-      "summary": "AI is reshaping automotive innovation, from software engineering and vehicle development to manufacturing and customer experience. As vehicles become software-defined, Umang Dharmik, SVP and Head of IT at Mercedes-Benz Research and Develop…",
-      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/mercedes-benzs-ai-and-software-defined-vehicle-shift-umang-dharmik-on-the-future-of-automotive-innovation/134577358",
-      "date": "2026-09-30T02:30:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://etimg.etb2bimg.com/thumb/img-size-18524843/134577358.cms"
     },
     {
       "source": "Hugging Face",
@@ -1705,16 +1712,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "DeepMind",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "summary": "",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "date": "2026-09-15T17:05:57.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Google AI",
@@ -1895,6 +1892,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     },
     {
       "source": "BAIR",
