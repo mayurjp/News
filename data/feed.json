@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T20:45:05.080Z",
-  "count": 186,
+  "updated": "2026-10-14T23:56:51.482Z",
+  "count": 190,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,126 @@
   ],
   "items": [
     {
+      "source": "SiliconANGLE",
+      "title": "Open specs could cut AI data center hardware integration from a year to months",
+      "summary": "As AI factories scale, hardware interoperability is becoming as important as raw performance. Accelerators, memory and storage now come from many different suppliers, and every mismatch between them slows deployment across the data center.…",
+      "link": "https://siliconangle.com/2026/10/14/hardware-interoperability-open-specs-speed-ai-data-center-builds-aidatapipelineforum/",
+      "date": "2026-10-14T23:30:09.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_0905-scaled.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Supermicro wants AI factories judged by how fast they go live, not by GPU count",
+      "summary": "AI factory deployment has long been a race to secure graphics processing units, but the builders of those systems are finding that compute is only half the problem. Data pipelines, storage costs and the clock on getting a cluster running n…",
+      "link": "https://siliconangle.com/2026/10/14/ai-factory-deployment-supermicro-puts-speed-ahead-gpu-count-aidatapipelineforum/",
+      "date": "2026-10-14T22:55:13.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_0938-scaled.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Grok Voice 3.0 from SpaceXSI outscores OpenAI and Google on speech-to-speech index",
+      "summary": "Elon Musk’s artificial intelligence company SpaceXSI, formerly xAI, today released Grok Voice 3.0, a new version of the speech-to-speech model behind its Voice Agent API. SpaceXSI is pitching the model to businesses that handle customer su…",
+      "link": "https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/",
+      "date": "2026-10-14T22:27:54.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/grok3voice.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Shares of Oracle, neoclouds drop on CoreWeave debt concerns",
+      "summary": "Shares of Oracle Corp., DigitalOcean Inc.. and several other tech firms dropped today after a chart about CoreWeave Holdings Inc.’s finances went viral on X. CoreWeave operates a cloud platform optimized for artificial intelligence workloa…",
+      "link": "https://siliconangle.com/2026/10/14/shares-of-oracle-neoclouds-drop-on-coreweave-debt-concerns/",
+      "date": "2026-10-14T22:20:46.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/CoreWeave.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Microsoft bets on memory that moves to the workload as AI supply tightens",
+      "summary": "Memory has become the scarcest resource in the AI data center, and hyperscalers are rethinking how they hand it out. Composable memory, which pools capacity beyond individual servers and assigns it to workloads on demand, is emerging as on…",
+      "link": "https://siliconangle.com/2026/10/14/composable-memory-helps-microsoft-tackle-ai-memory-crunch-aidatapipelineforum/",
+      "date": "2026-10-14T22:19:42.000Z",
+      "category": "Hardware & Infra",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/11.-Samir-Rajadnya-scaled.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "‘China shock 3.0’ to be driven by AI, biotech and robot exports, economist says",
+      "summary": "The world is on the cusp of a “China shock 3.0” driven by exports of artificial intelligence (AI), biotechnology and robots, which could hit harder than the current wave, a leading economist on China has said. “We are already at the starti…",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3370925/china-shock-30-be-driven-ai-biotech-and-robot-exports-economist-says?utm_source=rss_feed",
+      "date": "2026-10-14T22:00:47.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/0f675533-1153-4d00-8c62-2385be1912a5_a5fb8bf9.jpg?itok=R__See9n&v=1792015234"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Hegseth calls US$1.5 trillion defence budget ‘critical’ to counter China",
+      "summary": "US Defence Secretary Pete Hegseth has called a nearly US$1.5 trillion defence budget request “absolutely critical”, warning that whoever falls behind in autonomy, robotics and AI will fall “even further behind” as Washington eyes China’s r…",
+      "link": "https://www.scmp.com/news/us/politics/article/3370924/hegseth-calls-us15-trillion-defence-budget-critical-counter-china?utm_source=rss_feed",
+      "date": "2026-10-14T21:45:00.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/3cf4f91f-29c4-4730-9191-202aae81420f_b7b9cf2e.jpg?itok=EJl_U9C9&v=1792014290"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "date": "2026-10-14T21:30:33.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Can China’s coal industry ride to the rescue of a world in oil shock?",
+      "summary": "Be warned. The global economy is likely to experience a recession next year. War across the Middle East is set to escalate, wrecking energy supplies for many years, even as the artificial intelligence (AI) bubble is ripe to burst. This, ho…",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3370367/can-chinas-coal-industry-ride-rescue-world-oil-shock?utm_source=rss_feed",
+      "date": "2026-10-14T21:30:06.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/09/a1b2e0c4-2be4-4566-87b3-0f75ccf63514_d8608d48.jpg?itok=7ZLq5EGE&v=1791540545"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+      "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+      "date": "2026-10-14T21:15:56.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egslauncher-1152x648.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI hands its data centre and compute operation to a former xAI executive",
+      "summary": "OpenAI has put its compute and infrastructure businesses under Uday Ruddarraju, who ran infrastructure at Elon Musk’s xAI until July 2025. Sachin Katti, who had been overseeing infrastructure and led the $30B Georgia build, leaves the role…",
+      "link": "https://thenextweb.com/news/openai-ruddarraju-compute-infrastructure",
+      "date": "2026-10-14T21:01:12.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/09/openai-logo-smartphone-red-case-laptop-keyboard.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Agentic AI puts the CPU back in play as Dell pitches 13-to-1 server refreshes",
+      "summary": "Server consolidation is getting a second look as agentic AI drives a surge in demand for general-purpose compute. Graphics processing units dominate the AI infrastructure conversation, but the agents running on those systems lean heavily o…",
+      "link": "https://siliconangle.com/2026/10/14/server-consolidation-gets-new-life-agentic-ai-strains-cpus-aidatapipelineforum/",
+      "date": "2026-10-14T20:59:23.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/7.--scaled.jpg"
+    },
+    {
       "source": "The Next Web",
       "title": "Apple’s first AI features reach China in December, after a two-year wait",
       "summary": "Apple plans to launch Apple Intelligence in mainland China in December with iOS 27.3, two years after the US, excluding the rebuilt Siri AI. Siri AI is also still missing in the EU, with no indication of when approval might come. Apple wil…",
@@ -64,7 +184,7 @@
     {
       "source": "SiliconANGLE",
       "title": "AI cloud startup Modal raises $750M at $15.75B valuation",
-      "summary": "Modal Labs Inc., a provider of artificial intelligence infrastructure, today announced that it has raised $750 million in funding. Accel led the Series D round. It was joined by Kleiner Perkins and a half-dozen existing Modal investors. Th…",
+      "summary": "Modal Labs Inc., a provider of artificial intelligence infrastructure, today announced that it has raised $750 million in late-stage funding. Accel led the Series D round. It was joined by Kleiner Perkins and a half-dozen existing Modal in…",
       "link": "https://siliconangle.com/2026/10/14/ai-cloud-startup-modal-raises-750m-at-15-75b-valuation/",
       "date": "2026-10-14T20:28:33.000Z",
       "category": "Business & Funding",
@@ -120,7 +240,7 @@
     {
       "source": "TechCrunch AI",
       "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as involved in composition and vocals.",
+      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
       "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
       "date": "2026-10-14T18:23:46.000Z",
       "category": "Product",
@@ -368,36 +488,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/harmonicsecurity.png"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Uvi raises $7.5M to help AI agents learn business context and run at eight times lower cost",
-      "summary": "Agentic artificial intelligence startup Uvi said today it has raised $7.5 million in seed funding to tackle an expensive problem around business context that’s draining millions of dollars annually from the coffers of enterprises using aut…",
-      "link": "https://siliconangle.com/2026/10/14/uvi-raises-7-5m-help-ai-agents-learn-business-context/",
-      "date": "2026-10-14T12:00:43.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-09-09-46-27.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Evos bags $9M to build autonomous workers that learn from companies’ most experienced humans",
-      "summary": "A startup called Evos said today it has raised $9 million in pre-seed funding to spearhead the adoption of artificial intelligence-based automation within smaller businesses by learning from their most valuable assets – the people they emp…",
-      "link": "https://siliconangle.com/2026/10/14/evos-bags-9m-to-build-autonomous-workers-that-learn-from-companies-most-experienced-humans/",
-      "date": "2026-10-14T12:00:41.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-14-09-58-48.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Offensive security startup CodeWall launches with $4M for AI agents that attack enterprises",
-      "summary": "London-based offensive security startup CodeWall Ltd. officially launched today with $4 million in new funding to give enterprises such as banks autonomous artificial intelligence agents that attack them the way an outside hacker would. Co…",
-      "link": "https://siliconangle.com/2026/10/14/offensive-security-startup-codewall-launches-with-4m-for-ai-agents-that-attack-enterprises/",
-      "date": "2026-10-14T12:00:38.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Europe",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/codewall.png"
-    },
-    {
       "source": "OpenAI",
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
@@ -436,36 +526,6 @@
       "category": "News",
       "region": "Europe",
       "image": "https://img.etimg.com/photo/msid-134941128,imgsize-3114084.cms"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Vast Data bets stitched-together AI pipelines can’t keep sensitive data in sync",
-      "summary": "Data sovereignty is becoming an architectural problem as enterprises push artificial intelligence inference toward their most sensitive information. Pipelines assembled from separate tools struggle to keep embeddings, permissions and sourc…",
-      "link": "https://siliconangle.com/2026/10/14/data-sovereignty-strains-best-breed-ai-pipelines-aidatapipelineforum/",
-      "date": "2026-10-14T11:15:06.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_0793-scaled.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "ScaleFlux bets smarter SSD controllers can break the AI memory bottleneck",
-      "summary": "AI factories run on graphics processing units that cost a fortune and work at blistering speed, yet those chips increasingly sit idle waiting for data. As the bottleneck moves from compute to memory and storage, NAND flash is being asked t…",
-      "link": "https://siliconangle.com/2026/10/14/ai-factories-stall-gpus-wait-memory-storage-data-aidatapipelineforum/",
-      "date": "2026-10-14T11:15:02.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_0400-scaled.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Copper’s days are numbered inside AI racks as Cisco bets on optics",
-      "summary": "AI infrastructure networking is approaching a physical turning point as the copper links that tie GPUs together inside a rack strain under ever-faster signaling speeds. The move to light-based interconnects could redraw the boundaries of w…",
-      "link": "https://siliconangle.com/2026/10/14/ai-infrastructure-networking-moves-from-copper-optics-aidatapipelineforum/",
-      "date": "2026-10-14T11:14:56.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_0563-1-scaled.jpg"
     },
     {
       "source": "Hindu BusinessLine",
@@ -605,6 +665,16 @@
       "date": "2026-10-14T07:00:00.000Z",
       "category": "Security & Cyber Risk",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "link": "https://openai.com/index/block-ai-powered-security",
+      "date": "2026-10-14T07:00:00.000Z",
+      "category": "News",
+      "region": "United States",
       "image": null
     },
     {
@@ -789,16 +859,6 @@
       "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
       "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
       "date": "2026-10-13T23:13:31.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "date": "2026-10-13T23:05:34.000Z",
       "category": "People & Leadership",
       "region": "Global",
       "image": null
@@ -1060,16 +1120,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png"
     },
     {
-      "source": "Ars Technica AI",
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "date": "2026-10-12T18:21:36.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg"
-    },
-    {
       "source": "Wired AI",
       "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
       "summary": "Musk, we find your lack of security disturbing.",
@@ -1237,16 +1287,6 @@
       "date": "2026-10-08T12:00:00.000Z",
       "category": "News",
       "region": "United States",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "link": "https://openai.com/index/legalon-halves-codex-costs",
-      "date": "2026-10-08T12:00:00.000Z",
-      "category": "News",
-      "region": "Global",
       "image": null
     },
     {
