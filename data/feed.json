@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T21:13:27.402Z",
-  "count": 184,
+  "updated": "2026-10-16T23:38:50.260Z",
+  "count": 181,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,15 +44,56 @@
     "India",
     "China",
     "Europe",
+    "South Korea",
     "Middle East",
     "United States",
     "Global"
   ],
   "items": [
     {
+      "source": "SCMP Tech",
+      "title": "North Korea says it tested new torpedo with AI tech",
+      "summary": "⁠North Korea conducted an underwater ⁠test of a new torpedo weapon system on Thursday to verify technological upgrades, state news agency KCNA reported on Saturday, describing the test as a success and a significant step in ‌the country’s…",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3371218/north-korea-says-it-tested-new-torpedo-ai-tech?utm_source=rss_feed",
+      "date": "2026-10-16T23:37:18.000Z",
+      "category": "News",
+      "region": "South Korea",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/dc5fed3a-123c-4387-8f07-7cd1bc6952ef_78ecd2f2.jpg?itok=CyjdghCf&v=1792193829"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Altimetrik launches PharmaOS AI platform for life sciences sector in Hyderabad",
+      "summary": "The new facility will support AI-driven workflows across drug discovery, clinical development, pharmaceutical manufacturing, patient engagement and care delivery",
+      "link": "https://www.thehindubusinessline.com/news/national/altimetrik-launches-pharmaos-ai-platform-for-life-sciences-sector-in-hyderabad/article71591824.ece",
+      "date": "2026-10-16T23:04:52.000Z",
+      "category": "Product",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/u0dmr4/article71544851.ece/alternates/LANDSCAPE_1200/BL0510_Pulse_Invitation.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Reflection AI open-sources Beam’s weights, post-training recipes",
+      "summary": "Startup Reflection AI Inc. today made the weights of Beam, its first large language model, available on Hugging Face. The company also released technical resources that will enable developers to customize the algorithm. Originally introduc…",
+      "link": "https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/",
+      "date": "2026-10-16T22:52:38.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Beam.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "date": "2026-10-16T21:22:28.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Ars Technica AI",
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.`",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
       "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
       "date": "2026-10-16T20:59:01.000Z",
       "category": "Security & Cyber Risk",
@@ -96,6 +137,26 @@
       ]
     },
     {
+      "source": "Hindu BusinessLine",
+      "title": "CERT-In issues 'critical' alert after autonomous AI agents access live systems of Indian organisations",
+      "summary": "The incidents came to light following an internal review by the AI model provider",
+      "link": "https://www.thehindubusinessline.com/info-tech/cert-in-issues-critical-alert-after-autonomous-ai-agents-access-live-systems-of-indian-organisations/article71591314.ece",
+      "date": "2026-10-16T20:11:28.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/dqasfg/article71452620.ece/alternates/LANDSCAPE_1200/Cognizant-creatGLKG2A9QF.4.jpg.jpg",
+      "relatedSources": [
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/cert-in-flags-rogue-ai-agents-accessing-indian-organisations-live-systems/article71589867.ece"
+        },
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/certin-issues-critical-alert-after-autonomous-ai-agents-access-live-systems-of-indian-orgs-11792130795195.html"
+        }
+      ]
+    },
+    {
       "source": "SiliconANGLE",
       "title": "The agentic AI era is forcing security and resilience into a single discipline",
       "summary": "For two decades, security and data resilience have been neighbors who share a fence but rarely a budget. Security kept bad actors out, while resilience brought the business back when they got in. Agentic artificial intelligence is tearing…",
@@ -114,6 +175,78 @@
       "category": "News",
       "region": "Global",
       "image": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/master/pass/GettyImages-2299989251.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Meta releases open-weight Muse Spark model for coding, agentic tasks",
+      "summary": "816-billion-parameter model expands developer access as company continues push for open AI systems",
+      "link": "https://www.thehindubusinessline.com/info-tech/meta-releases-open-weight-muse-spark-model-for-coding-agentic-tasks/article71590972.ece",
+      "date": "2026-10-16T19:47:03.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-variety/dnv4im/article71470058.ece/alternates/LANDSCAPE_1200/Meta-agrees-to-GNGGHIFE9.6.jpg.jpg",
+      "relatedSources": [
+        {
+          "source": "Hugging Face",
+          "link": "https://huggingface.co/blog/meta-muse-spark-open"
+        }
+      ]
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Amazon launches two new portable AI listening devices",
+      "summary": "The devices record information throughout the day to offer calendar reminders and other AI-driven insights under the Bee brand it acquired last year",
+      "link": "https://www.thehindubusinessline.com/info-tech/amazon-launches-two-new-portable-ai-listening-devices/article71591012.ece",
+      "date": "2026-10-16T19:45:20.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/ehlx9k/article71573687.ece/alternates/LANDSCAPE_1200/2026-10-12T020705Z_847743760_RC2LSCAVAYRW_RTRMADP_3_DECART-M-A-AMAZON.JPG"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "summary": "Anthropic told potential IPO investors that Q3 revenue rose 45% to $16.8B from Q2 and that it was adjusted-profit profitable for the quarter",
+      "link": "https://www.thehindubusinessline.com/info-tech/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say/article71590936.ece",
+      "date": "2026-10-16T19:35:08.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/1hx628/article71591047.ece/alternates/LANDSCAPE_1200/2026-10-14T222837Z_814297647_RC2LU7ANS75E_RTRMADP_3_ANTHROPIC-IPO-INVESTORS.JPG"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Explainer: Why CoreWeave's troubles are rattling the AI boom",
+      "summary": "Shares and bonds of the Nvidia-backed company have tumbled, triggering a broader sell-off in tech stocks",
+      "link": "https://www.thehindubusinessline.com/info-tech/explainer-why-coreweaves-troubles-are-rattling-the-ai-boom/article71591011.ece",
+      "date": "2026-10-16T19:34:18.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/xruhy/article71591053.ece/alternates/LANDSCAPE_1200/2026-10-15T134123Z_1375214207_RC2JHMADKZND_RTRMADP_3_COREWEAVE-STOCKS.JPG",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/why-coreweaves-troubles-are-rattling-the-ai-boom-11792091910736.html"
+        }
+      ]
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "US states sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
+      "summary": "The lawsuits claim ChatGPT is giving dangerous medical advice, fueling paranoia and encouraging self-harm or harm to others",
+      "link": "https://www.thehindubusinessline.com/info-tech/us-states-sue-ai-giant-openai-saying-its-popular-chatbot-is-hurting-children-and-deceiving-adults/article71590935.ece",
+      "date": "2026-10-16T19:05:22.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/mxmsvq/article71590938.ece/alternates/LANDSCAPE_1200/TH03-Profiles-3GVRGK669T.3.jpg.jpg"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "date": "2026-10-16T19:00:00.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "MIT Tech Review",
@@ -258,16 +391,6 @@
       "image": null
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "CERT-in incident flags need for AI-enhanced security measures rather than reacting to attacks",
-      "summary": "At odds with this, Greyhound Research assessed the incidents as the failure of India’s defences against AI agents at detection",
-      "link": "https://www.thehindubusinessline.com/info-tech/cert-in-incident-flags-need-for-ai-enhanced-security-measures-rather-than-reacting-to-attacks/article71593629.ece",
-      "date": "2026-10-16T16:19:18.000Z",
-      "category": "Research",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/nk38wa/article71593777.ece/alternates/LANDSCAPE_1200/iStock-2170294941.jpg"
-    },
-    {
       "source": "The Next Web",
       "title": "Accenture caps staff Claude spending at $29 a month, 404 Media reports",
       "summary": "“Providing a WBS and obtaining a license does not guarantee indefinite or ongoing access to Claude.” Accenture gave its staff that warning in an internal announcement about Claude, Anthropic’s AI model. The consulting firm now pays only $2…",
@@ -286,16 +409,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Know your AI agents first, experts tell organisations",
-      "summary": "CERT-In flags Agent intrusions; says old vulnerabilities exploited",
-      "link": "https://www.thehindubusinessline.com/info-tech/know-your-ai-agents-first-experts-tell-organisations/article71593021.ece",
-      "date": "2026-10-16T16:01:33.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/pjf91r/article71593229.ece/alternates/LANDSCAPE_1200/IMG_iStock-2207141986_2_1_00GJ4R81.jpg"
     },
     {
       "source": "SiliconANGLE",
@@ -348,26 +461,6 @@
       "image": "https://media.wired.com/photos/6ad14b37762b59cd2aa2c0c9/master/pass/Backchannel-Sherry-Turkle-Business-458911186.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Shamrock AI raises $5 million in seed funding led by Endiya Partners",
-      "summary": "The Shillong-headquartered company serves Fortune 500 customers and is developing tools to help AI agents operate reliably across critical business processes.",
-      "link": "https://www.thehindubusinessline.com/info-tech/shamrock-ai-raises-5-million-in-seed-funding-led-by-endiya-partners/article71588722.ece",
-      "date": "2026-10-16T14:49:27.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/da5eod/article71558892.ece/alternates/LANDSCAPE_1200/More-financial-GH7GCMFKN.3.jpg.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Services exports decline marginally in September amid AI-led muted growth of IT and software services",
-      "summary": "Slowing demand in the Western world, advancements in AI and the impact of geopolitical shifts on travel and logistics services weigh on the sector",
-      "link": "https://www.thehindubusinessline.com/economy/services-exports-decline-marginally-in-september-amid-ai-led-muted-growth-of-it-and-software-services/article71592977.ece",
-      "date": "2026-10-16T14:46:58.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/xippu/article71593332.ece/alternates/LANDSCAPE_1200/iStock-1489431302.jpg"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
       "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
@@ -408,16 +501,6 @@
       "image": null
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Wipro Q2 net profit slips 1.4% to ₹3,201 crore; revenue grows 9.1%",
-      "summary": "The IT services major cited strategic investments and AI-led offerings as growth drivers while projecting a cautious revenue outlook for the December quarter.",
-      "link": "https://www.thehindubusinessline.com/info-tech/wipro-q2-revenue-grows-91-as-european-client-spending-revives-ai-unlocks-new-revenue/article71587632.ece",
-      "date": "2026-10-16T13:31:14.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/seacyy/article71587852.ece/alternates/LANDSCAPE_1200/Guidance-refleG4LFS1GJT.4.jpg.jpg"
-    },
-    {
       "source": "SCMP Tech",
       "title": "AI-powered drones to help detect hill fires during Chung Yeung Festival",
       "summary": "Hong Kong’s Fire Services Department will launch three new AI-assisted drone technologies to strengthen fire detection and its response to heightened risks during tomb-sweeping activities ahead of the Chung Yeung Festival on Sunday. Wong T…",
@@ -426,16 +509,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/7e22e51f-7a55-43e3-a5d9-80940d4af4e6_2f944ce2.jpg?itok=mQ8FlSCM&v=1792156151"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Reliance’s Jio pitches itself as tech company, plans to sell network stack abroad",
-      "summary": "Ahead of its IPO, Jio Platforms is highlighting its proprietary 5G technology, network software and AI-based automation as potential growth drivers in overseas markets.",
-      "link": "https://www.thehindubusinessline.com/info-tech/reliances-jio-pitches-itself-as-tech-company-plans-to-sell-network-stack-abroad/article71587448.ece",
-      "date": "2026-10-16T13:00:56.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/96r2sn/article71587477.ece/alternates/LANDSCAPE_1200/2026-10-05T074945Z_960947327_RC21BKAIY0V5_RTRMADP_3_RELIANCE-JIO-IPO.JPG"
     },
     {
       "source": "ET Tech",
@@ -456,26 +529,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Anthropic results may aid IPO but not AI trade, analysts say",
-      "summary": "Market players say Anthropic’s numbers may not be enough to revive investor interest in the broader trade",
-      "link": "https://www.thehindubusinessline.com/info-tech/anthropic-results-may-aid-ipo-but-not-ai-trade-analysts-say/article71586621.ece",
-      "date": "2026-10-16T12:39:00.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/sxfr9o/article71586453.ece/alternates/LANDSCAPE_1200/2026-10-14T222837Z_814297647_RC2LU7ANS75E_RTRMADP_3_ANTHROPIC-IPO-INVESTORS.JPG"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "OpenAI flags AI adoption gap in Europe despite 8-fold surge in agent use among small businesses",
-      "summary": "Report urges European firms to move beyond experimentation as SMB agent use rises more than eightfold since May",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-flags-ai-adoption-gap-in-europe-despite-8-fold-surge-in-agent-use-among-small-businesses/article71586516.ece",
-      "date": "2026-10-16T12:34:39.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://bl-i.thgim.com/public/incoming/ekrcs5/article71582128.ece/alternates/LANDSCAPE_1200/2026-10-13T200140Z_2047224655_RC2QRLARIBNM_RTRMADP_3_OPENAI-SPYING-FBI.JPG"
     },
     {
       "source": "Wired AI",
@@ -578,16 +631,6 @@
       "image": "https://img.etimg.com/photo/msid-134982288,imgsize-47086.cms"
     },
     {
-      "source": "LiveMint Tech",
-      "title": "CERT-In issues critical alert after autonomous AI agents access live systems of Indian orgs",
-      "summary": "CERT-In issues 'critical' alert after autonomous AI agents access live systems of Indian orgs",
-      "link": "https://www.livemint.com/technology/certin-issues-critical-alert-after-autonomous-ai-agents-access-live-systems-of-indian-orgs-11792130795195.html",
-      "date": "2026-10-16T06:06:34.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "JEV as a Hallucination Filter: Let the LLM Write, Let JEV Check",
       "summary": "The majority of hallucination checks begin following the initial writing of an answer by the LLM. We then hold someone up to a second standard of judgment, or we hand over dangerous cases to a person. That works but that is looking at the…",
@@ -688,16 +731,6 @@
       "image": null
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Perplexity AI open-sources its secure AI agent sandbox SPACE",
-      "summary": "The artificial intelligence search engine startup Perplexity AI Inc. is shifting its focus to AI agent security in the wake of several high-profile incidents that saw autonomous systems escape from secure environments and go on to wreak ha…",
-      "link": "https://siliconangle.com/2026/10/15/perplexity-ai-open-sources-its-secure-ai-agent-sandbox-space/",
-      "date": "2026-10-16T00:44:07.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Designer-4.jpeg"
-    },
-    {
       "source": "OpenAI",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
@@ -756,26 +789,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "date": "2026-10-15T20:04:53.000Z",
-      "category": "Open Source",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Why CoreWeaves troubles are rattling the AI boom",
-      "summary": "COREWEAVE-STOCKS/ (EXPLAINER, PIX):EXPLAINER-Why CoreWeave's troubles are rattling the AI boom",
-      "link": "https://www.livemint.com/technology/why-coreweaves-troubles-are-rattling-the-ai-boom-11792091910736.html",
-      "date": "2026-10-15T19:18:30.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
       "source": "OpenAI",
@@ -934,16 +947,6 @@
       "link": "https://openai.com/index/sullivan-cromwell",
       "date": "2026-10-15T00:00:00.000Z",
       "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "summary": "",
-      "link": "https://huggingface.co/blog/meta-muse-spark-open",
-      "date": "2026-10-15T00:00:00.000Z",
-      "category": "Open Source",
       "region": "United States",
       "image": null
     },
@@ -1268,16 +1271,6 @@
       "category": "Hardware & Infra",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "date": "2026-10-13T12:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "MIT Tech Review",
