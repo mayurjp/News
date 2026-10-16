@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T01:24:00.066Z",
-  "count": 189,
+  "updated": "2026-10-16T07:13:40.070Z",
+  "count": 179,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,13 +44,290 @@
     "India",
     "China",
     "Europe",
-    "Japan",
     "South Korea",
     "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "LiveMint Tech",
+      "title": "Chinas Tencent says AI agents showed unintended browsing behaviour",
+      "summary": "AI-SAFETY/CHINA-TENCENT (PIX):China's Tencent says AI agents showed unintended browsing behaviour",
+      "link": "https://www.livemint.com/technology/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-11792134565850.html",
+      "date": "2026-10-16T07:09:25.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "CERT-In issues 'critical' alert after autonomous AI agents access live systems of Indian organisations",
+      "summary": "The incidents came to light following an internal review by the AI model provider",
+      "link": "https://www.thehindubusinessline.com/info-tech/cert-in-issues-critical-alert-after-autonomous-ai-agents-access-live-systems-of-indian-organisations/article71591314.ece",
+      "date": "2026-10-16T06:38:25.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/dqasfg/article71452620.ece/alternates/LANDSCAPE_1200/Cognizant-creatGLKG2A9QF.4.jpg.jpg",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/certin-issues-critical-alert-after-autonomous-ai-agents-access-live-systems-of-indian-orgs-11792130795195.html"
+        }
+      ]
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Who is Nathan Chen, the Chinese teen AI prodigy being courted by Silicon Valley?",
+      "summary": "A 17-year-old artificial intelligence researcher formerly with Moonshot AI has announced his departure for the United States, sparking intense speculation about his next move amid heated competition for elite talent between Silicon Valley…",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3371117/who-nathan-chen-chinese-teen-ai-prodigy-being-courted-silicon-valley?utm_source=rss_feed",
+      "date": "2026-10-16T06:30:13.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/a7102613-5eb9-4fca-b4ed-aeef606511c2_a711b484.jpg?itok=YUfNKNp5&v=1792131522"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Short-term impact of AI investments will be cushioned by margin: TCS CEO K Krithivasan",
+      "summary": "",
+      "link": "https://www.thehindubusinessline.com/info-tech/short-term-impact-of-ai-investments-will-be-cushioned-by-margin-tcs-ceo-k-krithivasan/article71573973.ece",
+      "date": "2026-10-16T06:27:55.000Z",
+      "category": "People & Leadership",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/pe4lk7/article71573972.ece/alternates/LANDSCAPE_1200/K%20Krithivasan_CEO_Image.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Anthropic's Jack Clark says common-sense standards are needed for AI",
+      "summary": "Anthropic tests its AI systems and shares that information, but it should not all be voluntary, Clark added during a panel discussion at the IMF-World Bank meetings in Bangkok.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-jack-clark-says-common-sense-standards-are-needed-for-ai/articleshow/134984760.cms",
+      "date": "2026-10-16T06:23:35.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-134984760,imgsize-3437798.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Low-cost jobs will be taken over by AI, most worried about outsourced ones: Workday CEO",
+      "summary": "Workday Chairman and Chief Executive Officer Aneel Bhusri told reporters at the Workday Rising Summit that AI will not lead to jobs moving out of the US or first-world countries, but may do the opposite.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/low-cost-jobs-will-be-taken-over-by-ai-most-worried-about-outsourced-ones-says-workday-chief/articleshow/134982288.cms",
+      "date": "2026-10-16T06:15:54.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-134982288,imgsize-47086.cms"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "JEV as a Hallucination Filter: Let the LLM Write, Let JEV Check",
+      "summary": "The majority of hallucination checks begin following the initial writing of an answer by the LLM. We then hold someone up to a second standard of judgment, or we hand over dangerous cases to a person. That works but that is looking at the…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/10/rag-hallucination-filter-using-jev/",
+      "date": "2026-10-16T05:58:08.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI is a growth driver, not cannibalising existing revenues: TCS",
+      "summary": "In an interview with businessline, CEO K Krithivasan and COO Aarthi Subramanian discuss the tapering of traditional IT services, the changing nature of enterprise AI demand, and how human-AI collaboration could reshape the way technology s…",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-is-a-growth-driver-not-cannibalising-existing-revenues-tcs/article71571858.ece",
+      "date": "2026-10-16T05:56:31.000Z",
+      "category": "People & Leadership",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/sel7mb/article71571856.ece/alternates/LANDSCAPE_1200/Aarthi%20Subramanian_COO.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Amazon in talks to buy AI startup Decart for around $7 billion",
+      "summary": "Decart's Lucy model, backed by ‌Nvidia, can edit live video ‌in ⁠real time",
+      "link": "https://www.thehindubusinessline.com/info-tech/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion/article71573638.ece",
+      "date": "2026-10-16T05:30:32.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/ehlx9k/article71573687.ece/alternates/LANDSCAPE_1200/2026-10-12T020705Z_847743760_RC2LSCAVAYRW_RTRMADP_3_DECART-M-A-AMAZON.JPG"
+    },
+    {
+      "source": "ET Tech",
+      "title": "How GoDaddy is changing the way Indian SMBs use AI",
+      "summary": "Online presence for enterprises have become vital, and thankfully with the advent of AI, easier as well. While creating a website, branding, logos, and finding the right potential customers was a matter of expertise in yesteryears, it can…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/how-godaddy-is-changing-the-way-indian-smbs-use-ai/articleshow/134983153.cms",
+      "date": "2026-10-16T05:21:20.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://img.etimg.com/photo/msid-134983153,imgsize-1570427.cms"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Traditional IT growth to taper as AI takes centre stage: TCS CEO",
+      "summary": "AI revenue crosses $3 billion as TCS bets on new services to sustain growth",
+      "link": "https://www.thehindubusinessline.com/info-tech/traditional-it-growth-to-taper-as-ai-takes-centre-stage-tcs-ceo/article71571793.ece",
+      "date": "2026-10-16T05:00:44.000Z",
+      "category": "People & Leadership",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/969zf2/article71571798.ece/alternates/LANDSCAPE_1200/2025-04-13T072609Z_27792815_RC2OF5A1HECW_RTRMADP_3_TCS-INTERVIEW.JPG",
+      "relatedSources": [
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/traditional-it-growth-to-taper-as-ai-takes-centre-stage-tcs-ceo/article71571999.ece"
+        }
+      ]
+    },
+    {
+      "source": "Japan Times",
+      "title": "CoreWeave’s slump spotlights growing burden of debt behind AI boom",
+      "summary": "The loss-making cloud company has about $50 billion in debt and has become a focus of concerns that the data-center boom is being fueled by credit.",
+      "link": "https://www.japantimes.co.jp/business/2026/10/16/companies/coreweave-ai-boom-debt/",
+      "date": "2026-10-16T04:52:00.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568864.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Meta releases open-weight Muse Spark model for coding, agentic tasks",
+      "summary": "816-billion-parameter model expands developer access as company continues push for open AI systems",
+      "link": "https://www.thehindubusinessline.com/info-tech/meta-releases-open-weight-muse-spark-model-for-coding-agentic-tasks/article71590972.ece",
+      "date": "2026-10-16T04:50:40.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-variety/dnv4im/article71470058.ece/alternates/LANDSCAPE_1200/Meta-agrees-to-GNGGHIFE9.6.jpg.jpg",
+      "relatedSources": [
+        {
+          "source": "SiliconANGLE",
+          "link": "https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/"
+        },
+        {
+          "source": "Hugging Face",
+          "link": "https://huggingface.co/blog/meta-muse-spark-open"
+        }
+      ]
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Amazon launches two new portable AI listening devices",
+      "summary": "The devices record information throughout the day to offer calendar reminders and other AI-driven insights under the Bee brand it acquired last year",
+      "link": "https://www.thehindubusinessline.com/info-tech/amazon-launches-two-new-portable-ai-listening-devices/article71591012.ece",
+      "date": "2026-10-16T04:40:43.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/ehlx9k/article71573687.ece/alternates/LANDSCAPE_1200/2026-10-12T020705Z_847743760_RC2LSCAVAYRW_RTRMADP_3_DECART-M-A-AMAZON.JPG",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/technology/amazon-launches-two-new-portable-ai-listening-devices/articleshow/134973760.cms"
+        },
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
+        }
+      ]
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "GCC exits tests office demand as AI shifts focus from headcount to productivity",
+      "summary": "However, commercial real estate players say these exits have yet to signal a broader slowdown in demand, with large GCCs continuing to drive office leasing even as companies become more cautious about hiring, utilisation and long-term comm…",
+      "link": "https://www.thehindubusinessline.com/info-tech/gcc-exits-tests-office-demand-as-ai-shifts-focus-from-headcount-to-productivity/article71571494.ece",
+      "date": "2026-10-16T04:13:29.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/mt5tg5/article71571743.ece/alternates/LANDSCAPE_1200/IMG_iStock-1187179171_2_1_VKGG3LKS.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "New York City pension fund asks Anthropic to delay IPO",
+      "summary": "The supervisor of New York City's pension funds, one of the largest in the United States, asked Anthropic to postpone its stock market debut until risks posed by its artificial intelligence technology are better controlled. A small fractio…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-york-city-pension-fund-asks-anthropic-to-delay-ipo/articleshow/134982189.cms",
+      "date": "2026-10-16T04:12:45.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-134982189,imgsize-26892.cms"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "summary": "Anthropic told potential IPO investors that Q3 revenue rose 45% to $16.8B from Q2 and that it was adjusted-profit profitable for the quarter",
+      "link": "https://www.thehindubusinessline.com/info-tech/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say/article71590936.ece",
+      "date": "2026-10-16T04:09:12.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/1hx628/article71591047.ece/alternates/LANDSCAPE_1200/2026-10-14T222837Z_814297647_RC2LU7ANS75E_RTRMADP_3_ANTHROPIC-IPO-INVESTORS.JPG",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown/articleshow/134980383.cms"
+        }
+      ]
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Hong Kong vies for role in robotics boom with launch of embodied AI hub",
+      "summary": "The Hong Kong Productivity Council (HKPC) opened the city’s first experimental hub for embodied artificial intelligence on Thursday with the participation of seven mainland and Hong Kong companies, including industry leaders Unitree Roboti…",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3371095/hong-kong-vies-role-robotics-boom-launch-embodied-ai-hub?utm_source=rss_feed",
+      "date": "2026-10-16T04:00:39.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/3d68b7fd-c7a4-4287-892b-825b17f0bc1b_70f93d56.jpg?itok=aGGvra_s&v=1792123227"
+    },
+    {
+      "source": "ET Tech",
+      "title": "'Mixed feelings': AI cracks centuries-old ciphers",
+      "summary": "Napoleon Bonaparte ordered the wartime missive written in code, creating a puzzle that went unsolved for more than 200 years -- until AI cracked it in a matter of hours. Tomokiyo said that since mid-September, most of the ciphers on his li…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mixed-feelings-ai-cracks-centuries-old-ciphers/articleshow/134981883.cms",
+      "date": "2026-10-16T03:57:10.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-134981883,imgsize-37554.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Google boosts news and link visibility in AI mode",
+      "summary": "Google announced Thursday it will start displaying links to websites and articles more prominently and higher up in search results powered by artificial intelligence (AI), as brands and news publishers warn of a sharp decline in their traf…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/google-boosts-news-and-link-visibility-in-ai-mode/articleshow/134980737.cms",
+      "date": "2026-10-16T02:53:04.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-134980737,imgsize-74670.cms"
+    },
+    {
+      "source": "ET CIO",
+      "title": "Kishore Hirani takes charge as Group CIO at Lloyds Metals and Energy",
+      "summary": "Hirani brings extensive expertise in enterprise technology strategy, AI, digital transformation and digital manufacturing to support Lloyds Metals and Energy's evolving business and technology ambitions",
+      "link": "https://cio.economictimes.indiatimes.com/news/corporate-news/kishore-hirani-takes-charge-as-group-cio-at-lloyds-metals-and-energy/134980500",
+      "date": "2026-10-16T02:31:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-1050603/134980500.cms"
+    },
+    {
+      "source": "ET CIO",
+      "title": "Stop buying GPUs and start solving your full-stack AI strategy: Anindo Sengupta, Nutanix",
+      "summary": "As AI moves into production, CIOs face a more complex infrastructure challenge: balancing compute power, utilisation, Kubernetes, hybrid cloud and the flexibility to accommodate workloads that are still evolving.",
+      "link": "https://cio.economictimes.indiatimes.com/news/cloud-computing/stop-buying-gpus-and-start-solving-your-full-stack-ai-strategy-anindo-sengupta-nutanix/134980416",
+      "date": "2026-10-16T02:30:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-4808163/134980416.cms"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "North.cloud bags $60M in funding to help businesses keep runaway cloud costs in check",
+      "summary": "A startup called North Cloud Holdings Inc. says it’s going to help companies prevent the costs of cloud computing and artificial intelligence infrastructure spiraling out of control after raising $60 million in funding today. The Series B…",
+      "link": "https://siliconangle.com/2026/10/15/north-cloud-bags-60m-in-funding-to-help-businesses-keep-runaway-cloud-costs-in-check/",
+      "date": "2026-10-16T01:52:47.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-16-08-44-40.png"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "date": "2026-10-16T01:44:47.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
     {
       "source": "SCMP Tech",
       "title": "AI agents on Tencent Cloud try to break into Alibaba’s Amap: researchers",
@@ -82,6 +359,16 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Karthik-Sj-chief-AI-officer-of-LogicMonitor-and-Garth-Fort-chief-product-officer-of-LogicMonitor-LogicMonitor-Elevate-2026-scaled.jpg"
     },
     {
+      "source": "SiliconANGLE",
+      "title": "Dell’s infrastructure strategy takes shape as enterprise AI moves into production",
+      "summary": "At the enterprise level, agentic AI has become less of a prospective tool for businesses, evolving into a valuable asset for many organizations. As more companies shift from the experimentation phase and begin to scale agentic AI use, thei…",
+      "link": "https://siliconangle.com/2026/10/15/agentic-ai-dell-infrastructure-strategy-delltechworld/",
+      "date": "2026-10-16T00:00:18.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/AI-Core-Connecting-Cloud-and-Edge-Dell-Technologies-World-2026-topical-feature.png"
+    },
+    {
       "source": "TechCrunch AI",
       "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
       "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
@@ -102,16 +389,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/6471ccb7-a577-4a87-8fe8-3bd214d2802f_997a8243.jpg?itok=AvYNnGV-&v=1792063515"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "CERT-In flags rogue AI agents accessing Indian organisations’ live systems",
-      "summary": "AI firms disclose the intrusions to India; the root weaknesses are conventional –credentials and keys exposed in source code",
-      "link": "https://www.thehindubusinessline.com/info-tech/cert-in-flags-rogue-ai-agents-accessing-indian-organisations-live-systems/article71589867.ece",
-      "date": "2026-10-15T22:55:31.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/oqvvmy/article71590076.ece/alternates/LANDSCAPE_1200/2026-10-15T141912Z_1761068471_RC24PNAAK5YN_RTRMADP_3_BRITAIN-REGULATION-AI.JPG"
-    },
-    {
       "source": "The Next Web",
       "title": "Anthropic makes Code Review generally available, with $50,000 in credits attached",
       "summary": "Anthropic has moved Code Review, its automated pull-request reviewer for Claude Code, out of research preview for Team and Enterprise customers, with up to $50,000 in free credits for eligible enterprises. Organisations running GitHub Ente…",
@@ -120,46 +397,6 @@
       "category": "Research",
       "region": "United States",
       "image": "https://media.thenextweb.com/2026/10/anthropic-wordmark-glass-render.avif"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "CoRover wins MeitY agentic AI contract",
-      "summary": "The contract was awarded by the National e-Governance Division (NeGD), under MeitY, following a quality-and-cost based selection process",
-      "link": "https://www.thehindubusinessline.com/info-tech/corover-wins-meity-agentic-ai-contract/article71560088.ece",
-      "date": "2026-10-15T22:42:45.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/66tw9r/article71560274.ece/alternates/LANDSCAPE_1200/Keystone-to-lauG2QGITOHA.4.jpg.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Meta releases 816B-parameter Muse Spark Open for coding and agent work",
-      "summary": "Meta Platforms Inc. today released open weights for its Muse Spark artificial intelligence model, which had been proprietary since its April debut. The release, called Muse Spark Open, is built for coding and long-running agent work. Meta…",
-      "link": "https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/",
-      "date": "2026-10-15T22:20:54.000Z",
-      "category": "Open Source",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/musesparkopen.png"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Jio developing indigenous satellite technology: Akash Ambani",
-      "summary": "Akash Ambani says Jio focusing on developing advanced communication technologies, including AI-enabled voice and data services, satellite connectivity and 6G",
-      "link": "https://www.thehindubusinessline.com/info-tech/jio-developing-indigenous-satellite-technology-akash-ambani/article71558773.ece",
-      "date": "2026-10-15T21:56:47.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/kbyfh6/article71559016.ece/alternates/LANDSCAPE_1200/20241015096L.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Samsung projects nearly nine-fold jump in Q3 operating profit on AI chip demand",
-      "summary": "Tight supplies of DRAM, NAND and high-bandwidth memory have lifted prices as artificial intelligence infrastructure expands globally",
-      "link": "https://www.thehindubusinessline.com/info-tech/samsung-projects-nearly-nine-fold-jump-in-q3-operating-profit-on-ai-chip-demand/article71558197.ece",
-      "date": "2026-10-15T21:27:58.000Z",
-      "category": "Business & Funding",
-      "region": "South Korea",
-      "image": "https://bl-i.thgim.com/public/incoming/n6j7u4/article71558202.ece/alternates/LANDSCAPE_1200/2026-09-28T010436Z_796039706_RC2LEGASQ2O2_RTRMADP_3_SAMSUNG-S1-ACTIVIST.JPG"
     },
     {
       "source": "SiliconANGLE",
@@ -192,26 +429,6 @@
       "image": "https://media.wired.com/photos/6ad00a8917414371d605a797/master/pass/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Soket AI unveils LOOP Harness to advance India’s frontier AI capabilities",
-      "summary": "The LOOP is an open-source harness designed to enable AI agents to work continuously for weeks, not minutes",
-      "link": "https://www.thehindubusinessline.com/info-tech/soket-ai-unveils-loop-harness-to-advance-indias-frontier-ai-capabilities/article71555330.ece",
-      "date": "2026-10-15T20:55:20.000Z",
-      "category": "Open Source",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/64rjwi/article71556601.ece/alternates/LANDSCAPE_1200/IMG_iStock-2207141986_2_1_00GJ4R81.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Websites continue to face monetisation crisis as AI agents replace human traffic, says new report",
-      "summary": "A recent analysis from network services provider Cloudflare suggests that heavily crawled web categories like retail, computer software, IT & Services, and financial services have seen human traffic decline",
-      "link": "https://www.thehindubusinessline.com/info-tech/websites-continue-to-face-monetisation-crisis-as-ai-agents-replace-human-traffic-says-new-report/article71555820.ece",
-      "date": "2026-10-15T20:47:30.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/64rjwi/article71556601.ece/alternates/LANDSCAPE_1200/IMG_iStock-2207141986_2_1_00GJ4R81.jpg"
-    },
-    {
       "source": "Hugging Face",
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "summary": "",
@@ -220,26 +437,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Fragmented workflow challenges in IT legacy firms be more pronounced amidst M&A trend in sector : Kulmeet Bawa, MD and GVP India and SAARC, ServiceNow",
-      "summary": "Kulmeet Bawa, MD and GVP India and SAARC, ServiceNow, argues that today’s enterprise are heavily siloed, leaving datasets and workflows less than ready for an AI integration",
-      "link": "https://www.thehindubusinessline.com/info-tech/fragmented-workflow-challenges-in-it-legacy-firms-be-more-pronounced-amidst-ma-trend-in-sector-kulmeet-bawa-md-and-gvp-india-and-saarc-servicenow/article71555806.ece",
-      "date": "2026-10-15T20:27:08.000Z",
-      "category": "Product",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/unoiyd/article71555805.ece/alternates/LANDSCAPE_1200/Mr.%20Kulmeet%20Bawa%20MD%20%20GVP%20ServiceNow%20India%20and%20SAARC.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Anthropic expands startup programme for AI-native firms",
-      "summary": "Early-stage firms can get up to $7,000 in Claude products and up to $45,000 in partner-tool benefits",
-      "link": "https://www.thehindubusinessline.com/info-tech/anthropic-expands-startup-programme-for-ai-native-firms/article71555206.ece",
-      "date": "2026-10-15T20:26:36.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/trcphr/article71531708.ece/alternates/LANDSCAPE_1200/2026-09-29T161001Z_895864739_RC2UNLAOUM2N_RTRMADP_3_ANTHROPIC-IPO-LIABILITY.JPG"
     },
     {
       "source": "SiliconANGLE",
@@ -262,16 +459,6 @@
       "image": null
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "TCS Q2 preview: Brokerages see healthy margins expansion despite modest revenue growth",
-      "summary": "AI momentum and robust deal wins may help offset slow deal ramp-ups and macro headwinds",
-      "link": "https://www.thehindubusinessline.com/info-tech/tcs-q2-preview-brokerages-see-healthy-margins-expansion-despite-modest-revenue-growth/article71552874.ece",
-      "date": "2026-10-15T19:56:29.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/a0q2ly/article71554200.ece/alternates/LANDSCAPE_1200/2026-08-10T112124Z_1226463099_RC2NF5AEOD2W_RTRMADP_3_TCS-DATA-BREACH.JPG"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
       "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
@@ -280,16 +467,6 @@
       "category": "News",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "SpaceX in talks to borrow $40 billion to buy Nvidia chips",
-      "summary": "Tech companies and AI model developers are investing and borrowing hundreds of billions of dollars to build and lease giant data centers full of chips to power AI systems",
-      "link": "https://www.thehindubusinessline.com/info-tech/spacex-in-talks-to-borrow-40-billion-to-buy-nvidia-chips/article71554179.ece",
-      "date": "2026-10-15T19:53:55.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/mew9rc/article71554214.ece/alternates/LANDSCAPE_1200/2025-03-10T223835Z_1349393027_RC2MADAOLQLU_RTRMADP_3_SPACE-EXPLORATION-SPACEX.JPG"
     },
     {
       "source": "LiveMint Tech",
@@ -363,22 +540,6 @@
     },
     {
       "source": "ET Tech",
-      "title": "Amazon launches two new portable AI listening devices",
-      "summary": "Frontier is a bracelet and Eclipse is a brick that resembles a portable magnetic charger. Users attach the devices to their smartphones. They aggregate information from calendars, apps like email and other points throughout the day that ar…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/amazon-launches-two-new-portable-ai-listening-devices/articleshow/134973760.cms",
-      "date": "2026-10-15T17:44:09.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-134973760,imgsize-1148685.cms",
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
-        }
-      ]
-    },
-    {
-      "source": "ET Tech",
       "title": "CNN signs multi-year AI partnership with Google",
       "summary": "The deal marks the first partnership announced since Skydance's merger with Paramount, under CEO David Ellison, who has sought to position the media group as a technology-driven business.",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cnn-signs-multi-year-ai-partnership-with-google/articleshow/134973561.cms",
@@ -386,16 +547,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-134973561,imgsize-4923688.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "CoreWeave's slump puts spotlight on debt behind AI boom",
-      "summary": "The loss-making AI cloud company, burdened with about $50 billion in debt, has become the poster child for mounting concerns that the data center boom is being fueled by credit, straining newer players and pressuring cash flows even at gia…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/coreweaves-slump-puts-spotlight-on-debt-behind-ai-boom/articleshow/134973449.cms",
-      "date": "2026-10-15T17:31:53.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134973449,imgsize-52588.cms"
     },
     {
       "source": "SiliconANGLE",
@@ -476,26 +627,6 @@
       "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2277824748-1024x648.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Cerebras positions inference speed as a competitive edge in agentic AI",
-      "summary": "Agentic workflows are making speed a condition for whole classes of AI applications to exist, and the fastest tokens will determine which platforms win the next phase of AI. Cerebras Systems Inc., which raised $5.5 billion in its May 2026…",
-      "link": "https://siliconangle.com/2026/10/15/agentic-workflows-make-speed-requirement-says-cerebras-aidatapipelineforum/",
-      "date": "2026-10-15T15:35:03.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_0527-1-scaled-e1792077989122.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Amazon debuts two new AI wearable devices that can listen to conversations and help you shop",
-      "summary": "Amazon.com Inc. today debuted two new wearable, artificial intelligence-enabled devices aimed at making everyday life simpler by listening to conversations and helping users remember what matters. Bee is a personal AI device, coming in the…",
-      "link": "https://siliconangle.com/2026/10/15/amazon-debuts-two-new-ai-wearable-devices-that-can-listen-to-conversations-and-help-you-shop/",
-      "date": "2026-10-15T15:30:36.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/bee-frontier-eclipse-hero-amazonnews-ck101426.jpg"
     },
     {
       "source": "The Next Web",
@@ -608,36 +739,6 @@
       "image": null
     },
     {
-      "source": "SCMP Tech",
-      "title": "DeepSeek offers user refunds after suffering another major outage",
-      "summary": "Chinese artificial intelligence firm DeepSeek apologised and promised compensation to users after its services suffered a nearly five-hour outage on Thursday. DeepSeek will issue users a full refund for any consumption between October 8 an…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3371047/deepseek-offers-user-refunds-after-suffering-another-major-outage?utm_source=rss_feed",
-      "date": "2026-10-15T12:55:26.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/41ca34cd-6240-4999-bd17-81c5c00061d2_99115680.jpg?itok=Y211Yh8i&v=1792068924"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Explained: Why are credit default swaps unnerving AI investors?",
-      "summary": "Although shares in companies driving the AI boom are still among the biggest gainers on global equity markets this year, many have fallen sharply in the past few weeks, as investors reassess the cost of capital against a backdrop of rising…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/explained-why-are-credit-default-swaps-unnerving-ai-investors/articleshow/134968004.cms",
-      "date": "2026-10-15T12:26:42.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134968004,imgsize-81300.cms"
-    },
-    {
-      "source": "Japan Times",
-      "title": "U.S. chip project significant for Japan-U.S. AI edge: Akazawa",
-      "summary": "Under the project, two new plants are set to be built in the state of New York with funding of up to $21 billion.",
-      "link": "https://www.japantimes.co.jp/business/2026/10/15/tech/akazawa-japan-us-ai-edge/",
-      "date": "2026-10-15T10:23:00.000Z",
-      "category": "Business & Funding",
-      "region": "Japan",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/15/thumbs/400x400/568807.jpg"
-    },
-    {
       "source": "MediaNama",
       "title": "AI ‘kiss and hug’ app rated for ages 3+ still on Play Store as NCPCR summons Google",
       "summary": "The NCPCR has summoned Google regarding AI kiss and hug apps on the Play Store that create intimate videos without user consent. The commission intends to release child safety guidelines by December. The post AI ‘kiss and hug’ app rated fo…",
@@ -658,16 +759,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ai-in-science-enablers-1920x1080-1.jpg"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Z.ai’s GLM-5.3 raises researcher fears the Chinese model can fake AI safety tests",
-      "summary": "Chinese artificial intelligence lab Z.ai’s latest flagship model, GLM-5.3, may be sophisticated enough to “fake” its way through safety tests, according to a new report published Thursday, sparking new fears about the ability of artificial…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3370963/zais-glm-53-raises-researcher-fears-chinese-model-can-fake-ai-safety-tests?utm_source=rss_feed",
-      "date": "2026-10-15T10:00:11.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/71bcdef1-d8f6-44b3-9676-12b4591ed079_c5912af8.jpg?itok=4ZYHrGmh&v=1792041938"
-    },
-    {
       "source": "Rest of World",
       "title": "What the West can learn from AI optimists in the rest of the world",
       "summary": "The developing world’s enthusiastic adoption of AI and necessity-driven innovations offer lessons for an anxiety-ridden West.",
@@ -676,36 +767,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://fastly.restofworld.org/uploads/2026/10/illo_tech_optimism_final.jpg?width=160&dpr=2&crop=1:1"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "China, US discuss AI as chip stock rout hits Asian markets",
-      "summary": "China and the United States are in regular talks about artificial intelligence (AI) as they seek to firm up plans for an incident “hotline” and develop a formalised dialogue process ahead of a presidential summit next month. The two sides…",
-      "link": "https://www.scmp.com/plus/tech/tech-war/article/3371013/china-us-discuss-ai-chip-stock-rout-hits-asian-markets?utm_source=rss_feed",
-      "date": "2026-10-15T09:27:12.000Z",
-      "category": "Hardware & Infra",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/ab3632f4-b1cb-4f79-85b6-fa4dd1dff285_b189a856.jpg?itok=cOFIl0LW&v=1792056431"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "AI use fuels frustration as Hong Kong customer service complaints top 2025 total",
-      "summary": "The Hong Kong public’s dissatisfaction with customer service is growing, with complaints in the first nine months of the year already exceeding the total for 2025 and many involving companies’ overreliance on artificial intelligence (AI).…",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3371006/hong-kong-customer-service-complaints-top-2025-total-ai-use-fuels-frustration?utm_source=rss_feed",
-      "date": "2026-10-15T09:19:36.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/8a838d8a-9da7-47bd-abea-24dd34211e66_bcac818b.jpg?itok=PUo-xW98&v=1792054935"
-    },
-    {
-      "source": "Japan Times",
-      "title": "Nikkei 225 falls 5% on rate and AI concerns",
-      "summary": "The tech-stock rout started in the United States after a higher-than-expected inflation reading.",
-      "link": "https://www.japantimes.co.jp/business/2026/10/15/nagata-nikkei-decline/",
-      "date": "2026-10-15T08:37:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/15/thumbs/400x400/568728.jpg"
     },
     {
       "source": "Analytics Vidhya",
@@ -718,46 +779,6 @@
       "image": null
     },
     {
-      "source": "MediaNama",
-      "title": "8 US states sue OpenAI over ChatGPT safety claims, seek halt to advanced AI testing",
-      "summary": "Iowa Attorney General Brenna Bird has sued OpenAI, alleging that ChatGPT's marketing misleads consumers about safety and reliability and that the company failed to disclose AI agent incidents. The post 8 US states sue OpenAI over ChatGPT s…",
-      "link": "https://www.medianama.com/2026/10/223-8-us-states-sue-openai-chatgpt-safety-claims/",
-      "date": "2026-10-15T06:53:07.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "ET Tech",
-      "title": "OpenAI flags AI adoption gap in Europe despite 8-fold surge in agent use among small businesses",
-      "summary": "OpenAI has highlighted a widening opportunity for European businesses to turn growing artificial intelligence (AI) adoption into higher productivity, as AI agents now account for more than half of the output generated through its enterpris…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-flags-ai-adoption-gap-in-europe-despite-8-fold-surge-in-agent-use-among-small-businesses/articleshow/134959429.cms",
-      "date": "2026-10-15T06:25:03.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://img.etimg.com/photo/msid-134959429,imgsize-35382.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "TSMC Q3 profit jumps 69% to record, beating expectations",
-      "summary": "TSMC, the world's largest contract chipmaker, posted a 69% jump in third-quarter net profit on Thursday, beating market forecasts and hitting a record, thanks to soaring global demand for its AI processors.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/tsmc-q3-profit-jumps-69-to-record-beating-expectations/articleshow/134958500.cms",
-      "date": "2026-10-15T05:40:18.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134958500,imgsize-1281005.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "AI credit default swap spreads widen sharply",
-      "summary": "Five-year credit default swap spreads at cloud computing giant Oracle widened by 26 basis points overnight to a record 288 bps, according S&P Global Market Intelligence.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-credit-default-swap-spreads-widen-sharply/articleshow/134958105.cms",
-      "date": "2026-10-15T05:17:16.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134958105,imgsize-2341910.cms"
-    },
-    {
       "source": "NVIDIA",
       "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
       "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries ra…",
@@ -768,40 +789,14 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nordics-embrace-social-1920x1080-5822300.jpeg"
     },
     {
-      "source": "ET Tech",
+      "source": "LiveMint Tech",
       "title": "Global financial watchdog calls for more human oversight of agentic AI",
-      "summary": "The Financial Stability Board (FSB), a global standard setter, has called for greater human oversight of agentic AI in final guidance for banks and other firms on managing the technology's risks.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-financial-watchdog-calls-for-more-human-oversight-of-agentic-ai/articleshow/134957794.cms",
-      "date": "2026-10-15T04:58:09.000Z",
+      "summary": "GLOBAL-REGULATION/AI",
+      "link": "https://www.livemint.com/technology/global-financial-watchdog-calls-for-more-human-oversight-of-agentic-ai-11792036879056.html",
+      "date": "2026-10-15T04:01:18.000Z",
       "category": "Policy & Safety",
       "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134957794,imgsize-2341910.cms",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/global-financial-watchdog-calls-for-more-human-oversight-of-agentic-ai-11792036879056.html"
-        }
-      ]
-    },
-    {
-      "source": "Japan Times",
-      "title": "When AI acts without orders, national security is at risk",
-      "summary": "These AI systems are doing what they were designed to do: pursuing goals and finding ways around obstacles.",
-      "link": "https://www.japantimes.co.jp/commentary/2026/10/15/world/ai-acting-without-orders/",
-      "date": "2026-10-15T04:44:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/15/thumbs/400x400/568513.jpg"
-    },
-    {
-      "source": "ET Tech",
-      "title": "ASML will be unable to meet AI-driven customer demand in 2027, 2028",
-      "summary": "The biggest maker of equipment needed to manufacture computer chips forecast sales for the fourth quarter of 2026 of €14.2 billion to €15.2 billion ($15.9 billion to $17.0 billion), above analyst expectations, with a gross margin of around…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/asml-will-be-unable-to-meet-ai-driven-customer-demand-in-2027-2028/articleshow/134957362.cms",
-      "date": "2026-10-15T04:31:37.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-134957362,imgsize-149616.cms"
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
       "source": "ET CIO",
@@ -820,16 +815,6 @@
       "link": "https://openai.com/index/sullivan-cromwell",
       "date": "2026-10-15T00:00:00.000Z",
       "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "summary": "",
-      "link": "https://huggingface.co/blog/meta-muse-spark-open",
-      "date": "2026-10-15T00:00:00.000Z",
-      "category": "Open Source",
       "region": "United States",
       "image": null
     },
@@ -1276,16 +1261,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/maxresdefault_1791999199404_ouaF_1791999204645_ordV_1b19ad51-2f0b-4c98-a540-fae0ae81bb7f_rCMM.jpg"
     },
     {
-      "source": "LiveMint Tech",
-      "title": "Nvidias China AI-chip share falls as Huawei closes gap, report finds",
-      "summary": "AI-CHINA/CHIPS-NVIDIA (PIX):Nvidia's China AI-chip share fal",
-      "link": "https://www.livemint.com/technology/nvidias-china-ai-chip-share-falls-as-huawei-closes-gap-report-finds-11791858728043.html",
-      "date": "2026-10-13T02:32:07.000Z",
-      "category": "Hardware & Infra",
-      "region": "China",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
-    },
-    {
       "source": "ET CIO",
       "title": "The AI race will be decided by who can safely unlock their data",
       "summary": "As Indian enterprises increasingly embrace AI tools, the corresponding governance frameworks remain underdeveloped. It's imperative for companies to provide AI systems with access to essential data while safeguarding governance and securit…",
@@ -1304,16 +1279,6 @@
       "category": "News",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "NYT, Economist among publishers joining coalition to curb unpaid AI use",
-      "summary": "NEWS PUBLISHERS-AI/:NYT, Economist among publishers joining coalition to curb unpaid AI use",
-      "link": "https://www.livemint.com/technology/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use-11791846088141.html",
-      "date": "2026-10-12T23:01:27.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
       "source": "NVIDIA",
@@ -1446,16 +1411,6 @@
       "image": null
     },
     {
-      "source": "Hugging Face",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "date": "2026-10-07T12:45:31.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Google AI",
       "title": "Introducing Playground: Create and play custom games",
       "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
@@ -1516,16 +1471,6 @@
       "image": "https://fastly.restofworld.org/uploads/2026/10/illo_china_tech_sketch_final.jpg?width=160&dpr=2&crop=1:1"
     },
     {
-      "source": "ET CIO",
-      "title": "AI-driven BPM is shaping the next wave of jobs and new growth hubs",
-      "summary": "The rise of AI is transforming Business Process Management by automating repetitive tasks and enhancing customer interactions. This evolution is prompting companies to seek out new roles that prioritize analytical and technical proficienci…",
-      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/ai-driven-bpm-is-shaping-the-next-wave-of-jobs-and-new-growth-hubs/134720967",
-      "date": "2026-10-06T02:30:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://etimg.etb2bimg.com/thumb/img-size-759584/134720967.cms"
-    },
-    {
       "source": "MIT Tech Review",
       "title": "Connecting AI agents to enterprise knowledge",
       "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of indi…",
@@ -1541,16 +1486,6 @@
       "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without…",
       "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
       "date": "2026-10-05T13:29:32.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "Analytics Vidhya",
-      "title": "Building an Enterprise AI Customer Support Platform with Claude Fable 5.1 and Claude Code",
-      "summary": "Most AI coding demos stop at task managers, weather apps, or simple chatbots. For this project, we take on something more demanding: building an enterprise customer-support platform that can investigate complaints, retrieve relevant polici…",
-      "link": "https://www.analyticsvidhya.com/blog/2026/10/build-enterprise-ai-agent-claude-fable-5-1/",
-      "date": "2026-10-05T12:45:02.000Z",
       "category": "News",
       "region": "Global",
       "image": null
@@ -1584,16 +1519,6 @@
       "category": "Research",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "ET CIO",
-      "title": "AI’s Cost Equation: Why Birlasoft is measuring outcome, not token",
-      "summary": "As AI workflows move into production, Birlasoft CTO Ganesan Karuppanaickersays enterprises need to rethink model selection, unit economics, cloud consumption and workforce adoption before scaling.",
-      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/ais-cost-equation-why-birlasoft-is-measuring-outcome-not-token/134683705",
-      "date": "2026-10-05T02:30:00.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://etimg.etb2bimg.com/thumb/img-size-11711236/134683705.cms"
     },
     {
       "source": "Hugging Face",
