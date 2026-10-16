@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T22:22:28.438Z",
-  "count": 191,
+  "updated": "2026-10-16T01:24:00.066Z",
+  "count": 189,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,86 @@
   ],
   "items": [
     {
+      "source": "SCMP Tech",
+      "title": "AI agents on Tencent Cloud try to break into Alibaba’s Amap: researchers",
+      "summary": "A fleet of artificial intelligence agents operating on a Tencent Holdings cloud platform made thousands of attempts to circumvent security protections on Alibaba Group Holding’s mapping service, according to findings by third-party researc…",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3371007/ai-agents-tencent-cloud-try-break-alibabas-amap-researchers?utm_source=rss_feed",
+      "date": "2026-10-16T01:00:06.000Z",
+      "category": "Research",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/ca572bf5-210c-419f-b3e4-a0e30d708761_cdcf728e.jpg?itok=9ye3d9xC&v=1792054955"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Perplexity AI open-sources its secure AI agent sandbox SPACE",
+      "summary": "The artificial intelligence search engine startup Perplexity AI Inc. is shifting its focus to AI agent security in the wake of several high-profile incidents that saw autonomous systems escape from secure environments and go on to wreak ha…",
+      "link": "https://siliconangle.com/2026/10/15/perplexity-ai-open-sources-its-secure-ai-agent-sandbox-space/",
+      "date": "2026-10-16T00:44:07.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Designer-4.jpeg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "8 insights from LogicMonitor’s Elevate event: AI-driven observability moves toward autonomous IT",
+      "summary": "Enterprise IT is moving beyond traditional monitoring as AI-driven observability helps organizations manage complex infrastructure and respond to incidents faster. At this week’s LogicMonitor Elevate event in Chicago, the focus was on brin…",
+      "link": "https://siliconangle.com/2026/10/15/ai-driven-observability-logicmonitor-elevate-2026-logicmonitorelevate/",
+      "date": "2026-10-16T00:41:22.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Karthik-Sj-chief-AI-officer-of-LogicMonitor-and-Garth-Fort-chief-product-officer-of-LogicMonitor-LogicMonitor-Elevate-2026-scaled.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "date": "2026-10-15T23:44:56.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Hong Kong investors most eager in Asia to beat markets – but temper return hopes: report",
+      "summary": "Hong Kong investors are Asia’s most ambitious stock pickers, but they have much more subdued return expectations than regional peers swept up in enthusiasm over artificial intelligence, according to a survey by a global asset management fi…",
+      "link": "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report?utm_source=rss_feed",
+      "date": "2026-10-15T23:00:13.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/6471ccb7-a577-4a87-8fe8-3bd214d2802f_997a8243.jpg?itok=AvYNnGV-&v=1792063515"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "CERT-In flags rogue AI agents accessing Indian organisations’ live systems",
+      "summary": "AI firms disclose the intrusions to India; the root weaknesses are conventional –credentials and keys exposed in source code",
+      "link": "https://www.thehindubusinessline.com/info-tech/cert-in-flags-rogue-ai-agents-accessing-indian-organisations-live-systems/article71589867.ece",
+      "date": "2026-10-15T22:55:31.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/oqvvmy/article71590076.ece/alternates/LANDSCAPE_1200/2026-10-15T141912Z_1761068471_RC24PNAAK5YN_RTRMADP_3_BRITAIN-REGULATION-AI.JPG"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Anthropic makes Code Review generally available, with $50,000 in credits attached",
+      "summary": "Anthropic has moved Code Review, its automated pull-request reviewer for Claude Code, out of research preview for Team and Enterprise customers, with up to $50,000 in free credits for eligible enterprises. Organisations running GitHub Ente…",
+      "link": "https://thenextweb.com/news/anthropic-code-review-ga-eu-residency",
+      "date": "2026-10-15T22:45:17.000Z",
+      "category": "Research",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/anthropic-wordmark-glass-render.avif"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "CoRover wins MeitY agentic AI contract",
+      "summary": "The contract was awarded by the National e-Governance Division (NeGD), under MeitY, following a quality-and-cost based selection process",
+      "link": "https://www.thehindubusinessline.com/info-tech/corover-wins-meity-agentic-ai-contract/article71560088.ece",
+      "date": "2026-10-15T22:42:45.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/66tw9r/article71560274.ece/alternates/LANDSCAPE_1200/Keystone-to-lauG2QGITOHA.4.jpg.jpg"
+    },
+    {
       "source": "SiliconANGLE",
       "title": "Meta releases 816B-parameter Muse Spark Open for coding and agent work",
       "summary": "Meta Platforms Inc. today released open weights for its Muse Spark artificial intelligence model, which had been proprietary since its April debut. The release, called Muse Spark Open, is built for coding and long-running agent work. Meta…",
@@ -60,6 +140,26 @@
       "category": "Open Source",
       "region": "United States",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/musesparkopen.png"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Jio developing indigenous satellite technology: Akash Ambani",
+      "summary": "Akash Ambani says Jio focusing on developing advanced communication technologies, including AI-enabled voice and data services, satellite connectivity and 6G",
+      "link": "https://www.thehindubusinessline.com/info-tech/jio-developing-indigenous-satellite-technology-akash-ambani/article71558773.ece",
+      "date": "2026-10-15T21:56:47.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/kbyfh6/article71559016.ece/alternates/LANDSCAPE_1200/20241015096L.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Samsung projects nearly nine-fold jump in Q3 operating profit on AI chip demand",
+      "summary": "Tight supplies of DRAM, NAND and high-bandwidth memory have lifted prices as artificial intelligence infrastructure expands globally",
+      "link": "https://www.thehindubusinessline.com/info-tech/samsung-projects-nearly-nine-fold-jump-in-q3-operating-profit-on-ai-chip-demand/article71558197.ece",
+      "date": "2026-10-15T21:27:58.000Z",
+      "category": "Business & Funding",
+      "region": "South Korea",
+      "image": "https://bl-i.thgim.com/public/incoming/n6j7u4/article71558202.ece/alternates/LANDSCAPE_1200/2026-09-28T010436Z_796039706_RC2LEGASQ2O2_RTRMADP_3_SAMSUNG-S1-ACTIVIST.JPG"
     },
     {
       "source": "SiliconANGLE",
@@ -92,6 +192,26 @@
       "image": "https://media.wired.com/photos/6ad00a8917414371d605a797/master/pass/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg"
     },
     {
+      "source": "Hindu BusinessLine",
+      "title": "Soket AI unveils LOOP Harness to advance India’s frontier AI capabilities",
+      "summary": "The LOOP is an open-source harness designed to enable AI agents to work continuously for weeks, not minutes",
+      "link": "https://www.thehindubusinessline.com/info-tech/soket-ai-unveils-loop-harness-to-advance-indias-frontier-ai-capabilities/article71555330.ece",
+      "date": "2026-10-15T20:55:20.000Z",
+      "category": "Open Source",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/64rjwi/article71556601.ece/alternates/LANDSCAPE_1200/IMG_iStock-2207141986_2_1_00GJ4R81.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Websites continue to face monetisation crisis as AI agents replace human traffic, says new report",
+      "summary": "A recent analysis from network services provider Cloudflare suggests that heavily crawled web categories like retail, computer software, IT & Services, and financial services have seen human traffic decline",
+      "link": "https://www.thehindubusinessline.com/info-tech/websites-continue-to-face-monetisation-crisis-as-ai-agents-replace-human-traffic-says-new-report/article71555820.ece",
+      "date": "2026-10-15T20:47:30.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/64rjwi/article71556601.ece/alternates/LANDSCAPE_1200/IMG_iStock-2207141986_2_1_00GJ4R81.jpg"
+    },
+    {
       "source": "Hugging Face",
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "summary": "",
@@ -100,6 +220,26 @@
       "category": "News",
       "region": "Global",
       "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Fragmented workflow challenges in IT legacy firms be more pronounced amidst M&A trend in sector : Kulmeet Bawa, MD and GVP India and SAARC, ServiceNow",
+      "summary": "Kulmeet Bawa, MD and GVP India and SAARC, ServiceNow, argues that today’s enterprise are heavily siloed, leaving datasets and workflows less than ready for an AI integration",
+      "link": "https://www.thehindubusinessline.com/info-tech/fragmented-workflow-challenges-in-it-legacy-firms-be-more-pronounced-amidst-ma-trend-in-sector-kulmeet-bawa-md-and-gvp-india-and-saarc-servicenow/article71555806.ece",
+      "date": "2026-10-15T20:27:08.000Z",
+      "category": "Product",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/unoiyd/article71555805.ece/alternates/LANDSCAPE_1200/Mr.%20Kulmeet%20Bawa%20MD%20%20GVP%20ServiceNow%20India%20and%20SAARC.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Anthropic expands startup programme for AI-native firms",
+      "summary": "Early-stage firms can get up to $7,000 in Claude products and up to $45,000 in partner-tool benefits",
+      "link": "https://www.thehindubusinessline.com/info-tech/anthropic-expands-startup-programme-for-ai-native-firms/article71555206.ece",
+      "date": "2026-10-15T20:26:36.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/trcphr/article71531708.ece/alternates/LANDSCAPE_1200/2026-09-29T161001Z_895864739_RC2UNLAOUM2N_RTRMADP_3_ANTHROPIC-IPO-LIABILITY.JPG"
     },
     {
       "source": "SiliconANGLE",
@@ -122,6 +262,16 @@
       "image": null
     },
     {
+      "source": "Hindu BusinessLine",
+      "title": "TCS Q2 preview: Brokerages see healthy margins expansion despite modest revenue growth",
+      "summary": "AI momentum and robust deal wins may help offset slow deal ramp-ups and macro headwinds",
+      "link": "https://www.thehindubusinessline.com/info-tech/tcs-q2-preview-brokerages-see-healthy-margins-expansion-despite-modest-revenue-growth/article71552874.ece",
+      "date": "2026-10-15T19:56:29.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/a0q2ly/article71554200.ece/alternates/LANDSCAPE_1200/2026-08-10T112124Z_1226463099_RC2NF5AEOD2W_RTRMADP_3_TCS-DATA-BREACH.JPG"
+    },
+    {
       "source": "TechCrunch AI",
       "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
       "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
@@ -133,23 +283,13 @@
     },
     {
       "source": "Hindu BusinessLine",
-      "title": "ElevenLabs, Karnataka join hands to advance voice AI adoption",
-      "summary": "The Bengaluru summit also outlined language expansion, voice restoration and tools for seniors and mental-health training",
-      "link": "https://www.thehindubusinessline.com/info-tech/elevenlabs-karnataka-join-hands-to-advance-voice-ai-adoption/article71551925.ece",
-      "date": "2026-10-15T19:23:22.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/tse7oq/article71545819.ece/alternates/LANDSCAPE_1200/BL03_AI_generate.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "ElevenLabs sees India voice AI demand surge, plans 10X FDE team expansion",
-      "summary": "The company now works with more than 250 businesses and enterprises across India",
-      "link": "https://www.thehindubusinessline.com/info-tech/elevenlabs-sees-india-voice-ai-demand-surge-plans-10x-fde-team-expansion/article71552312.ece",
-      "date": "2026-10-15T19:21:06.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/f3rfm1/article71552786.ece/alternates/LANDSCAPE_1200/2026-10-06T134426Z_777532240_RC2JXNAN5GVS_RTRMADP_3_ELEVENLABS-INDIA.JPG"
+      "title": "SpaceX in talks to borrow $40 billion to buy Nvidia chips",
+      "summary": "Tech companies and AI model developers are investing and borrowing hundreds of billions of dollars to build and lease giant data centers full of chips to power AI systems",
+      "link": "https://www.thehindubusinessline.com/info-tech/spacex-in-talks-to-borrow-40-billion-to-buy-nvidia-chips/article71554179.ece",
+      "date": "2026-10-15T19:53:55.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/mew9rc/article71554214.ece/alternates/LANDSCAPE_1200/2025-03-10T223835Z_1349393027_RC2MADAOLQLU_RTRMADP_3_SPACE-EXPLORATION-SPACEX.JPG"
     },
     {
       "source": "LiveMint Tech",
@@ -192,36 +332,6 @@
       "image": null
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Nvidia nears $6 trillion market value on growth outlook and record buyback",
-      "summary": "Shares are up 28% this year, just shy of $5.8 trillion, as the chipmaker authorises an additional $150 billion repurchase",
-      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-nears-6-trillion-market-value-on-growth-outlook-and-record-buyback/article71550752.ece",
-      "date": "2026-10-15T18:55:04.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/9kmzer/article71546868.ece/alternates/LANDSCAPE_1200/Nvidia-enters-cG3VFROQDS.3.jpg.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "GoSense.ai launches app security platform for banks and fintechs",
-      "summary": "The platform can be deployed across mobile banking, UPI & payment applications, digital lending, wallets, cards, insurance and wealth platforms",
-      "link": "https://www.thehindubusinessline.com/info-tech/gosenseai-launches-app-security-platform-for-banks-and-fintechs/article71551200.ece",
-      "date": "2026-10-15T18:46:29.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/5e73s6/article71551260.ece/alternates/LANDSCAPE_1200/IMG_BL24_Think_Banking_o_2_1_LQF2I1J5.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Kissflow tops Gartner Peer Insights based on customer reviews",
-      "summary": "The Chennai-based SaaS company topped the AI-Augmented Low-Code Platforms category after a 12-month customer review",
-      "link": "https://www.thehindubusinessline.com/info-tech/kissflow-tops-gartner-peer-insights-based-on-customer-reviews/article71550369.ece",
-      "date": "2026-10-15T18:40:22.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/usw65w/article71550942.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-06%20at%2015.32.33.jpeg"
-    },
-    {
       "source": "ET Tech",
       "title": "Nvidia, Apple each gave $25 million for Trump's ballroom: Washington Post",
       "summary": "The Adelson family, longtime financial supporters of Trump and his Republican Party, committed $25 million as well, as did billionaire Charles Ergen, co-founder and chairman of telecommunications company Dish Network, the report added.",
@@ -232,16 +342,6 @@
       "image": "https://img.etimg.com/photo/msid-134974635,imgsize-89880.cms"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Nvidia-backed Reflection unveils Open AI model, taking on China",
-      "summary": "The model, called Beam, is designed to perform well for business customers and developers on coding and AI agent tasks while costing less than many competitors",
-      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china/article71549944.ece",
-      "date": "2026-10-15T18:09:27.000Z",
-      "category": "Product",
-      "region": "China",
-      "image": "https://bl-i.thgim.com/public/incoming/xjlgnt/article71549963.ece/alternates/LANDSCAPE_1200/2026-10-02T041305Z_800892446_RC2LEGA3Q4SE_RTRMADP_3_AMAZON-NVIDIA-CHIPS.JPG"
-    },
-    {
       "source": "The Next Web",
       "title": "Meta opens a weaker AI model while keeping the frontier closed",
       "summary": "Meta has published the weights for Muse Spark Open, a coding and agent model it says is less advanced than the Muse Wonder frontier model it launched on Monday. Chief AI officer Alexandr Wang said Meta will generally not open-source its mo…",
@@ -250,16 +350,6 @@
       "category": "Open Source",
       "region": "United States",
       "image": "https://media.thenextweb.com/2026/10/meta-logo-3d-glass-app-icon.avif"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Moonshot said to eye early 2027 IPO after value hits $50 billion",
-      "summary": "The Chinese AI champion has also begun laying the groundwork to start gauging investor sentiment through early-look meetings starting as early as this month",
-      "link": "https://www.thehindubusinessline.com/markets/moonshot-said-to-eye-early-2027-ipo-after-value-hits-50-billion/article71549829.ece",
-      "date": "2026-10-15T18:02:21.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://bl-i.thgim.com/public/incoming/7ugder/article71549849.ece/alternates/LANDSCAPE_1200/2026-09-29T120011Z_1337818618_RC27ENA4X5W4_RTRMADP_3_AI-SAFETY-CHINA.JPG"
     },
     {
       "source": "TechCrunch AI",
@@ -338,26 +428,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/press-nvidia-rtx-spark-launch-events-1920x1080-1.png"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "TDB-DST signs agreement with BigEndian Semiconductors for ₹130 crore RDI support",
-      "summary": "The project is positioned around the development of a secure AI chip for surveillance applications, particularly CCTV systems, to reduce dependence on externally developed semiconductor and technology supply chains.",
-      "link": "https://www.thehindubusinessline.com/info-tech/tdb-dst-signs-agreement-with-bigendian-semiconductors-for-130-crore-rdi-support/article71547591.ece",
-      "date": "2026-10-15T17:00:14.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/vavq68/article71547689.ece/alternates/LANDSCAPE_1200/india%20semiconductor%20chips.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Cognizant launches new business unit for AI transformation of emerging enterprises",
-      "summary": "Cognizant Activate to launch with an initial focus on financial services, healthcare, manufacturing and retail/CPG sectors, where Cognizant has deep domain expertise",
-      "link": "https://www.thehindubusinessline.com/info-tech/cognizant-launches-new-business-unit-for-ai-transformation-of-emerging-enterprises/article71547273.ece",
-      "date": "2026-10-15T16:53:48.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/1s48u/article71547424.ece/alternates/LANDSCAPE_1200/Cognizant.jpg"
-    },
-    {
       "source": "The Next Web",
       "title": "Nvidia’s Huang says CoreWeave needs no backstop, as its credit swaps hit a record",
       "summary": "Jensen Huang told Bloomberg in Stockholm that CoreWeave’s cost of capital is decreasing and that Nvidia does not need to backstop the company. On the same day CoreWeave’s five-year credit default swaps hit a record 1,194.5 basis points, pr…",
@@ -366,16 +436,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://media.thenextweb.com/2026/07/jensen-huang-leather-jacket-960000-sothebys.avif"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "ChatGPT usage doubles in India over past year; OpenAI expands Hindi voice capabilities",
-      "summary": "OpenAI is rolling out GPT-Live-1.1, an upgrade to its voice technology, with improved pronunciation, better handling of multilingual and mixed-language speech,",
-      "link": "https://www.thehindubusinessline.com/info-tech/chatgpt-usage-doubles-in-india-over-past-year-openai-expands-hindi-voice-capabilities/article71589092.ece",
-      "date": "2026-10-15T16:32:10.000Z",
-      "category": "Product",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/a5i5f3/article71589093.ece/alternates/LANDSCAPE_1200/Vijaye%20Raji.jpg"
     },
     {
       "source": "DeepMind",
@@ -528,26 +588,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/GFN_Thursday_October_15_2026.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "ServiceNow adds AI agent controls and employee automation tools",
-      "summary": "ServiceNow Inc. today announced new controls for governing artificial intelligence agents alongside updates to its EmployeeWorks information portal (pictured) that let employees build specialized assistants and automate routine tasks witho…",
-      "link": "https://siliconangle.com/2026/10/15/servicenow-adds-ai-agent-controls-and-employee-automation-tools/",
-      "date": "2026-10-15T13:00:48.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Media-Asset_EmployeeWorks.gif"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Descope’s Agentic Identity Hub 3.0 takes aim at shadow AI agents inside companies",
-      "summary": "Customer and agentic identity platform company Descope Inc. today unveiled Agentic Identity Hub 3.0, the latest version of its platform for securing artificial intelligence agents. This time the focus is on the agents employees build or ad…",
-      "link": "https://siliconangle.com/2026/10/15/descopes-agentic-identity-hub-3-0-takes-aim-at-shadow-ai-agents-inside-companies/",
-      "date": "2026-10-15T13:00:23.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/descopeagenticidentityhub.png"
-    },
-    {
       "source": "The Next Web",
       "title": "XDC Network integrates Concordium identity verification for AI agents",
       "summary": "The integration allows AI agents on XDC AI to verify the individuals or businesses behind them, addressing questions of accountability as autonomous agents gain financial capabilities. XDC Network has selected Concordium as the exclusive i…",
@@ -658,26 +698,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/8a838d8a-9da7-47bd-abea-24dd34211e66_bcac818b.jpg?itok=PUo-xW98&v=1792054935"
     },
     {
-      "source": "Hugging Face",
-      "title": "Apertus 1.5 Release Notes",
-      "summary": "",
-      "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "date": "2026-10-15T09:08:45.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "HSBC to double Hong Kong AI team to 300, outpacing Singapore plan",
-      "summary": "HSBC, Hong Kong’s biggest lender, said on Thursday it would double its artificial intelligence specialist team in the city to 300, a figure much larger than the workforce planned for its recently announced AI centre in Singapore. The annou…",
-      "link": "https://www.scmp.com/business/banking-finance/article/3370997/hsbc-double-hong-kong-ai-team-300-outpacing-singapore-plan?utm_source=rss_feed",
-      "date": "2026-10-15T08:37:19.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/597f44ec-0984-4e5b-bdd9-b05906d3b4e0_cfed21a6.jpg?itok=jt78Zq3k&v=1792061141"
-    },
-    {
       "source": "Japan Times",
       "title": "Nikkei 225 falls 5% on rate and AI concerns",
       "summary": "The tech-stock rout started in the United States after a higher-than-expected inflation reading.",
@@ -686,16 +706,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/15/thumbs/400x400/568728.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "1,000 Hongkongers to ride Baidu’s autonomous vehicles in city-first public trial",
-      "summary": "More than 1,000 residents are expected to ride in autonomous vehicles (AVs) after Chinese technology giant Baidu launches Hong Kong’s first large-scale public trial next week. Baidu’s autonomous driving platform, Apollo, will run the trial…",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370979/over-1000-hongkongers-ride-baidus-robotaxis-city-first-public-trial?utm_source=rss_feed",
-      "date": "2026-10-15T07:14:33.000Z",
-      "category": "Product",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/d78509aa-a758-499c-9d6b-8ed039a540a0_3512a720.jpg?itok=brgLkP49&v=1792048470"
     },
     {
       "source": "Analytics Vidhya",
@@ -794,16 +804,6 @@
       "image": "https://img.etimg.com/photo/msid-134957362,imgsize-149616.cms"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "summary": "Figma is also releasing its code layers feature in open beta.",
-      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "date": "2026-10-15T04:30:00.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "ET CIO",
       "title": "Cloud, AI and digital twins: Transforming defence infrastructure",
       "summary": "Defence organizations are embracing a new era of connectivity and data-driven strategies with the adoption of cloud computing and artificial intelligence. This innovative approach allows for seamless data integration from multiple sources…",
@@ -814,30 +814,14 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-43062/134955731.cms"
     },
     {
-      "source": "Japan Times",
-      "title": "Banking watchdogs scrutinize AI use amid stability fears, sources say",
-      "summary": "Banks are competing to adopt the technology, which can accomplish tasks with minimal human supervision, while also grappling with the challenges.",
-      "link": "https://www.japantimes.co.jp/business/2026/10/15/tech/ai-banks-stability-fears/",
-      "date": "2026-10-15T02:17:00.000Z",
+      "source": "OpenAI",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "link": "https://openai.com/index/sullivan-cromwell",
+      "date": "2026-10-15T00:00:00.000Z",
       "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/15/thumbs/400x400/568590.jpg",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/banking-watchdogs-ramp-up-ai-scrutiny-as-stability-fears-mount-sources-say-11791867664209.html"
-        }
-      ]
-    },
-    {
-      "source": "Japan Times",
-      "title": "Turkish-Japanese science university opens in Ankara",
-      "summary": "At Turkish-Japanese Science and Technology University, about 100 Turkish students will study artificial intelligence, earthquakes and other fields.",
-      "link": "https://www.japantimes.co.jp/news/2026/10/15/japan/turkish-japanese-science-university-launch/",
-      "date": "2026-10-15T02:16:00.000Z",
-      "category": "News",
-      "region": "Japan",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/15/thumbs/400x400/568626.jpg"
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Hugging Face",
@@ -1283,6 +1267,16 @@
     },
     {
       "source": "LiveMint Tech",
+      "title": "Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say",
+      "summary": "AI-REGULATION/BANKS (EXCLUSIVE, PIX):EXCLUSIVE-Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say",
+      "link": "https://www.livemint.com/technology/banking-watchdogs-ramp-up-ai-scrutiny-as-stability-fears-mount-sources-say-11791867664209.html",
+      "date": "2026-10-13T05:01:03.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/maxresdefault_1791999199404_ouaF_1791999204645_ordV_1b19ad51-2f0b-4c98-a540-fae0ae81bb7f_rCMM.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
       "title": "Nvidias China AI-chip share falls as Huawei closes gap, report finds",
       "summary": "AI-CHINA/CHIPS-NVIDIA (PIX):Nvidia's China AI-chip share fal",
       "link": "https://www.livemint.com/technology/nvidias-china-ai-chip-share-falls-as-huawei-closes-gap-report-finds-11791858728043.html",
@@ -1379,16 +1373,6 @@
       "date": "2026-10-09T09:00:00.000Z",
       "category": "News",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "link": "https://openai.com/index/sophos",
-      "date": "2026-10-09T07:00:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
       "image": null
     },
     {
@@ -1640,6 +1624,16 @@
       "category": "News",
       "region": "China",
       "image": "https://fastly.restofworld.org/uploads/2026/09/AI-safety-Nesta.jpg?width=160&dpr=2&crop=1:1"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "date": "2026-10-02T04:01:31.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "DeepMind",
@@ -1960,26 +1954,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
