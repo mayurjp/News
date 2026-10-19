@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T23:16:19.510Z",
-  "count": 177,
+  "updated": "2026-10-19T01:22:41.002Z",
+  "count": 179,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,22 @@
   ],
   "items": [
     {
+      "source": "Japan Times",
+      "title": "Anthropic to commit 5% stake to new ‘public benefit fund’",
+      "summary": "Anthropic said the fund could support initiatives that include efforts to address artificial intelligence's impact on the labor market.",
+      "link": "https://www.japantimes.co.jp/business/2026/10/19/anthropic-public-benefit-fund-ai/",
+      "date": "2026-10-19T01:14:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/19/thumbs/400x400/569199.jpg",
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+        }
+      ]
+    },
+    {
       "source": "SiliconANGLE",
       "title": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster",
       "summary": "Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. has released an updated version of its V4.1-Flash model that it says completes tasks faster. DeepSeek-V4.1-Flash-1017 arri…",
@@ -59,16 +75,6 @@
       "category": "Research",
       "region": "China",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/deepseek-scaled.png"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "date": "2026-10-18T20:37:40.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "TechCrunch AI",
@@ -1839,6 +1845,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     },
     {
       "source": "BAIR",
