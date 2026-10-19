@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T01:22:41.002Z",
+  "updated": "2026-10-19T07:50:15.826Z",
   "count": 179,
   "sources": [
     "OpenAI",
@@ -44,6 +44,7 @@
     "India",
     "China",
     "Europe",
+    "Japan",
     "South Korea",
     "Middle East",
     "United States",
@@ -51,20 +52,110 @@
   ],
   "items": [
     {
-      "source": "Japan Times",
-      "title": "Anthropic to commit 5% stake to new ‘public benefit fund’",
-      "summary": "Anthropic said the fund could support initiatives that include efforts to address artificial intelligence's impact on the labor market.",
-      "link": "https://www.japantimes.co.jp/business/2026/10/19/anthropic-public-benefit-fund-ai/",
-      "date": "2026-10-19T01:14:00.000Z",
-      "category": "News",
+      "source": "The Next Web",
+      "title": "Anthropic commits 5% of its shares to a new public benefit fund",
+      "summary": "Anthropic plans to place 5% of its shares in a new entity called the Anthropic Public Benefit Fund. The AI company announced the plan on Sunday, but it still needs approval from Anthropic’s stockholders. The fund’s stake is designed to gro…",
+      "link": "https://thenextweb.com/news/anthropic-public-benefit-fund-5-percent-shares",
+      "date": "2026-10-19T07:39:22.000Z",
+      "category": "Product",
       "region": "United States",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/19/thumbs/400x400/569199.jpg",
+      "image": "https://media.thenextweb.com/2026/08/anthropic-names-first-chief-global-affairs-officer.avif",
       "relatedSources": [
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/anthropic-commits-5-of-its-stock-to-new-public-benefit-fund/article71602058.ece"
+        },
         {
           "source": "TechCrunch AI",
           "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
         }
       ]
+    },
+    {
+      "source": "Japan Times",
+      "title": "Fukushima University to undergo overhaul with greater science focus",
+      "summary": "The university is responding to calls from industries for workers capable of supporting growth sectors such as artificial intelligence.",
+      "link": "https://www.japantimes.co.jp/news/2026/10/19/japan/fukushima-university-reorganization/",
+      "date": "2026-10-19T07:34:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/565765.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "AI agents are only as good as the personal information you share. That raises privacy concerns",
+      "summary": "AI agents are only as good as the personal information you share. That raises privacy concerns",
+      "link": "https://www.livemint.com/technology/ai-agents-are-only-as-good-as-the-personal-information-you-share-that-raises-privacy-concerns-11792394563819.html",
+      "date": "2026-10-19T07:22:43.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
+    },
+    {
+      "source": "Analytics Vidhya",
+      "title": "A Practical Guide to Harness Engineering: Building the System Around the Model",
+      "summary": "An AI coding agent can write a function in seconds. But a working feature takes more than generated code. The agent needs to understand the project, find the right files, use tools safely, and check whether its changes work. A model on its…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/10/agent-harness-engineering-guide/",
+      "date": "2026-10-19T06:18:20.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "MediaNama",
+      "title": "MeitY asks Meta to stop its algorithms from pushing a “limited set of narratives” amid CJP protests",
+      "summary": "MeitY has asked Meta to curb the disproportionate amplification of misleading content and provide context for unclear images and videos of ongoing public events. The advisory does not name a specific incident. The post MeitY asks Meta to s…",
+      "link": "https://www.medianama.com/2026/10/223-meity-asks-meta-diversify-narratives-cjp-protests/",
+      "date": "2026-10-19T06:15:21.000Z",
+      "category": "News",
+      "region": "India",
+      "image": null
+    },
+    {
+      "source": "MediaNama",
+      "title": "Meta removes terms that raised concerns over website scraping and AI training",
+      "summary": "Meta removed provisions from its commercial terms that appeared to allow website scraping for AI training after criticism from publishers and legal experts about copyright and data access. The post Meta removes terms that raised concerns o…",
+      "link": "https://www.medianama.com/2026/10/223-meta-website-scraping-ai-training/",
+      "date": "2026-10-19T06:04:54.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": null,
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+        }
+      ]
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Centre asks Meta to ensure its algorithm does expose users to a limited set of narratives",
+      "summary": "IT Ministry sources said the ministry had reports from agencies that Meta platforms were not promoting all narratives equally, with their algorithms appearing to favour one kind of content over others",
+      "link": "https://www.thehindubusinessline.com/info-tech/centre-asks-meta-to-ensure-its-algorithm-does-expose-users-to-a-limited-set-of-narratives/article71602043.ece",
+      "date": "2026-10-19T05:02:43.000Z",
+      "category": "Research",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/rry8a4/article71557183.ece/alternates/LANDSCAPE_1200/2026-09-28T231031Z_1896952457_RC29CCA4OCWF_RTRMADP_3_FIRMUS-META-PLATFORMS-AI.JPG"
+    },
+    {
+      "source": "ET CIO",
+      "title": "Sovereign AI is driving a new era for cloud infrastructure",
+      "summary": "The global cloud landscape is evolving due to growing interest in sovereign AI infrastructure. Organisations are reassessing AI deployment and governance in light of regulatory compliance. Rising geopolitical risks and sophisticated AI wor…",
+      "link": "https://cio.economictimes.indiatimes.com/news/digital-sovereignty/sovereign-ai-is-driving-a-new-era-for-cloud-infrastructure/135037840",
+      "date": "2026-10-19T02:30:00.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-103/135037840.cms"
+    },
+    {
+      "source": "Japan Times",
+      "title": "Japan to boost police investigations with advanced technology",
+      "summary": "\"We can't keep up with attacks using the latest AI if police equipment lags behind,\" said the National Public Safety Commission chairperson.",
+      "link": "https://www.japantimes.co.jp/news/2026/10/19/japan/crime-legal/police-ai-interview/",
+      "date": "2026-10-19T01:57:00.000Z",
+      "category": "News",
+      "region": "Japan",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/19/thumbs/400x400/569208.jpg"
     },
     {
       "source": "SiliconANGLE",
@@ -105,6 +196,16 @@
       "category": "People & Leadership",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/6otm55/article71600445.ece/alternates/LANDSCAPE_1200/IMG_Illustration_shows_H_2_1_Q2CS5FU7.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Subcontractor spends continue to rise as Indian IT battles visa challenges, AI demand",
+      "summary": "This marks the sixth straight quarter of significant growth in such spending, following multi-year lows in FY25",
+      "link": "https://www.thehindubusinessline.com/info-tech/subcontractor-spends-continue-to-rise-as-indian-it-battles-visa-challenges-ai-demand/article71599976.ece",
+      "date": "2026-10-18T14:01:15.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/tckjo5/article71600230.ece/alternates/LANDSCAPE_1200/Nearby1_GFEGELD84.1GFEGEM0B9.3.jpg"
     },
     {
       "source": "SCMP Tech",
@@ -183,16 +284,6 @@
       "image": "https://media.wired.com/photos/6ad250c5e76c5dde4c61ba83/master/pass/101626-Power%20Play.jpg"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
-      "summary": "When shoppers step into Rokid’s brand new flagship store in Hong Kong, they are greeted not by eager sales associates, but by glowing monitor screens and a robotic system waiting at the exit. In what the Chinese augmented reality (AR) gadg…",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening?utm_source=rss_feed",
-      "date": "2026-10-18T09:36:17.000Z",
-      "category": "Product",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/18/6f9c112d-fe91-442e-8c65-08ee24e12187_557a1888.jpg?itok=7qArQ_xx&v=1792316168"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Reverse Engineer Anything (REA): Can AI Really Crack Closed Code?",
       "summary": "Every developer hits this wall eventually. A feature behaves in a way you can’t explain, and the code behind it is locked away. No source. No docs. Just a compiled binary or a wall of minified JavaScript. Figuring it out the traditional wa…",
@@ -223,16 +314,6 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
-      "source": "SCMP Tech",
-      "title": "China moves to cement ties with Uzbekistan amid tussle with US for Central Asian influence",
-      "summary": "Chinese Premier Li Qiang has called for deeper cooperation with Uzbekistan in areas such as minerals and artificial intelligence (AI) as Beijing vies with Washington for influence in Central Asia. Li told President Shavkat Mirziyoyev on Sa…",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3371285/china-moves-cement-ties-uzbekistan-amid-tussle-us-central-asian-influence?utm_source=rss_feed",
-      "date": "2026-10-18T05:12:38.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/18/bf80c7e7-068a-433d-a462-632e9da66892_02aead0a.jpg?itok=t1i5Vp59&v=1792299980"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "AI reshapes labour demand across Asia, posing challenges for job creation and skills development: Report",
       "summary": "According to IMF’s October 2026 Regional Economic Outlook: Asia and Pacific, AI is already influencing labour demand across the region",
@@ -241,26 +322,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-variety/f7zczf/article71594281.ece/alternates/LANDSCAPE_1200/Know-your-AI-agG1IGM4TPG.4.jpg.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Harvard and Cambridge to attend Hong Kong forum on role of humanities in AI age",
-      "summary": "The organiser of a forum that will bring together Hong Kong and overseas universities later this month has said it hopes to spark debate on the role of humanities programmes in an era increasingly dominated by artificial intelligence (AI).…",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3371253/harvard-and-cambridge-attend-hong-kong-forum-role-humanities-ai-age?utm_source=rss_feed",
-      "date": "2026-10-18T04:00:16.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/c25bf3d3-2a80-400f-adaf-749c1be23c96_d3af4000.jpg?itok=AarUTcUW&v=1792230577"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "date": "2026-10-17T21:31:32.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "NVIDIA",
@@ -423,16 +484,6 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
-      "source": "MediaNama",
-      "title": "NASSCOM asks government to review public procurement processes for AI to counter Big Tech pricing",
-      "summary": "NASSCOM have asked the Indian Govt. to revise its public procurement rules to prefer Indian AI models over the global Big Tech players. They warn that the current practice of going with the lowest bidder in tenders could be detrimental to…",
-      "link": "https://www.medianama.com/2026/10/223-nasscom-public-procurement-ai-big-tech/",
-      "date": "2026-10-17T03:44:50.000Z",
-      "category": "News",
-      "region": "India",
-      "image": null
-    },
-    {
       "source": "SiliconANGLE",
       "title": "Microsoft reveals cutting-edge MAI-Base-2 model with 2T parameters",
       "summary": "Microsoft Corp. has developed a new large language model that it says is significantly more efficient than leading open-source alternatives. The company’s artificial intelligence research group detailed the algorithm on Thursday. MAI-Base-…",
@@ -451,42 +502,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/txbvcr/article71595208.ece/alternates/LANDSCAPE_1200/2026-10-15T134123Z_1375214207_RC2JHMADKZND_RTRMADP_3_COREWEAVE-STOCKS.JPG"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Microsoft president warns Trump’s H-1B crackdown could push top AI talent abroad",
-      "summary": "Brad Smith defended Microsoft’s immigration practices, citing lengthy green card backlogs, consistent employee compensation and the company’s recruitment of American workers",
-      "link": "https://www.thehindubusinessline.com/info-tech/microsoft-president-warns-trumps-h-1b-crackdown-could-push-top-ai-talent-abroad/article71594011.ece",
-      "date": "2026-10-16T23:39:55.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/3r88wu/article71594016.ece/alternates/LANDSCAPE_1200/2026-10-15T120839Z_314865183_RC288EA2UXQ2_RTRMADP_3_USA-PERM.JPG",
-      "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-president-warns-trumps-h-1b-green-card-crackdown-could-drive-tech-talent-out-of-us/articleshow/135000308.cms"
-        }
-      ]
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Know your AI agents first, experts tell organisations",
-      "summary": "CERT-In flags Agent intrusions; says old vulnerabilities exploited",
-      "link": "https://www.thehindubusinessline.com/info-tech/know-your-ai-agents-first-experts-tell-organisations/article71593021.ece",
-      "date": "2026-10-16T23:33:51.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/pjf91r/article71593229.ece/alternates/LANDSCAPE_1200/IMG_iStock-2207141986_2_1_00GJ4R81.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Services exports decline marginally in September amid AI-led muted growth of IT and software services",
-      "summary": "Slowing demand in the Western world, advancements in AI and the impact of geopolitical shifts on travel and logistics services weigh on the sector",
-      "link": "https://www.thehindubusinessline.com/economy/services-exports-decline-marginally-in-september-amid-ai-led-muted-growth-of-it-and-software-services/article71592977.ece",
-      "date": "2026-10-16T23:21:39.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/xippu/article71593332.ece/alternates/LANDSCAPE_1200/iStock-1489431302.jpg"
     },
     {
       "source": "SiliconANGLE",
@@ -603,6 +618,16 @@
           "link": "https://siliconangle.com/2026/10/16/vinci-brings-physics-ai-into-chip-design-loop-semiconwest/"
         }
       ]
+    },
+    {
+      "source": "ET Tech",
+      "title": "Microsoft president warns Trump's H-1B, green card crackdown could drive tech talent out of US",
+      "summary": "Speaking with POLITICO on the sidelines of the International AI Summit in Dublin, Ireland, Smith raised concerns over the administration's move to restrict permanent residency applications for skilled foreign employees at Microsoft and sev…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-president-warns-trumps-h-1b-green-card-crackdown-could-drive-tech-talent-out-of-us/articleshow/135000308.cms",
+      "date": "2026-10-16T17:20:25.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-135000308,imgsize-114166.cms"
     },
     {
       "source": "ET Tech",
@@ -773,16 +798,6 @@
       "category": "People & Leadership",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-134982288,imgsize-47086.cms"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "CERT-In issues critical alert after autonomous AI agents access live systems of Indian orgs",
-      "summary": "CERT-In issues 'critical' alert after autonomous AI agents access live systems of Indian orgs",
-      "link": "https://www.livemint.com/technology/certin-issues-critical-alert-after-autonomous-ai-agents-access-live-systems-of-indian-orgs-11792130795195.html",
-      "date": "2026-10-16T06:06:34.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
       "source": "Analytics Vidhya",
@@ -1425,16 +1440,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://image.theregister.com/?imageId=237408&width=800"
-    },
-    {
-      "source": "ET CIO",
-      "title": "A new role for CDOs: Turning AI experimentation into enterprise value",
-      "summary": "Organizations are currently facing the repercussions of AI debt, arising from duplicated tools and ineffective proofs-of-concept. Chief Digital Officers are struggling to prove the actual business benefits of their AI investments. By imple…",
-      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/a-new-role-for-cdos-turning-ai-experimentation-into-enterprise-value/134754141",
-      "date": "2026-10-07T02:30:11.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://etimg.etb2bimg.com/thumb/img-size-50288/134754141.cms"
     },
     {
       "source": "DeepMind",
