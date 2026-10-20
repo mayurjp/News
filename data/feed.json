@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T20:38:19.554Z",
-  "count": 186,
+  "updated": "2026-10-20T23:55:06.912Z",
+  "count": 190,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,182 @@
   ],
   "items": [
     {
+      "source": "SiliconANGLE",
+      "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
+      "summary": "OpenAI Group PBC revealed today that it has acquired drug development software startup Orchestra Bio Inc. Orchestra builds artificial intelligence agents that help pharmaceutical teams keep development programs on track,. Its staff and tec…",
+      "link": "https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/",
+      "date": "2026-10-20T23:40:20.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/openaiorchestrabio.png",
+      "relatedSources": [
+        {
+          "source": "OpenAI",
+          "link": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+        }
+      ]
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "New UN initiative will aim to tackle the military uses of AI",
+      "summary": "New UN initiative will aim to tackle the military uses of AI",
+      "link": "https://www.livemint.com/technology/new-un-initiative-will-aim-to-tackle-the-military-uses-of-ai-11792539313937.html",
+      "date": "2026-10-20T23:35:13.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "DeepSeek open-sources DeepInfer, the inference framework behind its production services",
+      "summary": "Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. today open-sourced DeepInfer, the inference framework behind its own production services. The release takes on the cost of…",
+      "link": "https://siliconangle.com/2026/10/20/deepseek-open-sources-deepinfer-the-inference-framework-behind-its-production-services/",
+      "date": "2026-10-20T23:11:43.000Z",
+      "category": "Research",
+      "region": "China",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/deepseek-scaled.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "date": "2026-10-20T23:01:23.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Commercial lenders shouldering heavier AI burden than central banks: ICBC president",
+      "summary": "As artificial intelligence reshapes the finance industry, commercial bankers are facing a “more miserable” transition than their central banking counterparts, the head of the world’s largest lender by assets said. Industrial and Commercial…",
+      "link": "https://www.scmp.com/business/banking-finance/article/3371521/commercial-lenders-shouldering-heavier-ai-burden-central-banks-icbc-president",
+      "date": "2026-10-20T23:00:08.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/20/0cf6db74-fd9a-4fa5-9c13-f56560097e06_b955f84a.jpg?itok=orebSEEF&v=1792491770"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Inception says Mercury 3 beats GPT-6 Luna and Claude Haiku 5.5 at up to 8x the speed",
+      "summary": "Diffusion language model startup Inception AI Inc. today released Mercury 3, its new flagship model. In the company’s own benchmarks, Mercury 3 beat OpenAI Group PBC’s GPT-6 Luna and Anthropic PBC’s Claude Haiku 5.5 on eight of 12 tests at…",
+      "link": "https://siliconangle.com/2026/10/20/inception-says-mercury-3-beats-gpt-6-luna-and-claude-haiku-5-5-at-up-to-8x-the-speed/",
+      "date": "2026-10-20T22:45:02.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/inceptionaimercury3.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Supermicro expects up to $19.5bn in quarterly revenue, $4bn above guidance",
+      "summary": "Supermicro expects to report revenue of $18.5bn to $19.5bn for the three months to September, against the $14.5bn to $15.5bn it had guided. The AI server maker put the gap down to “increased demand for AI platforms”. The company published…",
+      "link": "https://thenextweb.com/news/supermicro-revenue-q1-fy2027-preliminary-19-5bn-ai-demand",
+      "date": "2026-10-20T22:38:24.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/supermicro-blade-server-chassis-front-logo.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Korean AI data centre firm Elice sinks 32% in a record-worst IPO debut",
+      "summary": "Shares in Elice, a South Korean AI data centre company, fell 32% on their first day of trading in Seoul on Tuesday. It was the worst debut on record for a Korean IPO of $100m or more, according to data compiled by Bloomberg, as Yoolim Lee…",
+      "link": "https://thenextweb.com/news/elice-ipo-32-percent-debut-korea-ai-data-centre-neocloud",
+      "date": "2026-10-20T22:24:15.000Z",
+      "category": "Business & Funding",
+      "region": "South Korea",
+      "image": "https://media.thenextweb.com/2026/10/elice-logo-cloud-city-key-visual-purple.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Otter.ai raises $320M in funding for its AI meeting assistant",
+      "summary": "Otter.ai Inc., the developer of a popular artificial intelligence meeting assistant, today announced that it has raised $320 million in funding. The capital came entirely from General Catalyst’s Customer Value Fund. The investment vehicle…",
+      "link": "https://siliconangle.com/2026/10/20/otter-ai-raises-320m-in-funding-for-its-ai-meeting-assistant/",
+      "date": "2026-10-20T22:24:09.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Photo.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "date": "2026-10-20T22:24:02.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Ex-DeepMind researcher Thore Graepel launches London AI lab Metis Reasoning",
+      "summary": "Thore Graepel, who helped build Google DeepMind’s AlphaGo, has launched Metis Reasoning in London. The company’s founding claim is that large language models cannot be trusted to reason. Its founders want to apply the lessons of AlphaGo to…",
+      "link": "https://thenextweb.com/news/metis-reasoning-thore-graepel-alphago-london-ai-lab",
+      "date": "2026-10-20T22:08:30.000Z",
+      "category": "Product",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/10/metis-reasoning-logo-go-board-cover.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Dell’s AI playbook for CFOs: Budget the tokens, then chase speed",
+      "summary": "Enterprise AI is crossing from experimentation into production, and financial services firms are among the first to prove it can pay off at scale. As token consumption climbs, finance chiefs are now treating AI less as a science project an…",
+      "link": "https://siliconangle.com/2026/10/20/financial-services-ai-scale-dell-cfo-budgeting-tokens-dellnewyorksymposium/",
+      "date": "2026-10-20T21:40:50.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/cube-image-2-1-scaled.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "date": "2026-10-20T21:25:22.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Meta details Prometheus, the Ohio supercluster heading for 1 million GPUs",
+      "summary": "Meta’s Prometheus supercluster in New Albany, Ohio, already runs hundreds of thousands of Nvidia GPUs across several buildings, and Meta plans to grow it to about 1 million. The company set out the details in an engineering blog post on Mo…",
+      "link": "https://thenextweb.com/news/meta-prometheus-supercluster-1-million-gpus-muse",
+      "date": "2026-10-20T21:08:11.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/meta-prometheus-data-centre-gpu-racks-aisle-new-albany.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "What to expect during monday.com’s Elevate event: Join theCUBE Oct. 29",
+      "summary": "Enterprise work management is entering a new phase as artificial intelligence agents move beyond assisting employees to executing business processes. Platforms once designed to organize projects and track assignments are becoming environme…",
+      "link": "https://siliconangle.com/2026/10/20/enterprise-work-management-mondayelevate/",
+      "date": "2026-10-20T20:58:56.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/monday.com-Elevate26.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Ex-OpenAI research chief Bob McGrew’s Arda raises $232M for US factories",
+      "summary": "Arda Industries, founded by OpenAI’s former research chief Bob McGrew, has come out of stealth with $232 million in funding, the company announced on Tuesday. Its AI software turns new product designs into working assembly lines. The total…",
+      "link": "https://thenextweb.com/news/arda-bob-mcgrew-232m-1-5bn-ai-manufacturing",
+      "date": "2026-10-20T20:55:10.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/arda-industries-logo-factory-robots-cover.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "SpaceX’s AI business is beating expectations",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "date": "2026-10-20T20:40:41.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "TechCrunch AI",
       "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
       "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
@@ -58,13 +234,7 @@
       "date": "2026-10-20T20:35:10.000Z",
       "category": "Business & Funding",
       "region": "United States",
-      "image": null,
-      "relatedSources": [
-        {
-          "source": "OpenAI",
-          "link": "https://openai.com/index/openai-to-acquire-orchestra-bio"
-        }
-      ]
+      "image": null
     },
     {
       "source": "The Next Web",
@@ -115,16 +285,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-2026-10-19-104719.png"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Sierra and Stripe let AI agents take card payments during calls",
-      "summary": "Sierra, the AI customer service startup led by Bret Taylor, has partnered with Stripe so its agents can take card payments during phone calls. Customers type their card number on the keypad and the data goes straight to Stripe. Healthcare…",
-      "link": "https://thenextweb.com/news/sierra-stripe-payments-ai-agent-calls",
-      "date": "2026-10-20T18:54:32.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/08/georgia-power-demolishing-homes-ai-data-centres-zuckerberg-agents.avif"
     },
     {
       "source": "SiliconANGLE",
@@ -207,22 +367,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "Otter.ai raises $320M from General Catalyst for enterprise growth",
-      "summary": "Otter.ai has raised $320 million in growth financing from General Catalyst’s Customer Value Fund. The AI meeting notetaker announced the deal on Tuesday. It will use the money for enterprise growth, its go-to-market strategy, international…",
-      "link": "https://thenextweb.com/news/otter-ai-320m-general-catalyst",
-      "date": "2026-10-20T17:25:45.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/otter-ai-cofounders-sam-liang-yun-fu.avif",
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
-        }
-      ]
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
       "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
@@ -243,22 +387,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/document-20.jpeg"
     },
     {
-      "source": "The Next Web",
-      "title": "Homebase’s new AI assistant fills shifts for small business owners",
-      "summary": "Homebase, which makes scheduling and payroll software for hourly teams, has launched Homebase Assistant. The AI tool finds and contacts staff to cover missed shifts, builds schedules, screens job candidates and flags timecard errors before…",
-      "link": "https://thenextweb.com/news/homebase-ai-assistant-fills-shifts",
-      "date": "2026-10-20T16:39:03.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/ai-letters-blue-blurred-grey-background.avif",
-      "relatedSources": [
-        {
-          "source": "SiliconANGLE",
-          "link": "https://siliconangle.com/2026/10/20/homebase-launches-ai-assistant-to-take-on-scheduling-and-payroll-for-small-business-owners/"
-        }
-      ]
-    },
-    {
       "source": "SiliconANGLE",
       "title": "AI is everywhere in Zoom product blitz",
       "summary": "Zoom Communications Inc. is expanding beyond videoconferencing with a shared intelligence layer designed to help artificial intelligence agents turn meetings, calls and customer interactions into completed work across business applications…",
@@ -269,16 +397,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Zoom-Voice-Translator.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Agents are breaking AI economics, and the fix starts in the data layer",
-      "summary": "When companies talk about the cost of artificial intelligence, the conversation almost always starts with models: which one to use, what it costs per million tokens, and whether a smaller model is “good enough.” That made sense when AI mea…",
-      "link": "https://siliconangle.com/2026/10/20/agents-are-breaking-ai-economics-and-the-fix-starts-in-the-data-layer/",
-      "date": "2026-10-20T16:25:50.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/AI-Data-Plane-V2-1-1.png"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Indian companies struggle to staff cybersecurity teams even as AI agents go rogue",
       "summary": "Fewer than a third of monthly cybersecurity openings are filled, even as companies step up hiring amid rising AI-driven risks",
@@ -287,16 +405,6 @@
       "category": "Security & Cyber Risk",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/e45j5/article71170329.ece/alternates/LANDSCAPE_1200/IMG_Quantum_computing_2_1_KNFE8LAD.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Asymptote Labs raises $5.5M to track and control what AI agents do",
-      "summary": "New York startup Asymptote Labs has raised a $5.5M seed round led by Tower Research Ventures. It makes Beacon, a free open-source tool that records what AI agents do, and sells a paid platform that can block risky agent actions. The money…",
-      "link": "https://thenextweb.com/news/asymptote-labs-5-5m-seed-ai-agent-security",
-      "date": "2026-10-20T16:17:39.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/asymptote-labs-cofounders-mural-wall.avif"
     },
     {
       "source": "Hugging Face",
@@ -329,16 +437,6 @@
       "image": null
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Celigo launches MCP tool management for enterprise AI assistants and agent access",
-      "summary": "Intelligent automation startup Celigo Inc. today announced its Model Context Protocol Management platform, which will let information technology and security teams govern how artificial intelligence assistants and agents act on enterprise…",
-      "link": "https://siliconangle.com/2026/10/20/celigo-launches-mcp-tool-management-for-enterprise-ai-assistants-and-agent-access/",
-      "date": "2026-10-20T15:40:19.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2021/08/transformation-touch-network.jpeg"
-    },
-    {
       "source": "MIT Tech Review",
       "title": "The new economics of enterprise AI",
       "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends…",
@@ -369,16 +467,6 @@
       "image": "https://media.wired.com/photos/6ad2cc7064b24534a6bc5044/master/pass/culture_ai_agent_internet_research_listserv.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-      "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "date": "2026-10-20T14:13:32.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "SCMP Tech",
       "title": "What is Discovery Loop, Chinese teen AI prodigy Nathan Chen’s rumoured next destination?",
       "summary": "Just days after announcing his departure from Moonshot AI, teen Chinese artificial intelligence prodigy Nathan Chen Guangyu seems to have found his next destination. On Tuesday, Arfur Grok, a widely-watched anonymous social media account t…",
@@ -387,56 +475,6 @@
       "category": "People & Leadership",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/20/155f4ba4-ff14-4a8c-984b-0de1a96491a5_73d4c3a4.jpg?itok=Nu967M8Z&v=1792499254"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "date": "2026-10-20T13:07:24.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "China",
-      "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Scaled Cognition targets customer service with low-cost voice model",
-      "summary": "Scaled Cognition Inc., an artificial intelligence lab building models for enterprise customer service agents, is introducing a text-to-speech model today that it says provides more accurate pronunciation of account numbers, addresses and o…",
-      "link": "https://siliconangle.com/2026/10/20/scaled-cognition-targets-customer-service-with-low-cost-voice-model/",
-      "date": "2026-10-20T13:00:37.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2025/05/Multiple-AI-agents-wearing-microphone-headsets-talking-to-customers-across-the-internet-with-ones-an.jpeg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "AI startup Firefly secures $20M to make the physical world a safer place",
-      "summary": "The digital world has already become much smarter thanks to the rise of artificial intelligence, and now a startup called Firefly Technology Inc. wants to do the same for the physical world, beginning with workplace safety. It has just rai…",
-      "link": "https://siliconangle.com/2026/10/20/ai-startup-firefly-secures-20m-to-make-the-physical-world-a-safer-place/",
-      "date": "2026-10-20T13:00:32.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-20-09-48-41.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Thought Industries’ Lens checks product knowledge for conflicts before customers see it",
-      "summary": "Customer learning software company Thought Industries Inc. today launched Lens, an artificial intelligence product that checks a business’ product knowledge for conflicts before it reaches customers. Thought Industries Academy, its existin…",
-      "link": "https://siliconangle.com/2026/10/20/thought-industries-lens-checks-product-knowledge-for-conflicts-before-customers-see-it/",
-      "date": "2026-10-20T13:00:27.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/thoughtindustrieslens.png"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "date": "2026-10-20T13:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Ars Technica AI",
@@ -1039,16 +1077,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "MeitY-backed conclave explores AI applications in healthcare, assistive technologies",
-      "summary": "Artificial intelligence could improve disease screening, medical diagnostics and remote patient monitoring while making healthcare more accessible and affordable, Secretary of the Ministry of Electronics and Information Technology (MeitY)…",
-      "link": "https://www.livemint.com/technology/meitybacked-conclave-explores-ai-applications-in-healthcare-assistive-technologies-11792308092347.html",
-      "date": "2026-10-18T07:21:32.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
       "source": "NVIDIA",
