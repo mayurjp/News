@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T04:53:34.177Z",
-  "count": 189,
+  "updated": "2026-10-22T10:14:38.642Z",
+  "count": 191,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,12 +44,319 @@
     "India",
     "China",
     "Europe",
+    "Japan",
     "South Korea",
     "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "Wired AI",
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "date": "2026-10-22T10:00:00.000Z",
+      "category": "Open Source",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6ad9279b7f825128a68bc73a/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter.gif"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Making the case for context-aware AI",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships tha…",
+      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "date": "2026-10-22T10:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Your enterprise has more AI than you think, and security can’t see it all",
+      "summary": "Over the years, enterprises have been in an all-out sprint to adopt the latest and greatest AI models. In that sprint, the average AI stack has grown quickly to include an array of platforms. These include developer tools, AI agents, emplo…",
+      "link": "https://thenextweb.com/news/enterprise-ai-footprint-visibility-security-zscaler",
+      "date": "2026-10-22T09:45:12.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/zscaler-threatlabz-2026-ai-security-report-laptop.avif"
+    },
+    {
+      "source": "MediaNama",
+      "title": "Eternal to launch general-purpose AI assistant Dark.ai, pitching privacy over mainstream chatbots",
+      "summary": "Announcing the AI assistant, the Eternal founder, said: \"Dark uses fine-tuned frontier open-weight models\" which is end-to-end encrypted and can't read conversations even if it is forced to. The post Eternal to launch general-purpose AI as…",
+      "link": "https://www.medianama.com/2026/10/223-eternal-ai-assistant-dark-ai-chatbots/",
+      "date": "2026-10-22T09:42:26.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Barclays to cut 5,000 jobs this year as AI makes the bank more efficient",
+      "summary": "Barclays expects to have cut around 5,000 jobs by the end of 2026, roughly 5% of its staff. The bank said artificial intelligence and other technology now let it do the same work with fewer people. The British lender gave the figure on Thu…",
+      "link": "https://thenextweb.com/news/barclays-5000-job-cuts-ai",
+      "date": "2026-10-22T09:31:41.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/10/barclays-logo-tower.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "What happens when AI takes over the entry-level work?",
+      "summary": "Finance professionals used to learn their jobs by doing the work themselves. They processed invoices, reconciled accounts, investigated exceptions, chased approvals, and gradually developed the judgment needed to handle more complex situat…",
+      "link": "https://thenextweb.com/news/ai-entry-level-work-finance-basware",
+      "date": "2026-10-22T09:21:37.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/blue-fibre-optic-light-strands-abstract.avif"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Explained: What is PHP? Why govt websites went dark? International advisory issued as AI exposes serious cyber glitch",
+      "summary": "PHP has triggered international advisories and forced websites offline worldwide, marking a new phase in cybersecurity in which increasingly powerful AI can uncover software vulnerabilities that humans have missed for years.",
+      "link": "https://www.livemint.com/technology/explained-what-is-php-why-govt-websites-went-dark-international-advisory-issued-as-ai-exposes-serious-cyber-glitch-11792658091301.html",
+      "date": "2026-10-22T09:21:14.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/22/1600x900/logo/php_1792658833489_cBCm_1792658833686_qlC3_f7f7d5b0-05ae-4695-9729-b6aa42789b00_bdVo.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "European publishers ask EU and UK regulators to stop Meta’s AI terms",
+      "summary": "Europe’s biggest news publishers are asking regulators in the EU and UK to stop Meta from introducing new business terms that they fear could allow the company to copy content from their websites for use in AI products. The changes are due…",
+      "link": "https://thenextweb.com/news/publishers-eu-uk-regulators-meta-ai-terms",
+      "date": "2026-10-22T09:08:06.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/10/eu-flags-waving-blue-sky.avif"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a mod…",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "date": "2026-10-22T08:41:18.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Boomi CEO Steve Lucas says AI now reviews half its accounts payable",
+      "summary": "Boomi is approaching $1bn in recurring revenue, chairman and chief executive Steve Lucas told TNW. The integration company has tripled its revenue in the four years since he joined in 2022, he said. It helps that Boomi does data, and “AI n…",
+      "link": "https://thenextweb.com/news/steve-lucas-boomi-ai-accounts-payable-tnw-podcast",
+      "date": "2026-10-22T08:40:53.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/steve-lucas-boomi-ceo-speaking-seated-humanx-amsterdam.avif"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Companies need to work on basic cyber controls before adopting AI, say IIT-M experts",
+      "summary": "In the corporate world specially, I would say basic cyber hygiene is missing, V Kamakoti, said, suggesting a need to build basic competence as first step",
+      "link": "https://www.thehindubusinessline.com/info-tech/companies-need-to-work-on-basic-cyber-controls-before-adopting-ai-say-iit-m-experts/article71610659.ece",
+      "date": "2026-10-22T08:22:43.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/news/lkww8l/article71610686.ece/alternates/LANDSCAPE_1200/IMG_0432.JPG.jpeg"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "date": "2026-10-22T07:51:31.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Japan Times",
+      "title": "SoftBank market value halves from peak as AI fears grow",
+      "summary": "After briefly overtaking Toyota as Japan's biggest company, SoftBank's market capitalization is now smaller than that of Hitachi and Recruit.",
+      "link": "https://www.japantimes.co.jp/business/2026/10/22/companies/softbank-market-value-halves/",
+      "date": "2026-10-22T07:42:00.000Z",
+      "category": "News",
+      "region": "Japan",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/22/thumbs/400x400/570004.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Palantir says it cannot switch off NATO’s Maven AI system",
+      "summary": "Palantir says neither it nor the US government can remotely shut down Maven, its AI-powered battlefield system used by NATO’s top military command. The assurance comes as European countries question how much control they have over US-made…",
+      "link": "https://thenextweb.com/news/palantir-says-it-cannot-switch-off-natos-maven-ai-system",
+      "date": "2026-10-22T07:41:54.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/10/palantir-logo-on-screen-dark-background.avif"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "China’s DeepSeek raises $15 billion to challenge top US AI labs",
+      "summary": "The firm boosted its financing target at least twice as it talked with investors, from 50 billion yuan to 80 billion yuan before reaching the final tally, according to people familiar with the matter",
+      "link": "https://www.thehindubusinessline.com/info-tech/chinas-deepseek-raises-15-billion-to-challenge-top-us-ai-labs/article71610521.ece",
+      "date": "2026-10-22T07:40:48.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://bl-i.thgim.com/public/incoming/dm9adj/article71603258.ece/alternates/LANDSCAPE_1200/2026-09-24T063000Z_238953988_RC2GXCAXA42E_RTRMADP_3_DEEPSEEK-REVENUE.JPG",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-raises-15-billion-in-challenge-to-leading-us-labs/articleshow/135105489.cms"
+        }
+      ]
+    },
+    {
+      "source": "MediaNama",
+      "title": "Meta Q3FY26 earnings call: From shopping to smart glasses, Meta expands its Muse AI push",
+      "summary": "Meta says over 10 million people have set up Muse as it expands AI-powered shopping, advertising, business tools and smart glasses integration, while facing youth-related litigation and rising costs. The post Meta Q3FY26 earnings call: Fro…",
+      "link": "https://www.medianama.com/2026/10/223-meta-earnings-call-smart-glasses-muse/",
+      "date": "2026-10-22T07:22:22.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "OpenAI partners with Google Cloud to offer AI models, codex workflows",
+      "summary": "OpenAI’s frontier models and Codex workflows will be accessible through Google Cloud’s Model Garden and Marketplace, enabling enterprises to evaluate, purchase, and deploy AI-powered pipelines within existing GCP ecosystems.",
+      "link": "https://www.thehindubusinessline.com/news/openai-partners-with-google-cloud-to-offer-ai-models-codex-workflows/article71610243.ece",
+      "date": "2026-10-22T06:16:53.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/84iw8m/article71610355.ece/alternates/LANDSCAPE_1200/2026-10-21T120008Z_682659480_RC2VFS9ZTTV2_RTRMADP_3_AI-OPENAI-GOOGLE.JPG",
+      "relatedSources": [
+        {
+          "source": "Ars Technica AI",
+          "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
+        },
+        {
+          "source": "OpenAI",
+          "link": "https://openai.com/index/openai-models-google-cloud"
+        }
+      ]
+    },
+    {
+      "source": "MediaNama",
+      "title": "Government tells TV channels to limit AI to ‘assistive capacity’. Does that rule out AI anchors?",
+      "summary": "From Aaj Tak’s Sana to India Today’s Sutra, AI anchors are spreading across Indian television. MIB has issued new AI guidance. The post Government tells TV channels to limit AI to ‘assistive capacity’. Does that rule out AI anchors? appear…",
+      "link": "https://www.medianama.com/2026/10/223-government-tv-channels-ai-assistive-capacity/",
+      "date": "2026-10-22T06:09:35.000Z",
+      "category": "News",
+      "region": "India",
+      "image": null
+    },
+    {
+      "source": "MediaNama",
+      "title": "Gujarat plans AI training for 5 lakh students before data protection safeguards take effect",
+      "summary": "Gujarat proposes AI training for five lakh college students under a Rs 20 crore mission, raising questions about student data privacy, AI tools, safeguards and the use of unique learner IDs. The post Gujarat plans AI training for 5 lakh st…",
+      "link": "https://www.medianama.com/2026/10/223-gujarats-ai-training-plan-students-data-privacy/",
+      "date": "2026-10-22T05:37:46.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "MediaNama",
+      "title": "Bengaluru Police arrest man over AI-generated video showing fake blast at Karnataka’s Vidhana Soudha",
+      "summary": "An AI-generated video showing a fake explosion at Vidhana Soudha led to an arrest. Here's what the police investigation has revealed. The post Bengaluru Police arrest man over AI-generated video showing fake blast at Karnataka’s Vidhana So…",
+      "link": "https://www.medianama.com/2026/10/223-man-arrested-fake-ai-blast-video-vidhana-soudha/",
+      "date": "2026-10-22T05:33:45.000Z",
+      "category": "News",
+      "region": "India",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Malaysia’s TuJu app struggles after Anwar suggests switching from Waze",
+      "summary": "Malaysia’s highway authority is working to resolve technical disruptions affecting its TuJu navigation application following a sharp increase in users. In a statement on Thursday, the Lembaga Lebuhraya Malaysia (LLM) said the matter was be…",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3371744/malaysias-tuju-app-struggles-after-anwar-suggests-switching-waze",
+      "date": "2026-10-22T05:15:12.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/22/0fbb984a-d5a6-4870-bb7f-2e5fd1dfb136_89a1ab4a.jpg?itok=d4fHMxxL&v=1792646110"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Flexible grid connections can cut AI data centre power wait to 2-4 years from 5-10 years: BCG",
+      "summary": "Data centres supporting artificial intelligence (AI) could reduce their electricity connection waiting time from 5-10 years or more to 2-4 years by accepting flexible grid connections and using their own power generation and storage system…",
+      "link": "https://www.livemint.com/technology/flexible-grid-connections-can-cut-ai-data-centre-power-wait-to-2-4-years-from-5-10-years-bcg-11792645934183.html",
+      "date": "2026-10-22T05:12:13.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Indias AI financing demand to shift towards data centres, but GPU, regulatory risks persist: Report",
+      "summary": "India’s AI market is expected to see a shift in demand towards debt financing for data centres and computing infrastructure. At the same time, the sector faces several risks, including the rapid obsoleteness of graphics processing units (G…",
+      "link": "https://www.livemint.com/technology/indias-ai-financing-demand-to-shift-towards-data-centres-but-gpu-regulatory-risks-persist-report-11792645684810.html",
+      "date": "2026-10-22T05:08:04.000Z",
+      "category": "Policy & Safety",
+      "region": "India",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure.…",
+      "link": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+      "date": "2026-10-22T05:00:56.000Z",
+      "category": "Open Source",
+      "region": "Europe",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Financial-Services-NVIDIA-Open-Models.jpg"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "summary": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprint…",
+      "link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "date": "2026-10-22T05:00:27.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+      "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem…",
+      "link": "https://blogs.nvidia.com/blog/dsx-power/",
+      "date": "2026-10-22T05:00:25.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/dsx-ai-factory-platform.jpg"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      "summary": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a…",
+      "link": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+      "date": "2026-10-22T05:00:23.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-European-Retail.jpg"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+      "summary": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A global forecast can show a storm taking shape, but decisions…",
+      "link": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+      "date": "2026-10-22T05:00:19.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Europe",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Earth-2-Open-Models-Climate-Prediction.png"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+      "summary": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to local languages and public services, run th…",
+      "link": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+      "date": "2026-10-22T05:00:02.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/open-model-european-public-sector-scaled.jpg"
+    },
     {
       "source": "Hindu BusinessLine",
       "title": "Vultr expands Chennai AI Supercluster with AMD Instinct GPUs",
@@ -79,16 +386,6 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-135105927,imgsize-44940.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Deepseek raises $15 billion in challenge to leading US labs",
-      "summary": "Chinese AI startup DeepSeek has raised about 100 billion yuan ($14.98 billion) in its latest fundraising round, Bloomberg News reported on Thursday citing people familiar with the",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-raises-15-billion-in-challenge-to-leading-us-labs/articleshow/135105489.cms",
-      "date": "2026-10-22T02:56:44.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://img.etimg.com/photo/msid-135105489,imgsize-54251.cms"
     },
     {
       "source": "SCMP Tech",
@@ -228,27 +525,7 @@
       "date": "2026-10-22T00:22:58.000Z",
       "category": "Product",
       "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/google-1.png",
-      "relatedSources": [
-        {
-          "source": "Ars Technica AI",
-          "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
-        },
-        {
-          "source": "OpenAI",
-          "link": "https://openai.com/index/openai-models-google-cloud"
-        }
-      ]
-    },
-    {
-      "source": "Japan Times",
-      "title": "Government websites go dark after AI-discovered flaw sparks security scramble",
-      "summary": "Developers released urgent new fixes to vulnerabilities that had quietly been lurking in their software for years until they were uncovered using AI.",
-      "link": "https://www.japantimes.co.jp/news/2026/10/22/world/government-websites-security-php-ai/",
-      "date": "2026-10-22T00:17:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/22/thumbs/400x400/569818.jpg"
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/google-1.png"
     },
     {
       "source": "LiveMint Tech",
@@ -303,7 +580,7 @@
     {
       "source": "SCMP Tech",
       "title": "Websites pulled offline worldwide as AI finds critical security flaws",
-      "summary": "Government agencies and companies around the world shut down websites Wednesday after two critical flaws came to light involving PHP, a programming language that is the basis for a large share of the internet. PHP sits underneath popular w…",
+      "summary": "Government agencies and companies around the world shut down websites as they raced Thursday to protect themselves from hacks after artificial intelligence uncovered critical flaws in a widely used programming language called PHP. Wiz, one…",
       "link": "https://www.scmp.com/news/world/article/3371694/websites-go-dark-worldwide-ai-exposes-critical-security-flaws",
       "date": "2026-10-21T22:10:59.000Z",
       "category": "News",
@@ -323,7 +600,7 @@
     {
       "source": "TechCrunch AI",
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
       "date": "2026-10-21T21:14:19.000Z",
       "category": "Business & Funding",
@@ -349,16 +626,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/GTC-Berlin3.png"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Top Democrat says chip restrictions are ‘key lever’ for US AI edge over China",
-      "summary": "Just two weeks before the US midterm elections, Jim Himes, the top Democrat on the House Intelligence Committee, said he did not believe America would maintain its lead over China in frontier AI indefinitely, describing restrictions on adv…",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3371692/top-democrat-says-chip-restrictions-are-key-lever-us-ai-edge-over-china",
-      "date": "2026-10-21T20:36:57.000Z",
-      "category": "Hardware & Infra",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/22/bd1dca25-4985-4465-8ed4-649fc95feccb_fe9523ec.jpg?itok=9TPKi4Ry&v=1792615015"
     },
     {
       "source": "TechCrunch AI",
@@ -531,26 +798,6 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "Photon Bridge raises €10M to mass-produce lasers for AI data centres",
-      "summary": "Eindhoven-based Photon Bridge has raised €10M, co-led by the Amadeus APEX Technology Fund and 360 Capital, to build laser light sources for the optical links inside AI data centres. It plans first samples in 2027 and volume production from…",
-      "link": "https://thenextweb.com/news/photon-bridge-10m-ai-data-centre-lasers",
-      "date": "2026-10-21T16:59:35.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/photon-bridge-laser-chip-purple-light-fibres.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Harvey adds Australian startup Mary’s case-fact tools to its legal AI",
-      "summary": "Sydney-based Mary Technology has connected its litigation tool to Harvey, the $15.6B legal AI company. Lawyers drafting in Harvey can now draw on the facts, evidence and reviews their team has built up in Mary, including conflicting accoun…",
-      "link": "https://thenextweb.com/news/harvey-mary-technology-legal-ai-case-facts",
-      "date": "2026-10-21T16:35:41.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/ai-microchip-green-pastel-reflective-surface.avif"
-    },
-    {
       "source": "Hugging Face",
       "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
       "summary": "",
@@ -579,16 +826,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2025/02/Designer-25.jpeg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Intel restarts its stalled US factory push as AI chip demand grows",
-      "summary": "Intel has started installing equipment at Fab 62, its new chip plant near Phoenix, which is due to open in early 2028. It has also put up the first major roof truss at its long-delayed Ohio site. The progress comes as demand for its data c…",
-      "link": "https://thenextweb.com/news/intel-fab-62-ohio-factory-progress",
-      "date": "2026-10-21T15:51:59.000Z",
-      "category": "Hardware & Infra",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/intel-logo-3d-glass-letters-blue-background.avif"
     },
     {
       "source": "Hindu BusinessLine",
@@ -661,16 +898,6 @@
       "image": "https://media.wired.com/photos/6ad8c3e67fa1a6118ccee121/master/pass/102126-PHP.jpg"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
-      "summary": "The US government’s latest ban on Chinese artificial intelligence start-up DeepSeek could have a chilling effect on the wider American business community and deter companies from adopting low-cost Chinese AI models, industry experts say. T…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
-      "date": "2026-10-21T14:00:12.000Z",
-      "category": "Policy & Safety",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/21/e210e567-8674-4652-b46f-0f9f2c666664_b164d917.jpg?itok=U43Zb1jO&v=1792574876"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
       "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
@@ -737,16 +964,6 @@
       "image": "https://img.etimg.com/photo/msid-135091934,imgsize-10872.cms"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Chinese mathematician Sun Zhiwei proposes 1,000 problems to challenge AI",
-      "summary": "In an age of AI-induced answers to complex mathematical problems, Chinese mathematician Sun Zhiwei maintains that curiosity and asking good questions are more important then ever. Over a career spent probing the edges of number theory, Sun…",
-      "link": "https://www.scmp.com/news/china/science/article/3371652/chinese-mathematician-sun-zhiwei-proposes-1000-problems-challenge-ai",
-      "date": "2026-10-21T12:00:07.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/21/3853aeac-ce4b-4e8e-950a-245657222fdb_5e59d6ed.jpg?itok=1qUEXyFH&v=1792575530"
-    },
-    {
       "source": "NVIDIA",
       "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
       "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station…",
@@ -787,26 +1004,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
     },
     {
-      "source": "NVIDIA",
-      "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
-      "summary": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs. Complex engineering feats — from advanced chips to aircraft to industrial sy…",
-      "link": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-      "date": "2026-10-21T10:30:25.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/cuDSS_GTCBerlin.jpg"
-    },
-    {
-      "source": "NVIDIA",
-      "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-      "summary": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NV…",
-      "link": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
-      "date": "2026-10-21T10:30:02.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427.jpg"
-    },
-    {
       "source": "Wired AI",
       "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
       "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
@@ -815,46 +1012,6 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/master/pass/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg"
-    },
-    {
-      "source": "MediaNama",
-      "title": "Spotify says it has taken 50 million AI “slop and spam” tracks out of recommendations this year",
-      "summary": "Spotify has spent 2026 developing measures to address spam, deception involving AI music and reviewed tracks that users \"frequently skipped, ignored or didn't want to hear\" which matched with its AI \"slop and spam\" identified content. The…",
-      "link": "https://www.medianama.com/2026/10/223-spotify-ai-slop-spam-tracks-recommendations/",
-      "date": "2026-10-21T10:23:19.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "NVIDIA",
-      "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-      "summary": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use…",
-      "link": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
-      "date": "2026-10-21T10:10:01.000Z",
-      "category": "Open Source",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548.jpg"
-    },
-    {
-      "source": "NVIDIA",
-      "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
-      "summary": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The por…",
-      "link": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
-      "date": "2026-10-21T10:00:07.000Z",
-      "category": "Research",
-      "region": "Europe",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-scaled.png"
-    },
-    {
-      "source": "NVIDIA",
-      "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
-      "summary": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of…",
-      "link": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-      "date": "2026-10-21T09:30:16.000Z",
-      "category": "People & Leadership",
-      "region": "Europe",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/jhh-keynote-kv-1920x1080-1.jpg"
     },
     {
       "source": "Hindu BusinessLine",
@@ -875,16 +1032,6 @@
       "category": "News",
       "region": "Europe",
       "image": "https://media.wired.com/photos/6ad7d5f6ceee34bd819fdbeb/master/pass/Business_Can%20Europe%20Build%20Data%20Centers%20Without%20Giving%20Up%20Its%20Climate%20Goals_v2.jpg"
-    },
-    {
-      "source": "MediaNama",
-      "title": "After ED’s WhatsApp pump-and-dump searches, Zerodha founder points investors to AI chatbots",
-      "summary": "Zerodha founder Nithin Kamath asked investors to check stock tips using an AI chatbot so that when they get a message promising easy money, \"Claude or ChatGPT can guide whether it's a good idea\". The post After ED’s WhatsApp pump-and-dump…",
-      "link": "https://www.medianama.com/2026/10/223-ed-whatsapp-zerodha-founder-investors-chatbots/",
-      "date": "2026-10-21T08:28:52.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -937,16 +1084,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/xh8fj0/article71606318.ece/alternates/LANDSCAPE_1200/TH03-Profiles-3GVRGK669T.3.jpg.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Anthropic's confidential IPO filing reveals $80.7 billion H1 loss, massive computing costs",
-      "summary": "The loss largely reflected accounting adjustments related to financing agreements, including $72 billion in charges linked to changes in the value of convertible notes and other financial instruments",
-      "link": "https://www.thehindubusinessline.com/markets/anthropics-confidential-ipo-filing-reveals-807-billion-h1-loss-massive-computing-costs/article71606247.ece",
-      "date": "2026-10-21T05:11:35.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/wwtqy9/article71595402.ece/alternates/LANDSCAPE_1200/2026-10-15T205551Z_1697502751_RC29LNAIRMB6_RTRMADP_3_ANTHROPIC-IPO-INVESTORS.JPG"
-    },
-    {
       "source": "OpenAI",
       "title": "Using thousands of AI agents to uncover new leads in biological data",
       "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
@@ -955,22 +1092,6 @@
       "category": "Research",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Tech giants’ AI investment to exceed $1 trillion in 2027, says UBS",
-      "summary": "The investment surge is boosting US economic growth, but questions remain over productivity gains, job displacement and companies’ ability to generate returns.",
-      "link": "https://www.thehindubusinessline.com/info-tech/tech-giants-ai-investment-to-exceed-1-trillion-in-2027-says-ubs/article71606215.ece",
-      "date": "2026-10-21T04:14:51.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/rexvke/article71606218.ece/alternates/LANDSCAPE_1200/2026-07-29T111210Z_1987324491_RC21P1A7WP57_RTRMADP_3_MARVELL-TECH-INDIA-INVESTMENT.JPG",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/tech-giants-ai-spending-to-exceed-usd-1-trillion-in-2027-lift-us-growth-ubs-11792554974295.html"
-        }
-      ]
     },
     {
       "source": "Google AI",
@@ -983,20 +1104,24 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "OpenAI says its AI agents weakened internal monitoring system",
-      "summary": "The disclosure highlights even the systems developers rely on to catch AI ‌misbehavior are vulnerable to the agents they ‌monitor",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-says-its-ai-agents-weakened-internal-monitoring-system/article71606105.ece",
-      "date": "2026-10-21T03:31:58.000Z",
-      "category": "Security & Cyber Risk",
+      "source": "LiveMint Tech",
+      "title": "Tech giants AI spending to exceed USD 1 trillion in 2027, lift US growth: UBS",
+      "summary": "Investment by major technology companies in artificial intelligence (AI) infrastructure is expected to exceed USD 1 trillion in 2027 as demand for computing capacity continues to outstrip supply, supporting US economic growth despite risin…",
+      "link": "https://www.livemint.com/technology/tech-giants-ai-spending-to-exceed-usd-1-trillion-in-2027-lift-us-growth-ubs-11792554974295.html",
+      "date": "2026-10-21T03:56:13.000Z",
+      "category": "Business & Funding",
       "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/r8b6xu/article71484066.ece/alternates/LANDSCAPE_1200/2026-09-18T233008Z_1500228058_RC29LNA4BAHL_RTRMADP_3_AI-TECH-OPENAI-FINANCIALS.JPG",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/openai-says-its-ai-agents-weakened-internal-monitoring-system-11792550188713.html"
-        }
-      ]
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "OpenAI says its AI agents weakened internal monitoring system",
+      "summary": "AI-SAFETY/OPENAI (PIX):OpenAI says its AI agents weakened internal monitoring system",
+      "link": "https://www.livemint.com/technology/openai-says-its-ai-agents-weakened-internal-monitoring-system-11792550188713.html",
+      "date": "2026-10-21T02:36:28.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
       "source": "ET CIO",
@@ -1109,16 +1234,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ukraine-drone-evacuation-1152x648.jpg"
     },
     {
-      "source": "Wired AI",
-      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-      "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-      "date": "2026-10-20T17:41:58.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://media.wired.com/photos/6ad772c1fca8f52b99e9eedc/master/pass/GettyImages-2300075055.jpg"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
       "summary": "Meta argues nobody “decided” to pirate books to train AI.",
@@ -1149,16 +1264,6 @@
       "image": null
     },
     {
-      "source": "Hugging Face",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "date": "2026-10-20T15:19:48.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "MIT Tech Review",
       "title": "AI adoption by industry shows what other sectors can learn",
       "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. A…",
@@ -1167,16 +1272,6 @@
       "category": "News",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "NVIDIA",
-      "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
-      "summary": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advancements in agentic computing. Agents do more than generate answers: they retrie…",
-      "link": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
-      "date": "2026-10-20T10:30:11.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194.jpg"
     },
     {
       "source": "OpenAI",
@@ -1197,26 +1292,6 @@
       "category": "Hardware & Infra",
       "region": "South Korea",
       "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Enterprise software costs threaten AI investment, innovation as firms spend 28% of budgets on unwanted changes: Report",
-      "summary": "Large enterprises may face growing constraints on innovation and artificial intelligence (AI) investments as vendor-driven software upgrades, migrations and licensing changes consume an average of 28 per cent of their software budgets, acc…",
-      "link": "https://www.livemint.com/technology/enterprise-software-costs-threaten-ai-investment-innovation-as-firms-spend-28-of-budgets-on-unwanted-changes-report-11792484168392.html",
-      "date": "2026-10-20T08:16:08.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "MORNING BID EUROPE-Korean canary in the AI coalmine",
-      "summary": "GLOBAL-MARKETS/VIEW-EUROPE:MORNING BID EUROPE-Korean canary in the AI coalmine",
-      "link": "https://www.livemint.com/technology/morning-bid-europe-korean-canary-in-the-ai-coalmine-11792471077525.html",
-      "date": "2026-10-20T04:37:57.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
       "source": "ET CIO",
@@ -1267,16 +1342,6 @@
       "category": "News",
       "region": "Middle East",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech wont replace heavy industry",
-      "summary": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
-      "link": "https://www.livemint.com/technology/nvidia-ceo-urges-german-manufacturers-to-adopt-ai-saying-digital-tech-wont-replace-heavy-industry-11792438242410.html",
-      "date": "2026-10-19T19:30:41.000Z",
-      "category": "People & Leadership",
-      "region": "Europe",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
       "source": "MIT Tech Review",
@@ -1535,16 +1600,6 @@
       "image": "https://fastly.restofworld.org/uploads/2026/10/School-AI-UAE_5.jpg?width=160&dpr=2&crop=1:1"
     },
     {
-      "source": "MIT Tech Review",
-      "title": "AI labs are buying data from dead startups to train their models",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He…",
-      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "date": "2026-10-13T09:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "ET CIO",
       "title": "The AI race will be decided by who can safely unlock their data",
       "summary": "As Indian enterprises increasingly embrace AI tools, the corresponding governance frameworks remain underdeveloped. It's imperative for companies to provide AI systems with access to essential data while safeguarding governance and securit…",
@@ -1590,16 +1645,6 @@
       "summary": "Autonomous AI agents can read requests, retrieve data, reason through options, and trigger actions in seconds. That speed is useful, but it also creates risk when the next step affects money, customer records, or external systems. Human-in…",
       "link": "https://www.analyticsvidhya.com/blog/2026/10/human-in-the-loop-ai-agent-langgraph/",
       "date": "2026-10-11T05:41:01.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "MIT Tech Review",
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.…",
-      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "date": "2026-10-09T09:00:00.000Z",
       "category": "News",
       "region": "Global",
       "image": null
@@ -1703,16 +1748,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "source": "Rest of World",
-      "title": "AI companies want to embed safety evaluators, but countries need their own",
-      "summary": "At a Rest of World event in New York last week, speakers explored how countries sidelined by the U.S.-China race can retain some control over safety standards as they adopt models from OpenAI, Anthropic, and others.",
-      "link": "https://restofworld.org/2026/ai-safety-independent-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "date": "2026-09-30T10:00:00.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://fastly.restofworld.org/uploads/2026/09/illo_ai_safety_concentration_final.jpg?width=160&dpr=2&crop=1:1"
     },
     {
       "source": "Google AI",
@@ -1943,26 +1978,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
