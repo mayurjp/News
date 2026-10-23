@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T04:56:04.504Z",
-  "count": 191,
+  "updated": "2026-10-23T10:07:32.436Z",
+  "count": 181,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,172 @@
   ],
   "items": [
     {
+      "source": "The Next Web",
+      "title": "OpenAI signs AI safety research deal with Poland’s NASK institute",
+      "summary": "OpenAI has partnered with Poland’s NASK National Research Institute to research AI safety and security, as concerns grow over AI agents behaving in ways their developers did not intend. The company announced the agreement today, saying the…",
+      "link": "https://thenextweb.com/news/openai-nask-poland-ai-safety-research",
+      "date": "2026-10-23T09:24:42.000Z",
+      "category": "Research",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/openai-logo-silhouette-hand-smartphone.avif",
+      "relatedSources": [
+        {
+          "source": "OpenAI",
+          "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "Nvidia has put $170bn on the line for neoclouds, The Information reports",
+      "summary": "Jensen Huang told CNBC on Thursday that demand for neoclouds is “off the charts”, Business Insider reported. His company has put more than $170bn on the line for them and other large customers, according to an analysis of its filings by Th…",
+      "link": "https://thenextweb.com/news/nvidia-170bn-neoclouds-firmus",
+      "date": "2026-10-23T09:12:18.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/jensen-huang-nvidia-gtc-2026-gesturing-stool-san-jose.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Walmart will let AI agents shop for you, with their own spending limits",
+      "summary": "Walmart will let AI agents shop for customers on Walmart.com and at Sam’s Club, each with its own profile, spending limit and purchase history. The retailer announced Agent Profiles, a gateway built for agents and a set of terms they must…",
+      "link": "https://thenextweb.com/news/walmart-ai-agents-shop-agent-profiles",
+      "date": "2026-10-23T08:52:27.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/09/walmart-ceo-john-furner-portrait-blue-blazer.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "LiteLLM says hackers poisoned it with GitHub tokens leaked via Claude Code",
+      "summary": "LiteLLM says hackers took the keys they needed from its own logs. They used them to publish a poisoned version of its software on Wednesday. The open-source AI gateway explained it in an incident report. Its chief executive, chief technolo…",
+      "link": "https://thenextweb.com/news/litellm-hack-github-tokens-logs-claude-code",
+      "date": "2026-10-23T08:40:52.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/macbook-keyboard-code-editor-dark-screen.avif"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Oppo Find X10 and X10 Pro Max launched in India: Triple 200MP cameras, 8,000 mAh battery, check price",
+      "summary": "Oppo has launched the Find X10 and Find X10 Pro Max in India, featuring up to three 200MP rear cameras, batteries of up to 8,000mAh and AI-powered tools.",
+      "link": "https://www.livemint.com/technology/gadgets/oppo-find-x10-and-x10-pro-max-launched-in-india-triple-200mp-cameras-8-000-mah-battery-check-price-11792742409318.html",
+      "date": "2026-10-23T08:31:44.000Z",
+      "category": "Product",
+      "region": "India",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/23/1600x900/logo/Hyundaii111_1792742588234_ENhU_1792742599102_5CBD_f9d23924-d7d0-454d-9e64-1a63e8690a38_tcKm.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Japan to set up AI hacker team as PHP flaws knock services offline",
+      "summary": "Japan plans to create a team of ethical hackers that will use AI to attack the country’s own systems and find vulnerabilities before criminals can exploit them. The announcement comes as banks, rail operators and government agencies take o…",
+      "link": "https://thenextweb.com/news/japan-ai-hacker-team-php-flaws-softbank",
+      "date": "2026-10-23T08:28:12.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Japan",
+      "image": "https://media.thenextweb.com/2026/10/japanese-flags-city-buildings.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Meta fixes Muse links that let anyone find loan files and revenue data",
+      "summary": "Meta has switched Muse sharing back on. It paused the feature on Tuesday. That came after Ars Technica asked about research showing that anyone could find pages shared from its AI agent. David Singleton, who works on Muse at Meta, announce…",
+      "link": "https://thenextweb.com/news/meta-muse-sharing-back-on-dns-leak",
+      "date": "2026-10-23T08:26:12.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/09/meta-muse-for-small-business.avif"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "China’s humanoid robots hunt for work in South Korea as Seoul bets on physical AI",
+      "summary": "This article was first published by The Korea Times in a partnership with the South China Morning Post. Chinese humanoid robot makers are accelerating efforts to gain a foothold in South Korea, moving beyond dance performances and showroom…",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3371888/chinas-humanoid-robots-hunt-work-south-korea-seoul-bets-physical-ai",
+      "date": "2026-10-23T08:00:33.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/23/42283dc4-fb1d-4cde-8d11-ce44abbf98a1_7b46eb2e.jpg?itok=pZMLQuiC&v=1792738551"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Microsoft AI tool beat generalist doctors at step-by-step diagnosis",
+      "summary": "Microsoft has developed an AI diagnostic tool that solved complex medical cases more than twice as accurately as generalist doctors in a study published in Science. Unlike many medical AI systems, it works through a case step by step, deci…",
+      "link": "https://thenextweb.com/news/microsoft-ai-diagnosis-mai-dxo-science-study",
+      "date": "2026-10-23T07:53:34.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/microsoft-logo-experience-center-new-york.avif"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Polish PM Donald Tusk seeks deeper technology cooperation with India across AI, digital and space sectors",
+      "summary": "Polish Prime Minister Donald Tusk has called for stronger technology partnerships between India and Poland, highlighting opportunities for companies from both countries across sectors including artificial intelligence (AI) solutions, digit…",
+      "link": "https://www.livemint.com/technology/polish-pm-donald-tusk-seeks-deeper-technology-cooperation-with-india-across-ai-digital-and-space-sectors-11792741007680.html",
+      "date": "2026-10-23T07:36:47.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/23/1600x900/maxresdefault_1792746496039_pFan_1792746502268_B6YR_f463b215-1b5c-4ed3-9b12-06624a60c56e_57jw.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "How to stay safe online from AI hacking",
+      "summary": "The PHP glitches in the underlying code itself could enable attackers to use them to take control of web servers to steal data, distrupt services or move through networks, NSA warns",
+      "link": "https://www.thehindubusinessline.com/data-stories/visually/refile-factbox-five-ways-to-keep-safe-online-in-the-wake-of-ai-supercharged-hacking/article71614380.ece",
+      "date": "2026-10-23T06:17:36.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/t93s04/article71057619.ece/alternates/LANDSCAPE_1200/IMG_iStock-1134588944_2_1_4O985O5H.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Tech Mahindra, SpaceXSI partner to accelerate AI-powered software engineering",
+      "summary": "The company said it will combine its global engineering, enterprise transformation and AI consulting capabilities with SpaceXSI's AI-powered development platform to help enterprises expand application modernisation, streamline software dev…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/tech-mahindra-spacexsi-partner-to-accelerate-ai-powered-software-engineering/articleshow/135136980.cms",
+      "date": "2026-10-23T06:07:36.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-135136980,imgsize-68934.cms"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "DeepSeek, MiniMax secure open-source licences days after new China export rules: state media",
+      "summary": "Chinese artificial intelligence model developers DeepSeek and MiniMax have completed export registration procedures and proceeded with open-source releases and overseas licensing activities, according to Chinese state media, days after Bei…",
+      "link": "https://www.scmp.com/tech/policy/article/3371880/deepseek-minimax-secure-open-source-licenses-days-after-new-china-export-rules-state-media",
+      "date": "2026-10-23T06:00:25.000Z",
+      "category": "Open Source",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/23/13c2709b-a038-4b95-9f39-fe150b4e1a28_7b46c8fc.jpg?itok=dvrkrTvi&v=1792734912"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Zetwerk eyes manufacturing demand from AI, clean energy as shares debut",
+      "summary": "Shares of the business-to-business manufacturing platform opened at Rs 159 on the BSE, a 5.3% premium to the Rs 151 issue price, and at Rs 159.25 on the NSE. The stock subsequently gave up its gains to trade near the offer price amid weakn…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/zetwerk-eyes-manufacturing-demand-from-ai-clean-energy-as-shares-debut/articleshow/135135770.cms",
+      "date": "2026-10-23T05:42:20.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-135135770,imgsize-47976.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "FCC grants Intel waiver for foreign-made robotic devices",
+      "summary": "The FCC said it would grant a one-year waiver of its rules in order to prevent \"potential disruptions in the availability of domestic semiconductor manufacturing services for Intel's customers.\"",
+      "link": "https://economictimes.indiatimes.com/tech/technology/fcc-grants-intel-waiver-for-foreign-made-robotic-devices/articleshow/135134812.cms",
+      "date": "2026-10-23T04:55:31.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-135134812,imgsize-1348465.cms"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "haf.vc invests ₹3 crore in Hunar.AI",
+      "summary": "The startup will use the funds for AI infrastructure, product development, sales and market expansion",
+      "link": "https://www.thehindubusinessline.com/info-tech/hafvc-invests-3-crore-in-hunarai/article71611297.ece",
+      "date": "2026-10-23T04:25:24.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/ra0sp7/article71612074.ece/alternates/LANDSCAPE_1200/iStock-1205581593.jpg"
+    },
+    {
       "source": "TechCrunch AI",
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
       "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
@@ -60,22 +226,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "How to stay safe online from AI hacking",
-      "summary": "The PHP glitches in the underlying code itself could enable attackers to use them to take control of web servers to steal data, distrupt services or move through networks, NSA warns",
-      "link": "https://www.thehindubusinessline.com/data-stories/visually/refile-factbox-five-ways-to-keep-safe-online-in-the-wake-of-ai-supercharged-hacking/article71614380.ece",
-      "date": "2026-10-23T03:53:57.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/t93s04/article71057619.ece/alternates/LANDSCAPE_1200/IMG_iStock-1134588944_2_1_4O985O5H.jpg",
-      "relatedSources": [
-        {
-          "source": "Japan Times",
-          "link": "https://www.japantimes.co.jp/business/2026/10/23/tech/online-safety-ai-hacking/"
-        }
-      ]
     },
     {
       "source": "Hindu BusinessLine",
@@ -120,7 +270,7 @@
     {
       "source": "NVIDIA",
       "title": "Kazakhstan Expands Compute for Its AI Future",
-      "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation’s i…",
+      "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVID…",
       "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
       "date": "2026-10-23T02:00:13.000Z",
       "category": "Enterprise & Deployment",
@@ -150,7 +300,7 @@
     {
       "source": "SCMP Tech",
       "title": "Hong Kong degree holders’ pay advantage over non-graduates narrows to HK$2,500",
-      "summary": "Fresh Hong Kong graduates are increasingly feeling the impact of artificial intelligence (AI) as they enter the workforce, human resources experts have said, after a survey found the starting salaries for degree holders and sub-degree grad…",
+      "summary": "Fresh Hong Kong graduates are increasingly feeling the impact of artificial intelligence (AI) as they enter the workforce, human resources experts have said, after a survey found the gap between starting salaries for degree holders and sub…",
       "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371826/fresh-hong-kong-graduates-feel-ai-impact-degree-pay-advantage-narrows",
       "date": "2026-10-23T00:30:07.000Z",
       "category": "News",
@@ -225,13 +375,7 @@
       "date": "2026-10-22T22:08:24.000Z",
       "category": "People & Leadership",
       "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/warpsciences.png",
-      "relatedSources": [
-        {
-          "source": "The Next Web",
-          "link": "https://thenextweb.com/news/warp-sciences-kevin-weil-215m-ai-drug-lab"
-        }
-      ]
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/warpsciences.png"
     },
     {
       "source": "MIT Tech Review",
@@ -364,26 +508,6 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "Uber gives more than 30,000 staff OpenAI’s ChatGPT Work agent",
-      "summary": "Uber is rolling out ChatGPT Work, OpenAI’s office-task agent, to more than 30,000 employees after a 1,000-person pilot, OpenAI said. It connects to Gmail, Drive and Slack and runs on GPT-6.1 Sol by default. The move comes as Uber tries to…",
-      "link": "https://thenextweb.com/news/uber-chatgpt-work-30000-employees",
-      "date": "2026-10-22T18:34:54.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/uber-logo-3d-app-icon-clock-phone-dark.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Leidos lands $95M contract to automate Pentagon logistics with AI",
-      "summary": "Leidos has won a $95M, five-year contract from the Defense Logistics Agency to add AI automation and cloud tools to ELMS, the Pentagon system that tracks more than 80 million items of government property worth over $140B. Leidos has suppor…",
-      "link": "https://thenextweb.com/news/leidos-95m-pentagon-ai-logistics-elms",
-      "date": "2026-10-22T17:59:20.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/ai-orange-neon-sign-dark-circuit-wall.avif"
-    },
-    {
       "source": "SiliconANGLE",
       "title": "Nirva raises $25M to make AI jewelry with ‘perspective’ that listens and provides insights",
       "summary": "Personal artificial intelligence wearable company Nirva Labs today announced it has raised $25 million in early funding to accelerate development of its sleek AI jewelry, which brings emotional perspective to users. The company is backed b…",
@@ -392,26 +516,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Collection_Swappable-core-accessories-scaled.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Nvidia launches Minerva to catch failing parts in giant AI data centres",
-      "summary": "Nvidia has launched Minerva, AI operations software that combines data from GPUs, networks, storage and workloads to spot failing parts in large AI data centres early. It groups alerts into single incidents and has an AI assistant. IREN us…",
-      "link": "https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring",
-      "date": "2026-10-22T17:25:00.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/nvidia-logo-3d-green-glass-icon-dark-background.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "SpaceX signs up Apollo and Nvidia for a new Grok partner network",
-      "summary": "SpaceX has launched the Super Intelligence Partner Network for companies that deploy or build on Grok, with Apollo, Nvidia, Snowflake, Databricks, Bain and more than 130 firms joining early. It follows a quarter in which SpaceX’s AI unit t…",
-      "link": "https://thenextweb.com/news/spacex-grok-partner-network-apollo-nvidia",
-      "date": "2026-10-22T17:00:39.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/spacex-falcon-heavy-launch-pad-39a-hangar.avif"
     },
     {
       "source": "TechCrunch AI",
@@ -424,16 +528,6 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "Victoria McClune is challenging how the AI industry understands its users",
-      "summary": "Victoria McClune’s career has followed the evolution of digital technology, from interactive children’s books on the first iPads to artificial intelligence systems reshaping how people work and communicate. A creative director by training,…",
-      "link": "https://thenextweb.com/news/victoria-mcclune-ai-industry-users-silent-downgrade",
-      "date": "2026-10-22T16:24:51.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/victoria-mcclune-speaking-on-stage-armchair.avif"
-    },
-    {
       "source": "Hugging Face",
       "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
       "summary": "",
@@ -442,16 +536,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "The One Question AI Could Not Answer",
-      "summary": "[The content of this article has been produced by our advertising partner.] Why Children Need More Than Screens to Master the Future Hong Kong is moving decisively into the age of artificial intelligence in education. The government has co…",
-      "link": "https://www.scmp.com/presented/news/hong-kong/education/topics/garden-house-waldorf-school/article/3371650/one-question-ai-could-not-answer",
-      "date": "2026-10-22T16:00:10.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/2026/10/21/GardenHouseBranding2026-219.jpg?itok=Koi43K0K"
     },
     {
       "source": "TechCrunch AI",
@@ -471,7 +555,7 @@
     },
     {
       "source": "ET Tech",
-      "title": "Bridging the AI production gap: Over 100,000 Indian engineers trained to build with Gemini",
+      "title": "Bridging the AI production gap: Over 100,000 Indian engineers trained to Build with Gemini",
       "summary": "India is seeing a significant shift in its technology workforce towards enterprise AI integration and solutions. The Build with Gemini initiative has trained over 100,000 developers and architects across several major organizations. This t…",
       "link": "https://economictimes.indiatimes.com/tech/technology/bridging-the-ai-production-gap-over-100000-indian-engineers-trained-to-build-with-gemini/articleshow/135122014.cms",
       "date": "2026-10-22T15:31:14.000Z",
@@ -488,16 +572,6 @@
       "category": "Security & Cyber Risk",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/internet-routing-1000x648.jpeg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Universal Music Group licenses songs to AI gaming music service TYGER",
-      "summary": "Universal Music Group (UMG) will license music from its artists and songwriters to TYGER. The service uses AI to make songs follow the action in a video game as people play. The two companies announced the deal today, with UMG the first ma…",
-      "link": "https://thenextweb.com/news/universal-music-group-tyger-licensing-deal-gaming",
-      "date": "2026-10-22T15:15:58.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/nick-venti-tyger-ceo-portrait.avif"
     },
     {
       "source": "TechCrunch AI",
@@ -518,16 +592,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ethernet-corp-blog-minerva-kv-1280x680-5595752.png"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Meta reports $825B in future lease and contract commitments",
-      "summary": "Meta has signed up to about $825bn in future leases and contracts, most of them for the data centres and computing power behind its AI push. The figures are in its quarterly filing with US regulators, dated October 22, 2026. Bloomberg repo…",
-      "link": "https://thenextweb.com/news/meta-825b-future-spending-commitments",
-      "date": "2026-10-22T14:44:18.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/meta-logo-terracotta-tile-wall-arch.avif"
     },
     {
       "source": "DeepMind",
@@ -560,28 +624,8 @@
       "image": "https://img.etimg.com/photo/msid-135121069,imgsize-1802843.cms"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Hong Kong badly lags peers in Greater Bay Area AI supply chains",
-      "summary": "Hong Kong is significantly lagging behind its neighbours and ranks near the bottom in meeting the growing demand for artificial intelligence supply chains, according to a major index evaluating key developments across the Greater Bay Area.…",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371821/hong-kong-badly-lags-peers-greater-bay-area-ai-supply-chains",
-      "date": "2026-10-22T14:11:43.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/22/36c11f5d-aeac-4985-9d62-020fdfaa84a0_637ea393.jpg?itok=ntJdG9d-&v=1792678659"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "haf.vc invests ₹3 crore in Hunar.AI",
-      "summary": "The startup will use the funds for AI infrastructure, product development, sales and market expansion",
-      "link": "https://www.thehindubusinessline.com/info-tech/hafvc-invests-3-crore-in-hunarai/article71611297.ece",
-      "date": "2026-10-22T13:53:37.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/ra0sp7/article71612074.ece/alternates/LANDSCAPE_1200/iStock-1205581593.jpg"
-    },
-    {
       "source": "ET Tech",
-      "title": "Cognizant acquires DyFlex Solutions to enhance AI and SAP transformation capabilities",
+      "title": "Cognizant to buy Australia's DyFlex in its 3rd deal of 2026",
       "summary": "Cognizant Technology Solutions has signed an agreement to acquire DyFlex Solutions, enhancing its AI and SAP capabilities. This acquisition is expected to close in the first quarter of 2027, subject to regulatory approvals. DyFlex speciali…",
       "link": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-acquires-dyflex-solutions-to-enhance-ai-and-sap-transformation-capabilities/articleshow/135120601.cms",
       "date": "2026-10-22T13:40:44.000Z",
@@ -620,66 +664,6 @@
       "image": "https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/master/pass/OKA_MORI_Companion_EveningWorkAtLaptop.jpg"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Hong Kong attracts another 18 strategic firms, HK$10 billion in investment pledged",
-      "summary": "Nasdaq-listed fintech company Solana and healthcare giant Johnson & Johnson are among the latest batch of enterprises in artificial intelligence, healthtech and advanced manufacturing to establish or expand operations in Hong Kong, bringin…",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371815/hong-kong-attracts-another-18-strategic-firms-hk10-billion-investment-pledged",
-      "date": "2026-10-22T12:23:55.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/22/79e98ef3-11c2-4b41-a22c-ebee4b472a73_c799f8a0.jpg?itok=eM-4pYd-&v=1792670976"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "‘Jensen’s nightmare’: Huawei, DeepSeek narrow AI chip ecosystem gap with Nvidia: report",
-      "summary": "Deepening “symbiosis” with artificial intelligence model start-up DeepSeek is helping Chinese tech champion Huawei Technologies catch up with Nvidia’s chip hardware and software ecosystem in a scenario that could mean Jensen Huang’s “night…",
-      "link": "https://www.scmp.com/tech/tech-war/article/3371806/jensens-nightmare-huawei-deepseek-narrow-ai-chip-ecosystem-gap-nvidia-report",
-      "date": "2026-10-22T12:00:14.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/22/081fe0bd-22d5-481b-94c8-e8b849122c6c_9a4a794d.jpg?itok=jR1Q7wJR&v=1792667386"
-    },
-    {
-      "source": "MediaNama",
-      "title": "Is training AI on song lyrics fair use? US court weighs question as India proposes mandatory licensing",
-      "summary": "Anthropic has asked a US court to rule that training Claude on copyrighted song lyrics is fair use, while music publishers argue that AI-generated lyrics threaten songwriters and the music industry. The post Is training AI on song lyrics f…",
-      "link": "https://www.medianama.com/2026/10/223-training-ai-song-us-court-india-licence-fee/",
-      "date": "2026-10-22T11:58:37.000Z",
-      "category": "Policy & Safety",
-      "region": "India",
-      "image": null
-    },
-    {
-      "source": "MediaNama",
-      "title": "Five strategic developments from Eternal’s Q2FY27 earnings call",
-      "summary": "Blinkit is targeting smaller cities, Eternal is assessing the threat from AI shopping agents, and District is moving into a separate subsidiary. Here are five strategic developments from Eternal’s Q2 FY27 earnings call. The post Five strat…",
-      "link": "https://www.medianama.com/2026/10/223-eternal-q2-fy27-results-ai-strategy/",
-      "date": "2026-10-22T11:30:25.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "Japan Times",
-      "title": "U.K. politicians are testing their messages on AI-generated focus groups",
-      "summary": "Firms are using data from real focus groups and surveys to build AI personas able to react to political messages within minutes.",
-      "link": "https://www.japantimes.co.jp/news/2026/10/22/world/politics/uk-politicians-ai-focus-groups/",
-      "date": "2026-10-22T11:12:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/22/thumbs/400x400/570035.jpg"
-    },
-    {
-      "source": "MediaNama",
-      "title": "Meta pauses Muse AI chat sharing after researchers find over 6,800 discoverable links",
-      "summary": "Researchers found more than 6,800 Meta Muse share hostnames and reported the issue to Meta before the feature was paused. The post Meta pauses Muse AI chat sharing after researchers find over 6,800 discoverable links appeared first on MEDI…",
-      "link": "https://www.medianama.com/2026/10/223-meta-muse-ai-chat-sharing/",
-      "date": "2026-10-22T10:05:42.000Z",
-      "category": "Research",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Wired AI",
       "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
       "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
@@ -698,26 +682,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "MediaNama",
-      "title": "Eternal to launch general-purpose AI assistant Dark.ai, pitching privacy over mainstream chatbots",
-      "summary": "Announcing the AI assistant, the Eternal founder, said: \"Dark uses fine-tuned frontier open-weight models\" which is end-to-end encrypted and can't read conversations even if it is forced to. The post Eternal to launch general-purpose AI as…",
-      "link": "https://www.medianama.com/2026/10/223-eternal-ai-assistant-dark-ai-chatbots/",
-      "date": "2026-10-22T09:42:26.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "Japan Times",
-      "title": "Japan considers broader definition of security spending to inflate defense outlays, sources say",
-      "summary": "The government is looking at whether spending on areas like AI, satellites and infrastructure could be classified as defense-related costs.",
-      "link": "https://www.japantimes.co.jp/news/2026/10/22/japan/security-outlays-japan-budgets/",
-      "date": "2026-10-22T09:30:00.000Z",
-      "category": "News",
-      "region": "Japan",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/22/thumbs/400x400/570029.jpg"
     },
     {
       "source": "LiveMint Tech",
@@ -768,16 +732,6 @@
       "category": "Business & Funding",
       "region": "China",
       "image": "https://bl-i.thgim.com/public/incoming/dm9adj/article71603258.ece/alternates/LANDSCAPE_1200/2026-09-24T063000Z_238953988_RC2GXCAXA42E_RTRMADP_3_DEEPSEEK-REVENUE.JPG"
-    },
-    {
-      "source": "MediaNama",
-      "title": "Meta Q3FY26 earnings call: From shopping to smart glasses, Meta expands its Muse AI push",
-      "summary": "Meta says over 10 million people have set up Muse as it expands AI-powered shopping, advertising, business tools and smart glasses integration, while facing youth-related litigation and rising costs. The post Meta Q3FY26 earnings call: Fro…",
-      "link": "https://www.medianama.com/2026/10/223-meta-earnings-call-smart-glasses-muse/",
-      "date": "2026-10-22T07:22:22.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -910,26 +864,6 @@
       "image": "https://img.etimg.com/photo/msid-135105927,imgsize-44940.cms"
     },
     {
-      "source": "ET Tech",
-      "title": "DeepSeek wrapping up $15 billion fundraising to fuel AI race",
-      "summary": "Battery maker Contemporary Amperex Technology (CATL) and WeChat operator Tencent Holdings were among the biggest investors in the round, said one of the people, who both declined to be named as the information was confidential.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-raises-15-billion-in-challenge-to-leading-us-labs/articleshow/135105489.cms",
-      "date": "2026-10-22T02:56:44.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://img.etimg.com/photo/msid-135105489,imgsize-54251.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Government websites in Europe, US go dark over AI-detected flaw in a web programming language PHP",
-      "summary": "The website of the Finnish government, for one, was only partly available Wednesday. A message to visitors said government websites were experiencing a temporary disruption and were fully or partially unavailable while the issue was being…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/some-websites-go-dark-as-operators-address-an-ai-detected-flaw-in-a-web-programming-language/articleshow/135105251.cms",
-      "date": "2026-10-22T02:40:51.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://img.etimg.com/photo/msid-135105251,imgsize-8604693.cms"
-    },
-    {
       "source": "ET CIO",
       "title": "CISOs, Your DLP Was Built to Say No. AI Needs You to Say Yes.",
       "summary": "DLP was built to block data leaving the enterprise, but AI needs data to flow. Seclore CEO Dr. Vishal Gauri tells CISOs what comes next.",
@@ -938,16 +872,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-651999/135104604.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Meta sued in Australia class action over alleged social media harm to children",
-      "summary": "A class action lawsuit has been filed in an Australia court against Meta Platforms' Facebook and Instagram, alleging the social media platforms exposed children to harmful content and kept them addictive through algorithms.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/meta-sued-in-australia-class-action-over-alleged-social-media-harm-to-children/articleshow/135104904.cms",
-      "date": "2026-10-22T02:27:05.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-135104904,imgsize-2016846.cms"
     },
     {
       "source": "Wired AI",
@@ -1246,26 +1170,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp"
     },
     {
-      "source": "LiveMint Tech",
-      "title": "Tech giants AI spending to exceed USD 1 trillion in 2027, lift US growth: UBS",
-      "summary": "Investment by major technology companies in artificial intelligence (AI) infrastructure is expected to exceed USD 1 trillion in 2027 as demand for computing capacity continues to outstrip supply, supporting US economic growth despite risin…",
-      "link": "https://www.livemint.com/technology/tech-giants-ai-spending-to-exceed-usd-1-trillion-in-2027-lift-us-growth-ubs-11792554974295.html",
-      "date": "2026-10-21T03:56:13.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "OpenAI says its AI agents weakened internal monitoring system",
-      "summary": "AI-SAFETY/OPENAI (PIX):OpenAI says its AI agents weakened internal monitoring system",
-      "link": "https://www.livemint.com/technology/openai-says-its-ai-agents-weakened-internal-monitoring-system-11792550188713.html",
-      "date": "2026-10-21T02:36:28.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
-    },
-    {
       "source": "ET CIO",
       "title": "Powering agentic AI: Why the new enterprise playbook belongs to ecosystem partnerships",
       "summary": "The agentic enterprise's arrival emphasizes the pressing need for organizations to effectively incorporate AI solutions. Establishing robust partnerships and ecosystems is vital for aligning aspirations with actionable results. Indian busi…",
@@ -1274,16 +1178,6 @@
       "category": "News",
       "region": "India",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-36778/135079969.cms"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-      "link": "https://openai.com/index/cloudflare-cyber",
-      "date": "2026-10-21T00:00:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "Ars Technica AI",
