@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T11:36:27.726Z",
-  "count": 181,
+  "updated": "2026-10-25T16:26:46.401Z",
+  "count": 180,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -50,6 +50,56 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI can uncover hidden software flaws, but raises new security risks",
+      "summary": "On October 21, PHP released fixes for two critical vulnerabilities that could enable unauthenticated remote code execution (RCE), urging users to update to the latest supported PHP 8 versions",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-can-uncover-hidden-software-flaws-but-raises-new-security-risks/article71623946.ece",
+      "date": "2026-10-25T15:20:32.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/9ou5rk/article71624036.ece/alternates/LANDSCAPE_1200/IMG_iStock-2287745041_2_1_CKGHIOJN.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Western Australia seeks refund from Deloitte over flawed AI-aided report",
+      "summary": "Western Australia’s government is seeking a fast refund from Deloitte over a flawed report on merging three of the state’s universities. The report contained AI-generated references to sources that do not exist, as well as wrong cost total…",
+      "link": "https://thenextweb.com/news/western-australia-deloitte-refund-ai-university-report",
+      "date": "2026-10-25T14:24:55.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/deloitte-office-glass-facade.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "date": "2026-10-25T14:10:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI checked fired researchers’ phones for Signal chats, WSJ reports",
+      "summary": "“I was told that there was a breach of trust because I interacted with a third party through unsanctioned channels,” Tomek Korbak said. Korbak is one of three OpenAI safety researchers fired last month. He spoke to The Wall Street Journal…",
+      "link": "https://thenextweb.com/news/openai-safety-researchers-fired-signal-chats-greenblatt-wsj",
+      "date": "2026-10-25T11:57:04.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/signal-app-icon-phone-home-screen-whatsapp-telegram.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "US Treasury moves to curb AI, chip and biotech deals in China and Russia",
+      "summary": "“The proposed regulations would strengthen the existing Outbound Investment Security Program to prevent our adversaries from using U.S. investment to develop critical technologies that threaten U.S. national security,” Treasury Secretary S…",
+      "link": "https://thenextweb.com/news/us-treasury-outbound-investment-rule-china-ai-biotech",
+      "date": "2026-10-25T11:44:53.000Z",
+      "category": "Policy & Safety",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/10/scott-bessent-white-house-press-briefing-podium.avif"
+    },
     {
       "source": "The Next Web",
       "title": "DeepSeek and MiniMax cleared to take AI models abroad, state media says",
@@ -219,26 +269,6 @@
       "category": "Security & Cyber Risk",
       "region": "Global",
       "image": "https://media.wired.com/photos/6adbb8a7e6d0c133525c3e7c/master/pass/KernelPanic_The%20PHP%20Meltdown%20Shows%20How%20AI%20Makes%20Bugs%20More%20Exploitable.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "UK funds £100m AI biosecurity lab with OpenAI and Anthropic",
-      "summary": "The UK government will put £100m into a new AI Biosecurity Lab, which will use advanced AI to spot and respond to biological threats. OpenAI and Anthropic will add up to £200m between them, the Cabinet Office said on Saturday. The governme…",
-      "link": "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic",
-      "date": "2026-10-24T10:59:22.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/10/london-bus-westminster-bridge.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "OpenAI cuts live internet from all frontier model training",
-      "summary": "OpenAI has cut live web access from all training of its most advanced AI models. The models now browse and search a cached copy of the web instead, the company wrote in a blog post on Friday. “Based on the current state of alignment resear…",
-      "link": "https://thenextweb.com/news/openai-frontier-training-no-live-internet",
-      "date": "2026-10-24T10:30:20.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/sam-altman-on-stage-openai-logo-devday-2026.avif"
     },
     {
       "source": "ET Tech",
@@ -705,16 +735,6 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "date": "2026-10-22T22:08:24.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "MIT Tech Review",
       "title": "Designing an AI serving harness built to last",
       "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capabil…",
@@ -883,16 +903,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "China’s DeepSeek raises $15 billion to challenge top US AI labs",
-      "summary": "The firm boosted its financing target at least twice as it talked with investors, from 50 billion yuan to 80 billion yuan before reaching the final tally, according to people familiar with the matter",
-      "link": "https://www.thehindubusinessline.com/info-tech/chinas-deepseek-raises-15-billion-to-challenge-top-us-ai-labs/article71610521.ece",
-      "date": "2026-10-22T07:40:48.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://bl-i.thgim.com/public/incoming/dm9adj/article71603258.ece/alternates/LANDSCAPE_1200/2026-09-24T063000Z_238953988_RC2GXCAXA42E_RTRMADP_3_DEEPSEEK-REVENUE.JPG"
     },
     {
       "source": "OpenAI",
@@ -1865,26 +1875,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
