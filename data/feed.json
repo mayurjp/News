@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T01:13:01.251Z",
-  "count": 182,
+  "updated": "2026-10-25T06:11:58.757Z",
+  "count": 180,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -50,6 +50,36 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "Analytics Vidhya",
+      "title": "Kimi K3.1 Pro Review: Near-Opus Quality at 1/5th the Cost",
+      "summary": "Claude Opus 5.5 and GPT-6 Astra are strong performers in coding and complex reasoning. But how does Kimi K3.1 Pro compare? Moonshot AI’s latest model delivers competitive coding-agent benchmark results, a 1-million-token context window, an…",
+      "link": "https://www.analyticsvidhya.com/blog/2026/10/kimi-k3-1-pro-review/",
+      "date": "2026-10-25T04:03:03.000Z",
+      "category": "Research",
+      "region": "China",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Will AI-powered open-door vending machines reshape Hong Kong’s retail landscape?",
+      "summary": "Sherry Shum has embraced a new shopping routine after finding a smart vending machine near her home in Chai Wan. The 37-year-old retail worker uses her phone to scan a QR code, opens the smart machine’s door, picks up a bottle of Coca-Cola…",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372024/will-ai-powered-open-door-vending-machines-reshape-hong-kongs-retail-landscape",
+      "date": "2026-10-25T04:00:15.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/24/b1b51130-bbad-4b6e-80e9-5a2095fd029d_6d3a631b.jpg?itok=fqMTAvr4&v=1792836292"
+    },
+    {
+      "source": "Japan Times",
+      "title": "‘Tech debt coming due’: AI-found flaw signals chaos ahead",
+      "summary": "The vulnerability to potential hackers was found by using a model from OpenAI in one of the most high-profile demonstration of AI's cybercapabilities.",
+      "link": "https://www.japantimes.co.jp/business/2026/10/25/tech/ai-flaw-tech-debt/",
+      "date": "2026-10-25T01:33:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570298.jpg"
+    },
     {
       "source": "SCMP Tech",
       "title": "Singapore embraces AI for cyber defence, with one caveat: breach transparency",
@@ -253,16 +283,6 @@
       ]
     },
     {
-      "source": "SCMP Tech",
-      "title": "Israeli election campaign turns ugly with jibes, attacks against candidates",
-      "summary": "Days ahead of close-fought Israeli elections, campaigns have gone into overdrive with poor-taste jibes and inflammatory attacks against candidates, sometimes crossing red lines. Fuelled in part by a boom in AI-generated images flooding soc…",
-      "link": "https://www.scmp.com/news/world/middle-east/article/3371998/israeli-election-campaign-turns-ugly-jibes-attacks-against-candidates",
-      "date": "2026-10-24T04:30:10.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/24/96a9c5a9-f7cd-4f8a-a98e-e9f141be3c2a_842ec433.jpg?itok=DjzL6ASm&v=1792814729"
-    },
-    {
       "source": "ET Tech",
       "title": "Why AI data centers are powering a boom in fuel-cell demand",
       "summary": "A fuel cell generates electricity through a chemical reaction between a fuel, such as natural gas or hydrogen, and oxygen, converting the fuel's energy directly into electricity rather than burning it.",
@@ -297,16 +317,6 @@
           "link": "https://siliconangle.com/2026/10/23/three-insights-agentic-ai-security-cyber-resilience-oracleaicybersecurity/"
         }
       ]
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
-      "summary": "China’s access to artificial intelligence computing power will double next year, but US-designed chips will account for about 65 per cent of that capacity, an indication of its continued reliance on foreign hardware, according to new resea…",
-      "link": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
-      "date": "2026-10-24T01:00:11.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/23/30211de4-2fa4-4eda-b476-2eb3ca767f01_20cc0b43.jpg?itok=3FjjBZis&v=1792747377"
     },
     {
       "source": "SiliconANGLE",
@@ -1547,16 +1557,6 @@
       "image": null
     },
     {
-      "source": "Analytics Vidhya",
-      "title": "LLM Batching Explained: Static vs Dynamic vs Continuous Batching",
-      "summary": "Imagine four people booking a ride to the same destination. If each person takes a separate taxi, four vehicles make the same trip. But if they travel together in a bus, everyone reaches the destination in a single trip. The bus carries mo…",
-      "link": "https://www.analyticsvidhya.com/blog/2026/10/llm-batching/",
-      "date": "2026-10-12T06:19:14.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Google AI",
       "title": "Introducing Playground: Create and play custom games",
       "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
@@ -1875,26 +1875,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
