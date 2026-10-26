@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T14:19:02.654Z",
-  "count": 193,
+  "updated": "2026-10-26T20:31:18.647Z",
+  "count": 188,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,29 +51,219 @@
   ],
   "items": [
     {
-      "source": "The Next Web",
-      "title": "OpenAI’s discounts win Anthropic customers, The Information reports",
-      "summary": "Replit moved most of its AI spending from Anthropic to OpenAI in recent months after OpenAI offered a discount of more than 30%, The Information reported on Saturday. The contract is worth over $100M a year, a person familiar with the deal…",
-      "link": "https://thenextweb.com/news/openai-discounts-anthropic-customers-replit-rippling",
-      "date": "2026-10-26T14:17:22.000Z",
+      "source": "Ars Technica AI",
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "summary": "Included is the ability to limit which applications Siri can directly access.",
+      "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+      "date": "2026-10-26T20:04:16.000Z",
       "category": "News",
       "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/amjad-masad-replit-techcrunch-disrupt-2026-stage.avif"
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Siri-AI-1152x648.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Cisco’s Privileged Infrastructure Access ties admin and AI agent privileges to the task",
+      "summary": "Cisco Systems Inc. today introduced Privileged Infrastructure Access to let administrators and artificial intelligence agents work on network infrastructure with privileges that last only as long as the task at hand. The release goes after…",
+      "link": "https://siliconangle.com/2026/10/26/ciscos-privileged-infrastructure-access-ties-admin-and-ai-agent-privileges-to-the-task/",
+      "date": "2026-10-26T20:00:13.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/ciscosystems.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Cisco expands AI-driven network management and offers new partner incentives",
+      "summary": "Cisco Systems Inc. today announced enhancements to its partner program as well as to its infrastructure management and security portfolio, including new artificial intelligence capabilities, automated network monitoring and tools to help e…",
+      "link": "https://siliconangle.com/2026/10/26/cisco-expands-ai-driven-network-management-and-offers-new-partner-incentives/",
+      "date": "2026-10-26T20:00:12.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2024/10/cisco.png"
     },
     {
       "source": "The Next Web",
-      "title": "Apollo’s Slok says US companies now treat AI spending as a cost, not growth",
-      "summary": "Artificial intelligence has delivered “zero financial payoff” to corporate America outside the tech sector. That is the finding of Torsten Slok, chief economist at Apollo Global Management, in a note on Saturday. Slok compared the Magnific…",
-      "link": "https://thenextweb.com/news/apollo-ai-payoff-outside-tech-slok",
-      "date": "2026-10-26T14:05:15.000Z",
+      "title": "Elon Musk says debt markets have shut out neoclouds and few will survive",
+      "summary": "Shares in CoreWeave, Nebius and Iren fell in early trading on Monday after Elon Musk wrote that most neoclouds will not survive. All three rebounded later in the day, as Arjun Kharpal reported for CNBC. Neoclouds rent out AI computing powe…",
+      "link": "https://thenextweb.com/news/elon-musk-neoclouds-guppy-level-death-debt-markets",
+      "date": "2026-10-26T19:58:32.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/elon-musk-us-flags-new-golden-age-summit-white-house.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI launches GPT-6.1 Terra, a cheaper model for everyday computer work",
+      "summary": "OpenAI on Monday released GPT-6.1 Terra, a faster and cheaper AI model built for the routine computer work that fills most office days. It replaces GPT-5.6 Terra and sits in the middle of OpenAI’s range, below Sol and Astra but above Luna.…",
+      "link": "https://thenextweb.com/news/openai-gpt-6-1-terra-computer-use",
+      "date": "2026-10-26T19:49:19.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/gpt-6-1-terra-earth-globe-launch-art.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "SWI Compute plans a 530MW Nvidia AI factory campus in the UK",
+      "summary": "SWI Group, the Amsterdam-listed investment group, has launched SWI Compute to build and run Nvidia AI factories, starting in Europe. The new business has ordered about $1bn of Nvidia systems and plans its first large site in the UK. That U…",
+      "link": "https://thenextweb.com/news/swi-compute-nvidia-ai-factories-europe-uk-530mw",
+      "date": "2026-10-26T19:22:33.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/10/swi-stoneweg-icona-group-logo-server-rack.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "UK puts £130m into AI cyber defence in a £600m+ AI package",
+      "summary": "The UK government will spend £130m on AI cyber defence, including a National Cyber Shield that uses agentic AI to protect critical infrastructure. The money is part of a package of more than £600m for AI that the Chancellor, John Healey, w…",
+      "link": "https://thenextweb.com/news/uk-130m-ai-cyber-defence-national-cyber-shield-budget",
+      "date": "2026-10-26T19:02:32.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/10/hm-treasury-goods-entrance-sign-westminster-street.avif"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+      "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+      "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+      "date": "2026-10-26T18:50:41.000Z",
       "category": "News",
       "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/new-york-stock-exchange-entrance-wall-street-sign.avif"
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg"
+    },
+    {
+      "source": "MIT Tech Review",
+      "title": "Will the real Anthropic please stand up",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (1…",
+      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "date": "2026-10-26T17:45:43.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+      "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+      "date": "2026-10-26T17:26:36.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-1152x648-1793033307.jpeg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "date": "2026-10-26T16:49:42.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest commit…",
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "date": "2026-10-26T16:46:36.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI drives productivity, but fails to spark broad based growth in IT",
+      "summary": "AI is becoming increasingly embedded in service delivery, operations, software engineering, and business transformation programs, with providers reporting higher levels of AI-related demand and stronger disclosure of AI business metrics",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-drives-productivity-but-fails-to-spark-broad-based-growth-in-it/article71627869.ece",
+      "date": "2026-10-26T16:06:37.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/hsgezk/article71627973.ece/alternates/LANDSCAPE_1200/IMG_iStock-1495043596_6_1_DJCVAG70.jpg"
+    },
+    {
+      "source": "Wired AI",
+      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+      "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+      "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+      "date": "2026-10-26T16:01:55.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6adf6d7844b1eb496ab79957/master/pass/Business_The%20Anthropic%20IPO%20Is%20Also%20a%20Doomsday%20Primer_v1.jpg"
+    },
+    {
+      "source": "Google AI",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "date": "2026-10-26T16:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Marvell’s early chipmaking gamble pays off amid AI demand",
+      "summary": "Eight years ago, chipmaker Marvell Technology Inc. decided to play leapfrog with nanometers, and its trajectory has been steadily upward since. In semiconductor manufacturing, nanometer designations identify generations of chipmaking techn…",
+      "link": "https://siliconangle.com/2026/10/26/ai-architectures-marvell-data-center-thecube-aifactoriesdatacenters/",
+      "date": "2026-10-26T15:58:44.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Will-Chu-EVP-and-GM-at-Marvell-Technology-and-David-Lazovsky-EVP-and-GM-at-Marvell-Technology-AI-Factories-2026.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
+      "summary": "Artificial intelligence giant Anthropic PBC filed papers today for an initial public offering with the U.S. Securities and Exchange Commission, putting it on track for what will likely be the biggest stock market debut of an AI developer t…",
+      "link": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/",
+      "date": "2026-10-26T15:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2025/01/Anthropic.png"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+      "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
+      "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+      "date": "2026-10-26T14:50:47.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6adf6c00ca47359863df5ba5/master/pass/102626-Anthropic%20IPO.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Amaravati to host NIELIT’s ‘Quantum and AI University Campus’",
+      "summary": "NVIDIA to associate with AI Living Labs initiative",
+      "link": "https://www.thehindubusinessline.com/info-tech/amaravati-to-host-nielits-quantum-and-ai-university-campus/article71627643.ece",
+      "date": "2026-10-26T14:42:13.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/7s7zb4/article71627886.ece/alternates/LANDSCAPE_1200/Edit_second-leaGMSGL1KSQ.3.jpg.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic officially files for its public debut",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "date": "2026-10-26T14:35:22.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+      "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+      "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+      "date": "2026-10-26T14:30:27.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-1152x648.jpg"
     },
     {
       "source": "SCMP Tech",
       "title": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
-      "summary": "Anthropic disclosed steep losses and red-hot revenue growth in ⁠its US IPO filing on Monday, as it laid out its ambition to build AI systems capable of reshaping the global economy despite the high costs of developing the technology. The p…",
+      "summary": "Anthropic disclosed steep losses and explosive revenue growth on ⁠Monday as the Claude parent moved closer to a potentially record-breaking IPO, betting on AI’s ability to reshape the global economy. The listing is shaping up to be a major…",
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3372202/anthropics-ipo-filing-shows-explosive-growth-risks-and-staggering-costs",
       "date": "2026-10-26T13:53:04.000Z",
       "category": "Business & Funding",
@@ -99,36 +289,6 @@
       "category": "Business & Funding",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/incoming/fi17wi/article71626528.ece/alternates/LANDSCAPE_1200/IMG_UK_DATA_2_1_EFCKRACJ.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "American Express cuts 5% of staff and won’t let AI agents ‘run rogue’",
-      "summary": "American Express is cutting about 5% of its global workforce and taking a $336M restructuring charge. Chief executive Stephen Squeri told analysts about the cuts on Friday, CNBC’s Hugh Son reported. The company had almost 77,000 employees…",
-      "link": "https://thenextweb.com/news/amex-job-cuts-ai-agents-run-rogue",
-      "date": "2026-10-26T13:01:20.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/american-express-app-iphone-wooden-desk.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Verizon raises 2026 forecast and signs $2bn AI deal with AWS",
-      "summary": "Verizon raised its forecasts for 2026 on Monday after a strong quarter for new phone customers. It also announced a deal worth more than $2bn with Amazon Web Services (AWS) to support AI workloads. Under the AWS agreement, Verizon will pro…",
-      "link": "https://thenextweb.com/news/verizon-aws-ai-deal-2026-forecast",
-      "date": "2026-10-26T12:51:25.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/verizon-store-front-red-logo.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Goldman Sachs puts $500M into small-business AI with four AI labs",
-      "summary": "Goldman Sachs is putting $500M into the next phase of its 10,000 Small Businesses programme, including a new AI institute built with Anthropic, Google, Meta and OpenAI. At the launch, its chief executive said there is very little that need…",
-      "link": "https://thenextweb.com/news/goldman-sachs-frontier-models-small-business-ai-institute-500m",
-      "date": "2026-10-26T12:46:01.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/goldman-sachs-tower-jersey-city-hudson-river-aerial.avif"
     },
     {
       "source": "MediaNama",
@@ -161,16 +321,6 @@
       "image": "https://img.etimg.com/photo/msid-135212202,imgsize-50984.cms"
     },
     {
-      "source": "The Next Web",
-      "title": "Sam Altman says AI means we can no longer just patch all the bugs",
-      "summary": "Sam Altman says patching software flaws one by one will no longer keep up with AI-driven attacks. The OpenAI chief executive spoke to students at Stanford Graduate School of Business last week. Defenders will need a new kind of shield, he…",
-      "link": "https://thenextweb.com/news/sam-altman-patch-all-the-bugs-ai-cybersecurity-stanford",
-      "date": "2026-10-26T12:17:54.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/sam-altman-grey-sweater-stage-openai-logo-devday-2026.avif"
-    },
-    {
       "source": "SiliconANGLE",
       "title": "Exclusive: iMerit launches platform to connect AI developers with specialized domain experts",
       "summary": "IMerit Technology Service Pvt Ltd., a provider of data annotation and artificial intelligence training services that was acquired by ExlService Holdings Inc. in July, today launched a platform to help AI developers recruit and manage speci…",
@@ -179,26 +329,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2023/10/hand-3685829_1280.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Mistral’s Mensch warns Europe of ‘leftovers’ if it quits frontier AI",
-      "summary": "Mistral’s chief executive, Arthur Mensch, has warned that Europe will get “leftovers” if it stops building frontier AI models. Apps built on American or Chinese models would also give Europe a “big trade balance problem”, he said on 20 Oct…",
-      "link": "https://thenextweb.com/news/frontier-ai-europe-mistral-mensch-deepl",
-      "date": "2026-10-26T11:48:35.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/10/arthur-mensch-mistral-ceo-hand-on-neck-raise-summit-paris.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Meta launches $35bn share sale to fund its AI spending",
-      "summary": "Meta launched two share offerings worth about $35bn on Monday, as it looks for new ways to pay for its growing spending on AI. The larger offering is $22.5bn of Class A common stock sold through forward sale agreements. Under these deals,…",
-      "link": "https://thenextweb.com/news/meta-35bn-stock-offering-ai",
-      "date": "2026-10-26T11:43:32.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/meta-logo-terracotta-tile-wall-arch.avif"
     },
     {
       "source": "Japan Times",
@@ -239,6 +369,16 @@
       "category": "News",
       "region": "Global",
       "image": "https://fastly.restofworld.org/uploads/2026/10/Ai-Cost-Languages-3-scaled.png?width=160&dpr=2&crop=1:1"
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT’s expanding world of work",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "date": "2026-10-26T10:00:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
     },
     {
       "source": "Analytics Vidhya",
@@ -351,6 +491,26 @@
       "image": null
     },
     {
+      "source": "OpenAI",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "date": "2026-10-26T07:00:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "link": "https://openai.com/index/openai-cut-incident-investigation",
+      "date": "2026-10-26T07:00:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Hindu BusinessLine",
       "title": "AI adoption rises sharply among US small businesses, but technical expertise remains key challenge: Goldman Sachs",
       "summary": "The report highlighted a sharp rise in AI adoption among graduates of the Goldman Sachs 10,000 Small Businesses programme",
@@ -397,16 +557,6 @@
       "image": "https://img.etimg.com/photo/msid-135201920,imgsize-254700.cms"
     },
     {
-      "source": "SCMP Tech",
-      "title": "100 million views: why China’s viral AI rap track has struck a chord",
-      "summary": "An AI-generated Chinese rap song featuring some of the country’s most well-known historical figures has taken social media by storm. Titled “The OGs”, the track crossed 100 million views across platforms in less than two weeks as it tapped…",
-      "link": "https://www.scmp.com/news/china/article/3372086/100-million-views-why-chinas-viral-ai-rap-track-has-struck-chord",
-      "date": "2026-10-26T03:00:24.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/25/6fbe19ff-330b-4e3e-9426-5fb6150a19f7_87691e7d.jpg?itok=JHIsjxYk&v=1792935483"
-    },
-    {
       "source": "ET Tech",
       "title": "Elon Musk says SpaceX raised $40 billion in debt for GPUs",
       "summary": "Musk's post comes after Reuters reported earlier this month that SpaceX is in talks with banks and asset managers to raise $40 billion for the purchase of ​Nvidia artificial intelligence chips.",
@@ -427,16 +577,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-25768/135201109.cms"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Alibaba Cloud founder on how AI can unlock human potential",
-      "summary": "Long before artificial intelligence became the next big thing in the tech industry, Wang Jian was crafting the foundational infrastructure that would eventually power it. In 2008, he joined Alibaba Group Holding – owner of the South China…",
-      "link": "https://www.scmp.com/plus/tech/tech-trends/article/3372106/alibaba-cloud-founder-how-ai-can-unlock-human-potential",
-      "date": "2026-10-26T02:26:16.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/26/863216f6-e3c4-423e-8d76-1d991972615d_96431c75.jpg?itok=oYeK-ngH&v=1792981574"
-    },
-    {
       "source": "ET Tech",
       "title": "Unacademy founders plan AI fund; Flipkart’s premium push",
       "summary": "Happy Monday! Unacademy’s founders are raising a fund focused on AI and deeptech. This and more in today’s ETtech Morning Dispatch.",
@@ -445,16 +585,6 @@
       "category": "News",
       "region": "India",
       "image": "https://img.etimg.com/photo/msid-135200550,imgsize-456188.cms"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Weapon or armour? The contentious debate over China’s open-weight AI",
-      "summary": "Are China’s increasingly powerful open-weight AI models a cybersecurity threat, or could restricting them ultimately make the internet less secure? The dilemma has become a growing concern as Chinese developers including DeepSeek, Z.ai and…",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3371961/weapon-or-armour-contentious-debate-over-chinas-open-weight-ai",
-      "date": "2026-10-26T02:00:12.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/23/47af3891-b97b-4a79-9180-d425e3161cb4_ea798425.jpg?itok=N6mLtOrn&v=1792757363"
     },
     {
       "source": "SiliconANGLE",
@@ -475,6 +605,16 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-26-07-27-20.png"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-6.1 Terra",
+      "summary": "Bringing fast and capable computer use to everyone",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "date": "2026-10-26T00:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "TechCrunch AI",
@@ -548,6 +688,16 @@
     },
     {
       "source": "TechCrunch AI",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "date": "2026-10-24T20:15:33.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -569,7 +719,7 @@
     {
       "source": "TechCrunch AI",
       "title": "Block’s new voice model sounds eerily human",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
       "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
       "date": "2026-10-24T16:00:00.000Z",
       "category": "News",
@@ -584,16 +734,6 @@
       "date": "2026-10-24T15:00:00.000Z",
       "category": "News",
       "region": "United States",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "date": "2026-10-24T14:00:00.000Z",
-      "category": "News",
-      "region": "Global",
       "image": null
     },
     {
@@ -634,13 +774,7 @@
       "date": "2026-10-24T03:52:19.000Z",
       "category": "News",
       "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Charlotte-Wylie-scaled.jpg",
-      "relatedSources": [
-        {
-          "source": "SiliconANGLE",
-          "link": "https://siliconangle.com/2026/10/23/three-insights-agentic-ai-security-cyber-resilience-oracleaicybersecurity/"
-        }
-      ]
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Charlotte-Wylie-scaled.jpg"
     },
     {
       "source": "SiliconANGLE",
@@ -663,26 +797,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Anthropic.png"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "date": "2026-10-23T23:05:49.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "date": "2026-10-23T21:59:19.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Updated Google privacy policy says your Gmail might be used for advertising",
       "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
@@ -701,66 +815,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://www.livemint.com/lm-img/img/2026/10/23/1600x900/logo/hmd_senior_edition_1792785925843_yv1C_1792785934697_L1PA_989cd29f-7c02-47c3-ad10-a7f8b2425bb7_NUU8.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "AI drug development startup Pathos AI closes $237M investment",
-      "summary": "Pathos AI Inc. today announced that it has raised $237 million in funding at a $3 billion valuation. Pharmaceutical giant Bristol Myers Squibb Co. led the Series E round with participation from several unnamed returning backers. Pathos’ in…",
-      "link": "https://siliconangle.com/2026/10/23/ai-drug-development-startup-pathos-ai-closes-237m-investment/",
-      "date": "2026-10-23T20:02:03.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Unsplash3.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Hybrid infrastructure decisions put AI costs and control in focus",
-      "summary": "Enterprise artificial intelligence is entering a cost-conscious phase, and hybrid infrastructure is where that reckoning plays out. As inference spending climbs, business leaders are weighing where models run, which models they use and how…",
-      "link": "https://siliconangle.com/2026/10/23/hybrid-infrastructure-costs-push-ai-inference-edge-dellnewyorksymposium/",
-      "date": "2026-10-23T19:58:58.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/cube-image-3-1-e1792402201925.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "What to expect during Intuit Connect: Join theCUBE Oct. 28",
-      "summary": "Will bringing automation into the financial industry prove disastrous or transformative? Intuit Inc., the financial technology company behind Credit Karma, QuickBooks and TurboTax, sees artificial intelligence as the next frontier of finan…",
-      "link": "https://siliconangle.com/2026/10/23/finance-ai-automation-intuitconnect/",
-      "date": "2026-10-23T19:29:54.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Intuit-Connect-2026.png"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scali…",
-      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "date": "2026-10-23T19:06:23.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "AI-discovered software flaws could trigger more internet disruptions, experts warn",
-      "summary": "Cybersecurity experts warn that artificial intelligence is accelerating the discovery and exploitation of software flaws, leaving organisations less time to respond",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-discovered-software-flaws-could-trigger-more-internet-disruptions-experts-warn/article71617719.ece",
-      "date": "2026-10-23T18:44:09.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/iyh5su/article71617724.ece/alternates/LANDSCAPE_1200/2026-10-22T221858Z_517248731_RC2L8OA5AAZD_RTRMADP_3_CYBERSECURITY-PHP.JPG"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "AI law consultation paper coming soon, says Ashwini Vaishnaw",
-      "summary": "The government is preparing regulatory and manufacturing initiatives spanning artificial intelligence, mobile phones and semiconductors, with consultations and projects planned.",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-law-consultation-paper-coming-soon-says-ashwini-vaishnaw/article71617596.ece",
-      "date": "2026-10-23T17:22:27.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/cew0un/article71617607.ece/alternates/LANDSCAPE_1200/CABINET%20PC%20ASHWINI%203.JPG"
     },
     {
       "source": "Ars Technica AI",
@@ -1163,26 +1217,6 @@
       "image": null
     },
     {
-      "source": "Wired AI",
-      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-      "date": "2026-10-21T22:39:50.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.wired.com/photos/6ad9408768bf72427a051c89/master/pass/WIRED_Business_Mark-Z_CA.jpg"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Broad access through consistent standards",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "link": "https://openai.com/index/broad-access-through-consistent-standards",
-      "date": "2026-10-21T21:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "The Register AI",
       "title": "Reach new heights of laziness by burning tokens to let an AI tap your smartphone screen for you",
       "summary": "Nothing will ruin your faith in humanity like an AI that operates your smartphone slowly, struggles with basic tasks, and can charge you for it",
@@ -1210,13 +1244,7 @@
       "date": "2026-10-21T18:51:42.000Z",
       "category": "News",
       "region": "United States",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Google-cloud-IO-1152x648.jpg",
-      "relatedSources": [
-        {
-          "source": "OpenAI",
-          "link": "https://openai.com/index/openai-models-google-cloud"
-        }
-      ]
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Google-cloud-IO-1152x648.jpg"
     },
     {
       "source": "Hugging Face",
@@ -1249,16 +1277,6 @@
       "image": null
     },
     {
-      "source": "OpenAI",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "link": "https://openai.com/index/att-legal",
-      "date": "2026-10-21T17:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Hugging Face",
       "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
       "summary": "",
@@ -1267,26 +1285,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Wired AI",
-      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
-      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
-      "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
-      "date": "2026-10-21T16:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6ad8079d19d8dd7213438cc0/master/pass/business_ai_lab_recursive_improvement.jpg"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
-      "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-      "date": "2026-10-21T15:14:07.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-1152x648.jpg"
     },
     {
       "source": "Hugging Face",
@@ -1319,16 +1317,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2.jpg"
     },
     {
-      "source": "OpenAI",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "date": "2026-10-21T07:00:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Google AI",
       "title": "Southeast Asia’s digital economy to hit $368 billion",
       "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
@@ -1347,36 +1335,6 @@
       "category": "News",
       "region": "India",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-36778/135079969.cms"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-      "date": "2026-10-20T20:07:58.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134-1152x648.jpg"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Gemini's Personal Intelligence is coming to cars",
-      "summary": "It's probably time to audit your Gemini settings.",
-      "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-      "date": "2026-10-20T20:00:33.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-gemini-android-auto-1152x648.png"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
-      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-      "date": "2026-10-20T18:22:54.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ukraine-drone-evacuation-1152x648.jpg"
     },
     {
       "source": "MIT Tech Review",
@@ -1445,16 +1403,6 @@
       "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
       "date": "2026-10-19T18:22:47.000Z",
       "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "MIT Tech Review",
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, spa…",
-      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-      "date": "2026-10-19T17:45:55.000Z",
-      "category": "News",
       "region": "Global",
       "image": null
     },
@@ -1823,16 +1771,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "Google AI",
-      "title": "AI for Societal Impact",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "date": "2026-09-15T16:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"
     },
     {
       "source": "The Register AI",
