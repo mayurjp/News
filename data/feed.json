@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T01:13:54.586Z",
-  "count": 182,
+  "updated": "2026-10-26T06:21:32.296Z",
+  "count": 184,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,12 +44,145 @@
     "India",
     "China",
     "Europe",
+    "Japan",
     "South Korea",
     "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "ET Tech",
+      "title": "From Carnegie to Claude: AI wealth could reshape philanthropy",
+      "summary": "A wave of American wealth created by artificial intelligence companies could produce some of the largest charitable sums since the era of Andrew Carnegie and John D. Rockefeller, raising questions about where the money goes. Nan Ransohoff…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-carnegie-to-claude-ai-wealth-could-reshape-philanthropy/articleshow/135203704.cms",
+      "date": "2026-10-26T05:32:09.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-135203704,imgsize-2633378.cms",
+      "relatedSources": [
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/10/26/ai-philanthropy-anthropic-openai/"
+        }
+      ]
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
+      "summary": "“Claude didn’t access the state’s ‌voter registration system or change ‌or ⁠pull any voting ⁠records,” Anthropic said",
+      "link": "https://www.thehindubusinessline.com/info-tech/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall/article71625478.ece",
+      "date": "2026-10-26T03:49:55.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/ebtput/article71625562.ece/alternates/LANDSCAPE_1200/2026-10-20T194121Z_1434364891_RC2B6OA0P2UI_RTRMADP_3_ANTHROPIC-IPO-INVESTORS.JPG",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall/articleshow/135201024.cms"
+        }
+      ]
+    },
+    {
+      "source": "ET Tech",
+      "title": "Talent, compute and R&D key to India's AI ambitions: Report",
+      "summary": "India will need to strengthen its talent pool, research and development (R&D) capabilities, computing infrastructure and data systems to translate advances in artificial intelligence (AI) and other emerging technologies into economic and s…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talent-compute-and-rd-key-to-indias-ai-ambitions-report/articleshow/135201920.cms",
+      "date": "2026-10-26T03:23:49.000Z",
+      "category": "Research",
+      "region": "India",
+      "image": "https://img.etimg.com/photo/msid-135201920,imgsize-254700.cms"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "100 million views: why China’s viral AI rap track has struck a chord",
+      "summary": "An AI-generated Chinese rap song featuring some of the country’s most well-known historical figures has taken social media by storm. Titled “The One Who’s Been There” (Guo Lai Ren), the track crossed 100 million views across platforms in l…",
+      "link": "https://www.scmp.com/news/china/article/3372086/100-million-views-why-chinas-viral-ai-rap-track-has-struck-chord",
+      "date": "2026-10-26T03:00:24.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/25/6fbe19ff-330b-4e3e-9426-5fb6150a19f7_87691e7d.jpg?itok=JHIsjxYk&v=1792935483"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Elon Musk says SpaceX raised $40 billion in debt for GPUs",
+      "summary": "Musk's post comes after Reuters reported earlier this month that SpaceX is in talks with banks and asset managers to raise $40 billion for the purchase of ​Nvidia artificial intelligence chips.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-says-spacex-raised-40-billion-in-debt-for-gpus/articleshow/135201386.cms",
+      "date": "2026-10-26T02:54:55.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-135201386,imgsize-29794.cms"
+    },
+    {
+      "source": "ET CIO",
+      "title": "The operations advantage: Why process transformation matters in the AI era",
+      "summary": "In recent years, many Indian companies have begun to integrate AI technologies, yet a majority still utilize these tools without adequately adjusting their operational frameworks. To truly harness the potential of AI, organizations must un…",
+      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/the-operations-advantage-why-process-transformation-matters-in-the-ai-era/135201109",
+      "date": "2026-10-26T02:40:40.000Z",
+      "category": "Product",
+      "region": "India",
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-25768/135201109.cms"
+    },
+    {
+      "source": "Japan Times",
+      "title": "Yen becoming more favorable hedge against AI market shock, says Goldman Sachs",
+      "summary": "The currency surged 0.9% against the dollar and reached its strongest level in over a month last week amid concerns over the technology boom.",
+      "link": "https://www.japantimes.co.jp/business/2026/10/26/markets/yen-hedge-against-ai-market-shock/",
+      "date": "2026-10-26T02:34:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/26/thumbs/400x400/570451.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Alibaba Cloud founder on how AI can unlock human potential",
+      "summary": "Long before artificial intelligence became the next big thing in the tech industry, Wang Jian was crafting the foundational infrastructure that would eventually power it. In 2008, he joined Alibaba Group Holding – owner of the South China…",
+      "link": "https://www.scmp.com/plus/tech/tech-trends/article/3372106/alibaba-cloud-founder-how-ai-can-unlock-human-potential",
+      "date": "2026-10-26T02:26:16.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/26/863216f6-e3c4-423e-8d76-1d991972615d_96431c75.jpg?itok=oYeK-ngH&v=1792981574"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Unacademy founders plan AI fund; Flipkart’s premium push",
+      "summary": "Happy Monday! Unacademy’s founders are raising a fund focused on AI and deeptech. This and more in today’s ETtech Morning Dispatch.",
+      "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms",
+      "date": "2026-10-26T02:04:54.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://img.etimg.com/photo/msid-135200550,imgsize-456188.cms"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Weapon or armour? The contentious debate over China’s open-weight AI",
+      "summary": "Are China’s increasingly powerful open-weight AI models a cybersecurity threat, or could restricting them ultimately make the internet less secure? The dilemma has become a growing concern as Chinese developers including DeepSeek, Z.ai and…",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3371961/weapon-or-armour-contentious-debate-over-chinas-open-weight-ai",
+      "date": "2026-10-26T02:00:12.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/23/47af3891-b97b-4a79-9180-d425e3161cb4_ea798425.jpg?itok=N6mLtOrn&v=1792757363"
+    },
+    {
+      "source": "Japan Times",
+      "title": "SoftBank’s Son plans $50 billion Malaysia tech outlay, PM Anwar Ibrahim says",
+      "summary": "A push in Malaysia would expand SoftBank's reach in Southeast Asia, a region that is emerging as a key hub for AI infrastructure such as data centers.",
+      "link": "https://www.japantimes.co.jp/business/2026/10/26/softbank-malaysia-data-center-investments/",
+      "date": "2026-10-26T01:34:00.000Z",
+      "category": "Business & Funding",
+      "region": "Japan",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/26/thumbs/400x400/570457.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Apollo analysis shows no one besides the biggest tech giants is seeing benefits from AI",
+      "summary": "Despite all of the hype and the multiple millions of dollars invested in artificial intelligence, most of corporate America outside of its biggest technology firms is yet to see any financial payoff, according to an analysis by one of the…",
+      "link": "https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/",
+      "date": "2026-10-26T01:31:12.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-26-08-34-51.png"
+    },
     {
       "source": "SCMP Tech",
       "title": "China shoots ahead on AI video models",
@@ -69,6 +202,16 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-26-07-27-20.png"
+    },
+    {
+      "source": "Japan Times",
+      "title": "AI spending fears threaten to swamp Big Tech’s strong earnings",
+      "summary": "Based on the violent market reaction to Meta's rising capital expenditures last week, the response to any disappointment likely won't be forgiving.",
+      "link": "https://www.japantimes.co.jp/business/2026/10/26/ai-spending-tech-earnings/",
+      "date": "2026-10-25T22:55:00.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/26/thumbs/400x400/570449.jpg"
     },
     {
       "source": "SCMP Tech",
@@ -201,16 +344,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/10/25/1600x900/logo/pexels-photo-8279214_1792918572227_Pqdm_1792918589869_nK09_574e3e23-66e2-4fc4-b73e-dffff7dc88db_moFq.jpeg"
     },
     {
-      "source": "Japan Times",
-      "title": "Quiet quitting comes to India. AI will make it worse.",
-      "summary": "There is evidence that AI, while helping experts become more productive, is hollowing out the skills young people acquire early in their careers.",
-      "link": "https://www.japantimes.co.jp/commentary/2026/10/25/world/india-ai-quiet-quitting/",
-      "date": "2026-10-25T05:47:00.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/567596.jpg"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Kimi K3.1 Pro Review: Near-Opus Quality at 1/5th the Cost",
       "summary": "Claude Opus 5.5 and GPT-6 Astra are strong performers in coding and complex reasoning. But how does Kimi K3.1 Pro compare? Moonshot AI’s latest model delivers competitive coding-agent benchmark results, a 1-million-token context window, an…",
@@ -219,26 +352,6 @@
       "category": "Research",
       "region": "China",
       "image": null
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Will AI-powered open-door vending machines reshape Hong Kong’s retail landscape?",
-      "summary": "Sherry Shum has embraced a new shopping routine after finding a smart vending machine near her home in Chai Wan in Hong Kong. The 37-year-old retail worker uses her phone to scan a QR code, opens the smart machine’s door, picks up a bottle…",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372024/will-ai-powered-open-door-vending-machines-reshape-hong-kongs-retail-landscape",
-      "date": "2026-10-25T04:00:15.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/24/b1b51130-bbad-4b6e-80e9-5a2095fd029d_6d3a631b.jpg?itok=fqMTAvr4&v=1792836292"
-    },
-    {
-      "source": "Japan Times",
-      "title": "‘Tech debt coming due’: AI-found flaw signals chaos ahead",
-      "summary": "The vulnerability to potential hackers was found by using a model from OpenAI in one of the most high-profile demonstration of AI's cybercapabilities.",
-      "link": "https://www.japantimes.co.jp/business/2026/10/25/tech/ai-flaw-tech-debt/",
-      "date": "2026-10-25T01:33:00.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570298.jpg"
     },
     {
       "source": "TechCrunch AI",
@@ -351,16 +464,6 @@
       "image": "https://img.etimg.com/photo/msid-135162538,imgsize-1556338.cms"
     },
     {
-      "source": "ET Tech",
-      "title": "UK government sets out $800 million for AI security funding",
-      "summary": "The biggest chunk of funding will go to a new biosecurity initiative, including £100 million for a laboratory using AI to detect biological threats and £65 million to develop countermeasures against pathogens.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-government-sets-out-800-million-of-ai-security-funding/articleshow/135162312.cms",
-      "date": "2026-10-24T04:54:36.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://img.etimg.com/photo/msid-135162312,imgsize-1768250.cms"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "OpenAI resumes frontier AI training with enhanced security, no internet access",
       "summary": "Concerns are mounting over the ‌ability of increasingly capable AI agents to identify and ‌exploit software flaws, including in ‌guardrails",
@@ -368,49 +471,7 @@
       "date": "2026-10-24T04:45:43.000Z",
       "category": "Security & Cyber Risk",
       "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/f1vzmw/article71582128.ece/alternates/LANDSCAPE_1200/2026-10-13T200140Z_2047224655_RC2QRLARIBNM_RTRMADP_3_OPENAI-SPYING-FBI.JPG",
-      "relatedSources": [
-        {
-          "source": "ET Tech",
-          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/articleshow/135161388.cms"
-        }
-      ]
-    },
-    {
-      "source": "ET Tech",
-      "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
-      "summary": "PHP is a widely used general-purpose scripting language that is geared toward web development, and thus, it powers the majority of websites around the world. When the organization behind the language and the FBI's cyber division warned Wed…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet/articleshow/135162036.cms",
-      "date": "2026-10-24T04:44:25.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-135162036,imgsize-4682849.cms",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet-11792702139835.html"
-        }
-      ]
-    },
-    {
-      "source": "ET Tech",
-      "title": "Why AI data centers are powering a boom in fuel-cell demand",
-      "summary": "A fuel cell generates electricity through a chemical reaction between a fuel, such as natural gas or hydrogen, and oxygen, converting the fuel's energy directly into electricity rather than burning it.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/why-ai-data-centers-are-powering-a-boom-in-fuel-cell-demand/articleshow/135161365.cms",
-      "date": "2026-10-24T03:56:47.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-135161365,imgsize-172240.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
-      "summary": "Amazon CEO Andy Jassy said on Friday that Amazon Web Services' cloud computing capacity is largely sold out through 2027, with significant commitments extending into 2028, on growing demand for AI infrastructure.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says/articleshow/135161200.cms",
-      "date": "2026-10-24T03:53:58.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-135161200,imgsize-3531217.cms"
+      "image": "https://bl-i.thgim.com/public/incoming/f1vzmw/article71582128.ece/alternates/LANDSCAPE_1200/2026-10-13T200140Z_2047224655_RC2QRLARIBNM_RTRMADP_3_OPENAI-SPYING-FBI.JPG"
     },
     {
       "source": "SiliconANGLE",
@@ -585,16 +646,6 @@
       "image": null
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Managed services support keeps neocloud GPU capacity healthy",
-      "summary": "Neoclouds are multiplying as AI labs and enterprises hunt for dedicated graphics processing unit capacity, but standing up a cluster is only the start. For smaller providers, managed services support from hardware partners increasingly dec…",
-      "link": "https://siliconangle.com/2026/10/23/managed-services-support-keeps-neocloud-gpu-capacity-healthy-dellnewyorksymposium/",
-      "date": "2026-10-23T16:20:31.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Untitled.png"
-    },
-    {
       "source": "Hugging Face",
       "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
       "summary": "",
@@ -745,6 +796,16 @@
       "image": null
     },
     {
+      "source": "LiveMint Tech",
+      "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
+      "summary": "What to know about the AI-detected security bug impacting wide swaths of the internet",
+      "link": "https://www.livemint.com/technology/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet-11792702139835.html",
+      "date": "2026-10-22T20:48:59.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/23/1600x900/maxresdefault_1792716794281_ZFYs_1792716799805_yaDD_8d1eb025-25c5-4796-ba9a-5262dc22e7e5_S2MR.jpg"
+    },
+    {
       "source": "Wired AI",
       "title": "The Social Society Helping Women Join the AI Boom",
       "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
@@ -883,16 +944,6 @@
       "category": "Hardware & Infra",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Companies need to work on basic cyber controls before adopting AI, say IIT-M experts",
-      "summary": "In the corporate world specially, I would say basic cyber hygiene is missing, V Kamakoti, said, suggesting a need to build basic competence as first step",
-      "link": "https://www.thehindubusinessline.com/info-tech/companies-need-to-work-on-basic-cyber-controls-before-adopting-ai-say-iit-m-experts/article71610659.ece",
-      "date": "2026-10-22T08:22:43.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/news/lkww8l/article71610686.ece/alternates/LANDSCAPE_1200/IMG_0432.JPG.jpeg"
     },
     {
       "source": "Hugging Face",
@@ -1537,16 +1588,6 @@
       "image": "https://fastly.restofworld.org/uploads/2026/10/School-AI-UAE_5.jpg?width=160&dpr=2&crop=1:1"
     },
     {
-      "source": "ET CIO",
-      "title": "The AI race will be decided by who can safely unlock their data",
-      "summary": "As Indian enterprises increasingly embrace AI tools, the corresponding governance frameworks remain underdeveloped. It's imperative for companies to provide AI systems with access to essential data while safeguarding governance and securit…",
-      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/the-ai-race-will-be-decided-by-who-can-safely-unlock-their-data/134906061",
-      "date": "2026-10-13T02:30:00.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://etimg.etb2bimg.com/thumb/img-size-77228/134906061.cms"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "OpenAI Decisions API Tutorial for Building Decision Agents",
       "summary": "Imagine building an AI agent that has to decide whether a customer complaint needs human intervention, which department should handle a query, or whether a submitted delivery photo is valid. Getting these decisions right matters. A false p…",
@@ -1875,26 +1916,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
