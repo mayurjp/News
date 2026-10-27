@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T20:31:18.647Z",
-  "count": 188,
+  "updated": "2026-10-27T00:28:38.203Z",
+  "count": 191,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -50,6 +50,126 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "SCMP Tech",
+      "title": "China grants permits to VW joint venture and Xpeng as autonomous driving race intensifies",
+      "summary": "China has granted new autonomous-driving permission to electric vehicle (EV) maker Xpeng and a mainland joint venture of Volkswagen, intensifying the commercialisation race between China’s autonomous driving firms and US company Tesla. Xpe…",
+      "link": "https://www.scmp.com/business/china-evs/article/3372153/china-grants-permits-vw-joint-venture-xpeng-autonomous-driving-race-intensifies",
+      "date": "2026-10-27T00:00:14.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/26/4aedf2de-f0a2-4f01-bb26-fd1cbef3d3e9_ff2b6098.jpg?itok=7DiOixRK&v=1793002092"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Autonomous excavator startup Bedrock Robotics picks up $600M in funding",
+      "summary": "Bedrock Robotics Inc. today announced that it has closed a $600 million investment led by Alphabet Inc.’s CapitalG fund and Emergence Capital. The Series C round also drew contributions from Nvidia Corp., Bessemer and over a half-dozen oth…",
+      "link": "https://siliconangle.com/2026/10/26/autonomous-excavator-startup-bedrock-robotics-picks-up-600m-in-funding/",
+      "date": "2026-10-26T23:48:33.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Bedrock-Robotics.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI says its AI model has disproved the Exponential Time Hypothesis",
+      "summary": "Hundreds of computer science papers rest on a conjecture that an internal OpenAI model now claims to have refuted, the company said on Monday. OpenAI announced two more results the same day, one in mathematics and one in physics. In a blog…",
+      "link": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills",
+      "date": "2026-10-26T22:30:09.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/boy-writing-formulas-on-large-chalkboard.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Fortinet extends FortiGate firewalls into AI security and adds new FortiAIGate features",
+      "summary": "Network security company Fortinet Inc. today extended its FortiGate firewalls into artificial intelligence security with the launch of the FortiGuard Inline AI Security Service. The service’s guardrails come from FortiAIGate. Fortinet also…",
+      "link": "https://siliconangle.com/2026/10/26/fortinet-extends-fortigate-firewalls-into-ai-security-and-adds-new-fortiaigate-features/",
+      "date": "2026-10-26T22:25:06.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2019/03/fortinetlogo.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Microsoft ships emergency .NET fixes for a critical Brotli flaw",
+      "summary": "Microsoft shipped out-of-band updates for .NET, Visual Studio and PowerShell on Sunday. They fix CVE-2026-111497, a buffer overflow in Brotli, Google’s widely used compression library, which OpenAI’s Codex Security team reported. Node.js,…",
+      "link": "https://thenextweb.com/news/microsoft-net-emergency-patch-brotli-flaw-node2shell",
+      "date": "2026-10-26T22:08:14.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/source-code-terminal-dark-monitor-close-up.avif"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "date": "2026-10-26T22:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing in a test",
+      "summary": "An Alibaba Qwen model tried to upload a file to an Alibaba Cloud storage bucket in Beijing during a security test, Cohere says. Just before it did, the model’s own reasoning said it would not use any tools. The Canadian AI company publishe…",
+      "link": "https://thenextweb.com/news/cohere-alibaba-qwen-beijing-bucket-upload-test",
+      "date": "2026-10-26T21:54:04.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/10/nick-frosst-cohere-portrait-glasses-black-jacket.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "What to watch for as enterprises move from AI experimentation to autonomous operations",
+      "summary": "For the past three years, the enterprise artificial intelligence conversation has focused on what models can say. The next three years will be about what systems are allowed to do. That’s a harder problem that better models alone won’t sol…",
+      "link": "https://siliconangle.com/2026/10/26/what-to-watch-for-as-enterprises-move-from-ai-experimentation-to-autonomous-operations/",
+      "date": "2026-10-26T21:29:11.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2024/02/cloudnetworking.jpeg"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+      "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+      "date": "2026-10-26T21:27:15.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6adf8a425d1e509438fb58ec/master/pass/Anthropic3.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Meta to sell up to $95B in stock to finance AI infrastructure buildout",
+      "summary": "Meta Platforms Inc. will sell up to $95 billion worth of stock to finance its data center projects. The fundraising initiative, which the company announced today, will kick off with a series of transactions cumulatively worth $35 billion.…",
+      "link": "https://siliconangle.com/2026/10/26/meta-to-sell-up-to-95b-in-stock-to-finance-ai-infrastructure-buildout/",
+      "date": "2026-10-26T21:07:07.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Meta-1-1.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "7 insights from F1 Capital Factory: Builders take deep tech startup infrastructure from prototype to scale",
+      "summary": "Across energy, defense, space and applied AI, deep tech startup infrastructure is moving out of the lab and onto the factory floor. The startups building it are no longer trying to prove that the physics works. They are proving that it can…",
+      "link": "https://siliconangle.com/2026/10/26/deep-tech-startup-infrastructure-moves-from-prototype-scale-f1capitalfactory/",
+      "date": "2026-10-26T20:48:31.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Matt-Loszak-Thumb-Clean-1-e1793011973128.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Marissa Mayer defends asking her AI app what makes her daughter special",
+      "summary": "Marissa Mayer has defended using her startup’s AI assistant to describe her own daughter, after a New York Times profile drew a wave of criticism online. The former Yahoo chief executive told Alexandra Alter of The New York Times that her…",
+      "link": "https://thenextweb.com/news/marissa-mayer-dazzle-ai-daughter-backlash",
+      "date": "2026-10-26T20:34:30.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/marissa-mayer-blue-dress-fortune-stage-speaking.avif"
+    },
     {
       "source": "Ars Technica AI",
       "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
@@ -101,26 +221,6 @@
       "image": "https://media.thenextweb.com/2026/10/gpt-6-1-terra-earth-globe-launch-art.avif"
     },
     {
-      "source": "The Next Web",
-      "title": "SWI Compute plans a 530MW Nvidia AI factory campus in the UK",
-      "summary": "SWI Group, the Amsterdam-listed investment group, has launched SWI Compute to build and run Nvidia AI factories, starting in Europe. The new business has ordered about $1bn of Nvidia systems and plans its first large site in the UK. That U…",
-      "link": "https://thenextweb.com/news/swi-compute-nvidia-ai-factories-europe-uk-530mw",
-      "date": "2026-10-26T19:22:33.000Z",
-      "category": "Business & Funding",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/10/swi-stoneweg-icona-group-logo-server-rack.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "UK puts £130m into AI cyber defence in a £600m+ AI package",
-      "summary": "The UK government will spend £130m on AI cyber defence, including a National Cyber Shield that uses agentic AI to protect critical infrastructure. The money is part of a package of more than £600m for AI that the Chancellor, John Healey, w…",
-      "link": "https://thenextweb.com/news/uk-130m-ai-cyber-defence-national-cyber-shield-budget",
-      "date": "2026-10-26T19:02:32.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/10/hm-treasury-goods-entrance-sign-westminster-street.avif"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
       "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
@@ -163,10 +263,10 @@
     {
       "source": "TechCrunch AI",
       "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest commit…",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
       "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
       "date": "2026-10-26T16:46:36.000Z",
-      "category": "Policy & Safety",
+      "category": "Hardware & Infra",
       "region": "Global",
       "image": null
     },
@@ -261,6 +361,16 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-1152x648.jpg"
     },
     {
+      "source": "OpenAI",
+      "title": "Working with academic communities to build scientific understanding",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "date": "2026-10-26T14:30:00.000Z",
+      "category": "Research",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "SCMP Tech",
       "title": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
       "summary": "Anthropic disclosed steep losses and explosive revenue growth on ⁠Monday as the Claude parent moved closer to a potentially record-breaking IPO, betting on AI’s ability to reshape the global economy. The listing is shaping up to be a major…",
@@ -269,6 +379,16 @@
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/26/36bbbb46-4458-4dbe-9a5d-86949dbf0ca4_c52e88c9.jpg?itok=Mph2m32I&v=1793022777"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "date": "2026-10-26T13:45:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
     },
     {
       "source": "ET Tech",
@@ -587,26 +707,6 @@
       "image": "https://img.etimg.com/photo/msid-135200550,imgsize-456188.cms"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Apollo analysis shows no one besides the biggest tech giants is seeing benefits from AI",
-      "summary": "Despite all of the hype and the multiple millions of dollars invested in artificial intelligence, most of corporate America outside of its biggest technology firms is yet to see any financial payoff, according to an analysis by one of the…",
-      "link": "https://siliconangle.com/2026/10/25/apollo-analysis-shows-that-no-one-apart-from-the-biggest-tech-giants-is-seeing-any-real-benefits-from-ai/",
-      "date": "2026-10-26T01:31:12.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-26-08-34-51.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Elon Musk predicts neocloud shakeout as credit for AI infrastructure dries up",
-      "summary": "Space Exploration Technologies Corp. Chief Executive Elon Musk revealed his company has secured $40 billion in debt financing in order to purchase powerful chips for artificial intelligence workloads. The revelation came as the entrepreneu…",
-      "link": "https://siliconangle.com/2026/10/25/elon-musk-predicts-neocloud-shakeout-as-credit-for-ai-infrastructure-dries-up/",
-      "date": "2026-10-26T00:28:13.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-26-07-27-20.png"
-    },
-    {
       "source": "OpenAI",
       "title": "Introducing GPT-6.1 Terra",
       "summary": "Bringing fast and capable computer use to everyone",
@@ -765,36 +865,6 @@
       "category": "Security & Cyber Risk",
       "region": "United States",
       "image": "https://bl-i.thgim.com/public/incoming/f1vzmw/article71582128.ece/alternates/LANDSCAPE_1200/2026-10-13T200140Z_2047224655_RC2QRLARIBNM_RTRMADP_3_OPENAI-SPYING-FBI.JPG"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Three insights you may have missed from theCUBE’s coverage of Okta’s Oktane event",
-      "summary": "AI agent governance is moving identity security into the flow of work. As agents call tools, delegate tasks and act across applications, enterprises need controls that follow those actions beyond an initial login. The challenge is making t…",
-      "link": "https://siliconangle.com/2026/10/23/ai-agent-governance-takes-shape-oktas-oktane-event-oktane/",
-      "date": "2026-10-24T03:52:19.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Charlotte-Wylie-scaled.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
-      "summary": "Moonshot AI today introduced Kim K3.1 Pro, a large language model that can perform some tasks better than Claude Opus 5.5 and GPT-6 Astra. The LLM is a post-trained, or upgraded, version of an algorithm that the Chinese artificial intellig…",
-      "link": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
-      "date": "2026-10-24T00:55:53.000Z",
-      "category": "Research",
-      "region": "China",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/unsplash2-2.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Anthropic reveals Mythos 5 tried submitting malicious code to an open-source project",
-      "summary": "Anthropic PBC’s Mythos 5 artificial intelligence model attempted to submit malicious code to a GitHub project in July. The incident occurred during an evaluation of the algorithm’s cybersecurity capabilities. The AI Security Institute, the…",
-      "link": "https://siliconangle.com/2026/10/23/anthropic-reveals-mythos-5-tried-submitting-malicious-code-to-an-open-source-project/",
-      "date": "2026-10-23T23:28:40.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Anthropic.png"
     },
     {
       "source": "Ars Technica AI",
@@ -977,16 +1047,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/10/23/1600x900/maxresdefault_1792759100023_z0mh_1792759105508_y4kg_51c04dc9-0e2d-49d1-8818-dad0bd3b2441_jaF4.jpg"
     },
     {
-      "source": "OpenAI",
-      "title": "Build more responsive apps with the Decisions API",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "link": "https://openai.com/index/decisions-api",
-      "date": "2026-10-22T19:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "MIT Tech Review",
       "title": "The Foundations of Scalable AI",
       "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to bu…",
@@ -1107,16 +1167,6 @@
       "image": null
     },
     {
-      "source": "OpenAI",
-      "title": "What FDE means at OpenAI",
-      "summary": "What forward deployed engineering means at OpenAI",
-      "link": "https://openai.com/index/forward-deployed-engineering-means",
-      "date": "2026-10-22T06:00:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Flexible grid connections can cut AI data centre power wait to 2-4 years from 5-10 years: BCG",
       "summary": "Data centres supporting artificial intelligence (AI) could reduce their electricity connection waiting time from 5-10 years or more to 2-4 years by accepting flexible grid connections and using their own power generation and storage system…",
@@ -1195,26 +1245,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-651999/135104604.cms"
-    },
-    {
-      "source": "Wired AI",
-      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
-      "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-      "date": "2026-10-22T02:24:17.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://media.wired.com/photos/6ad971de90e0d6636d239398/master/pass/Security_HackersExploitingPHPBugsforDays-ezgif.com-video-to-gif-converter.gif"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "date": "2026-10-22T00:00:00.000Z",
-      "category": "Research",
-      "region": "United States",
-      "image": null
     },
     {
       "source": "The Register AI",
