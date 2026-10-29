@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T21:40:43.070Z",
-  "count": 186,
+  "updated": "2026-10-29T01:49:35.505Z",
+  "count": 185,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,46 @@
   ],
   "items": [
     {
+      "source": "SiliconANGLE",
+      "title": "Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades",
+      "summary": "Google LLC today debuted Gemini 4 Carbon, a frontier large language model adept at complex programming tasks. The LLM is rolling out just two weeks after the search introduced its previous flagship LLM, Gemini 4 Argon. According to Google,…",
+      "link": "https://siliconangle.com/2026/10/28/google-debuts-flagship-gemini-4-carbon-model-with-cybersecurity-upgrades/",
+      "date": "2026-10-28T23:27:13.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Gemini-4-Carbon.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "date": "2026-10-28T21:58:32.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Experian builds cyber resiliency into its AI infrastructure",
+      "summary": "Enterprises racing to deploy AI at scale are discovering that models depend on the infrastructure beneath them. As cyber resiliency becomes central to AI deployment, organizations must address foundational issues such as data quality, acce…",
+      "link": "https://siliconangle.com/2026/10/28/cyber-resiliency-frameworks-enterprise-ai-infrastructure-aicybersecurityandresiliencesummit/",
+      "date": "2026-10-28T21:54:04.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Rodrigo-Rodrigues.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "date": "2026-10-28T21:48:37.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": null
+    },
+    {
       "source": "TechCrunch AI",
       "title": "Microsoft recorded $10 billion in revenue from OpenAI",
       "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
@@ -62,7 +102,7 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
       "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
       "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
       "date": "2026-10-28T21:25:30.000Z",
@@ -327,26 +367,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/XiongXiong_ThumbClean-1-e1792745833923.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-      "date": "2026-10-28T15:41:18.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "South Korea",
-      "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Nvidia releases all-in-one adaptable Nemotron 3.5 audio transcription and translation model",
-      "summary": "Nvidia Corp. today released a leaderboard-winning open artificial intelligence model for multilingual audio transcription and translation, along with an open data pipeline for fine-tuning Nemotron 3.5 Transcribe. Traditional transcription…",
-      "link": "https://siliconangle.com/2026/10/28/nvidia-releases-all-in-one-adaptable-nemotron-3-5-audio-transcription-and-translation-model/",
-      "date": "2026-10-28T15:00:59.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2025/06/A-ghostly-AI-agent-creating-blue-speech-sound-waveforms-in-a-dark-space-abstract-art-muted-colors-1.jpeg"
-    },
-    {
       "source": "NVIDIA",
       "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
       "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Black…",
@@ -357,16 +377,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2-1.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to r…",
-      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "date": "2026-10-28T15:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Hugging Face",
       "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
       "summary": "",
@@ -375,16 +385,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Dell ties AI trust to the ability to recover clean data",
-      "summary": "AI trust is becoming as much a recovery problem as a security one. As agents touch more enterprise data and attackers use frontier models to find weak spots faster, simply holding a copy of the data no longer proves a business can bounce b…",
-      "link": "https://siliconangle.com/2026/10/28/dell-connects-ai-trust-proving-data-recocvery-aicybersecurityandresiliencesummit/",
-      "date": "2026-10-28T14:20:57.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-2026-10-23-at-13.53.51-scaled.png"
     },
     {
       "source": "SCMP Tech",
@@ -547,16 +547,6 @@
       "image": "https://media.wired.com/photos/6ae1120223d445186a16d911/master/pass/ai-weather-alerts-emergency.jpg"
     },
     {
-      "source": "SCMP Tech",
-      "title": "How Lao Gan Ma, China’s iconic chilli brand, got caught in an AI storm",
-      "summary": "For three decades, Lao Gan Ma’s glass jars, bearing the stern portrait of founder Tao Huabi, have been a fixture on Chinese dinner tables and a symbol of traditional food manufacturing. This week, however, the iconic chilli sauce has becom…",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3372414/how-lao-gan-ma-chinas-iconic-chilli-brand-got-caught-ai-storm",
-      "date": "2026-10-28T08:00:12.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/28/b094b440-6ee9-4dd3-a97f-246fb6c6fba8_cb76e744.jpg?itok=IrqArIAr&v=1793172234"
-    },
-    {
       "source": "ET Tech",
       "title": "China's new export curbs draw a line around its AI crown jewels",
       "summary": "The draft rules, released on October 16, distinguish between foreign customers using Chinese AI services and foreign companies obtaining the models, data or expertise needed to operate or reproduce them independently.",
@@ -606,10 +596,6 @@
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-135255556,imgsize-8850314.cms",
       "relatedSources": [
-        {
-          "source": "SCMP Tech",
-          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3372404/malaysia-seizes-smuggled-ai-chips-worth-us12-million-kuala-lumpur-airport"
-        },
         {
           "source": "LiveMint Tech",
           "link": "https://www.livemint.com/technology/ai-chips-worth-12-1-million-seized-at-malaysia-airport-customs-authority-says-11793164926684.html"
