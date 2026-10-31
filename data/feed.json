@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31T05:48:38.505Z",
-  "count": 194,
+  "updated": "2026-10-31T12:38:11.105Z",
+  "count": 192,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,218 @@
   ],
   "items": [
     {
+      "source": "The Next Web",
+      "title": "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out",
+      "summary": "Google, Microsoft, OpenAI and Anthropic will honour one shared AI training opt-out in robots.txt. It lets a website keep its content out of generative AI training with a single rule. Today, a site that wants to say no has to write separate…",
+      "link": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic",
+      "date": "2026-10-31T12:24:36.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/developer-two-monitors-code-editor-mac-mini.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Sam Altman meets Samsung’s presidents days after his DRAM remark",
+      "summary": "Samsung hosted OpenAI chief executive Sam Altman for talks with about 50 of its presidents on Saturday. Two days earlier, a podcast went out in which Sam Altman said it is “quite terrible” for the world’s limited DRAM to sit in people’s ow…",
+      "link": "https://thenextweb.com/news/sam-altman-dram-samsung-presidents-cheeky-pint",
+      "date": "2026-10-31T12:03:14.000Z",
+      "category": "People & Leadership",
+      "region": "South Korea",
+      "image": "https://media.thenextweb.com/2026/10/samsung-executives-sam-altman-ai-talk-yongin-hall.avif"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "date": "2026-10-31T12:00:00.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI cuts its funding round target to $20bn, FT reports",
+      "summary": "OpenAI has cut the target for its latest funding round by $10bn, to about $20bn. The Financial Times reported the cut on Friday 30 October, citing people with knowledge of the matter. Some investors reduced their commitments as AI stocks s…",
+      "link": "https://thenextweb.com/news/openai-funding-round-20bn-target-cut-ft",
+      "date": "2026-10-31T11:38:52.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/sam-altman-grey-sweater-yellow-chair-outdoors.avif",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cuts-funding-target-by-10-billion-ft/articleshow/135384941.cms"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "Anthropic denies breach as tampered Claude Code extension hits Cursor users",
+      "summary": "A tampered copy of Anthropic’s Claude Code extension sat in Cursor’s extension marketplace for about 11 hours on Thursday 29 October. It reached up to 5,000 users. The malicious versions tried to plant an SSH backdoor on developers’ machin…",
+      "link": "https://thenextweb.com/news/tampered-claude-code-extension-cursor-ssh-backdoor",
+      "date": "2026-10-31T11:27:53.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/source-code-terminal-dark-monitor-close-up.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "A Claude agent ran inside a Pentagon network for two months, WIRED reports",
+      "summary": "An Accenture contractor connected a sensitive Pentagon system to their personal Claude Code account. The AI agent then ran on a Defense Department network for two months, Vittoria Elliott reported for WIRED on Thursday 29 October, citing s…",
+      "link": "https://thenextweb.com/news/accenture-contractor-claude-agent-pentagon-network-wired",
+      "date": "2026-10-31T11:15:07.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/claude-opus-4-8-safeguards-notice-laptop.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "John Ternus tells WIRED Apple won’t ship AI for AI’s sake",
+      "summary": "Apple wants people to love its products without having to think about whether AI made them work, chief executive John Ternus told Steven Levy for WIRED. The interview was published on Friday 30 October. Levy spoke to Ternus at Apple’s Los…",
+      "link": "https://thenextweb.com/news/john-ternus-wired-apple-ai-for-ais-sake",
+      "date": "2026-10-31T10:40:30.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/john-ternus-fans-selfie-apple-store.avif"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "date": "2026-10-31T10:30:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.wired.com/photos/6ae513e3393ae92e17e66a04/master/pass/Business_Everyone%E2%80%99s%20Questioning%20Meta%E2%80%99s%20Hype%20About%20Muse%20Meta%20Says%20Muse%20Is%20Already%20a%20Big%20Shopper_v1.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Nvidia in talks to guarantee debt for Nscale’s Anthropic data centre",
+      "summary": "Nvidia is in talks to guarantee billions of dollars of debt for Nscale, the UK AI cloud company. The money would build a West Virginia data centre that Anthropic plans to use. Phoebe Liu first reported the talks for The Information on Thur…",
+      "link": "https://thenextweb.com/news/nvidia-nscale-anthropic-data-centre-debt-guarantee",
+      "date": "2026-10-31T10:23:26.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/10/jensen-huang-fortune-global-forum-2022-interview.avif"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Apple Intelligence to roll out on iPhones in China in December with Alibaba backing",
+      "summary": "Apple’s long-awaited artificial intelligence features will be officially launched in China in December, ending two years of regulatory uncertainty as the US tech giant seeks to bring advanced technologies to its second-largest market with…",
+      "link": "https://www.scmp.com/tech/big-tech/article/3372831/apple-intelligence-roll-out-iphones-china-december-alibaba-backing",
+      "date": "2026-10-31T10:02:17.000Z",
+      "category": "Policy & Safety",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/b552b23e-12c9-43ab-923b-b4f51a3661de_b103e5dc.jpg?itok=2E2yqk-a&v=1793440869"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "AI could turn China’s social credit system into surveillance tool: government-funded study",
+      "summary": "China’s social credit system, stereotypically imagined as an all-powerful numerical scoring project for authoritarian control, has gained notoriety in the West – although people inside the country actually feel little of its presence or pr…",
+      "link": "https://www.scmp.com/news/china/science/article/3372510/ai-could-turn-chinas-social-credit-system-surveillance-tool-government-funded-study",
+      "date": "2026-10-31T10:00:09.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/29/9d9331bb-78ed-4e8c-b8da-0979c0e476a0_53a048a7.jpg?itok=n9L8HwRt&v=1793243964"
+    },
+    {
+      "source": "Wired AI",
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "date": "2026-10-31T10:00:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/master/pass/103026-AI%20Mouse%2002.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
+      "summary": "The framework seeks to address challenges that often restrict data sharing, including concerns around privacy, confidentiality, intellectual property and institutional control",
+      "link": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece",
+      "date": "2026-10-31T09:54:08.000Z",
+      "category": "Product",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/jb1646/article71625865.ece/alternates/LANDSCAPE_1200/IMG_BL2603_Tech_TD_AI_Cr_2_1_VDFOU6L9.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI search gains 3-fold influence over traditional search in shopping decisions: McKinsey",
+      "summary": "The report says AI users are 3.2 times more likely to rate AI search tools as more influential than traditional search engines, and 2.6 times more likely to rate them higher than influences like friends or family",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-search-gains-3-fold-influence-over-traditional-search-in-shopping-decisions-mckinsey/article71648741.ece",
+      "date": "2026-10-31T09:10:03.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/r6nj4i/article71648795.ece/alternates/LANDSCAPE_1200/IMG_iStock-1474963602_2_1_DFG8QSB9.jpg",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/ai-search-gains-3-fold-influence-over-traditional-search-in-shopping-decisions-mckinsey-11793434097444.html"
+        }
+      ]
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "IT hardware reseller lists GPUs from decommissioned Nvidia supercomputer on eBay for $60 million — What we know",
+      "summary": "A reseller listed a decommissioned NVIDIA supercomputer on eBay for $59.7 million. The system includes 300 racks, 9,600 A100 GPUs and 4,200 AMD EPYC processors. Here's all we know…",
+      "link": "https://www.livemint.com/technology/nvidia-supercomputer-decommissioned-ebay-sale-a100-chips-gpus-it-hardware-reseller-60-million-best-offer-free-shipping-11793434326099.html",
+      "date": "2026-10-31T09:02:56.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/31/1600x900/logo/META-NVIDIA-MUSE-0_1793436890569_nbo0_1793436914437_cwbr_fbfd5a9b-1414-43b7-b833-d80d530065ce_rtU0.JPG"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "OpenAI’s Altman meets Samsung executives as chip crunch deepens",
+      "summary": "",
+      "link": "https://www.thehindubusinessline.com/info-tech/openais-altman-meets-samsung-executives-as-chip-crunch-deepens/article71648629.ece",
+      "date": "2026-10-31T08:04:11.000Z",
+      "category": "Hardware & Infra",
+      "region": "South Korea",
+      "image": "https://bl-i.thgim.com/public/incoming/7372yt/article71502559.ece/alternates/LANDSCAPE_1200/2026-09-23T195301Z_1785342310_RC27PNA296TC_RTRMADP_3_AI-UN.JPG"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "OpenAI funding target cut by $10 billion as AI slumps",
+      "summary": "The ChatGPT maker is now seeking about $20 billion at a $1.25 trillion valuation, down from $30 billion at a $1.4 trillion valuation last month",
+      "link": "https://www.thehindubusinessline.com/info-tech/openai-funding-target-cut-by-10-billion-as-ai-slumps/article71648520.ece",
+      "date": "2026-10-31T07:34:29.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/acm8ui/article71648587.ece/alternates/LANDSCAPE_1200/2026-10-28T001915Z_34323581_RC2B6OAMBSE1_RTRMADP_3_OPENAI-CHIPS-GOOGLE.JPG"
+    },
+    {
+      "source": "MediaNama",
+      "title": "Special newsletter: Unanswered questions, October edition",
+      "summary": "From Meta's handling of child abuse ads and content blocking to AI-powered cyberattacks and user privacy, MediaNama shares five sets of questions that authorities and tech companies left unanswered. The post Special newsletter: Unanswered…",
+      "link": "https://www.medianama.com/2026/10/223-special-newsletter-unanswered-questions-october-edition/",
+      "date": "2026-10-31T06:34:21.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "ET Tech",
+      "title": "Mistral AI publicly releases Large 4, targets cybersecurity users",
+      "summary": "Mistral said the released version was an upgrade from the one unveiled three weeks ago, following testing with governments and corporate users, which helped improve its performance.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users/articleshow/135390933.cms",
+      "date": "2026-10-31T06:13:40.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Europe",
+      "image": "https://img.etimg.com/photo/msid-135390933,imgsize-1701395.cms"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Google's ‘Project Suncatcher’ achieves first successful AI response from space",
+      "summary": "The prototype satellite is a part of the company's long-term research effort to examine whether space could support scalable machine learning infrastructure",
+      "link": "https://www.thehindubusinessline.com/info-tech/googles-project-suncatcher-achieves-first-successful-ai-response-from-space/article71648240.ece",
+      "date": "2026-10-31T05:59:44.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/8djbcm/article71648397.ece/alternates/LANDSCAPE_1200/2025-10-22T150111Z_1317640514_RC2CF5AXDTYS_RTRMADP_3_GOOGLE-QUANTUM.JPG"
+    },
+    {
       "source": "SCMP Tech",
       "title": "From digital pets to robot pals: how AI is changing Hong Kong classrooms",
       "summary": "Hands shot up in a Hong Kong Primary Two classroom as pupils debated what their digital pet needed more, meal vouchers or the latest game cards. Their teacher at SKH Kei Oi Primary School in Sham Shui Po had created the virtual pet using a…",
@@ -99,16 +311,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-135385131,imgsize-1365238.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "OpenAI cuts funding target by $10 billion: FT",
-      "summary": "AI startup OpenAI has slashed the target for its latest funding round by $10 billion and is now seeking to raise $20 billion at a $1.25 trillion valuation, the Financial Times",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cuts-funding-target-by-10-billion-ft/articleshow/135384941.cms",
-      "date": "2026-10-31T02:35:12.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-135384941,imgsize-2890809.cms"
     },
     {
       "source": "SiliconANGLE",
@@ -179,36 +381,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "S&P turns negative on Meta as AI spending eats into its cash",
-      "summary": "S&P lowered the outlook on Meta’s AA- credit rating to negative from stable, citing heavy AI spending. It expects Meta’s leverage to rise above 1.0x as soon as 2027, from about 0.1x last year. Meta says it disagrees. S&P Global Ratings has…",
-      "link": "https://thenextweb.com/news/meta-sp-outlook-negative-ai-spending",
-      "date": "2026-10-30T22:51:07.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/meta-3d-logo-blue-gradient-background.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Amazon can now borrow up to $80B against the AI hardware it buys",
-      "summary": "Amazon has set up a supplier financing facility to borrow up to $80B against the hardware it buys, usable from 2027 to late 2028. It had a $42.4B free cash outflow in the year to September, and its spending commitments reached $883B. Amazo…",
-      "link": "https://thenextweb.com/news/amazon-80b-supplier-loan-facility-ai-hardware",
-      "date": "2026-10-30T22:32:26.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/amazon-kindle-back-logo-dark-desk.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Big Tech has now committed more than $3 trillion to the AI build-out",
-      "summary": "Alphabet, Meta, Microsoft, Amazon and Oracle have committed more than $3T to future spending on data centres, leases, equipment and energy, Bloomberg reports. Alphabet leads with more than $1T, followed by Meta with over $800B. Some of the…",
-      "link": "https://thenextweb.com/news/big-tech-3-trillion-ai-spending-commitments",
-      "date": "2026-10-30T22:15:34.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/ai-microchip-green-pastel-reflective-surface.avif"
     },
     {
       "source": "SCMP Tech",
@@ -331,16 +503,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "Cognizant puts 25,000 staff behind OpenAI, days after a Gemini push",
-      "summary": "Cognizant formed an OpenAI Frontier Capability Group of more than 25,000 staff to deploy Codex and ChatGPT for clients. It will focus on software engineering, updating old systems and customer service. The move comes 11 days after Cognizan…",
-      "link": "https://thenextweb.com/news/cognizant-openai-frontier-capability-group-25000",
-      "date": "2026-10-30T18:15:18.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/openai-about-page-laptop-screen-close-up.avif"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Pope says most urgent challenge facing AI race is need for institutional ethical framework",
       "summary": "Pope says 'most urgent' challenge facing AI race is need for institutional ethical framework",
@@ -391,26 +553,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "New York bans AI chatbots from pretending to be human with children",
-      "summary": "New York has banned AI chatbots from pretending to be human with children. Bots also may not build emotional dependency, encourage self-harm or hold sexual conversations with them. Governor Kathy Hochul signed the law on Wednesday, with a…",
-      "link": "https://thenextweb.com/news/new-york-ai-chatbots-children-law-hochul-baby-monitors",
-      "date": "2026-10-30T17:13:07.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/kathy-hochul-wes-moore-nga-press-conference-2026.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "TBC launches Mischief, an AI video model shaped by brain cells",
-      "summary": "San Francisco’s Biological Computing Co. released TBC Mischief 1, an image-to-video model built on Wan 2.2. It says insights from living neurons make it about five times faster at the same quality, priced at $0.005 per second of video. It…",
-      "link": "https://thenextweb.com/news/tbc-mischief-neuron-derived-ai-video-model",
-      "date": "2026-10-30T17:00:05.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/ai-orange-neon-sign-dark-circuit-wall.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Google’s first data center satellite is online and writing poetry",
       "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
@@ -431,16 +573,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg"
     },
     {
-      "source": "The Next Web",
-      "title": "Proton to re-interview staff on AI, with jobs at stake, 404 Media reports",
-      "summary": "Proton, the Swiss company behind Proton Mail, will “re-interview” some of its staff about how they use AI at work. The results may affect who keeps their job. Internal messages show chief executive Andy Yen telling engineers to stop hand-w…",
-      "link": "https://thenextweb.com/news/proton-ai-re-interviews-staff-andy-yen-404-media",
-      "date": "2026-10-30T16:50:56.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/andy-yen-proton-web-summit-2021.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
       "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
@@ -459,16 +591,6 @@
       "category": "Enterprise & Deployment",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/jbbjyp/article71645851.ece/alternates/LANDSCAPE_1200/IMG_iStock-2220108729_2_1_U4GGD31M.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Hong Kong primary pupils to study AI under new technology subject",
-      "summary": "A new subject called information and innovation technology (IIT) will be introduced gradually in Hong Kong primary schools from September 2028 to boost students’ digital literacy, with artificial intelligence (AI) one of its highlights. St…",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3372790/hong-kong-primary-pupils-study-ai-under-new-technology-subject",
-      "date": "2026-10-30T15:37:07.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/3e3908c8-00ce-46e5-a861-934bf78737a9_a7f92416.jpg?itok=fCkyEqyf&v=1793382899"
     },
     {
       "source": "SiliconANGLE",
@@ -569,16 +691,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "South Korean students caught cheating with AI glasses to face prosecution from 2027",
-      "summary": "South Korea will file criminal complaints against students caught cheating on a national university entrance exam with smart glasses and toughen penalties for their use, a government official has said. Sales of smart glasses – which allow…",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3372755/south-korean-students-caught-cheating-ai-glasses-face-prosecution-2027",
-      "date": "2026-10-30T10:44:06.000Z",
-      "category": "News",
-      "region": "South Korea",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/30/f5588bd7-c7f7-4f6d-90ad-1eb9378a92ae_a33c1344.jpg?itok=8kS0jOZO&v=1793357037"
     },
     {
       "source": "ET Tech",
@@ -701,16 +813,6 @@
       "image": "https://bl-i.thgim.com/public/incoming/7ikrsc/article71606318.ece/alternates/LANDSCAPE_1200/TH03-Profiles-3GVRGK669T.3.jpg.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "OpenAI says human intent at center of updated AI model guidelines",
-      "summary": "The move echoes rival Anthropic's Constitutional AI approach, which ‌uses a written \"constitution\" of principles to guide model ​behavior and make the values shaping AI systems more transparent",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-says-human-intent-at-center-of-updated-ai-model-guidelines/article71643559.ece",
-      "date": "2026-10-30T04:40:12.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/ce7vgn/article71643654.ece/alternates/LANDSCAPE_1200/2026-10-29T012056Z_1653257449_RC2B6OAXVOCU_RTRMADP_3_CHINA-OPENAI-DISTILLATION.JPG"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Shubman Gill joins Temple wearable users: What Deepinder Goyal's ₹85,000 device can track",
       "summary": "Shubman Gill tested Zomato founder Deepinder Goyal’s unreleased Temple AI fitness tracking device during India’s practice session in Auckland on 29 October. The forehead-mounted wearable is designed to track cerebral blood flow, nervous sy…",
@@ -731,16 +833,6 @@
       "image": "https://img.etimg.com/photo/msid-135343465,imgsize-13478.cms"
     },
     {
-      "source": "Japan Times",
-      "title": "Generative AI reduces working hours for government staff, survey finds",
-      "summary": "Over 50% of the respondents said they were able to reduce working hours by at least one hour per week.",
-      "link": "https://www.japantimes.co.jp/news/2026/10/30/japan/society/bureaucrats-working-hours-ai/",
-      "date": "2026-10-30T03:54:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571380.jpg"
-    },
-    {
       "source": "ET Tech",
       "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic",
       "summary": "Nvidia is in talks to offer AI cloud provider Nscale billions of dollars in credit guarantees to support debt funding for a data center earmarked for Anthropic, The Information reported on Thursday, citing people with knowledge of the talk…",
@@ -749,36 +841,6 @@
       "category": "Hardware & Infra",
       "region": "United States",
       "image": "https://img.etimg.com/photo/msid-135341285,imgsize-1798474.cms"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Amazon burns cash, Intel flags weak PC demand as AI boom’s costs ripple across markets",
-      "summary": "Selloff hits AI, cloud stocks and chipmakers alike; Lower PC demand a sign of consumer pain; Semiconductor index down 21% from June all-time high",
-      "link": "https://www.thehindubusinessline.com/info-tech/amazon-burns-cash-intel-flags-weak-pc-demand-as-ai-booms-costs-ripple-across-markets/article71643385.ece",
-      "date": "2026-10-30T03:13:15.000Z",
-      "category": "Hardware & Infra",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/6bzskd/article71643486.ece/alternates/LANDSCAPE_1200/iStock-1628291798.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "AM Intelligence seeks $3 billion financing for Nvidia chips order",
-      "summary": "The funding package for the company, established by the founders of renewable energy producer Greenko Group Plc, could comprise of bonds and bank loans, among others",
-      "link": "https://www.thehindubusinessline.com/info-tech/am-intelligence-seeks-3-billion-financing-for-nvidia-chips-order/article71643454.ece",
-      "date": "2026-10-30T03:07:27.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/rv4x3f/article71643474.ece/alternates/LANDSCAPE_1200/2026-10-27T065658Z_371031871_RC2L7OAU5U69_RTRMADP_3_META-NVIDIA-MUSE.JPG"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Tech firms take fresh hit as earnings misses fan AI fears",
-      "summary": "Tech firms were again on the back foot Friday after another round of disappointing earnings from Wall Street titans fanned already deep concerns about the AI investment boom. \"The concern isn't that AI demand has already slowed.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-firms-take-fresh-hit-as-earnings-misses-fan-ai-fears/articleshow/135340519.cms",
-      "date": "2026-10-30T02:55:57.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-135340519,imgsize-49638.cms"
     },
     {
       "source": "OpenAI",
@@ -871,16 +933,6 @@
       "image": "https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "ANSR eyes IPO in 2027 amid strong GCC growth prospects",
-      "summary": "GCCs step up AI hiring as demand for AI talent rises 45%; GCC industry projected to reach $100 billion by 2030",
-      "link": "https://www.thehindubusinessline.com/info-tech/ansr-eyes-ipo-in-2027-amid-strong-gcc-growth-prospects/article71640621.ece",
-      "date": "2026-10-29T13:53:51.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/kry3e9/article71641089.ece/alternates/LANDSCAPE_1200/BL08_Think_experts.jpg"
-    },
-    {
       "source": "Hugging Face",
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "summary": "",
@@ -939,16 +991,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://fastly.restofworld.org/uploads/2026/10/illo_AI_off_switch_Final.jpg?width=160&dpr=2&crop=1:1"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Databricks’ India growth outpaces global rate amid rising enterprise AI adoption",
-      "summary": "Indian enterprises and digital-native businesses are increasingly exploring AI models, data control and deployment costs as the company expands its local presence",
-      "link": "https://www.thehindubusinessline.com/info-tech/databricks-india-growth-outpaces-global-rate-amid-rising-enterprise-ai-adoption/article71584677.ece",
-      "date": "2026-10-29T09:49:29.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/g58l1c/article71639943.ece/alternates/LANDSCAPE_1200/Kamalkanth%20Tummala%20-%20Data%20Bricks.jpg"
     },
     {
       "source": "OpenAI",
@@ -1171,46 +1213,6 @@
       "image": null
     },
     {
-      "source": "LiveMint Tech",
-      "title": "What’s new in iOS 27.2: New Siri AI languages, 160+ security fixes and CarPlay upgrades",
-      "summary": "Apple’s iOS 27.2 adds Siri AI memory, five new beta languages, CarPlay and FaceTime changes, and 160+ security fixes. See what’s new and why to update.",
-      "link": "https://www.livemint.com/technology/tech-news/whats-new-in-ios-27-2-new-siri-ai-languages-160-security-fixes-and-carplay-upgrades-11793176532277.html",
-      "date": "2026-10-28T09:18:35.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/28/1600x900/logo/hoonda11_1793177277704_mHrq_1793177286025_RKLH_695d6511-3fe5-4567-a624-c8c4734c2ff3_XP7N.png"
-    },
-    {
-      "source": "Wired AI",
-      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-      "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "date": "2026-10-28T08:30:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6ae1120223d445186a16d911/master/pass/ai-weather-alerts-emergency.jpg"
-    },
-    {
-      "source": "Wired AI",
-      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-      "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-      "date": "2026-10-28T06:00:00.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6ae127707e979e34b6579966/master/pass/Business_Should%20AI%20Decide%20Your%20Court%20Case_%20ThisJudgeSaysYes.gif"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Indian IT firms poised to benefit from enterprise AI adoption as infrastructure costs rise: Report",
-      "summary": "Indian information technology (IT) companies are well-positioned to benefit from the growing adoption of artificial intelligence (AI) by enterprises, as rising infrastructure investments and funding requirements increase financial risks fo…",
-      "link": "https://www.livemint.com/technology/indian-it-firms-poised-to-benefit-from-enterprise-ai-adoption-as-infrastructure-costs-rise-report-11793166741416.html",
-      "date": "2026-10-28T05:52:20.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/29/1600x900/maxresdefault_1793247795341_LPuX_1793247800233_bjC2_0fd722f2-83c6-4385-a1d6-b320219f86a5_NAYh.jpg"
-    },
-    {
       "source": "ET CIO",
       "title": "Inside YES Bank’s AI playbook: Turning experimentation into enterprise-wide transformation",
       "summary": "How CIO Mahesh Ramamoorthy Is Driving the Next Wave of Banking Innovation",
@@ -1219,16 +1221,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-45542/135249415.cms"
-    },
-    {
-      "source": "Wired AI",
-      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-      "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "date": "2026-10-27T19:39:04.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://media.wired.com/photos/6ae0b0627e979e34b657973e/master/pass/102726-Anthropic%20Bio.jpg"
     },
     {
       "source": "Hugging Face",
