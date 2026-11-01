@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T07:37:10.985Z",
-  "count": 192,
+  "updated": "2026-11-01T15:13:56.562Z",
+  "count": 188,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,6 +51,136 @@
   ],
   "items": [
     {
+      "source": "The Next Web",
+      "title": "Google’s Suncatcher satellite runs AI in orbit and sends a haiku home",
+      "summary": "Google’s prototype data centre satellite has run an AI model in orbit and sent its answer back to Earth. The onboard Gemma 4 model wrote a haiku about being in space, Travis Beals, a senior director at Google, wrote in a blog post on Frida…",
+      "link": "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
+      "date": "2026-11-01T14:35:19.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/11/project-suncatcher-logo-yellow-orange-blue-gradient.avif"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI challenges traditional productivity metrics for Indian IT",
+      "summary": "According to UnearthInsight data, Revenue per FTE increased sequentially, with Tech Mahindra recording the sharpest growth at 7.1 per cent to $11,123, alongside a 0.3 per cent decline in headcount",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-challenges-traditional-productivity-metrics-for-indian-it/article71653390.ece",
+      "date": "2026-11-01T14:30:04.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/bueegv/article71653476.ece/alternates/LANDSCAPE_1200/BL20_Think_meeting.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Project-by-project security reviews can’t keep pace with enterprise AI agents",
+      "summary": "Enterprises racing to put AI agents into production are finding that tokenization and other data protection methods now decide how fast those projects move. But sensitive data fed into models is hard to pull back — and security reviews bui…",
+      "link": "https://siliconangle.com/2026/11/01/tokenization-helps-enterprises-move-ai-agents-production-evolve26/",
+      "date": "2026-11-01T14:25:54.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_6247.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Agent demand can’t be forecast, meaning the database has to be ready for anything",
+      "summary": "Enterprises building an agentic AI architecture are learning that the database matters as much as the model. AI agents fire off thousands of unplanned queries at once — and expect answers in milliseconds. PhoenixAI, the trade name of Celer…",
+      "link": "https://siliconangle.com/2026/11/01/agentic-ai-architecture-demands-real-time-databases-evolve26/",
+      "date": "2026-11-01T14:25:39.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-2026-11-01-at-16.13.53-scaled.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Palantir CTO tells Stratechery he doesn’t regret working with Anthropic",
+      "summary": "Palantir was caught in Anthropic’s clash with the US Department of War, its chief technology officer, Shyam Sankar, told Ben Thompson for Stratechery, in an interview published on Thursday. Thompson noted that Anthropic’s work for the US n…",
+      "link": "https://thenextweb.com/news/palantir-shyam-sankar-anthropic-stuck-in-the-middle-stratechery",
+      "date": "2026-11-01T14:01:01.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/11/shyam-sankar-palantir-speaking-microphone-davos-panel.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Anthropic renames Claude Max plans and drops Ultra’s five-hour limit",
+      "summary": "Anthropic has renamed its two Claude Max plans and dropped the five-hour usage limit on the more expensive one. It now calls the $100-a-month Max 5x plan Max, and the $200 Max 20x plan Ultra. Prices stay the same, the company said on X on…",
+      "link": "https://thenextweb.com/news/claude-ultra-max-plan-rename-five-hour-limit",
+      "date": "2026-11-01T13:54:30.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/11/claude-chatgpt-app-icons-iphone-keyboard.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Developers say Claude Code now refuses work on recreating existing games",
+      "summary": "Game developers have been hitting refusals from Claude Code since late October, some on projects they say they have a right to build. Bruno Ferreira reported the complaints for Tom’s Hardware on Saturday, citing a wave of issues on Claude…",
+      "link": "https://thenextweb.com/news/claude-code-game-recreation-refusals-developers",
+      "date": "2026-11-01T13:44:17.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/dario-amodei-anthropic-logo-phone-screen.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Salesforce to buy Rune in its most significant national security deal",
+      "summary": "Salesforce has agreed to buy Rune Technologies. The US startup’s AI software helps the military plan supplies near the front line. Salesforce announced the deal on Thursday. Rune will join Missionforce, the defence business Salesforce laun…",
+      "link": "https://thenextweb.com/news/salesforce-rune-technologies-acquisition-missionforce-defence",
+      "date": "2026-11-01T12:27:39.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/11/salesforce-rune-technologies-logos-blue-gradient.avif"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Self-improving AI the key step towards AGI but safety is key: Z.ai founder",
+      "summary": "Using artificial intelligence to build even smarter systems will make artificial general intelligence (AGI) more achievable, though it would need to be done safely, leading Chinese computer scientist Tang Jie said at an event in Shanghai o…",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3372834/self-improving-ai-key-step-towards-agi-safety-key-zai-founder",
+      "date": "2026-11-01T12:00:19.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/f4aa2680-6875-42f4-b08f-24f13afc2493_c5200fdd.jpg?itok=agQyYwvU&v=1793442205"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Meta built a humanoid robot with China’s Fourier, The Information reports",
+      "summary": "Meta has built a prototype humanoid robot with Chinese robotics company Fourier in about three months, and the two are already working on a second version. Jyoti Mann reported the project for The Information on Saturday, citing people fami…",
+      "link": "https://thenextweb.com/news/meta-humanoid-robot-fourier-max",
+      "date": "2026-11-01T11:29:29.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/11/fourier-gr-3-humanoid-robot-launch-stage-1920.avif"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "date": "2026-11-01T10:30:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/master/pass/HCN406-scaled.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
+      "summary": "Chinese artificial intelligence start-up DeepSeek has previewed a plan for a more autonomous AI agent that can handle multiple tasks with minimal human intervention, as it steps up competition with US rivals OpenAI and Anthropic in develop…",
+      "link": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
+      "date": "2026-11-01T10:00:26.000Z",
+      "category": "Product",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/01/9f8d3847-2889-48e7-99b6-b4e3f12bb9f3_7543b29f.jpg?itok=fUVPuK19&v=1793527221"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Millennials lead AI shopping adoption in India at 84%, ahead of Gen Z: McKinsey",
+      "summary": "Millennials are leading the adoption of artificial intelligence (AI) for shopping in India, with 84 per cent using AI-powered tools to search for products, compare options or make purchase decisions, ahead of 74 per cent of Gen Z consumers…",
+      "link": "https://www.livemint.com/technology/millennials-lead-ai-shopping-adoption-in-india-at-84-ahead-of-gen-z-mckinsey-11793524905097.html",
+      "date": "2026-11-01T09:21:44.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
+    },
+    {
       "source": "SCMP Tech",
       "title": "US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution",
       "summary": "Driving along the wide boulevards of Astana during a recent trip to the Kazakh capital, signs of China’s growing commercial footprint were everywhere. Chinese cars were becoming a common sight on the streets here, as brands from BYD to Cha…",
@@ -81,36 +211,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/30/10d2f8fa-953d-44e4-b147-ae30dcb49c8f_b1d593aa.jpg?itok=XEplukL8&v=1793361864"
     },
     {
-      "source": "The Next Web",
-      "title": "Big Tech buybacks fall 83% as AI spending eats the cash, Reuters reports",
-      "summary": "Microsoft, Alphabet, Amazon, Meta and Oracle handed 9.3% of the cash their businesses made back to shareholders. That covers the first nine months of 2026. That is the smallest share in at least 15 years, down from 27.4% a year earlier. Th…",
-      "link": "https://thenextweb.com/news/big-tech-buybacks-fall-ai-spending-reuters",
-      "date": "2026-10-31T22:21:38.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/stock-ticker-spy-led-display-green-red-chart.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Amazon wants Alexa for Shopping, not Muse, to be how people shop its store",
-      "summary": "Few people shop through outside AI agents yet, because the experience is not good enough, Amazon chief executive Andy Jassy told analysts on Thursday. He expects Amazon’s own assistant, Alexa for Shopping, to be the main agent people use t…",
-      "link": "https://thenextweb.com/news/alexa-for-shopping-jassy-ai-shopping-agents-meta-muse",
-      "date": "2026-10-31T22:14:29.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/andy-jassy-stage-checked-blazer-jeans-notes.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "AWS grows 39% and Amazon will spend even more on AI in 2027",
-      "summary": "Amazon’s free cash flow fell to minus $42.4bn over the 12 months to September. Spending on AI drove most of the drop, the company said on Thursday. A year earlier it was a positive $14.8bn. The Amazon Q3 earnings showed revenue up 12% to $…",
-      "link": "https://thenextweb.com/news/amazon-q3-earnings-aws-39-free-cash-flow-2027-capex",
-      "date": "2026-10-31T22:11:46.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/andy-jassy-fireside-chat-grey-blazer-green-curtain.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
@@ -119,16 +219,6 @@
       "category": "People & Leadership",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "AI is easy to fake, Theranos whistleblower Tyler Shultz tells SF Standard",
-      "summary": "Tyler Shultz helped expose the blood-testing fraud at Theranos. He now says AI is hard to vet, and investors need to do real due diligence. Few laws govern AI, he added, which makes it hard for people inside AI companies to blow the whistl…",
-      "link": "https://thenextweb.com/news/theranos-whistleblower-tyler-shultz-ai-due-diligence-ndas",
-      "date": "2026-10-31T21:36:26.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/tyler-shultz-microphone-red-armchair-perugia-2024.avif"
     },
     {
       "source": "TechCrunch AI",
@@ -141,16 +231,6 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "Pope Leo urges a ban on lethal autonomous weapons before Geneva talks",
-      "summary": "Pope Leo XIV called on Friday for artificial intelligence to be “disarmed”. Decisions on human life, freedom and the use of force must always stay under human oversight, he said. In an address published by the Vatican, he urged the states…",
-      "link": "https://thenextweb.com/news/pope-leo-disarm-ai-lethal-autonomous-weapons-geneva",
-      "date": "2026-10-31T21:17:22.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/pope-leo-xiv-red-mozzetta-madrid-welcome-2026.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
       "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
@@ -159,26 +239,6 @@
       "category": "Policy & Safety",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "OpenAI tightens ChatGPT’s limits on weapons and past mass attacks",
-      "summary": "ChatGPT will stop giving teenagers practical information about weapons and security systems, even when a question looks harmless, OpenAI said on Friday. The limit applies to teen accounts with no sign of violent intent. OpenAI announced th…",
-      "link": "https://thenextweb.com/news/chatgpt-teen-safety-weapons-limits-community-safety-report",
-      "date": "2026-10-31T21:00:39.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/chatgpt-homepage-capabilities-laptop-screen-dark.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Twenty House Democrats press OpenAI over fired safety researchers",
-      "summary": "Twenty House Democrats have asked OpenAI chief executive Sam Altman to promise not to fire OpenAI whistleblowers who share safety information. They also want OpenAI to keep its pause on its most capable models until independent oversight i…",
-      "link": "https://thenextweb.com/news/openai-whistleblowers-house-democrats-casar-letter",
-      "date": "2026-10-31T20:55:45.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/openai-logo-silhouette-hand-smartphone.avif"
     },
     {
       "source": "SiliconANGLE",
@@ -207,36 +267,6 @@
       ]
     },
     {
-      "source": "SCMP Tech",
-      "title": "Chinese archaeologists set for hi-tech excavations with AI and deep-sea robots",
-      "summary": "Chinese archaeologists are set for a hi-tech turn, with the latest five-year blueprint aiming to deploy AI and deep-sea robots to trace Chinese history, decipher the origins of East Asian humans and expand the country’s cultural soft power…",
-      "link": "https://www.scmp.com/news/china/science/article/3372841/chinese-archaeologists-set-hi-tech-excavations-ai-and-deep-sea-robots",
-      "date": "2026-10-31T13:30:06.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/3e66acc2-a203-4d8d-9311-15a1677c158d_7b1b7243.jpg?itok=-laIrGAY&v=1793445914"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out",
-      "summary": "Google, Microsoft, OpenAI and Anthropic will honour one shared AI training opt-out in robots.txt. It lets a website keep its content out of generative AI training with a single rule. Today, a site that wants to say no has to write separate…",
-      "link": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic",
-      "date": "2026-10-31T12:24:36.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/developer-two-monitors-code-editor-mac-mini.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Sam Altman meets Samsung’s presidents days after his DRAM remark",
-      "summary": "Samsung hosted OpenAI chief executive Sam Altman for talks with about 50 of its presidents on Saturday. Two days earlier, a podcast went out in which Sam Altman said it is “quite terrible” for the world’s limited DRAM to sit in people’s ow…",
-      "link": "https://thenextweb.com/news/sam-altman-dram-samsung-presidents-cheeky-pint",
-      "date": "2026-10-31T12:03:14.000Z",
-      "category": "People & Leadership",
-      "region": "South Korea",
-      "image": "https://media.thenextweb.com/2026/10/samsung-executives-sam-altman-ai-talk-yongin-hall.avif"
-    },
-    {
       "source": "Wired AI",
       "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
       "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
@@ -255,26 +285,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://media.wired.com/photos/6ae513e3393ae92e17e66a04/master/pass/Business_Everyone%E2%80%99s%20Questioning%20Meta%E2%80%99s%20Hype%20About%20Muse%20Meta%20Says%20Muse%20Is%20Already%20a%20Big%20Shopper_v1.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Apple Intelligence to roll out on iPhones in China in December with Alibaba backing",
-      "summary": "Apple’s long-awaited artificial intelligence features will be officially launched in China in December, ending two years of regulatory uncertainty as the US tech giant seeks to bring advanced technologies to its second-largest market with…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3372831/apple-intelligence-roll-out-iphones-china-december-alibaba-backing",
-      "date": "2026-10-31T10:02:17.000Z",
-      "category": "Policy & Safety",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/b552b23e-12c9-43ab-923b-b4f51a3661de_b103e5dc.jpg?itok=2E2yqk-a&v=1793440869"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "AI could turn China’s social credit system into surveillance tool: government-funded study",
-      "summary": "China’s social credit system, stereotypically imagined as an all-powerful numerical scoring project for authoritarian control, has gained notoriety in the West – although people inside the country actually feel little of its presence or pr…",
-      "link": "https://www.scmp.com/news/china/science/article/3372510/ai-could-turn-chinas-social-credit-system-surveillance-tool-government-funded-study",
-      "date": "2026-10-31T10:00:09.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/29/9d9331bb-78ed-4e8c-b8da-0979c0e476a0_53a048a7.jpg?itok=n9L8HwRt&v=1793243964"
     },
     {
       "source": "Wired AI",
@@ -653,26 +663,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-scaled.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Intuit targets the mid-market ERP gap with AI",
-      "summary": "Growing companies that outgrow entry-level accounting software face a hard choice: Stay put or gamble on a mid-market ERP that promises automation but often brings cost and disruption. Artificial intelligence is now giving financial softwa…",
-      "link": "https://siliconangle.com/2026/10/30/mid-market-erp-how-intuit-uses-ai-avoid-failed-intuitconnect/",
-      "date": "2026-10-30T14:39:29.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_3496-2-scaled-e1793371347605.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "The race to deploy AI agents finds a familiar hurdle in data access",
-      "summary": "Enterprises racing to put AI agents into production are discovering that role-based access control, not model choice, decides whether those agents can be trusted. Rising inference costs, privacy worries and sovereignty demands are also pul…",
-      "link": "https://siliconangle.com/2026/10/30/role-based-access-control-decides-ai-agents-can-trusted-evolve26/",
-      "date": "2026-10-30T12:03:27.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-2026-10-30-at-13.24.54-scaled.png"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Harness²: Improving AI Agent Performance Without Model Upgrades",
       "summary": "When an AI agent fails to complete a task, upgrading the model can seem like the obvious next step. Yet an agent’s performance also depends on how it receives instructions, uses tools, and manages its work. Understanding those factors can…",
@@ -801,16 +791,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://bl-i.thgim.com/public/incoming/uvihlu/article71310575.ece/alternates/LANDSCAPE_1200/2026-08-04T151635Z_1040326772_RC2EQ4A5VBPL_RTRMADP_3_SPOTIFY-TECH-RESULTS.JPG"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "OpenAI expands AI safety monitoring after agents breach restricted environments",
-      "summary": "The monitoring framework uses multiple layers to identify potentially concerning behaviour, including probes that examine patterns in a model's internal activity",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-expands-ai-safety-monitoring-after-agents-breach-restricted-environments/article71643787.ece",
-      "date": "2026-10-30T05:42:40.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/7ikrsc/article71606318.ece/alternates/LANDSCAPE_1200/TH03-Profiles-3GVRGK669T.3.jpg.jpg"
     },
     {
       "source": "LiveMint Tech",
@@ -1153,16 +1133,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2-1.jpg"
     },
     {
-      "source": "LiveMint Tech",
-      "title": "Microsoft Visual Studio update brings smarter Copilot AI, bulk conflict resolution and Hot Exit: Details here",
-      "summary": "Microsoft has updated Visual Studio with improved Git tools, including commit comparisons and bulk merge-conflict resolution. The release also adds a new GitHub Copilot Chat experience, Hot Exit for restoring unsaved work, and other new fe…",
-      "link": "https://www.livemint.com/technology/microsoft-visual-studio-update-brings-smarter-copilot-ai-bulk-conflict-resolution-and-hot-exit-details-here-11793191723325.html",
-      "date": "2026-10-28T13:20:55.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/28/1600x900/logo/jnkjb_1793193506269_hPCV_1793193506420_om7R_aced821d-e3b3-4bb4-a213-cc29448f28de_0OSh.png"
-    },
-    {
       "source": "OpenAI",
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
@@ -1181,16 +1151,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Wired AI",
-      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-      "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "date": "2026-10-28T10:15:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/pass/culture_macmillon_failed_ai_project.jpg"
     },
     {
       "source": "OpenAI",
