@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T15:15:56.793Z",
-  "count": 191,
+  "updated": "2026-11-08T19:45:27.415Z",
+  "count": 189,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -50,6 +50,42 @@
     "Global"
   ],
   "items": [
+    {
+      "source": "SiliconANGLE",
+      "title": "AI cyber resilience and the trust gap",
+      "summary": "Backup and recovery has evolved into data protection, security and cyber recovery. Today, the focus is on business resilience. The scope continues to expand, with growing attention to how attackers use artificial intelligence and how defen…",
+      "link": "https://siliconangle.com/2026/11/08/ai-cyber-resilience-and-the-trust-gap/",
+      "date": "2026-11-08T15:49:18.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Bridging-Recovery-After-an-AI-Mistake-2-1.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Tencent AI chief warns models will soon pose biology risks, SCMP reports",
+      "summary": "Tencent’s chief AI scientist has warned that AI models will soon be able to cause harm in biology, as they already can in cybersecurity. Yao Shunyu spoke at a science event in Hong Kong on Saturday, the South China Morning Post reported. “…",
+      "link": "https://thenextweb.com/news/tencent-yao-shunyu-ai-biology-risk-hy4",
+      "date": "2026-11-08T15:38:11.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/10/tencent-sign-office-plaza-night.avif",
+      "relatedSources": [
+        {
+          "source": "SCMP Tech",
+          "link": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "Unfold CEO Ran Cherniavsky on breaking down enterprise data barriers to AI adoption",
+      "summary": "As enterprises accelerate AI adoption, a major obstacle remains: much of the data AI needs is still trapped inside legacy systems, proprietary software, and applications that lack modern interfaces. Traditional integration tools have helpe…",
+      "link": "https://thenextweb.com/news/unfold-ran-cherniavsky-enterprise-data-ai-adoption",
+      "date": "2026-11-08T15:08:30.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/11/unfold-founders-humanx-banner.avif"
+    },
     {
       "source": "The Next Web",
       "title": "Anthropic buys $3.4bn of gas generators for its data centres, FT reports",
@@ -119,16 +155,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://media.wired.com/photos/6aee77f4ece1c19963602401/master/pass/gear-nyt-cooking-ai-assistant.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "AI will soon master biology, unleashing new safety risks, Tencent AI chief warns",
-      "summary": "Artificial intelligence models will soon be powerful enough to master biology, presenting both benefits and serious risks, Tencent Holdings’ chief AI scientist and former OpenAI star researcher Vinces Yao Shunyu said during a rare public a…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
-      "date": "2026-11-08T10:22:27.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/08/8f760c2a-88c1-4ad0-9cdf-be180c9c883d_5601e499.jpg?itok=HQK8cw_H&v=1794133346"
     },
     {
       "source": "Wired AI",
@@ -267,16 +293,6 @@
       "image": "https://media.thenextweb.com/2026/10/dario-amodei-anthropic-logo-phone-screen.avif"
     },
     {
-      "source": "The Next Web",
-      "title": "US charges three men over $129m scheme that faked CEOs’ voices with AI",
-      "summary": "US prosecutors have charged three men with using AI to copy the voices and faces of company bosses and lawyers, tricking staff into wiring about $129m. The indictment was unsealed on Thursday, the US Attorney’s Office in Manhattan said. Th…",
-      "link": "https://thenextweb.com/news/us-charges-three-ai-ceo-impersonation-129m-fraud",
-      "date": "2026-11-07T11:01:01.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/orange-neon-ai-sign-circuit-board.avif"
-    },
-    {
       "source": "Wired AI",
       "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
       "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
@@ -285,26 +301,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://media.wired.com/photos/6aed04343576db1689ab3d03/master/pass/Caregiving%20app.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "House chairs ask Nvidia’s Jensen Huang to explain reported spy link",
-      "summary": "Three Republican House committee chairs have asked Nvidia chief executive Jensen Huang to attend a closed-door briefing on 18 November. They want to ask about his contacts with Alice Huang, a former executive at Megaspeed, and how Nvidia g…",
-      "link": "https://thenextweb.com/news/house-chairs-jensen-huang-briefing-megaspeed",
-      "date": "2026-11-07T10:05:00.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/10/jensen-huang-nvidia-gtc-2026-keynote-speaking-sap-center.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "AI teddy for three-year-olds gave unprompted self-harm reply, BBC finds",
-      "summary": "An AI plush toy marketed for children as young as three gave a self-harm crisis reply to a question that had nothing to do with self-harm, a BBC investigation found. The BBC published its findings on Thursday. The toy, called Doubao, is so…",
-      "link": "https://thenextweb.com/news/ai-teddy-for-three-year-olds-gave-unprompted-self-harm-reply-bbc-finds",
-      "date": "2026-11-07T09:52:56.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/11/oxana-lyashenko-FtNM2H1RXZ8-unsplash.avif"
     },
     {
       "source": "LiveMint Tech",
@@ -857,16 +853,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "OpenAI makes new data center commitments, AI policy recommendations",
-      "summary": "OpenAI Group PBC today made a set of commitments designed to ensure that its data centers benefit the communities where they’re built. It also proposed that lawmakers make some of the commitments mandatory for artificial intelligence compa…",
-      "link": "https://siliconangle.com/2026/11/05/openai-makes-new-data-center-commitments-ai-policy-recommendations/",
-      "date": "2026-11-05T23:50:52.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/unsplash-1-1.png"
     },
     {
       "source": "Ars Technica AI",
