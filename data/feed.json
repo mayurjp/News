@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T23:45:19.885Z",
-  "count": 190,
+  "updated": "2026-11-09T06:40:05.125Z",
+  "count": 185,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -45,15 +45,166 @@
     "China",
     "Europe",
     "Japan",
+    "South Korea",
     "Middle East",
     "United States",
     "Global"
   ],
   "items": [
     {
+      "source": "LiveMint Tech",
+      "title": "McKinsey warns AI-driven analysis could slow decision-making, weaken future leadership pipeline",
+      "summary": "While artificial intelligence (AI) is making business analysis significantly faster, human decision-making is struggling to keep pace. This mismatch could increase strategic risks and weaken the development of future business leaders, as p…",
+      "link": "https://www.livemint.com/technology/mckinsey-warns-ai-driven-analysis-could-slow-decision-making-weaken-future-leadership-pipeline-11794206292051.html",
+      "date": "2026-11-09T06:38:11.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
+    },
+    {
+      "source": "Japan Times",
+      "title": "Nvidia CEO’s affair engulfs AI giant in Chinese spying probe",
+      "summary": "In a memo to employees, Jensen Huang left no doubt that the chip colossus was embroiled in a crisis like none before in its three-decade history.",
+      "link": "https://www.japantimes.co.jp/business/2026/11/09/tech/nvidia-board-spying-ceo-affair/",
+      "date": "2026-11-09T06:35:00.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/thumbs/400x400/572922.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "date": "2026-11-09T05:26:29.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": null
+    },
+    {
+      "source": "NVIDIA",
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semicon…",
+      "link": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "date": "2026-11-09T05:00:40.000Z",
+      "category": "News",
+      "region": "South Korea",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating it…",
+      "link": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "date": "2026-11-09T05:00:39.000Z",
+      "category": "Product",
+      "region": "South Korea",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. Th…",
+      "link": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "date": "2026-11-09T05:00:04.000Z",
+      "category": "Hardware & Infra",
+      "region": "South Korea",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-sovereign-ai-nvlink-fusion.jpg"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the cap…",
+      "link": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "date": "2026-11-09T05:00:00.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "South Korea",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/dynamo-korea-ai-day.jpg"
+    },
+    {
+      "source": "Japan Times",
+      "title": "COP31 to open in Turkey, with climate goals under pressure from war and AI",
+      "summary": "A United Nations Environment Program report said the world is already set to overshoot 1.5 degrees Celsius of warming above preindustrial times.",
+      "link": "https://www.japantimes.co.jp/environment/2026/11/09/climate-change/cop31-turkey-climate-war-ai/",
+      "date": "2026-11-09T04:45:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/thumbs/400x400/572979.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Tech firms claw back some losses after midterms rout, eyes on Nvidia",
+      "summary": "Tech firms rose Monday to claw back some of last week's painful losses fuelled by AI regulation worries, though traders were keeping a wary eye on a probe into Nvidia boss Jensen Huang amid claims of an affair with a Chinese spy. The execu…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/tech-firms-claw-back-some-losses-after-midterms-rout-eyes-on-nvidia/articleshow/135669669.cms",
+      "date": "2026-11-09T03:26:10.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://img.etimg.com/photo/msid-135669669,imgsize-403010.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "IT firms with lower capital requirements may gain as investors shift focus to AI monetisation: Report",
+      "summary": "Information technology (IT) companies capable of monetising enterprise adoption of artificial intelligence (AI) without making substantial capital investments could gain an advantage as investors increasingly differentiate between business…",
+      "link": "https://economictimes.indiatimes.com/tech/information-tech/it-firms-with-lower-capital-requirements-may-gain-as-investors-shift-focus-to-ai-monetisation-report/articleshow/135669532.cms",
+      "date": "2026-11-09T03:17:46.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-135669532,imgsize-254700.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "“No excuse for what I did”: Read Jensen Huang’s full letter to Nvidia staff on his affair with alleged Chinese spy",
+      "summary": "In a message to company employees released Sunday, Huang acknowledged having an affair and apologized to both his family and company staff. \"I was unfaithful to my wife,\" he said. \"My actions hurt her and our children. There is no excuse f…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/no-excuse-for-what-i-did-read-jensen-huangs-full-letter-to-nvidia-staff-on-his-affair-with-alleged-chinese-spy/articleshow/135668537.cms",
+      "date": "2026-11-09T02:56:07.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://img.etimg.com/photo/msid-135668537,imgsize-123852.cms"
+    },
+    {
+      "source": "Japan Times",
+      "title": "Mizuho pierces Nomura’s Japan bubble with big-ticket global IPOs",
+      "summary": "Anthropic's listing is the third in a string of blockbuster deals where Mizuho snagged a key role.",
+      "link": "https://www.japantimes.co.jp/business/2026/11/09/companies/mizuho-us-ai/",
+      "date": "2026-11-09T02:53:00.000Z",
+      "category": "Business & Funding",
+      "region": "Japan",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/09/thumbs/400x400/572965.jpg"
+    },
+    {
+      "source": "ET CIO",
+      "title": "Exploring AI pilots to autonomous banking: How tech is reshaping the future of financial services",
+      "summary": "Banks are moving towards integrating artificial intelligence into their operations and governance models. This shift aims to create an autonomous banking environment which enhances efficiency and decision-making. Significant challenges rem…",
+      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/exploring-ai-pilots-to-autonomous-banking-how-tech-is-reshaping-the-future-of-financial-services/135668696",
+      "date": "2026-11-09T02:43:18.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-103/135668696.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "South Korea says Nvidia issues won't affect contracted GPU supplies",
+      "summary": "Vice Minister of Science and ICT Ryu Jemyung told a parliamentary budget committee that 10,000 GPUs funded under a 2025 supplementary budget had already arrived and were in use.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-says-nvidia-issues-wont-affect-contracted-gpu-supplies/articleshow/135668578.cms",
+      "date": "2026-11-09T02:32:24.000Z",
+      "category": "Hardware & Infra",
+      "region": "South Korea",
+      "image": "https://img.etimg.com/photo/msid-135668578,imgsize-72888.cms"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "AI pulls up the civil service ladder to Southeast Asia’s middle class",
+      "summary": "Artificial intelligence promises to make government bureaucracies leaner across Asia, but its biggest effect on public-sector employment may not come from the widely feared wave of lay-offs. Instead, analysts say the technology is more lik…",
+      "link": "https://www.scmp.com/week-asia/economics/article/3373652/ai-pulls-civil-service-ladder-southeast-asias-middle-class",
+      "date": "2026-11-09T02:00:38.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/d9522e42-a3b9-44db-b74b-73e1ab72d42a_1043401c.jpg?itok=Dxt73TW8&v=1794052104"
+    },
+    {
       "source": "SiliconANGLE",
       "title": "Nvidia CEO Jensen Huang admits to having extramarital affair with suspected Chinese spy",
-      "summary": "Nvidia Corp. said on Sunday it is launching an “independent investigation” into reports that its founder and Chief Executive Jensen Huang had been targeted by a foreign intelligence plot, shortly after he admitted he “had been intimate” wi…",
+      "summary": "Nvidia Corp. said on Sunday it’s launching an “independent investigation” into reports that its founder and Chief Executive Jensen Huang had been targeted by a foreign intelligence plot, shortly after he admitted he “had been intimate” wit…",
       "link": "https://siliconangle.com/2026/11/08/nvidia-ceo-jensen-huang-admits-to-having-extramarital-affair-with-suspected-chinese-spy/",
       "date": "2026-11-08T23:35:18.000Z",
       "category": "People & Leadership",
@@ -84,13 +235,7 @@
       "date": "2026-11-08T22:43:55.000Z",
       "category": "Security & Cyber Risk",
       "region": "China",
-      "image": "https://bl-i.thgim.com/public/incoming/pdii5g/article71681236.ece/alternates/LANDSCAPE_1200/2026-10-08T175515Z_1009972259_RC25ZNACZ3EZ_RTRMADP_3_USA-TRUMP.JPG",
-      "relatedSources": [
-        {
-          "source": "Japan Times",
-          "link": "https://www.japantimes.co.jp/business/2026/11/09/tech/nvidia-board-spying-ceo-affair/"
-        }
-      ]
+      "image": "https://bl-i.thgim.com/public/incoming/pdii5g/article71681236.ece/alternates/LANDSCAPE_1200/2026-10-08T175515Z_1009972259_RC25ZNACZ3EZ_RTRMADP_3_USA-TRUMP.JPG"
     },
     {
       "source": "SiliconANGLE",
@@ -219,16 +364,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/08/0a610e9f-9127-4355-8085-0954f804d7b5_bfaffbf2.jpg?itok=cailqp69&v=1794120476"
     },
     {
-      "source": "SCMP Tech",
-      "title": "China’s Pudu Robotics, which makes 80% of its sales abroad, takes on Tesla in humanoids",
-      "summary": "Humanoid robots represent the next frontier for Pudu Robotics, according to founder and CEO Felix Zhang Tao, as the global commercial robotics leader takes on Elon Musk’s Tesla in the growing sector and explores manufacturing in Europe, it…",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3373641/chinas-pudu-robotics-which-makes-80-its-sales-abroad-takes-tesla-humanoids",
-      "date": "2026-11-08T09:00:28.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/72b2d711-aefc-4900-900d-c775d4409ea9_7be83cd5.jpg?itok=SHx9SKtn&v=1794036142"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Top AI adopters in customer service gain over 50% KPI improvements: EY report",
       "summary": "Business value generation, however, remains uneven",
@@ -243,56 +378,6 @@
           "link": "https://www.livemint.com/technology/top-ai-adopters-in-customer-service-gain-over-50-kpi-improvements-but-value-realization-remains-uneven-ey-report-11794109806515.html"
         }
       ]
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Hong Kong makes further inroads in AI, aviation at mainland Chinese expo",
-      "summary": "Hong Kong is forging deeper ties with the mainland across artificial intelligence (AI), aviation and professional services, industry insiders at China’s global import expo have said. Tech executives and accounting veterans discussed how to…",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3373664/hong-kong-makes-further-roads-ai-aviation-mainland-chinese-expo",
-      "date": "2026-11-08T04:00:35.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/68bd9c63-8a5c-4a0f-80b7-806a02157dd2_0e6870c7.jpg?itok=9zIzjFC_&v=1794064128"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Indonesians furious as Batam data centres drain taps: ‘we cannot cook without water’",
-      "summary": "Cooking and bathing became difficult when taps ran dry in Batam, an Indonesian island where residents are protesting against data centres springing up to power the global artificial intelligence boom. The area had suffered a “long drought”…",
-      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3373676/indonesians-furious-batam-data-centres-drain-taps-we-cannot-cook-without-water",
-      "date": "2026-11-08T03:51:09.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/08/0317bd16-a01a-42d9-bb04-a4e249a54ffb_3923b42a.jpg?itok=HKKYQvPV&v=1794109861"
-    },
-    {
-      "source": "Japan Times",
-      "title": "SoftBank and ABB consider China carve-out to salvage robotics deal",
-      "summary": "The companies seek a solution after China's Office of the Working Mechanism for Foreign Investment Security Review halted plans worth $5.4 billion.",
-      "link": "https://www.japantimes.co.jp/business/2026/11/08/companies/softbank-abb-china-carve-out/",
-      "date": "2026-11-08T03:23:00.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/thumbs/400x400/572878.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "China US$300 dating app ‘marriage-or-refund’ guarantee sparks intense online buzz",
-      "summary": "In China’s competitive dating market, a new matchmaking start-up is staking its revenue on a bold wager: find true love, or get every penny back. Launched in July, Liangpei AI charges an annual membership fee of 2,000 yuan (US$300), which…",
-      "link": "https://www.scmp.com/news/people-culture/trending-china/article/3373674/china-us300-dating-app-marriage-or-refund-guarantee-sparks-intense-online-buzz",
-      "date": "2026-11-08T02:00:27.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/08/0ed7f8c2-36f1-4ae7-8139-9b6cd12f550d_532533a0.jpg?itok=amKpnxF-&v=1794098375"
-    },
-    {
-      "source": "Japan Times",
-      "title": "AI safety advocates make gains after $110 million midterm fight",
-      "summary": "A rival funding network pursuing the opposite cause — offering the industry more leeway to develop AI — also claimed successes.",
-      "link": "https://www.japantimes.co.jp/business/2026/11/08/tech/ai-safety-us-midterms/",
-      "date": "2026-11-07T23:41:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/08/thumbs/400x400/572892.jpg"
     },
     {
       "source": "TechCrunch AI",
@@ -399,16 +484,6 @@
       "category": "People & Leadership",
       "region": "China",
       "image": "https://img.etimg.com/photo/msid-135625480,imgsize-141842.cms"
-    },
-    {
-      "source": "Japan Times",
-      "title": "Japan picks 28 priority items for ¥370 trillion in investments",
-      "summary": "The priority items, which were picked from 62 products and technologies, include semiconductors and artificial intelligence.",
-      "link": "https://www.japantimes.co.jp/business/2026/11/07/economy/japan-priority-items-investments/",
-      "date": "2026-11-07T03:24:00.000Z",
-      "category": "News",
-      "region": "Japan",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572855.jpg"
     },
     {
       "source": "Hindu BusinessLine",
@@ -587,16 +662,6 @@
       "image": "https://media.wired.com/photos/6aece5b7cb93131011507281/master/pass/Backchannel-11062026_Option2.jpg"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "date": "2026-11-06T15:54:47.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Check Point finds vulnerability in ChatGPT’s Lockdown Mode",
       "summary": "Researchers at Check Point Research found a way around it through HTML previews that enables silent data theft, phishing and malware delivery",
@@ -755,46 +820,6 @@
       "category": "Hardware & Infra",
       "region": "Japan",
       "image": "https://img.etimg.com/photo/msid-135592753,imgsize-5577373.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "SoftBank credit risk jumps to 4-year high as AI fears roil market",
-      "summary": "The cost of insuring against a default for tech investor SoftBank Group jumped to its highest in four years on Friday as worries about AI profitability roiled the world's financial markets.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/softbank-credit-risk-jumps-to-4-year-high-as-ai-fears-roil-market/articleshow/135592268.cms",
-      "date": "2026-11-06T03:37:56.000Z",
-      "category": "News",
-      "region": "Japan",
-      "image": "https://img.etimg.com/photo/msid-135592268,imgsize-3264103.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Google sued over suicide-related AI chats on school computer",
-      "summary": "The parents of a 13-year-old girl have sued Google claiming she planned a potential suicide and funeral using its AI technology on a school-issued computer. Developers of fast-evolving AI technology are facing a litany of similar lawsuits…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-sued-over-suicide-related-ai-chats-on-school-computer/articleshow/135591823.cms",
-      "date": "2026-11-06T03:17:06.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-135591823,imgsize-70774.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "OpenAI kicks off charm offensive to change voters' view of data centers",
-      "summary": "Stunning victories by Democrats in US midterm elections this week have been interpreted by many as Americans repudiating tech industry plans to build data centers across the country.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-kicks-off-charm-offensive-to-change-voters-view-of-data-centers/articleshow/135591129.cms",
-      "date": "2026-11-06T02:50:35.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-135591129,imgsize-5797571.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
-      "summary": "OpenAI released GPT-6 Cyber, a model built to find and exploit security flaws, to a small group of vetted customers on Thursday, rating it \"Critical\" in cybersecurity under its safety framework.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating/articleshow/135591045.cms",
-      "date": "2026-11-06T02:43:29.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-135591045,imgsize-1869767.cms"
     },
     {
       "source": "LiveMint Tech",
@@ -1073,16 +1098,6 @@
       "image": null
     },
     {
-      "source": "LiveMint Tech",
-      "title": "India flags Chinese-linked AI tools in hacking campaign against financial firms",
-      "summary": "INDIA-CYBER/AI:India flags Chinese-linked AI tools in hacking campaign against financial firms",
-      "link": "https://www.livemint.com/technology/india-flags-chinese-linked-ai-tools-in-hacking-campaign-against-financial-firms-11793867833483.html",
-      "date": "2026-11-05T08:37:12.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
-    },
-    {
       "source": "OpenAI",
       "title": "Merge builds product and business tools with OpenAI technology",
       "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
@@ -1253,16 +1268,6 @@
       "image": null
     },
     {
-      "source": "NVIDIA",
-      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-      "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step,…",
-      "link": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-      "date": "2026-11-03T16:00:45.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-semiconductor-fab-still-1920x1080-1.jpg"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Top 5 Local AI Models and How to Get Them",
       "summary": "Proprietary models are amazing! But sometimes what is of importance is configurability rather than raw power. This has led to the emergence of locally hosted models. Running AI locally gives users more control over their setup. With suitab…",
@@ -1281,16 +1286,6 @@
       "category": "Research",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "NVIDIA",
-      "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-      "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to clos…",
-      "link": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-      "date": "2026-11-03T07:00:12.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/smart-city-blog-1920x1080-1.jpeg"
     },
     {
       "source": "MIT Tech Review",
@@ -1413,16 +1408,6 @@
       "image": "https://image.theregister.com/?imageId=259659&width=800"
     },
     {
-      "source": "NVIDIA",
-      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forw…",
-      "link": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-      "date": "2026-10-30T15:00:10.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-scaled.jpg"
-    },
-    {
       "source": "DeepMind",
       "title": "Speeding up planning decisions with AI",
       "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
@@ -1461,16 +1446,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "NVIDIA",
-      "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-      "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to…",
-      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
-      "date": "2026-10-29T13:00:16.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gfn-thursday-10-29-blog-1920x1080-logo.jpg"
     },
     {
       "source": "Analytics Vidhya",
@@ -1551,16 +1526,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "ET CIO",
-      "title": "Inside YES Bank’s AI playbook: Turning experimentation into enterprise-wide transformation",
-      "summary": "How CIO Mahesh Ramamoorthy Is Driving the Next Wave of Banking Innovation",
-      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/inside-yes-banks-ai-playbook-turning-experimentation-into-enterprise-wide-transformation/135249415",
-      "date": "2026-10-28T02:30:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://etimg.etb2bimg.com/thumb/img-size-45542/135249415.cms"
     },
     {
       "source": "DeepMind",
@@ -1961,26 +1926,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     },
     {
       "source": "BAIR",
