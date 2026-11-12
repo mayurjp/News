@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T11:20:09.701Z",
-  "count": 193,
+  "updated": "2026-11-12T19:57:48.624Z",
+  "count": 198,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,14 +52,480 @@
   ],
   "items": [
     {
-      "source": "SiliconANGLE",
-      "title": "Agents that build their own databases are forcing a data foundation rethink",
-      "summary": "AI agents are changing how enterprises create, move and govern information, and data observability is turning into a prerequisite rather than a nice-to-have. Models get most of the attention, but the data beneath them decides whether they…",
-      "link": "https://siliconangle.com/2026/11/12/data-observability-becomes-must-ai-agents-build-databases-kubeconna/",
-      "date": "2026-11-12T11:02:13.000Z",
+      "source": "The Next Web",
+      "title": "Nebius shares fall 16% as data centre delays cut its 2026 outlook",
+      "summary": "Nebius shares fell 16% on Thursday after the Amsterdam-based AI cloud company cut its outlook for this year. It also raised its spending plans, CNBC’s Jordan Novet reported. The fall came despite third-quarter revenue that rose 571% from a…",
+      "link": "https://thenextweb.com/news/nebius-q3-2026-shares-fall-data-centre-delays-outlook",
+      "date": "2026-11-12T19:34:15.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/11/arkady-volozh-nebius-speaking-stage.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "date": "2026-11-12T19:27:45.000Z",
       "category": "News",
       "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_4269.jpg"
+      "image": null
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "date": "2026-11-12T19:23:03.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "date": "2026-11-12T19:11:00.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Hugging Face",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "date": "2026-11-12T19:07:35.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Anthropic lets companies run Claude’s agent service on their own servers",
+      "summary": "Anthropic now lets companies run Claude Managed Agents in their own cloud or data centre. Agent histories and credentials stay on their systems, but each model call still goes to an outside provider such as Anthropic or AWS. Anthropic now…",
+      "link": "https://thenextweb.com/news/anthropic-self-hosted-claude-managed-agents",
+      "date": "2026-11-12T19:06:13.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.avif"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Jensen Huang’s $470 Billion Affair",
+      "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+      "date": "2026-11-12T18:59:58.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://media.wired.com/photos/6af4e95d91c3d23473376fc7/master/pass/Uncanny-Valley-Jensen-Spy-Business.jpg"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+      "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "date": "2026-11-12T18:57:45.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "date": "2026-11-12T18:39:23.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "J.Crew launches an AI stylist built on Anthropic’s Claude",
+      "summary": "J.Crew has launched Style Advisor, an AI stylist on its US website built with Anthropic’s Claude. Shoppers describe an occasion and get complete outfits from looks J.Crew’s stylists put together. Personal recommendations based on past purc…",
+      "link": "https://thenextweb.com/news/jcrew-style-advisor-claude-ai-stylist",
+      "date": "2026-11-12T18:37:14.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/11/claude-website-thinking-partner-screen.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Axle raises $9M to bring AI agents to Wall Street’s meeting-makers",
+      "summary": "Axle has raised $9M led by Eniac and Bonfire Ventures. It makes software that helps investment banks arrange meetings between investors and company management, and will add more AI agents. It says some of North America’s biggest banks use…",
+      "link": "https://thenextweb.com/news/axle-9m-ai-agents-investment-banks-corporate-access",
+      "date": "2026-11-12T18:09:00.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/ai-text-inside-open-human-head-3d-render.avif"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
+      "link": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "date": "2026-11-12T18:05:41.000Z",
+      "category": "News",
+      "region": "Europe",
+      "image": "https://media.wired.com/photos/6af50d1a5e386b9efd1b63f5/master/pass/Google-DeepMind-Staffers-Escalate-Unionization-Efforts-Business-2151467843.jpg"
+    },
+    {
+      "source": "DeepMind",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "date": "2026-11-12T18:00:50.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Google AI",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "date": "2026-11-12T18:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+      "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
+      "link": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+      "date": "2026-11-12T17:59:15.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://media.wired.com/photos/6af5f0e82e74be76ab295bc3/master/pass/111226-nvidia-jensen-huang-dollar-destroyed.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "OpenAI’s quarterly revenue reportedly hits $10bn as its losses grow",
+      "summary": "OpenAI’s revenue reached $10bn in the third quarter, up almost 50% from the second, The Information reported. OpenAI shared the figures with investors on Tuesday. Demand for its newer models and enterprise products had picked up, Valida Pa…",
+      "link": "https://thenextweb.com/news/openai-revenue-q3-10bn-operating-loss",
+      "date": "2026-11-12T17:55:22.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/openai-logo-smartphone-red-screen.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "SpaceX plans $74B of AI computing centres in Arizona and Texas",
+      "summary": "SpaceX plans to spend $74B on two AI supercomputing sites: a $50B campus in Cochise County, Arizona, and a $24B site with its own gas power plant near Starbase, Texas. It now sells computing power to Anthropic and Google, but faces local p…",
+      "link": "https://thenextweb.com/news/spacex-74b-ai-computing-centers-arizona-texas",
+      "date": "2026-11-12T17:54:21.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/spacex-building-facade-logo-blue-sky.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "date": "2026-11-12T17:36:40.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "date": "2026-11-12T17:17:58.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "date": "2026-11-12T17:00:52.000Z",
+      "category": "Business & Funding",
+      "region": "Japan",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "date": "2026-11-12T17:00:00.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Sunil Mittal renews global ambitions, eyes overseas telecom acquisitions",
+      "summary": "Bharti’s next phase of bets in Satcom, AI infra, financial services and consumer durables",
+      "link": "https://www.thehindubusinessline.com/info-tech/sunil-mittal-renews-global-ambitions-eyes-overseas-telecom-acquisitions/article71693909.ece",
+      "date": "2026-11-12T16:59:21.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/lme6u8/article71695130.ece/alternates/LANDSCAPE_1200/460655965.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "I work more now than I did when I was young: Sunil Mittal",
+      "summary": "Mittal looks back on missed bets in retail, anticipates space-based connectivity and AI infrastructure as key growth drivers, and discusses succession plans for Bharti",
+      "link": "https://www.thehindubusinessline.com/info-tech/bharti50-i-work-more-now-than-i-did-when-i-was-young-sunil-mittal/article71694746.ece",
+      "date": "2026-11-12T16:46:22.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/ksqihg/article71694998.ece/alternates/LANDSCAPE_1200/460655996.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Trump suggests Tim Cook replace Jensen Huang as Nvidia CEO",
+      "summary": "The development follows Huang’s resignation amid reports of an alleged affair, while the chipmaker begins its search for a permanent successor.",
+      "link": "https://www.thehindubusinessline.com/info-tech/trump-suggests-tim-cook-replace-jensen-huang-as-nvidia-ceo/article71695113.ece",
+      "date": "2026-11-12T16:43:44.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/93nf8a/article71695120.ece/alternates/LANDSCAPE_1200/2026-11-11T171249Z_711019293_RC2SLOA8V3M4_RTRMADP_3_USA-TRUMP.JPG",
+      "relatedSources": [
+        {
+          "source": "TechCrunch AI",
+          "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+        },
+        {
+          "source": "Wired AI",
+          "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/"
+        }
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Jensen Huang agrees to testify before Congress",
+      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "date": "2026-11-12T16:36:37.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "date": "2026-11-12T16:32:33.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation",
+      "summary": "German artificial intelligence robotics startup Agile Robots SE announced today that it has raised $500 million in new late-stage funding at an $8.5 billion valuation. Japanese multinational investment holding company SoftBank led the Seri…",
+      "link": "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/",
+      "date": "2026-11-12T16:10:57.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/csm_AgileRobots-AgileONE-Content-01-486_Web_cfca3a56ac.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Vanta launches AI Governance, Risk Quantification and a Vanta Agent for entire jobs",
+      "summary": "Compliance automation company Vanta Inc. today launched AI Governance by Vanta, a product on its Agentic Trust Platform said to give security teams a single view of every artificial intelligence system in a company. Also making their debut…",
+      "link": "https://siliconangle.com/2026/11/12/vanta-launches-ai-governance-risk-quantification-and-a-vanta-agent-for-entire-jobs/",
+      "date": "2026-11-12T16:00:35.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/vanta.png"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "India current AI strategy protects it from ongoing developments in the global chip industry: Srikanth Velamakanni, Nasscom Chairperson",
+      "summary": "The Nasscom Chairperson stressed on the importance of India building its own frontier models in the future",
+      "link": "https://www.thehindubusinessline.com/info-tech/india-current-ai-strategy-not-affected-by-global-chips-demand-or-nvidia-changes-nasscom-chairperson/article71694737.ece",
+      "date": "2026-11-12T15:46:03.000Z",
+      "category": "Hardware & Infra",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/8balqj/article71694766.ece/alternates/LANDSCAPE_1200/Srikanth%20Velamakanni.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "With $23M in funding, Luminal is the latest startup to put Nvidia’s CUDA moat in its crosshairs",
+      "summary": "Luminal AI Inc. has outlined a plan to tear down Nvidia Corp.’s formidable software moat in the artificial intelligence chip industry after raising $23 million in early-stage funding. Today’s Series A round was led by Standard Capital and…",
+      "link": "https://siliconangle.com/2026/11/12/with-23m-in-funding-luminal-is-the-latest-startup-to-put-nvidias-cuda-moat-in-its-crosshairs/",
+      "date": "2026-11-12T15:00:44.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-06-09-46-04.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Computer vision startup Tristar AI pulls in $12.4M to automate quality control for manufacturers",
+      "summary": "All too often, manufacturing defects seem to slip past human eyes, with the result that high-speed production lines turn into expensive scrapheaps. Computer vision startup Tristar AI Inc. has just raised $12.4 million in early-stage fundin…",
+      "link": "https://siliconangle.com/2026/11/12/computer-vision-startup-tristar-ai-pulls-in-12-4m-to-automate-quality-control-for-manufacturers/",
+      "date": "2026-11-12T15:00:37.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-12-07-41-54.png"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Cold War lessons for the AI age: how a US-China hotline could help stop a nuclear attack",
+      "summary": "The United States and China should set up a dedicated hotline to help reduce the risk of AI-induced nuclear attacks, analysts have said. The call came amid a fresh push by Washington to prioritise high-level talks on arms controls. In a ph…",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3374246/cold-war-lessons-ai-age-how-us-china-hotline-could-help-stop-nuclear-attack",
+      "date": "2026-11-12T15:00:10.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/59864749-ec19-478f-94bb-0cd02f6237f5_b57b7393.jpg?itok=cqXdYBxh&v=1794488317"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Nvidia CEO Jensen Huang resigns following affairs scandal",
+      "summary": "Nvidia Corp.’s board of directors today announced the resignation of Jensen Huang, now former chief executive and president of the artificial intelligence chipmaker, amid a scandal, naming Colette Kress, current executive vice president an…",
+      "link": "https://siliconangle.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-following-affairs-scandal/",
+      "date": "2026-11-12T14:55:04.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Jensen-Huang.png",
+      "relatedSources": [
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom/article71694311.ece"
+        }
+      ]
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+      "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "date": "2026-11-12T14:50:17.000Z",
+      "category": "News",
+      "region": "South Korea",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg"
+    },
+    {
+      "source": "Wired AI",
+      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+      "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
+      "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+      "date": "2026-11-12T14:14:33.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6af5c3ffec0d511a4648accf/master/pass/111226-Colette%20Nvidia.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Megaspeed ex-CEO Alice Huang barred from Singapore amid Nvidia saga",
+      "summary": "Former Megaspeed executive Alice Huang, accused by the US of being a Chinese spy and linked to an extramarital affair with tech giant Nvidia’s co-founder Jensen Huang, has been barred from re-entering Singapore over inaccurate information…",
+      "link": "https://www.scmp.com/week-asia/economics/article/3374256/megaspeed-ex-ceo-alice-huang-barred-singapore-amid-nvidia-scandal",
+      "date": "2026-11-12T14:07:35.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/bceda8cd-463b-49a8-974f-26e0ef774d1e_541442a4.jpg?itok=YVNlnh4r&v=1794492448"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+      "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to W…",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+      "date": "2026-11-12T14:00:59.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-12-blog-1920x1080-logo.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Exclusive: Menlo IRIS extension gives security teams control over AI use without a new browser",
+      "summary": "Browser security company Menlo Security Inc. today launched the Menlo IRIS Browser Extension, a new offering that adds its enterprise browser security controls to the browsers employees already use with no need to switch them to separate s…",
+      "link": "https://siliconangle.com/2026/11/12/exclusive-menlo-iris-extension-gives-security-teams-control-over-ai-use-without-a-new-browser/",
+      "date": "2026-11-12T14:00:53.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/menlosec-scaled.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Clipto enables ChatGPT and Claude to search and analyze years of people’s meetings and video calls",
+      "summary": "Artificial intelligence assistants such as ChatGPT and Claude have become essential tools for millions of workers worldwide, helping them compose emails in seconds, generate complex code and draft reports by looking at whatever data that p…",
+      "link": "https://siliconangle.com/2026/11/12/clipto-enables-chatgpt-and-claude-to-search-and-analyze-years-of-peoples-meetings-and-video-calls/",
+      "date": "2026-11-12T14:00:52.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-12-09-34-54.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "ServiceNow launches AI-powered engine to accelerate migrations from CRM rivals",
+      "summary": "ServiceNow Inc. is bidding to steal business from other customer relationship management vendors with an artificial intelligence-powered engine that it says can reduce enterprise CRM implementations from months to weeks. The new Autonomous…",
+      "link": "https://siliconangle.com/2026/11/12/servicenow-launches-ai-powered-engine-to-accelerate-migrations-from-crm-rivals/",
+      "date": "2026-11-12T14:00:35.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/ServiceNow-banner-at-2025-after-party-scaled.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Square takes Squaremates AI agent out of beta and opens up to sellers’ own AI software",
+      "summary": "Block Inc.-owned commerce platform Square today made its Squaremates artificial intelligence business agent generally available to sellers in the U.S., after the agent entered open beta in April under the name Managerbot. For sellers who w…",
+      "link": "https://siliconangle.com/2026/11/12/square-takes-squaremates-ai-agent-out-of-beta-and-opens-up-to-sellers-own-ai-software/",
+      "date": "2026-11-12T14:00:33.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/square-scaled.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Qvyon launches with $8M to improve safety for physical AI deployments",
+      "summary": "Physical AI validation infrastructure and software development company Qvyon Technologies Inc. launched today with $8 million in total funding to help companies validate autonomous vehicles and robots before deployment. MaC Venture Capital…",
+      "link": "https://siliconangle.com/2026/11/12/qvyon-launches-with-8m-to-improve-safety-for-physical-ai-deployments/",
+      "date": "2026-11-12T14:00:18.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/tungart7-robot-10172912_1920.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "US data centre backlash could be blessing in disguise for AI buildout",
+      "summary": "Financial markets are prone to knee-jerk reactions. Last week’s dramatic sell-off in US technology stocks in response to the sweeping victory of the Democratic Party in America’s midterm elections was clearly overdone, yet even the most bu…",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3374149/us-data-centre-backlash-could-be-blessing-disguise-ai-buildout",
+      "date": "2026-11-12T12:30:07.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/5033b93f-6d9e-4438-95ad-3f75bdde9eb5_2fb31243.jpg?itok=bnoMfb--&v=1794455867"
+    },
+    {
+      "source": "MediaNama",
+      "title": "AI, financial services and smarter chats: Kunal Shah reveals the next 3 bets of WhatsApp",
+      "summary": "The new global CEO of WhatsApp Kunal Shah revealed the company wants to make features like voice notes, stickers \"simpler and more expressive\" and want to let users complete more purchases in the ecosystem along with AI for bookings. The p…",
+      "link": "https://www.medianama.com/2026/11/223-ai-finance-services-kunal-shah-whatsapp/",
+      "date": "2026-11-12T11:48:54.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "MediaNama",
+      "title": "Lowdown: European Commission proposes Digital Fairness Act to protect online consumers",
+      "summary": "From loot boxes and virtual currencies to AI agents and subscription renewals, the proposed EU law covers several digital consumer practices. The post Lowdown: European Commission proposes Digital Fairness Act to protect online consumers a…",
+      "link": "https://www.medianama.com/2026/11/223-eu-digital-fairness-act-explained/",
+      "date": "2026-11-12T11:44:43.000Z",
+      "category": "Policy & Safety",
+      "region": "Europe",
+      "image": null
+    },
+    {
+      "source": "Japan Times",
+      "title": "How Apollo’s SoftBank ties unlocked an unprecedented OpenAI bet",
+      "summary": "Since 2021, Apollo has provided and arranged more than $15 billion of debt for SoftBank across multiple deals.",
+      "link": "https://www.japantimes.co.jp/business/2026/11/12/softbank-apollo-open-ai-bet/",
+      "date": "2026-11-12T11:42:00.000Z",
+      "category": "Business & Funding",
+      "region": "Japan",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/thumbs/400x400/573765.jpg"
     },
     {
       "source": "Rest of World",
@@ -89,13 +555,7 @@
       "date": "2026-11-12T10:30:04.000Z",
       "category": "People & Leadership",
       "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/2a078646-30c7-47bf-a87e-def20565bd29_cfc61b0b.jpg?itok=XGAvcfcm&v=1794473803",
-      "relatedSources": [
-        {
-          "source": "The Next Web",
-          "link": "https://thenextweb.com/news/nvidia-board-meeting-jensen-huang-ouster-no-decision"
-        }
-      ]
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/2a078646-30c7-47bf-a87e-def20565bd29_cfc61b0b.jpg?itok=XGAvcfcm&v=1794473803"
     },
     {
       "source": "Wired AI",
@@ -178,16 +638,6 @@
       "image": null
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Nebuly wants to help enterprises understand exactly what their AI investments are worth after raising $21M",
-      "summary": "An Italian startup called Nebuly S.r.l. says it’s going to help organizations better understand the impact their investments in artificial intelligence have on their bottom lines after raising $21 million in funding today. The round was le…",
-      "link": "https://siliconangle.com/2026/11/12/nebuly-wants-to-help-enterprises-understand-exactly-what-their-ai-investments-are-worth-after-raising-21m/",
-      "date": "2026-11-12T10:00:35.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-10-10-03-07.png"
-    },
-    {
       "source": "SCMP Tech",
       "title": "Former ByteDance AI scientist touts drug-discovery model that tops world leaders",
       "summary": "A former ByteDance artificial intelligence scientist’s new venture has released a life sciences AI model that the firm claims outperforms state-of-the-art systems, intensifying the increasingly crowded competition in AI-driven drug discove…",
@@ -196,36 +646,6 @@
       "category": "News",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/a7c63303-70d6-43c1-afc2-f61926a84c43_b81ea9a3.jpg?itok=bGnVov6o&v=1794473761"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Munich’s SE3 raises $30M to give Europe’s drones spatial intelligence",
-      "summary": "SE3, the Munich startup building spatial intelligence software for autonomous systems, has raised a $30M Series A led by Accel, with Keen, Lakestar, and Seedcamp participating. The round comes just five months after the company emerged fro…",
-      "link": "https://thenextweb.com/news/se3-30m-series-a-accel-spatial-intelligence-drones",
-      "date": "2026-11-12T09:53:42.000Z",
-      "category": "Business & Funding",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/11/se3-founders-cremers-koestler-klenk-hangar.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Lithuania’s Biomatter raises $18M for AI enzyme design",
-      "summary": "Vilnius-based Biomatter has raised $18M in a Series A round to scale its AI enzyme design platform. Astanor led the oversubscribed round. Existing investors UVC Partners, Inventure and Metaplanet also took part. The company announced the r…",
-      "link": "https://thenextweb.com/news/biomatter-18m-series-a-ai-enzyme-design",
-      "date": "2026-11-12T09:45:09.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/11/biomatter-team-2026-vilnius-group-photo.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "SoftBank leads $500M round valuing Agile Robots at $8.5B",
-      "summary": "Agile Robots has raised $500 million in a funding round led by SoftBank, valuing the Munich-based robotics company at $8.5 billion. The company announced the investment in a statement Bloomberg reported, bringing total funding to around $2…",
-      "link": "https://thenextweb.com/news/agile-robots-softbank-500m-humanoid",
-      "date": "2026-11-12T09:40:24.000Z",
-      "category": "Business & Funding",
-      "region": "Japan",
-      "image": "https://media.thenextweb.com/2026/11/agile-robots-zhaopeng-chen-agile-one-humanoid.avif"
     },
     {
       "source": "OpenAI",
@@ -374,16 +794,6 @@
       "image": null
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Why is Nvidia so powerful in the AI world, and what could Jensen Huang’s scandal really cost?",
-      "summary": "Until now, investors have supported the company, and Jensen, as visionary underwriters of the entire AI ecosystem. If that changes, or the company otherwise loses its way, a shortage of GPUs may be the least of the AI industry’s problems",
-      "link": "https://www.thehindubusinessline.com/info-tech/why-is-nvidia-so-powerful-in-the-ai-world-and-what-could-jensen-huangs-scandal-really-cost/article71692460.ece",
-      "date": "2026-11-12T06:06:48.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/sgm4mv/article71692515.ece/alternates/LANDSCAPE_1200/2026-11-12T044951Z_2111000623_RC2YEMADLC41_RTRMADP_3_NVIDIA-CEO-REPLACEMENTS.JPG"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Public funds ploughing cash into AI will own megatrends shaping economy",
       "summary": "GLOBAL-SWF/AI:Public funds ploughing cash into AI will 'own' megatrends shaping economy",
@@ -424,16 +834,6 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/thumbs/400x400/573661.jpg"
     },
     {
-      "source": "MediaNama",
-      "title": "Special Newsletter: 6 Talking Points—October Edition",
-      "summary": "This October edition explores Meta’s content restrictions, police use of facial recognition, AI agent security, journalists’ digital privacy, social media bans for children, and government influence over feeds. The post Special Newsletter:…",
-      "link": "https://www.medianama.com/2026/11/223-special-newsletter-talking-points-october/",
-      "date": "2026-11-12T05:05:02.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "ET Tech",
       "title": "Chinese woman accused of spying on Nvidia chief entered Taiwan 8 times",
       "summary": "The woman accused of spying for Beijing during an affair with Nvidia founder Jensen Huang visited Taiwan a total of eight times in 2024 and 2025, a Taiwanese government minister said Thursday. Chiu said records show that Alice Huang visite…",
@@ -458,16 +858,6 @@
           "link": "https://www.japantimes.co.jp/business/2026/11/12/tech/nvidia-jensen-huang-affairs/"
         }
       ]
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "date": "2026-11-12T03:13:10.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "ET Tech",
@@ -510,86 +900,6 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/thumbs/400x400/573551.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "A decade in, KubeVirt pushes virtual machines into the AI agent era",
-      "summary": "Confidential computing is drawing fresh interest as enterprises weigh where their most sensitive AI workloads can safely run. That shift is giving virtual machines a new role alongside containers on Kubernetes, rather than a slow retiremen…",
-      "link": "https://siliconangle.com/2026/11/11/confidential-computing-ai-agents-push-kubevirt-vms-forward-kubeconna/",
-      "date": "2026-11-12T02:27:56.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_4181.jpg"
-    },
-    {
-      "source": "Japan Times",
-      "title": "Japan to feature denial capabilities in security documents",
-      "summary": "The revised documents are also expected to address \"new ways of warfare\" involving artificial intelligence and drones.",
-      "link": "https://www.japantimes.co.jp/news/2026/11/12/japan/japan-security-documents-denial-capabilities/",
-      "date": "2026-11-12T02:12:00.000Z",
-      "category": "News",
-      "region": "Japan",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/thumbs/400x400/573535.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Google’s GKE Labs turns reinforcement learning into a Kubernetes workload",
-      "summary": "Model fine-tuning through reinforcement learning is fast becoming one of the most demanding jobs in AI infrastructure. It mixes training, inference and sandboxed agent work in a single loop, often with research code tangled into the system…",
-      "link": "https://siliconangle.com/2026/11/11/model-fine-tuning-kubernetes-google-s-openrl-explained-kubeconna/",
-      "date": "2026-11-12T01:51:03.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_4109.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "When AI agents go rogue, who can Hong Kong hold accountable?",
-      "summary": "When OpenAI’s AI agents launched an autonomous attack on Australia’s Medicare portal in June, it took the company 84 days to report what had happened – a delay that exposed gaps in regulatory oversight that Hong Kong industry experts say t…",
-      "link": "https://www.scmp.com/news/hong-kong/article/3374119/when-ai-agents-go-rogue-who-can-hong-kong-hold-accountable",
-      "date": "2026-11-12T01:30:13.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/11/ee80e583-1093-464d-b5e4-d35362c16412_c7df6dec.jpg?itok=ar8Z1ukn&v=1794411857"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Nvidia’s board reportedly preparing to oust CEO Jensen Huang after reports of a second affair",
-      "summary": "Nvidia Corp.’s board of directors is reportedly preparing to oust its founder and Chief Executive Jensen Huang after reports emerged that he had a second extramarital relationship with an executive at the company, just days after he admitt…",
-      "link": "https://siliconangle.com/2026/11/11/nvidias-board-reportedly-preparing-to-oust-jensen-huang-after-reports-of-a-second-affair/",
-      "date": "2026-11-12T01:28:20.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Jensen.png",
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
-        },
-        {
-          "source": "Hindu BusinessLine",
-          "link": "https://www.thehindubusinessline.com/info-tech/nvidia-board-prepares-to-discuss-ousting-ceo-jensen-huang-wsj-reports/article71691410.ece"
-        }
-      ]
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Google enters decision model market with Gemini Decisions API",
-      "summary": "Google LLC today launched Gemini Decisions API, an artificial intelligence service designed to answer user questions in a cost-efficient manner. It’s powered by a new AI model called Gemini Decision 1. Traditional large language models are…",
-      "link": "https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/",
-      "date": "2026-11-12T01:22:05.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Gemini-Decision-1.png"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Can Southeast Asia cut and paste Australia’s AI safeguards?",
-      "summary": "Australia’s new mandatory safeguards on AI companies could serve as a model for Southeast Asia, analysts say, but the region needs to build its institutional and technical capabilities first. Prime Minister Anthony Albanese announced on Tu…",
-      "link": "https://www.scmp.com/week-asia/economics/article/3374089/can-southeast-asia-cut-and-paste-australias-ai-safeguards",
-      "date": "2026-11-12T00:00:14.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/11/14637b92-9b9f-45bf-904c-f0dde508f83a_cd67196f.jpg?itok=EYYVReOC&v=1794392435"
-    },
-    {
       "source": "OpenAI",
       "title": "Supporting research on AI and children’s safety",
       "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
@@ -610,92 +920,12 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "date": "2026-11-11T23:50:00.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": null
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Just how deep do Alice Huang’s Hong Kong business links run amid the Nvidia affair?",
-      "summary": "Alice Huang, the Chinese tech executive accused of having an affair with Nvidia co-founder Jensen Huang while allegedly spying for Beijing, has ties to Hong Kong dating back about two decades – and a web of business links in the city, the…",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3374122/just-how-deep-do-alice-huangs-hong-kong-business-links-run-amid-nvidia-affair",
-      "date": "2026-11-11T23:30:08.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/35b86edb-3798-4dd4-83c5-a77b08bf13bd_300d5ddc.jpg?itok=gLjyJtuS&v=1794420456"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Edelbyte reels in $70M for its multipurpose data analytics platform",
-      "summary": "Edelbyte Ltd., the developer of a data analytics platform optimized for artificial intelligence agents, launched today with $70 million in funding. The startup raised the capital over two rounds. The investments were led by Sequoia and Qui…",
-      "link": "https://siliconangle.com/2026/11/11/edelbyte-reels-in-70m-for-its-multi-purpose-data-analytics-platform/",
-      "date": "2026-11-11T23:19:47.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Edelbyte.jpg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "date": "2026-11-11T23:17:05.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Google tests Tabletop, letting groups build planning tools with an AI agent",
-      "summary": "Google LLC today began testing Tabletop, a Google Labs experiment in which groups share an online space and ask an artificial intelligence agent to build the planning tools they need. In a blog post, Roman Nurik, design and engineering lea…",
-      "link": "https://siliconangle.com/2026/11/11/google-tests-tabletop-letting-groups-build-planning-tools-with-an-ai-agent/",
-      "date": "2026-11-11T22:37:09.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/googletabletop.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "British inference chip developer Fractile raises $720M in funding",
-      "summary": "Fractile Ltd., a British startup that develops artificial intelligence inference chips, has raised $720 million in funding. Reuters reported today that the Series C round was led by Thrive Capital, Founders Fund, Lightspeed and Redpoint. T…",
-      "link": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
-      "date": "2026-11-11T21:12:49.000Z",
-      "category": "Business & Funding",
-      "region": "Europe",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Photo.png"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Why the data center you dread might never even be built",
-      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A l…",
-      "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "date": "2026-11-11T20:15:15.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta is losing its longtime head of infrastructure",
-      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-      "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-      "date": "2026-11-11T20:12:01.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A l…",
-      "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-      "date": "2026-11-11T20:02:14.000Z",
-      "category": "Hardware & Infra",
+      "source": "Hugging Face",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "",
+      "link": "https://huggingface.co/blog/3d-lora-finetuning",
+      "date": "2026-11-12T00:00:00.000Z",
+      "category": "Research",
       "region": "Global",
       "image": null
     },
@@ -708,46 +938,6 @@
       "category": "News",
       "region": "United States",
       "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/master/pass/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-      "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "date": "2026-11-11T19:54:00.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "date": "2026-11-11T19:34:55.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-      "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "date": "2026-11-11T19:22:22.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Red Hat and Nvidia’s OpenShell puts AI agents on a deny-by-default leash",
-      "summary": "Prompt injection attacks and silent data exfiltration have turned AI agent security from a theoretical worry into an urgent enterprise concern. As agents move from developer laptops into data centers, companies need guardrails that don’t s…",
-      "link": "https://siliconangle.com/2026/11/11/prompt-injection-attacks-drive-red-hat-nvidia-s-openshell-kubeconna/",
-      "date": "2026-11-11T18:55:13.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Derek-Carr-Mrunal-Patel-Clean.jpg"
     },
     {
       "source": "Ars Technica AI",
@@ -810,16 +1000,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp"
     },
     {
-      "source": "Wired AI",
-      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
-      "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
-      "date": "2026-11-11T15:30:00.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://media.wired.com/photos/6af3b2cb420c0dad2c15cd3b/master/pass/Jensen-Honeypot-Big-Story-2.jpg"
-    },
-    {
       "source": "DeepMind",
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
@@ -840,16 +1020,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "OpenAI rolls out new features to help US businesses list themselves in ChatGPT",
-      "summary": "OpenAI is introducing ‘Businesses in ChatGPT’ in beta version in the US",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-rolls-out-new-features-to-help-us-businesses-list-themselves-in-chatgpt/article71690005.ece",
-      "date": "2026-11-11T13:39:37.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/kovnct/article71690050.ece/alternates/LANDSCAPE_1200/2026-10-19T114837Z_801299272_RC2B6OATH0RC_RTRMADP_3_TECH-AI.JPG"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "Can an AI Agent Inherit Its Team’s Hard-Won Lessons? A Hands-On Look at TencentDB Agent Memory",
       "summary": "Picture a Monday. Your AI coding agent fixes a payment bug and learns three things the hard way. On Tuesday, a new session starts for a similar bug. The agent has no idea about Monday. It reads an old runbook and makes the same mistake aga…",
@@ -858,16 +1028,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Cyient, 3-GIS partner to offer integrated network solutions in global markets",
-      "summary": "The agreement combines engineering expertise, network software and an AI-driven platform to help customers improve data use and operational efficiency",
-      "link": "https://www.thehindubusinessline.com/info-tech/cyient-3-gis-partner-to-offer-integrated-network-solutions-in-global-markets/article71689611.ece",
-      "date": "2026-11-11T12:17:35.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/g908gt/article71597905.ece/alternates/LANDSCAPE_1200/Text-16-10-2026G3LGM9G8S.4.jpg.jpg"
     },
     {
       "source": "LiveMint Tech",
@@ -890,16 +1050,6 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
-      "source": "Wired AI",
-      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
-      "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
-      "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
-      "date": "2026-11-11T11:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6aee70f5276d9711716c9d02/master/pass/Gemini-AI-Coached-Teen-Suicide-Business.jpg"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Google November Pixel Drop brings Gemini AI to Pixel 10, custom widgets and Hindi message summaries",
       "summary": "Google has rolled out its November 2026 Pixel Drop, bringing Gemini Intelligence, improved Gboard voice typing, AI-powered custom widgets and Hindi conversation summaries to eligible Pixel devices.",
@@ -908,16 +1058,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/tej1_1794391709821_WH2n_1794391717222_PjvX_b473a6e4-fee5-4a43-9a4c-213c7ba07a8c_a1F8.png"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Google’s AI chip expansion could open new HBM opportunities for Samsung, SK hynix",
-      "summary": "Google’s growing customer base and new partnerships could broaden the market for memory suppliers beyond Nvidia’s dominant graphics processing unit ecosystem",
-      "link": "https://www.thehindubusinessline.com/info-tech/googles-ai-chip-expansion-could-open-new-hbm-opportunities-for-samsung-sk-hynix/article71689149.ece",
-      "date": "2026-11-11T10:34:59.000Z",
-      "category": "Hardware & Infra",
-      "region": "South Korea",
-      "image": "https://bl-i.thgim.com/public/incoming/eblku1/article71689278.ece/alternates/LANDSCAPE_1200/2026-10-06T142830Z_1400402375_RC229FAAVKCE_RTRMADP_3_BRITAIN-COURT-GOOGLE.JPG"
     },
     {
       "source": "Google AI",
@@ -1091,7 +1231,7 @@
     },
     {
       "source": "NVIDIA",
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
       "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open…",
       "link": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
       "date": "2026-11-10T16:00:03.000Z",
@@ -1120,16 +1260,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp"
     },
     {
-      "source": "Wired AI",
-      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
-      "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-      "date": "2026-11-10T14:00:00.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg"
-    },
-    {
       "source": "Google AI",
       "title": "Google Cloud launches Gemini for healthcare.",
       "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
@@ -1138,16 +1268,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-      "date": "2026-11-10T12:15:32.000Z",
-      "category": "Hardware & Infra",
-      "region": "China",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg"
     },
     {
       "source": "DeepMind",
@@ -1168,26 +1288,6 @@
       "category": "News",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "Wired AI",
-      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-      "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
-      "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
-      "date": "2026-11-10T11:00:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6aea5020a9094bad7a4244a9/master/pass/ai_security_abliterators.gif"
-    },
-    {
-      "source": "Wired AI",
-      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
-      "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
-      "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
-      "date": "2026-11-10T11:00:00.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://media.wired.com/photos/6aea57e57882d392b9ef6dd3/master/pass/Ai-threat-level-main.jpg"
     },
     {
       "source": "OpenAI",
@@ -1290,16 +1390,6 @@
       "image": null
     },
     {
-      "source": "Ars Technica AI",
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-      "date": "2026-11-09T17:24:26.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg"
-    },
-    {
       "source": "MIT Tech Review",
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
       "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play…",
@@ -1308,16 +1398,6 @@
       "category": "Policy & Safety",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Nvidia CEO's affair becomes a national security problem",
-      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-      "date": "2026-11-09T15:23:20.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/huang-1152x648.jpg"
     },
     {
       "source": "Hugging Face",
@@ -1500,16 +1580,6 @@
       "image": null
     },
     {
-      "source": "NVIDIA",
-      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-      "summary": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task.…",
-      "link": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
-      "date": "2026-11-05T20:00:41.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1.png"
-    },
-    {
       "source": "DeepMind",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "summary": "",
@@ -1556,16 +1626,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-31566/135555973.cms"
     },
     {
-      "source": "Hugging Face",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "summary": "",
-      "link": "https://huggingface.co/blog/phonon-tts",
-      "date": "2026-11-05T00:00:00.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "MIT Tech Review",
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat ag…",
@@ -1573,16 +1633,6 @@
       "date": "2026-11-04T18:50:55.000Z",
       "category": "Policy & Safety",
       "region": "United States",
-      "image": null
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "summary": "",
-      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "date": "2026-11-04T17:50:10.000Z",
-      "category": "News",
-      "region": "Global",
       "image": null
     },
     {
@@ -1806,16 +1856,6 @@
       "image": "https://fastly.restofworld.org/uploads/2026/10/Ai-Cost-Languages-3-scaled.png?width=160&dpr=2&crop=1:1"
     },
     {
-      "source": "DeepMind",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "date": "2026-10-22T14:30:24.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo"
-    },
-    {
       "source": "The Register AI",
       "title": "Reach new heights of laziness by burning tokens to let an AI tap your smartphone screen for you",
       "summary": "Nothing will ruin your faith in humanity like an AI that operates your smartphone slowly, struggles with basic tasks, and can charge you for it",
@@ -1834,16 +1874,6 @@
       "category": "Open Source",
       "region": "Global",
       "image": "https://image.theregister.com/?imageId=4094141&width=800"
-    },
-    {
-      "source": "Google AI",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "date": "2026-10-21T04:00:00.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp"
     },
     {
       "source": "Rest of World",
@@ -2024,6 +2054,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     }
   ]
 }
