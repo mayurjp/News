@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T02:42:43.822Z",
-  "count": 195,
+  "updated": "2026-11-15T10:59:34.103Z",
+  "count": 199,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,12 +44,79 @@
     "India",
     "China",
     "Europe",
+    "Japan",
     "South Korea",
     "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Measure AI by results, not number of agents deployed: Oracle’s Natalia Rachelson",
+      "summary": "Business leaders should pick an outcome they can measure, such as reducing the time spent resolving accounting errors or lowering transport costs, she said",
+      "link": "https://www.thehindubusinessline.com/info-tech/measure-ai-by-results-not-number-of-agents-deployed-oracles-natalia-rachelson/article71704334.ece",
+      "date": "2026-11-15T09:34:02.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/vsk60/article71704463.ece/alternates/LANDSCAPE_1200/Natalia.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "China calls for AI cooperation with the US ahead of Shenzhen Apec summit",
+      "summary": "Chinese ambassador to the United States Xie Feng has signalled high hopes for major-power cooperation at the Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen this week, promoting a China-led AI alliance for regional prosperity.…",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3374484/china-calls-ai-cooperation-us-ahead-shenzhen-apec-summit",
+      "date": "2026-11-15T09:00:10.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/15/192c232c-ee12-47e6-827d-a22a24992f4c_4046b516.jpg?itok=pdn3ya2e&v=1794730528"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "South Korea calms fears over 260,000 Nvidia chip order after Jensen Huang’s exit",
+      "summary": "The South Korean government said Nvidia’s existing partnership commitments to Seoul remain intact despite disgraced CEO Jensen Huang’s departure from the artificial intelligence giant. However, uncertainties linger as remarks by Elon Musk…",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3374477/south-korea-calms-fears-over-260000-nvidia-chip-order-after-jensen-huangs-exit",
+      "date": "2026-11-15T07:13:34.000Z",
+      "category": "People & Leadership",
+      "region": "South Korea",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/15/c8ec949a-3cf8-499b-a6c6-a2c013521ba8_ab1855d8.jpg?itok=RFFZypDn&v=1794726811"
+    },
+    {
+      "source": "Japan Times",
+      "title": "South Korea probes top exam scorer after AI cheating confession",
+      "summary": "The candidate scored 397.5 out of 400 points in the first round, with only one wrong answer out of 160 questions, sparking cheating accusations.",
+      "link": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/south-korea-ai-test-cheating/",
+      "date": "2026-11-15T06:55:00.000Z",
+      "category": "News",
+      "region": "South Korea",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/thumbs/400x400/574110.jpg",
+      "relatedSources": [
+        {
+          "source": "SCMP Tech",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3374467/top-tax-accountant-exam-scorer-south-korea-admits-using-ai-cheat"
+        }
+      ]
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Hong Kong must expand trade networks as AI development could slow, commerce chief says",
+      "summary": "Hong Kong must proactively expand trade networks and not “wait for luck to come our way”, as artificial intelligence development that drove recent growth in exports may gradually slow down, the city’s commerce minister has said. Secretary…",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374472/hong-kong-must-expand-trade-not-wait-luck-ai-exports-could-slow-commerce-chief",
+      "date": "2026-11-15T05:20:11.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/15/5cec38f3-ec09-4ed5-9b20-d25df1055873_940b51b8.jpg?itok=X0G3UZ4T&v=1794719997"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "No actors, no crew, no ticket sales: ‘So obviously AI’ film flops at China’s box office",
+      "summary": "China has ushered artificial intelligence into its cinemas, but the country’s first fully AI-generated feature film has flopped at the box office. Made with no human actors or camera crew, Sanxingdui: Future Past brought in just around 1.8…",
+      "link": "https://www.scmp.com/economy/china-economy/article/3374358/no-actors-no-crew-no-ticket-sales-so-obviously-ai-film-flops-chinas-box-office",
+      "date": "2026-11-15T05:00:06.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/997ce214-dc35-473f-bb56-0c781741acbc_47d0a8c4.jpg?itok=TfXtf7Mc&v=1794563948"
+    },
     {
       "source": "SCMP Tech",
       "title": "AI ‘blue aliens’ rising as health experts on China social media spark pseudoscience backlash",
@@ -79,6 +146,16 @@
       "category": "Security & Cyber Risk",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/0005cfa7-184c-4dcc-b219-00c332a05837_e0f6e04b.jpg?itok=8-BxuYbO&v=1794557091"
+    },
+    {
+      "source": "Japan Times",
+      "title": "Japan firms thrive on AI boom, but uncertainty grows",
+      "summary": "Factors like raw material prices amid Middle East turmoil and data center construction have come industry analysts concerned.",
+      "link": "https://www.japantimes.co.jp/business/2026/11/15/companies/japan-firms-ai-boom/",
+      "date": "2026-11-15T00:34:00.000Z",
+      "category": "Hardware & Infra",
+      "region": "Japan",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/thumbs/400x400/574077.jpg"
     },
     {
       "source": "TechCrunch AI",
@@ -217,16 +294,6 @@
       "image": "https://img.etimg.com/photo/msid-135827369,imgsize-116682.cms"
     },
     {
-      "source": "Japan Times",
-      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "summary": "The revelation follows two other extramarital affairs that led to his resignation Thursday.",
-      "link": "https://www.japantimes.co.jp/business/2026/11/14/huang-second-employee-relationship/",
-      "date": "2026-11-14T08:06:00.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/thumbs/400x400/574018.jpg"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "OpenAI expands into payments with ChatGPT Wallet, allowing AI agents to make purchases using users' cards",
       "summary": "Developed with American Express, Mastercard, and Visa, the wallet lets users save cards and authorise purchases with a security check",
@@ -297,16 +364,6 @@
       "image": "https://etimg.etb2bimg.com/thumb/img-size-47476/135820507.cms"
     },
     {
-      "source": "SCMP Tech",
-      "title": "Don’t take Nvidia CEO Jensen Huang’s ‘sex’ scandal at face value",
-      "summary": "“I thought spooks were supposed to be stealthy,” the uncouth, flatulent anti-hero Jackson Lamb complains in the hit British spy series Slow Horses as an annoying underling loudly enters his rundown office building, known to fans as Slough…",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3374017/dont-take-nvidia-ceo-jensen-huangs-sex-scandal-face-value",
-      "date": "2026-11-14T01:30:08.000Z",
-      "category": "People & Leadership",
-      "region": "Europe",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/d7ea3894-2b6f-4218-8ca3-452f7620461f_c9757d51.jpg?itok=UUP_QkGV&v=1794537525"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "US Commerce Secretary Lutnick agrees to testify before Senate panel over Nvidia chip export controls",
       "summary": "The proposed hearing will examine export control enforcement, the handling of the investigation and potential national security implications of overseas chip transfers",
@@ -339,10 +396,6 @@
         {
           "source": "LiveMint Tech",
           "link": "https://www.livemint.com/technology/microsoft-outage-crosses-12-hours-outlook-teams-onedrive-and-other-services-whats-working-and-whats-down-11794551050860.html"
-        },
-        {
-          "source": "Hindu BusinessLine",
-          "link": "https://www.thehindubusinessline.com/info-tech/microsoft-tries-to-fix-outlook-and-copilot-hours-into-outage/article71696560.ece"
         }
       ]
     },
@@ -365,16 +418,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "US Congress widens Nvidia probe, seeking testimony from Jensen Huang and Trump officials",
-      "summary": "US lawmakers have been demanding answers about potential national security risks and White House oversight of advanced chip exports to China following revelations that former Nvidia chief executive Jensen Huang was in a relationship with a…",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3374412/us-congress-widens-nvidia-probe-seeking-testimony-jensen-huang-and-trump-officials",
-      "date": "2026-11-13T22:16:27.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/b4a3019c-82af-4dad-8081-61130d1d6aef_deb15cd6.jpg?itok=0WIzL_Li&v=1794608176"
     },
     {
       "source": "SiliconANGLE",
