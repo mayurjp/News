@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T22:54:44.144Z",
-  "count": 199,
+  "updated": "2026-11-18T04:25:38.917Z",
+  "count": 195,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -52,6 +52,242 @@
   "items": [
     {
       "source": "SCMP Tech",
+      "title": "How a Tsinghua spin-out became China’s first commercial AI safety watchdog",
+      "summary": "Chinese President Xi Jinping and US President Donald Trump are set to meet this week in Shenzhen on the sidelines of the Apec meeting, where the question of how to manage the risks of frontier AI systems is expected to be a major agenda it…",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3374829/how-tsinghua-spin-out-became-chinas-first-commercial-ai-safety-watchdog",
+      "date": "2026-11-18T04:00:10.000Z",
+      "category": "Policy & Safety",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/be5d4bdc-1330-4ec8-b4b7-4f1fab94387d_51daee34.jpg?itok=QDQw1O74&v=1794972823"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "OpenAI unveils GPT-6.2 Astra, claims edge over Anthropic’s Fable model",
+      "summary": "The latest release comes amid intensifying competition for business customers and renewed scrutiny of the security risks posed by advanced AI systems",
+      "link": "https://www.thehindubusinessline.com/info-tech/openai-unveils-gpt-62-astra-claims-edge-over-anthropics-fable-model/article71714438.ece",
+      "date": "2026-11-18T03:58:45.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/7ffbxs/article71714444.ece/alternates/LANDSCAPE_1200/2026-07-10T003749Z_1560374988_RC2QRLAJMVUM_RTRMADP_3_OPENAI-SIMO.JPG"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Microsoft takes on OpenAI and Anthropic with new coding AI model",
+      "summary": "The company also introduced image-generation and transcription models, with AI chief Mustafa Suleyman highlighting affordability, performance and safeguards as priorities",
+      "link": "https://www.thehindubusinessline.com/info-tech/microsoft-takes-on-openai-and-anthropic-with-new-coding-ai-model/article71714442.ece",
+      "date": "2026-11-18T03:58:37.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/68vc0x/article71714458.ece/alternates/LANDSCAPE_1200/2026-11-13T173220Z_2141743725_RC25NOAG2APY_RTRMADP_3_MICROSOFT-OUTAGES.JPG"
+    },
+    {
+      "source": "ET Tech",
+      "title": "OpenAI launches GPT-6.2 Astra, Sol with focus on professional work and cost efficiency",
+      "summary": "OpenAI has launched two new artificial intelligence models, GPT-6.2 Astra and GPT-6.2 Sol, with improved capabilities for professional and everyday tasks, while aiming to reduce the cost of using advanced AI tools for businesses and develo…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-6-2-astra-sol-with-focus-on-professional-work-and-cost-efficiency/articleshow/135947489.cms",
+      "date": "2026-11-18T03:36:57.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-135947489,imgsize-.cms",
+      "relatedSources": [
+        {
+          "source": "SiliconANGLE",
+          "link": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/"
+        }
+      ]
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Nvidia stops selling AI chips to China despite US approval",
+      "summary": "The confirmation is a notable shift in stance for a company that has spent years fighting for the right to do more business with Chinese customers",
+      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-stops-selling-ai-chips-to-china-despite-us-approval/article71714394.ece",
+      "date": "2026-11-18T03:18:48.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://bl-i.thgim.com/public/incoming/bw1z5f/article71709571.ece/alternates/LANDSCAPE_1200/2026-11-16T110005Z_1235144389_RC2MICA2N0WQ_RTRMADP_3_NVIDIA-AI-FINANCING.JPG"
+    },
+    {
+      "source": "Japan Times",
+      "title": "Spies and silicon chips: Alice Huang’s tangled corporate web",
+      "summary": "The alleged Chinese spy linked to Nvidia's co-founder is connected to myriad shell companies, investment houses and major Chinese technology firms.",
+      "link": "https://www.japantimes.co.jp/business/2026/11/18/tech/spies-chips-alice-huang/",
+      "date": "2026-11-18T02:53:00.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/thumbs/400x400/574628.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Anthropic forges ahead with its IPO even as AI fears mount and markets wobble",
+      "summary": "No ordinary sale, the Claude chatbot maker's IPO could raise more than $60 billion on Thursday, a massive haul that, depending on the ultimate pricing and other issues, could rival SpaceX's in June.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-forges-ahead-with-its-ipo-even-as-ai-fears-mount-and-markets-wobble/articleshow/135946525.cms",
+      "date": "2026-11-18T02:50:41.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-135946525,imgsize-7625459.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "\"Parlay tech advances into real outcomes\": Microsoft CEO Satya Nadella unveils new models for coding, cybersecurity",
+      "summary": "Nadella highlighted how the company plans to provide nearly every layer of the technology businesses will need to build, deploy and manage increasingly autonomous AI systems.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/parlay-tech-advances-into-real-outcomes-microsoft-ceo-satya-nadella-unveils-new-models-for-coding-cybersecurity/articleshow/135946214.cms",
+      "date": "2026-11-18T02:40:15.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-135946214,imgsize-89419.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Nvidia expands manufacturing capacity with suppliers to meet AI demand",
+      "summary": "Nvidia said on Tuesday it was expanding manufacturing capacity with supply chain partners to support long-term growth in demand for its AI computing platforms.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-expands-manufacturing-capacity-with-suppliers-to-meet-ai-demand/articleshow/135945935.cms",
+      "date": "2026-11-18T02:31:22.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-135945935,imgsize-91214.cms"
+    },
+    {
+      "source": "ET CIO",
+      "title": "Modular power conversion in AI data centres: The future of AC vs DC debate",
+      "summary": "With the rise in AI workloads, modular power conversion is becoming a focal point for data centre infrastructure. This piece emphasizes the importance of efficient power architecture for resilience. Operators should focus on swift deployme…",
+      "link": "https://cio.economictimes.indiatimes.com/news/data-center/modular-power-conversion-in-ai-data-centres-the-future-of-ac-vs-dc-debate/135945746",
+      "date": "2026-11-18T02:30:00.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-38516/135945746.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Nvidia rejects Jensen Huang's offer to return as CEO despite pressure from Silicon Valley",
+      "summary": "The embattled company's board of directors \"unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,\" Nvidia Chairman Harvey Jones said at the start of Nvidia's quarterly earnings call before yielding to Chief F…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-rejects-jensen-huangs-offer-to-return-as-ceo-despite-pressure-from-silicon-valley/articleshow/135945875.cms",
+      "date": "2026-11-18T02:27:25.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-135945875,imgsize-34312.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Nvidia earnings beat estimates; firm won't take questions on resignation",
+      "summary": "Nvidia later began a conference call with analysts and investors by saying it wouldn't take questions on longtime CEO Jensen Huang's resignation and doesn't plan to reinstate him. Colette Kress, interim CEO, told investors the company expe…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-earnings-beat-estimates-firm-wont-take-questions-on-resignation/articleshow/135945772.cms",
+      "date": "2026-11-18T02:24:42.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-135945772,imgsize-159899.cms"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "date": "2026-11-18T01:44:21.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+      "summary": "Genesis AI SAS today announced that it has raised $500 million in funding from a group of prominent investors. Premji Invest, Khosla Ventures and Eclipse led the Series A round. They were joined by the venture capital arms of Nvidia Corp.,…",
+      "link": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+      "date": "2026-11-18T01:29:33.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Eno.png"
+    },
+    {
+      "source": "Japan Times",
+      "title": "Nvidia gives upbeat outlook while quashing idea of Huang return",
+      "summary": "Huang has expressed a willingness to return to Nvidia's top post if the board is open to it.",
+      "link": "https://www.japantimes.co.jp/business/2026/11/18/tech/nvidia-upbeat-no-huang-return/",
+      "date": "2026-11-18T00:54:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/thumbs/400x400/574609.jpg"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "date": "2026-11-18T00:27:29.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "date": "2026-11-18T00:16:50.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Nvidia posts strong results as investors weigh post-Huang future",
+      "summary": "Latest results offer investors an indication of demand, product momentum and how Nvidia may navigate its leadership transition amid uncertainty.",
+      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-posts-strong-results-as-investors-weigh-post-huang-future/article71714318.ece",
+      "date": "2026-11-18T00:14:25.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/z5f709/article71714319.ece/alternates/LANDSCAPE_1200/2026-11-17T193937Z_2003416495_RC2VPOAQD6ZD_RTRMADP_3_NVIDIA-RESULTS.JPG"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Alphabet’s Isomorphic Labs raises $5B to accelerate drug discovery with AI",
+      "summary": "Isomorphic Labs Ltd. today announced that it has closed a $5 billion investment led by Greenoaks and Sequoia Capital. The venture capital firms were joined by more than a half-dozen other backers. The group included Isomorphic parent Alpha…",
+      "link": "https://siliconangle.com/2026/11/17/alphabets-isomorphic-labs-raises-5b-to-accelerate-drug-discovery-with-ai/",
+      "date": "2026-11-17T23:51:11.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Isomorphic-Labs.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Business as usual for Nvidia as it beats expectations in first earnings call after Jensen Huang’s resignation",
+      "summary": "Nvidia Corp. delivered earnings and revenue that surpassed Wall Street’s expectations and offered strong guidance for the current quarter in its first earnings call since the shocking resignation of its iconic co-founder and Chief Executiv…",
+      "link": "https://siliconangle.com/2026/11/17/business-as-usual-for-nvidia-as-it-beats-expectations-in-its-first-earnings-call-after-jensen-huangs-resignation/",
+      "date": "2026-11-17T23:49:29.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-18-06-48-23.png"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "date": "2026-11-17T23:37:48.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Token sticker shock pushes enterprises from frontier labs toward open-weight AI factories",
+      "summary": "Enterprises have spent the AI boom racing to secure graphics processing units, or GPUs, but the harder decisions now sit above the hardware. Token bills, data sovereignty and model choice increasingly decide which AI pilots reach productio…",
+      "link": "https://siliconangle.com/2026/11/17/gpus-alone-won-t-carry-enterprise-ai-pilots-production-dellatsc26/",
+      "date": "2026-11-17T23:27:01.000Z",
+      "category": "Open Source",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_5140-scaled.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "date": "2026-11-17T23:04:35.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
       "title": "Nvidia results beat expectations, as ousted CEO Huang told no way back",
       "summary": "US chip giant Nvidia doubled revenue in the third quarter to more than US$115 billion, the company reported on Tuesday while ruling out any return for ousted CEO Jensen Huang after a Chinese spy scandal. The results, which beat expectation…",
       "link": "https://www.scmp.com/news/world/united-states-canada/article/3374805/nvidia-results-beat-expectations-ousted-ceo-huang-told-no-way-back",
@@ -69,16 +305,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
-      "summary": "OpenAI Group PBC today announced the launch of GPT-6.2 Astra, a new frontier artificial intelligence model for complex professional work that is claimed to outperform its predecessor at less than a third of the cost, along with an updated…",
-      "link": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/",
-      "date": "2026-11-17T22:39:29.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/gpt62.png"
     },
     {
       "source": "SiliconANGLE",
@@ -108,7 +334,7 @@
       "date": "2026-11-17T22:19:19.000Z",
       "category": "People & Leadership",
       "region": "United States",
-      "image": "https://media.wired.com/photos/6afccb299b8ae6ebe897d1d7/master/pass/2026-11-12T153402Z_941150596_RC2X6I9AZJQN_RTRMADP_3_NVIDIA-CEO-COLETTE-KRESS.JPG"
+      "image": "https://media.wired.com/photos/6afce5159891667de5f2b6bb/master/pass/Nvidia-Board-Has-No-Plans-to-Bring-Back-Jensen-Business-2299990450.jpg"
     },
     {
       "source": "TechCrunch AI",
@@ -142,7 +368,7 @@
     },
     {
       "source": "SiliconANGLE",
-      "title": "Jensen Huang says he’s willing to return as CEO, in first statement since resignation",
+      "title": "Jensen Huang says he’s willing to return to Nvidia, in first statement since resignation",
       "summary": "Former Nvidia Corp. Chief Executive Officer Jensen Huang today said he’s open to returning to his old post. Huang expressed his willingness to be reinstated in a post on X. It marks his first public statement since his ouster from Nvidia l…",
       "link": "https://siliconangle.com/2026/11/17/jensen-huang-says-hes-willing-to-return-as-ceo-in-first-statement-since-resignation/",
       "date": "2026-11-17T21:22:57.000Z",
@@ -201,16 +427,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/ianbucknvidia-sc26.png"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Microsoft rolls out new first-party models and updates to agentic AI continuous improvement",
-      "summary": "Microsoft Corp. today rolled out new generative artificial intelligence models and updates to Foundry, the company’s unified enterprise platform that helps developers and organizations ground, test and deploy AI applications and autonomous…",
-      "link": "https://siliconangle.com/2026/11/17/microsoft-rolls-out-new-first-party-models-and-updates-to-agentic-ai-continuous-improvement/",
-      "date": "2026-11-17T20:05:36.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/06/A-programming-sitting-in-front-of-a-keyboard-in-a-dark-office-as-an-AI-agent-appears-on-a-screen-ass-1.jpeg"
-    },
-    {
       "source": "The Next Web",
       "title": "Promise Robotics raises C$40M for robot factories that build homes",
       "summary": "Promise Robotics has raised a C$40M Series B led by White Star Capital to expand its robotic factories, which make structural home parts for builders who pay for output rather than plants. It has more than 2,500 homes under contract, a dea…",
@@ -251,56 +467,6 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-      "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-      "date": "2026-11-17T18:48:23.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Dell puts a single gateway between enterprise AI agents and the data they crave",
-      "summary": "Data intelligence is becoming the deciding layer of the enterprise AI factory as companies learn that racks of graphics processing units deliver little value when agents lack trusted, governed context. Neocloud providers built the first wa…",
-      "link": "https://siliconangle.com/2026/11/17/data-intelligence-lifts-enterprise-ai-factory-accuracy-dellatsc26/",
-      "date": "2026-11-17T18:19:45.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Untitled-Design-e1794939287311.png"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "As decision model use skyrockets, is customization the next frontier?",
-      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-      "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-      "date": "2026-11-17T18:10:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-      "date": "2026-11-17T18:04:16.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Arista takes aim at the next AI network battleground: distributed inference",
-      "summary": "Awareness of the network’s role in artificial intelligence has steadily increased, with much of the focus on the back end – larger clusters, faster ports and scale-across fabrics that stitch graphics processing units together across data c…",
-      "link": "https://siliconangle.com/2026/11/17/arista-takes-aim-at-the-next-ai-network-battleground-distributed-inference/",
-      "date": "2026-11-17T17:57:16.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/7020R4-Family-scaled.png"
-    },
-    {
       "source": "The Next Web",
       "title": "OpenAI for Chile aims to train civil servants and back startups",
       "summary": "OpenAI has signed a memorandum of understanding with Chile’s science ministry to explore AI in public administration, train civil servants and support local startups. The deal sets no investment or purchasing commitment, and is backed by a…",
@@ -331,6 +497,16 @@
       "image": "https://image.theregister.com/?imageId=2918386&width=800"
     },
     {
+      "source": "Hindu BusinessLine",
+      "title": "AI will change how students are taught and assessed, but foundational learning must remain",
+      "summary": "AI can transform learning, but solid foundations, curiosity, and the ability to question AI answers will remain essential",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-will-change-how-students-are-taught-and-assessed-but-foundational-learning-must-remain/article71712893.ece",
+      "date": "2026-11-17T17:40:28.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/1444sz/article71712906.ece/alternates/LANDSCAPE_1200/iStock-1452604857.jpg"
+    },
+    {
       "source": "The Next Web",
       "title": "Is IONIX the best-kept secret in cybersecurity?",
       "summary": "As organizations expand their digital infrastructure, their external attack surfaces are becoming increasingly difficult to secure. Cloud environments, third-party vendors, subsidiaries, web applications and AI services introduce new poten…",
@@ -349,16 +525,6 @@
       "category": "People & Leadership",
       "region": "China",
       "image": "https://bl-i.thgim.com/public/incoming/ylxfhx/article71713319.ece/alternates/LANDSCAPE_1200/2026-11-17T154659Z_1472136641_RC279IA0GZ9V_RTRMADP_3_NVIDIA-AI-CONGRESS-HUANG.JPG"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "date": "2026-11-17T17:32:25.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "The Next Web",
@@ -431,16 +597,6 @@
       "image": "https://media.thenextweb.com/2026/11/blue-ai-letters-blurred-textured-background.avif"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform",
-      "summary": "LanceDB Inc., the developer of database technology designed to speed up artificial intelligence models, today announced it has raised $57.5 million in early-stage funding to bring a multimodal lakehouse to researchers, model builders and p…",
-      "link": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
-      "date": "2026-11-17T16:30:34.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2021/11/hand-data-globe.jpg"
-    },
-    {
       "source": "The Next Web",
       "title": "Jensen Huang offers to return as Nvidia CEO if the board asks, CNBC reports",
       "summary": "Jensen Huang says he would return as Nvidia’s chief executive if the board decides it wants him back. He made the offer in a written statement obtained by David Faber of CNBC on Tuesday. It is his first public comment since he resigned as…",
@@ -469,16 +625,6 @@
       "category": "News",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/6abf86ce-551a-4b0a-8334-225c3ac7612b_95036dd3.jpg?itok=bQ-2RTZQ&v=1794929922"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "AI will change how students are taught and assessed, but foundational learning must remain",
-      "summary": "AI can transform learning, but solid foundations, curiosity, and the ability to question AI answers will remain essential",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-will-change-how-students-are-taught-and-assessed-but-foundational-learning-must-remain/article71712893.ece",
-      "date": "2026-11-17T15:32:06.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/1444sz/article71712906.ece/alternates/LANDSCAPE_1200/iStock-1452604857.jpg"
     },
     {
       "source": "Ars Technica AI",
@@ -657,56 +803,6 @@
       "image": null
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "AI can distort climate information, warns UNESCO study",
-      "summary": "Accuracy falls to 33.8% on complex policy questions; less reliable in Hindi, Bengali and Swahili than in English",
-      "link": "https://www.thehindubusinessline.com/info-tech/ai-can-distort-climate-information-warns-unesco-study/article71710609.ece",
-      "date": "2026-11-17T10:08:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/todays-paper/tp-news/o68q1y/article71695471.ece/alternates/LANDSCAPE_1200/Data-centre-ecoGRPGPQ3VS.4.jpg.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "NVIDIA, IBM, Fermilab join hands to advance quantum computing research",
-      "summary": "NVIDIA DGX B200 systems are being installed alongside IBM quantum computers, including systems powered by IBM Quantum Nighthawk, which IBM described as its most powerful quantum processor yet",
-      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-ibm-fermilab-join-hands-to-advance-quantum-computing-research/article71710721.ece",
-      "date": "2026-11-17T09:46:08.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/wg95dc/article71711155.ece/alternates/LANDSCAPE_1200/iStock-1186902469.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Trump talks Nvidia, rare earths as he attends Quad and Asean meetings in Manila",
-      "summary": "This live article is freely available to our registered users. Please log in or create an account. The United States president Donald Trump has arrived in Manila where he will speak at the Quad leaders summit. He has just over 20 hours for…",
-      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3374740/donald-trump-arrives-manila-speak-asean-summit-heading-china",
-      "date": "2026-11-17T09:36:45.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/073a38d7-d082-4076-a559-1c431fd79597_586725a1.jpg?itok=NA3aTGFg&v=1794921887"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "OpenAI to offer free ChatGPT Plus access to academic researchers in India for 12 months",
-      "summary": "The India rollout is part of a wider global round in which the company will offer 50,000 new grants to eligible researchers on a first-come, first-served basis, with applications opening on November 30",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-to-offer-free-chatgpt-plus-access-to-academic-researchers-in-india-for-12-months/article71711116.ece",
-      "date": "2026-11-17T09:34:55.000Z",
-      "category": "Research",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/h0cvrl/article71711124.ece/alternates/LANDSCAPE_1200/2026-10-19T114837Z_801299272_RC2B6OATH0RC_RTRMADP_3_TECH-AI.JPG"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "OpenAI names Pragya Mishra head of business development for India, South Asia",
-      "summary": "India is now ChatGPT’s largest country; with nearly a fifth of the world’s population, India has a vital role in ensuring AI’s benefits reach more people: Mishra",
-      "link": "https://www.thehindubusinessline.com/info-tech/openai-names-pragya-mishra-head-of-business-development-for-india-south-asia/article71711092.ece",
-      "date": "2026-11-17T09:32:28.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/7ow624/article71673067.ece/alternates/LANDSCAPE_1200/2026-11-02T235947Z_1980856670_RC2QRLABKQ79_RTRMADP_3_OPENAI-MOVES.JPG"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Engineers must be retrained to review, certify AI-written code, not write it: Gopalakrishnan",
       "summary": "Engineers must be retrained to review, certify AI-written code, not write it: Gopalakrishnan",
@@ -715,16 +811,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "US details criminal probe into Nvidia customer Megaspeed over potential chip diversion",
-      "summary": "The US Justice Department is leading a criminal investigation into Megaspeed, a Singapore-based cloud computing company and Nvidia customer, over possible violations of US chip export controls, US authorities said on Monday. The Commerce D…",
-      "link": "https://www.scmp.com/tech/tech-war/article/3374742/us-details-criminal-probe-nvidia-customer-megaspeed-over-potential-chip-diversion",
-      "date": "2026-11-17T09:28:16.000Z",
-      "category": "Hardware & Infra",
-      "region": "United States",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/0d1719b5-3984-443a-b820-85d1d96aade2_ec494238.jpg?itok=iufRbp0z&v=1794907694"
     },
     {
       "source": "OpenAI",
@@ -767,26 +853,6 @@
       "image": "https://img.etimg.com/photo/msid-135915493,imgsize-1310294.cms"
     },
     {
-      "source": "Japan Times",
-      "title": "Nikkei 225 near bear market territory as AI boom cools",
-      "summary": "Index is now down around 20% from its peak, with analysts saying it will be months before highs are recovered, and possibly longer.",
-      "link": "https://www.japantimes.co.jp/business/2026/11/17/markets/nagata-nikkei-ai-bear/",
-      "date": "2026-11-17T07:17:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574467.jpg"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Anthropic debuts to skeptics and dogged believers: Mike Dolan",
-      "summary": "The Claude developer's bumper initial public offering (IPO) is set to price on Wednesday before trading begins the following day. In the rush to go public before rival ChatGPT owner OpenAI, it has been caught in a volatility storm that's s…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-debuts-to-skeptics-and-dogged-believers-mike-dolan/articleshow/135915173.cms",
-      "date": "2026-11-17T07:11:19.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-135915173,imgsize-133122.cms"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Amid Jensen Huang exit and stock rout, a look inside Nvidia’s ₹7,361-crore India engine",
       "summary": "Nvidia’s Indian arm makes money—not from AI chips, but the IT services way",
@@ -797,36 +863,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/NVIDIA-AI-FINANCING-0_1794895969001_Qxxr_1794895982035_CVhs_467f9a1d-f84b-49da-a935-4ff02ec06fb8_j1if.JPG"
     },
     {
-      "source": "Japan Times",
-      "title": "Asia data center hotbed hit by U.S. chip curbs as Trump visits",
-      "summary": "Operators in Southeast Asia will need a U.S. government license to purchase advanced AI chips from Nvidia and other American manufacturers.",
-      "link": "https://www.japantimes.co.jp/business/2026/11/17/tech/asia-data-center-chip-trump/",
-      "date": "2026-11-17T06:13:00.000Z",
-      "category": "Hardware & Infra",
-      "region": "United States",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574513.jpg"
-    },
-    {
-      "source": "Japan Times",
-      "title": "U.S., China and EU fail to endorse pledge to curb AI climate harms at COP31",
-      "summary": "The pledge has received 80 endorsements so far, but barely 10 nations are among them while the rest are companies or civil society groups.",
-      "link": "https://www.japantimes.co.jp/environment/2026/11/17/sustainability/un-climate-chief-ai-cop31/",
-      "date": "2026-11-17T06:08:00.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574508.jpg"
-    },
-    {
-      "source": "ET Tech",
-      "title": "China taps US AI models to train homegrown rivals as chip curbs bite",
-      "summary": "Chinese entities are adopting increasingly sophisticated ways to use output from leading American AI models to train domestic rivals, documents show, as China aims to broaden its AI strategy and offset tightening US curbs on its access",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/china-taps-us-ai-models-to-train-homegrown-rivals-as-chip-curbs-bite/articleshow/135912225.cms",
-      "date": "2026-11-17T05:33:55.000Z",
-      "category": "Hardware & Infra",
-      "region": "China",
-      "image": "https://img.etimg.com/photo/msid-135912225,imgsize-2351653.cms"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "Bengaluru Tech Summit: Why India-Israel must co-develop future tech, explains Digital India Foundation's Dr Arvind Gupta",
       "summary": "India and Israel are looking to move beyond defence purchases towards co-developing drones, AI, cybersecurity and quantum technologies, with the Bengaluru Tech Summit highlighting opportunities to strengthen India's domestic capabilities a…",
@@ -835,56 +871,6 @@
       "category": "Security & Cyber Risk",
       "region": "India",
       "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Bengaluru_Tech_1794893412943_IP2F_1794893417678_lG7J_2f983b43-3fe9-4707-9ab7-39316fc81164_zm73.png"
-    },
-    {
-      "source": "ET Tech",
-      "title": "AI adoption, weak demand to keep India's IT services revenue growth subdued in FY27: Report",
-      "summary": "India's IT services sector may continue to face subdued revenue growth in the remaining months of FY27 as rising adoption of artificial intelligence shifts technology spending towards AI-focused companies and reduces demand for traditional…",
-      "link": "https://economictimes.indiatimes.com/tech/information-tech/ai-adoption-weak-demand-to-keep-indias-it-services-revenue-growth-subdued-in-fy27-report/articleshow/135910029.cms",
-      "date": "2026-11-17T04:13:12.000Z",
-      "category": "Business & Funding",
-      "region": "India",
-      "image": "https://img.etimg.com/photo/msid-135910029,imgsize-775711.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge",
-      "summary": "The pledge also calls for focusing the power of artificial intelligence on solving the so-far intractable problem of climate change and reflects burgeoning concerns about AI's ever-expanding environmental footprint. The political backlash…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/study-estimates-magnitude-of-us-data-center-pollution-as-climate-talks-unveil-clean-ai-pledge/articleshow/135908878.cms",
-      "date": "2026-11-17T03:24:19.000Z",
-      "category": "Hardware & Infra",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-135908878,imgsize-4943369.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "98 percent of scientists expect AI to accelerate scientific discoveries, OpenAI study finds",
-      "summary": "Artificial intelligence could significantly shorten the time needed for scientific breakthroughs, with 98 per cent of surveyed scientists expecting AI to accelerate discoveries in their fields, according to a new study by OpenAI, highlight…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/98-percent-of-scientists-expect-ai-to-accelerate-scientific-discoveries-openai-study-finds/articleshow/135908805.cms",
-      "date": "2026-11-17T03:20:01.000Z",
-      "category": "Research",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-135908805,imgsize-23462.cms"
-    },
-    {
-      "source": "Japan Times",
-      "title": "Taiwan’s currency paradox: How an AI boom left its dollar behind",
-      "summary": "The Taiwan dollar's slide toward its weakest level in a decade is confounding the normal rules of currency trading.",
-      "link": "https://www.japantimes.co.jp/business/2026/11/17/markets/taiwan-currency-paradox-ai-dollar/",
-      "date": "2026-11-17T03:08:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/thumbs/400x400/574464.jpg"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Nvidia earnings to test AI boom after Huang's exit",
-      "summary": "Nvidia reports quarterly earnings on Tuesday, its first since Jensen Huang's departure as CEO, with investors watching for signs of whether the AI boom can withstand the widening scandal that toppled him. Analysts will be watching for sign…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-earnings-to-test-ai-boom-after-huangs-exit/articleshow/135908581.cms",
-      "date": "2026-11-17T03:06:30.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-135908581,imgsize-75928.cms"
     },
     {
       "source": "ET CIO",
@@ -1383,16 +1369,6 @@
       "image": null
     },
     {
-      "source": "Ars Technica AI",
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "date": "2026-11-12T19:23:03.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg"
-    },
-    {
       "source": "Hugging Face",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "summary": "",
@@ -1721,16 +1697,6 @@
       "category": "Product",
       "region": "Global",
       "image": "https://etimg.etb2bimg.com/thumb/img-size-103/135668696.cms"
-    },
-    {
-      "source": "ET CIO",
-      "title": "How technology can enhance human connection in customer service experiences",
-      "summary": "Technology, including AI and connected tools, can totally speed up our service experience. It makes everything more personal and tailored to individual needs. This means customers can feel more connected and valued, as the interactions are…",
-      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/how-technology-can-enhance-human-connection-in-customer-service-experiences/135624481",
-      "date": "2026-11-07T02:30:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://etimg.etb2bimg.com/thumb/img-size-97705/135624481.cms"
     },
     {
       "source": "MIT Tech Review",
