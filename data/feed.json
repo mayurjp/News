@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T13:15:53.791Z",
-  "count": 193,
+  "updated": "2026-11-19T21:39:34.557Z",
+  "count": 194,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -43,6 +43,7 @@
   "regions": [
     "India",
     "China",
+    "Europe",
     "Japan",
     "South Korea",
     "Middle East",
@@ -51,14 +52,434 @@
   ],
   "items": [
     {
+      "source": "SiliconANGLE",
+      "title": "Medical AI startup Boltz raises $110M to speed up small molecule research",
+      "summary": "Boltz PBC, a startup that develops artificial intelligence models for pharmaceutical researchers, has raised $110 million in funding. Bessemer led the Series A investment. Boltz stated on Wednesday that the fund was joined by a large group…",
+      "link": "https://siliconangle.com/2026/11/19/medical-ai-startup-boltz-raises-110m-to-speed-up-small-molecule-research/",
+      "date": "2026-11-19T21:17:08.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Boltz.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Magnific passes $300M ARR and may raise outside money next year",
+      "summary": "Magnific, the Spanish AI creative platform once called Freepik, has not raised a funding round since 2010. Its customers have paid for everything, including the move into AI, co-founder and chief executive Joaquín Cuenca told TNW. “On outs…",
+      "link": "https://thenextweb.com/news/magnific-300m-arr-cuenca-outside-funding-chinese-models",
+      "date": "2026-11-19T21:13:20.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/11/joaquin-cuenca-magnific-ceo-seated-office-m-logo.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Enterprise AI is pushing cloud infrastructure beyond the GPU",
+      "summary": "Enterprise adoption of artificial intelligence is creating new requirements for enterprise AI infrastructure. While much of the early AI investment centered on access to powerful GPUs, organizations moving AI applications and agents into p…",
+      "link": "https://siliconangle.com/2026/11/19/enterprise-ai-pushing-cloud-infrastructure-beyond-gpu-kubeconna/",
+      "date": "2026-11-19T21:07:03.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Enterprise-AIs-Full-Stack-Cloud-Strategy.png"
+    },
+    {
+      "source": "Wired AI",
+      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+      "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+      "date": "2026-11-19T20:34:17.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6afe3efb681d658b6618bff6/master/pass/Model-Behavior-Jensen-Taiwanes-Restaurants-Business.jpg"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "AI models favour US and UK accents, score Chinese and Nigerian ones lowest, study finds",
+      "summary": "Ask an artificial intelligence model to grade a job interview or test answers, and a person’s accent may change the score. That is according to new University of Washington research that looked at how some of the most advanced AI models ra…",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3375132/ai-models-favour-us-and-uk-accents-score-chinese-and-nigerian-ones-lowest-study-finds",
+      "date": "2026-11-19T20:31:24.000Z",
+      "category": "Research",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/1542df5a-0374-43b5-94e1-baea319540d5_82fa0d30.jpg?itok=-a0xcXiU&v=1795120277"
+    },
+    {
+      "source": "Ars Technica AI",
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "date": "2026-11-19T20:19:28.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "date": "2026-11-19T20:18:49.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Google Quantum AI tests quantum contextuality on up to 105 qubits",
+      "summary": "Google Quantum AI says it has shown contextuality, a quantum property thought to power some algorithms, on up to 105 qubits, in a paper on the cover of Science. The tests also expose subtle hardware errors, but the paper does not claim an…",
+      "link": "https://thenextweb.com/news/google-quantum-ai-contextuality-science-105-qubits",
+      "date": "2026-11-19T20:06:54.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/11/google-search-logo-smartphone-hand.avif"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft…",
+      "link": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+      "date": "2026-11-19T20:00:15.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "United States",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-microsoft.png"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Microsoft puts Word, Excel and PowerPoint inside Copilot at Ignite",
+      "summary": "Microsoft has built Word, Excel and PowerPoint into Copilot. Chief executive Satya Nadella called Copilot “the new operating system for work” at Ignite in San Francisco on Tuesday. Office in Copilot is now generally available, according to…",
+      "link": "https://thenextweb.com/news/microsoft-office-in-copilot-nadella-ignite-agi-pilled",
+      "date": "2026-11-19T19:38:17.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/11/satya-nadella-microsoft-ignite-2026-keynote-frontier-ecosystem.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "What we learned from Nvidia’s first earnings call without Jensen Huang",
+      "summary": "Nvidia Corp. reported its quarterly results this week, and contrary to the prevailing narrative, the sky didn’t fall. Revenue more than doubled year-over-year. The Vera Rubin chip platform achieved the fastest product ramp in the company’s…",
+      "link": "https://siliconangle.com/2026/11/19/what-we-learned-from-nvidias-first-earnings-call-without-jensen-huang/",
+      "date": "2026-11-19T19:32:32.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2017/05/Colette-Kress-NVIDIA-ACGSV-Awards-theCUBE-YouTube-e1494707531301.png"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "AI inference servers shrink to fit the air-cooled racks enterprises already run",
+      "summary": "Power-efficient inference chips are becoming the entry price for enterprises that want to run AI on hardware they own. As AI shifts from building models to running them every day, costly graphics processing unit racks and the liquid coolin…",
+      "link": "https://siliconangle.com/2026/11/19/power-efficient-inference-chips-let-enterprises-own-ai-hardware-sc26/",
+      "date": "2026-11-19T19:29:20.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_6429-scaled-e1795115159184.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "D-Matrix bets stacked DRAM can solve inference’s memory bandwidth problem",
+      "summary": "As artificial intelligence workloads shift to inference, memory bandwidth decides whether hardware generates tokens quickly or sits idle. D-Matrix Corp. is answering with Raptor, a second-generation chip stacking 3D DRAM beneath its comput…",
+      "link": "https://siliconangle.com/2026/11/19/raptor-chip-stacks-3d-dram-tackle-inference-memory-limits-sc26/",
+      "date": "2026-11-19T19:21:48.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Satyam-Srivastava-fellow-at-d-Matrix-Corp.-SC26-scaled.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Everful raises $48.5M for AI agents that source products from factories",
+      "summary": "San Francisco startup Everful has raised a $48.5M Series A led by Vertex Ventures Southeast Asia & India and January Capital. Its AI agents find and vet factories and manage orders for retailers and brands, and it says it is on track for $…",
+      "link": "https://thenextweb.com/news/everful-48-5m-series-a-ai-sourcing-global-commerce",
+      "date": "2026-11-19T19:21:20.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": "https://media.thenextweb.com/2026/10/ai-chip-purple-glow-glass-render.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "date": "2026-11-19T19:10:45.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Trump bought up to US$265,000 of Nvidia stock in September, disclosure shows",
+      "summary": "US President Donald Trump bought as much as US$265,000 in Nvidia stock and sold as much as US$15,000 worth of the stock in September, weeks before reports surfaced of CEO Jensen Huang’s ties to an alleged Chinese spy, according to Trump’s…",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3375129/trump-bought-us265000-nvidia-stock-september-disclosure-shows",
+      "date": "2026-11-19T18:57:18.000Z",
+      "category": "People & Leadership",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/426257b2-ef6a-4bd9-b99f-359f6d94bec4_20909ad6.jpg?itok=r4Wbm-xS&v=1795114631"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Microsoft says MAI Code 2 matches 98% of GPT-6.1 Sol at 40% of the price",
+      "summary": "Microsoft has released MAI Code 2, an in-house coding model. It says the model delivers 98% of the performance of OpenAI’s GPT-6.1 Sol at 40% of the price. The company presented it at its Ignite conference in San Francisco on Tuesday. New…",
+      "link": "https://thenextweb.com/news/microsoft-mai-code-2-licensed-weights-ignite",
+      "date": "2026-11-19T18:40:40.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/11/mustafa-suleyman-microsoft-ai-ignite-2026-mai-models-stage.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Hitachi Vantara bets smarter storage can close AI’s pilot-to-production gap",
+      "summary": "Enterprises pushing AI from pilot to production are learning that data, not GPUs, is the hardest part, and open table formats such as Apache Iceberg are part of the answer. Demand for AI infrastructure shows few signs of slowing, but much…",
+      "link": "https://siliconangle.com/2026/11/19/apache-iceberg-intelligent-storage-help-ai-reach-production-sc26/",
+      "date": "2026-11-19T18:39:55.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/D4_V-p0RkVc-HD.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "date": "2026-11-19T18:09:11.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "Google AI",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "date": "2026-11-19T18:00:00.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Google’s Gemini can now take over tasks on your Mac",
+      "summary": "Google is rolling out computer use in its Gemini app for Mac, letting the assistant carry out multi-step tasks across local files, desktop apps and websites in a separate background window. It is for paying AI Plus, Pro and Ultra subscribe…",
+      "link": "https://thenextweb.com/news/google-gemini-mac-computer-use-multi-step-tasks",
+      "date": "2026-11-19T17:59:24.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/11/google-gemini-logo-phone.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Model ML raises $250m at a $1.5bn valuation for bankers’ AI agents",
+      "summary": "Model ML, a London startup that builds AI agents for bankers, consultants and investors, has raised $250m at a $1.5bn valuation. General Atlantic and QED Investors co-led the Series B round, the company said on Tuesday. Evolution Equity Pa…",
+      "link": "https://thenextweb.com/news/model-ml-250m-series-b-1-5bn-valuation-ai-agents-bankers",
+      "date": "2026-11-19T17:52:33.000Z",
+      "category": "Business & Funding",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/11/chaz-arnie-englander-model-ml-founders-london-rooftop.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Anthropic shares jump 34% at open in record Nasdaq debut",
+      "summary": "Anthropic’s shares opened at $111.50 on Nasdaq on Thursday, 34% above the $83 IPO price, valuing it at more than $2T, per Business Insider. The company raised $107.3B with its IPO and a private placement, the largest listing on record. Ant…",
+      "link": "https://thenextweb.com/news/anthropic-shares-jump-34-percent-nasdaq-debut-ant",
+      "date": "2026-11-19T17:47:51.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/dario-amodei-anthropic-logo-phone-screen.avif"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "date": "2026-11-19T17:38:40.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "NVIDIA",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to…",
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "date": "2026-11-19T17:00:35.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png"
+    },
+    {
+      "source": "Google AI",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "date": "2026-11-19T17:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "date": "2026-11-19T17:00:00.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": null
+    },
+    {
+      "source": "Wired AI",
+      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+      "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "date": "2026-11-19T17:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.wired.com/photos/6aff303dd91b5ce0f67d7c99/master/pass/security_chrome_mirror_browser_ai_agent.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "date": "2026-11-19T16:59:23.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "China-based AI robotics biotech firm MegaRobo raises $200M to accelerate scientific discovery",
+      "summary": "Chinese biotech robotics firm MegaRobo Co. Ltd. today announced it has raised $200 million in new funding to invest in its core technology and expand its automated life sciences infrastructure for increasingly complex physical systems. Fou…",
+      "link": "https://siliconangle.com/2026/11/19/china-based-ai-robotics-biotech-firm-megarobo-raises-200m-to-accelerate-scientific-discovery/",
+      "date": "2026-11-19T16:45:18.000Z",
+      "category": "Business & Funding",
+      "region": "China",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2015/11/microbiology-163470.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Agentic AI pushes the neocloud race beyond GPU counts toward global platforms",
+      "summary": "The neocloud boom is entering a sorting phase, and global cloud availability is emerging as the line between providers built for enterprise AI and those built to rent out racks of graphics processing units. With agentic AI moving from pilo…",
+      "link": "https://siliconangle.com/2026/11/19/global-cloud-availability-sets-neocloud-platforms-apart-sc26/",
+      "date": "2026-11-19T16:38:38.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_6014-scaled-e1795106073471.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "date": "2026-11-19T16:19:41.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "24 VCs announce ₹1,050 crore investments in deeptech start-ups at Bengaluru Tech Summit",
+      "summary": "This marks a significant increase from last year’s Future Makers Conclave, where the Karnataka government and venture capital firms had come together to disburse ₹400 crore towards AI and deeptech start-ups",
+      "link": "https://www.thehindubusinessline.com/info-tech/24-vcs-announce-1050-crore-investments-in-deeptech-start-ups-at-bengaluru-tech-summit/article71721277.ece",
+      "date": "2026-11-19T15:50:39.000Z",
+      "category": "Business & Funding",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/ayd7kj/article71721322.ece/alternates/LANDSCAPE_1200/DSC_1801.JPG"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "AI’s next build-out: Inference racks that resize themselves for every new model",
+      "summary": "Memory pooling is fast becoming one of the sharpest tools in AI inference economics, with companies racing to wring more output from every graphics processing unit. Most AI servers still ship with a fixed GPU-to-memory ratio that holds for…",
+      "link": "https://siliconangle.com/2026/11/19/memory-pooling-helps-liqid-fix-ai-inference-tokenomics-sc26/",
+      "date": "2026-11-19T15:43:30.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_5938-scaled-e1795102211294.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "date": "2026-11-19T14:54:39.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "PFRDA pushes MeiTY to establish centralised AI regulation",
+      "summary": "Regulation should focus on how AI is deployed rather than attempting to put guardrails around large language models",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/pfrda-pushes-meity-to-establish-centralised-ai-regulation/article71720740.ece",
+      "date": "2026-11-19T14:38:35.000Z",
+      "category": "Policy & Safety",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/ta0ulr/article71720942.ece/alternates/LANDSCAPE_1200/PFRDA-chief-putG5CGE6IVF.3.jpg.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "AI shouldnt deny credit to small borrowers, fin inclusion should be central to tech: Setty",
+      "summary": "AI shouldn't deny credit to small borrowers, fin inclusion should be central to tech: Setty",
+      "link": "https://www.livemint.com/technology/ai-shouldnt-deny-credit-to-small-borrowers-fin-inclusion-should-be-central-to-tech-setty-11795098956146.html",
+      "date": "2026-11-19T14:35:55.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
+    },
+    {
       "source": "Hindu BusinessLine",
       "title": "EY India launches suite of AI solutions for organisations to improve productivity",
       "summary": "The AI solutions are aimed at automating processes and improving productivity",
       "link": "https://www.thehindubusinessline.com/info-tech/ey-india-launches-suite-of-ai-solutions-for-organisations-to-improve-productivity/article71720121.ece",
-      "date": "2026-11-19T13:10:28.000Z",
+      "date": "2026-11-19T14:11:16.000Z",
       "category": "Product",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/todays-paper/tp-opinion/4qmkva/article71709547.ece/alternates/LANDSCAPE_1200/Edit_second-leaGBGGQBA4L.5.jpg.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Karnataka steps up global tech partnerships at Bengaluru Tech Summit 2026",
+      "summary": "The three-day 29th edition of Bengaluru Tech Summit (BTS) 2026, themed “AI & Beyond,” concluded on Thursday",
+      "link": "https://www.thehindubusinessline.com/info-tech/karnataka-steps-up-global-tech-partnerships-at-bengaluru-tech-summit-2026/article71720218.ece",
+      "date": "2026-11-19T14:10:38.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/hjyqf/article71720248.ece/alternates/LANDSCAPE_1200/Bengaluru-is-InG5EGQM64M.3.jpg.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Today’s data centers weren’t built for AI racks, so liquid-cooling sidecars get bolted on",
+      "summary": "Deployment services are becoming the real battleground in AI infrastructure as buyers discover that shipping hardware is only half the job. With GPU supply tight and refresh cycles accelerating, neoclouds and enterprises are judging suppli…",
+      "link": "https://siliconangle.com/2026/11/19/deployment-services-drive-supermicro-s-race-time-online-sc26/",
+      "date": "2026-11-19T14:02:06.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Matthew-Thauberger-chief-revenue-officer-of-Super-Micro-Computer-Inc.-SC26.jpg"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+      "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller p…",
+      "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+      "date": "2026-11-19T14:00:12.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday_November_19.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+      "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "date": "2026-11-19T14:00:00.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "MediaNama",
+      "title": "Sarvam’s token factory stirs debate on India’s sovereign AI push",
+      "summary": "People like the CEO of US-based AI inference company RunAnywhere has criticised Sarvam for \"mostly serving Chinese models from Indian GPUs\" through Sarvam's inference platform, Token Factory. The post Sarvam’s token factory stirs debate on…",
+      "link": "https://www.medianama.com/2026/11/223-sarvam-token-factory-india-sovereign-ai/",
+      "date": "2026-11-19T13:23:07.000Z",
+      "category": "People & Leadership",
+      "region": "India",
+      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -71,26 +492,6 @@
       "image": "https://bl-i.thgim.com/public/markets/wqrpcx/article71720124.ece/alternates/LANDSCAPE_1200/Truecaller%20X%20Bolna.png"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Metano launches with $12M to help enterprises secure AI agents",
-      "summary": "Artificial intelligence agent security startup Metano Inc. today launched with $12 million in funding to help enterprises secure AI agents across endpoints, cloud infrastructure and software-as-a-service applications. Metano’s platform is…",
-      "link": "https://siliconangle.com/2026/11/19/metano-launches-with-12m-to-help-enterprises-secure-ai-agents/",
-      "date": "2026-11-19T13:00:09.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/metano.png"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Nobel and Turing winners sign statement calling Anthropic unsafe before IPO",
-      "summary": "A coalition of scientists, legal scholars, and tech figures has called Anthropic “not a safe AI company”. They did it a day before the Claude maker’s shares start trading. The MisAnthropic Statement went up on Wednesday, organised by the C…",
-      "link": "https://thenextweb.com/news/misanthropic-statement-anthropic-not-safe-ai-company-cais-ipo",
-      "date": "2026-11-19T12:57:17.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/11/center-for-ai-safety-logo-white-dark-gradient.avif"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Lenovo India Q2 revenue up 16%; AI PCs, enterprise demand drive growth",
       "summary": "Globally, Lenovo Group posted record revenues of $30.2 billion, up 48% year-on-year",
@@ -101,16 +502,6 @@
       "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-technophile/upt9cq/article71421358.ece/alternates/LANDSCAPE_1200/Lenovo-IdeaPad-G4IGFR55H.4.jpg.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Sovereignty is the AI story everyone mentions and few have planned for ahead of 2027",
-      "summary": "AI infrastructure economics are entering a more sober phase as enterprises move past standing up AI factories and start asking how to run them profitably. Durability, real demand and long-term value are now the tests separating lasting pro…",
-      "link": "https://siliconangle.com/2026/11/19/ai-infrastructure-economics-favor-vultr-s-global-footprint-sc26/",
-      "date": "2026-11-19T12:53:54.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Kevin-Cochrane-chief-marketing-officer-of-Vultr-SC26.jpg"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Cognizant unveils Immersive Learning Center in Chennai to build AI skills at scale",
       "summary": "CILC blends modern workplace design, digital learning infrastructure, and flexible spaces to support instructor-led learning, collaboration, and ideation",
@@ -119,16 +510,6 @@
       "category": "Product",
       "region": "India",
       "image": "https://bl-i.thgim.com/public/news/8w5jfz/article71720196.ece/alternates/LANDSCAPE_1200/Cognizant%20unveils%20Immersive%20Learning%20Center%20in%20Chennai.jpeg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "US advertisers spent $70.7M on ChatGPT ads in October, AdClarity estimates",
-      "summary": "US advertisers spent an estimated $70.7 million on ChatGPT ads in October, up 127% from $31.1 million in April. That is according to new data from AdClarity, the ad intelligence platform run by BIScience. Across the 24 countries in AdClari…",
-      "link": "https://thenextweb.com/news/chatgpt-ads-us-spend-70-million-october-adclarity",
-      "date": "2026-11-19T12:41:09.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/11/chatgpt-sponsored-grocery-listing-example-purple-background.avif"
     },
     {
       "source": "LiveMint Tech",
@@ -151,64 +532,14 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/e3d9af69-02b5-4e97-a58c-1a4897114e80_0b4f448d.jpg?itok=n-WkHR5n&v=1795059505"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Enterprises fear AI success more than failure, because success means lock-in they can’t escape",
-      "summary": "The supercomputing world built its reputation on scientific simulation, but the artificial intelligence infrastructure now filling the same data centers raises a harder question. When models turn data into revenue, control over that data a…",
-      "link": "https://siliconangle.com/2026/11/19/scientific-simulation-meets-ai-sovereignty-cloud-act-sc26/",
-      "date": "2026-11-19T12:24:40.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Amit-Eyal-Govrin-lead-analyst-for-sovereign-AI-at-theCUBE-Research-and-chief-executive-officer-of-Agentcy-Labs-SC26.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "AI-found Java flaw lets attackers into Jira and Jenkins without a login",
-      "summary": "A critical flaw in Java can let attackers run their own code on widely used business software without logging in. Security start-up Calif disclosed the bug, which it calls Java4Shell, on Tuesday, when Oracle and the OpenJDK project release…",
-      "link": "https://thenextweb.com/news/java4shell-java-flaw-ai-calif-gpt-6-cyber",
-      "date": "2026-11-19T12:17:40.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/11/laptop-screen-javascript-code-editor-blue-purple.avif"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Balance Theory acquires CISO decision intelligence platform VectorBlack",
-      "summary": "Cybersecurity investment management company Balance Theory Inc. today announced that it has acquired VectorBlack, a decision intelligence platform for chief information security officers developed by ThreatShare.ai, for an undisclosed sum.…",
-      "link": "https://siliconangle.com/2026/11/19/balance-theory-acquires-ciso-decision-intelligence-platform-vectorblack/",
-      "date": "2026-11-19T12:00:46.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/vectorblack.png"
-    },
-    {
       "source": "Wired AI",
       "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
       "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
       "date": "2026-11-19T12:00:00.000Z",
       "category": "Business & Funding",
       "region": "United States",
       "image": "https://media.wired.com/photos/6afdeccab8b6cf0d23988257/master/pass/Anthropic-IPO-Business-2297744238.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Megaspeed’s backer Alibaba co-founded a military-linked lab, NYT reports",
-      "summary": "Alibaba, the main customer and backer of Megaspeed, co-founded an AI lab with strong ties to China’s military, The New York Times reported. Megaspeed is the Singapore company at the centre of the Nvidia spy scandal. It bought more than $4b…",
-      "link": "https://thenextweb.com/news/alibaba-megaspeed-zhejiang-lab-military-nvidia-chips-nyt",
-      "date": "2026-11-19T11:57:26.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/11/alibaba-group-office-building-orange-mascot-hangzhou.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Nvidia brings pay rises forward to December to keep staff after Huang exit",
-      "summary": "Nvidia is bringing forward pay rises and new stock grants to December, months ahead of schedule. The aim is to hold on to staff after Jensen Huang’s exit. Interim chief executive Colette Kress made the promise minutes into Wednesday’s all-…",
-      "link": "https://thenextweb.com/news/nvidia-pay-rises-december-all-hands-kress-ackman",
-      "date": "2026-11-19T11:38:59.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/11/nvidia-logo-sign-taipei-neihu-office.avif"
     },
     {
       "source": "Analytics Vidhya",
@@ -228,15 +559,15 @@
       "date": "2026-11-19T11:22:31.000Z",
       "category": "News",
       "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-135987369,imgsize-68376.cms"
+      "image": "https://img.etimg.com/photo/msid-135987369,imgsize-1133292.cms"
     },
     {
       "source": "SCMP Tech",
-      "title": "Alibaba’s AI bet paying off as cloud services drive 10% revenue jump",
-      "summary": "Alibaba Group Holding’s external recurring revenue tied to AI cloud and computing surged 67 per cent during the quarter ended September 30, lifting total revenue 10 per cent to a better-than-expected 271.5 billion yuan (US$40.5 billion) as…",
+      "title": "Alibaba accelerates pivot to in-house chips after reporting jump in sales",
+      "summary": "Alibaba Group Holding is accelerating its pivot to domestic microchips, as chief executive Eddie Wu Yongming said the company was training its next-generation AI models on in-house chips after reporting a better-than-expected uptick in rev…",
       "link": "https://www.scmp.com/tech/big-tech/article/3375093/alibabas-ai-bet-paying-cloud-services-drive-10-revenue-jump",
       "date": "2026-11-19T11:00:22.000Z",
-      "category": "Business & Funding",
+      "category": "People & Leadership",
       "region": "China",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/37c9cc17-7798-480e-8f92-8904b0a2f031_ccd954c8.jpg?itok=-bY2ETfJ&v=1795086020"
     },
@@ -258,7 +589,7 @@
       "date": "2026-11-19T10:51:53.000Z",
       "category": "News",
       "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/e72fg0/article71715647.ece/alternates/LANDSCAPE_1200/Data-centre-ecoGRPGPQ3VS.4.jpg.jpg"
+      "image": "https://bl-i.thgim.com/public/incoming/jrrim0/article71715647.ece/alternates/LANDSCAPE_1200/Data-centre-ecoGRPGPQ3VS.4.jpg.jpg"
     },
     {
       "source": "LiveMint Tech",
@@ -279,16 +610,6 @@
       "category": "Business & Funding",
       "region": "India",
       "image": "https://img.etimg.com/photo/msid-135985794,imgsize-564283.cms"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Tony Fadell joins Smartex as chair as it launches AI fabric checks for H&M",
-      "summary": "Tony Fadell, who helped create the iPod and iPhone, has become chair of Smartex, a startup that uses AI to check fabric for defects, Fortune reported. H&M, an investor in Smartex, is one of the first customers for its new products. Smartex…",
-      "link": "https://thenextweb.com/news/tony-fadell-joins-smartex-as-chair-as-it-launches-ai-fabric-checks-for-hm",
-      "date": "2026-11-19T09:43:01.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/11/tony-fadell-speaking-on-stage.avif"
     },
     {
       "source": "MediaNama",
@@ -321,6 +642,16 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/5bd500ea-4320-4436-b74e-9283ee1565a0_e61215ec.jpg?itok=DOVteOd6&v=1794926562"
     },
     {
+      "source": "OpenAI",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "date": "2026-11-19T08:00:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": null
+    },
+    {
       "source": "Hindu BusinessLine",
       "title": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom",
       "summary": "Exports have surpassed last year’s record of $709 billion, driven by strong global demand for semiconductors amid rising AI investments.",
@@ -339,36 +670,6 @@
       "category": "Business & Funding",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-135978995,imgsize-5643591.cms"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Sarvam sells DeepSeek access while pursuing sovereign AI models",
-      "summary": "This week, Sarvam unveiled Token Factory, an inference platform offering multiple AI models via a single API interface, hosted on local computing infrastructure",
-      "link": "https://www.thehindubusinessline.com/info-tech/sarvam-sells-deepseek-access-while-pursuing-sovereign-ai-models/article71718720.ece",
-      "date": "2026-11-19T06:07:15.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/9hfwxy/article71717630.ece/alternates/LANDSCAPE_1200/Sarvam%E2%80%99s-Token-GVNGQL42Q.4.jpg.jpg"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "South Korea’s top law exam scorer found dead amid AI fraud scandal",
-      "summary": "The man facing allegations of artificial intelligence-assisted cheating was found dead on Thursday after South Korean police began searching for him. Lee Jin-woo, a Seoul National University (SNU) dental student, had gone missing since the…",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3375021/south-koreas-top-law-exam-scorer-found-cardiac-arrest-amid-ai-fraud-scandal",
-      "date": "2026-11-19T05:59:38.000Z",
-      "category": "News",
-      "region": "South Korea",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/a1551caa-5508-4b8f-af8c-e98383c8479d_0c498e1c.jpg?itok=xypOibFl&v=1795067965"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Anthropic’s record US$81.3 billion IPO arms US AI giant for price war with Chinese rivals",
-      "summary": "Anthropic’s record-shattering US$81.3 billion initial public offering (IPO) is handing the US artificial intelligence powerhouse a massive war chest to wage a global price war, piling fresh valuation and monetisation pressure on lower-cost…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals",
-      "date": "2026-11-19T05:30:07.000Z",
-      "category": "Business & Funding",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fa3bdbd5-1f67-49ce-9e03-09cd5a7621e2_f88211c5.jpg?itok=2JoX-mXy&v=1795064221"
     },
     {
       "source": "Japan Times",
@@ -391,16 +692,6 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Trump opposes robust AI regulation, says it would stifle super intelligence development",
-      "summary": "",
-      "link": "https://www.thehindubusinessline.com/info-tech/trump-opposes-robust-ai-regulation-says-it-would-stifle-super-intelligence-development/article71718646.ece",
-      "date": "2026-11-19T04:53:46.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/wbzmfm/article71718712.ece/alternates/LANDSCAPE_1200/2026-11-19T033158Z_669501001_RC2PQOANOMLR_RTRMADP_3_APEC-SUMMIT.JPG"
-    },
-    {
       "source": "ET Tech",
       "title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance",
       "summary": "Washington has stressed the need for the United States to be ahead of China in the race for AI advancements. In recent weeks media reports about former Nvidia CEO Jensen Huang's affair with a suspected Chinese spy has increased scrutiny on…",
@@ -419,26 +710,6 @@
       "category": "People & Leadership",
       "region": "Global",
       "image": "https://img.etimg.com/photo/msid-135977149,imgsize-88798.cms"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "How a little-known Beijing AI safety group became an adviser to China’s tech giants",
-      "summary": "As Chinese President Xi Jinping and US President Donald Trump meet this week in Shenzhen on the sidelines of the Apec meeting, the question of how to manage the risks of frontier AI systems is expected to be a major agenda item. In the sec…",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3374905/how-little-known-beijing-ai-safety-group-became-adviser-chinas-tech-giants",
-      "date": "2026-11-19T04:00:14.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/18/ec82f41b-3eaf-414d-98f7-0acdc0ba4805_9504dd01.jpg?itok=jPg-kD1i&v=1794995767"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Google’s latest midtier model Gemini 4 Neon is three times faster than Carbon and wins on some metrics",
-      "summary": "After laying low during the summer while competitors Anthropic PBC and OpenAI Group PBC unleashed powerful new frontier models, Google LLC is hitting back. Having released its latest flagship model Gemini 4 Carbon one month ago, followed b…",
-      "link": "https://siliconangle.com/2026/11/18/googles-latest-midtier-model-gemini-4-neon-is-three-times-faster-than-carbon-and-wins-on-some-metrics/",
-      "date": "2026-11-19T02:55:16.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-19-09-51-57.png"
     },
     {
       "source": "ET Tech",
@@ -471,16 +742,6 @@
       "image": "https://img.etimg.com/photo/msid-135975459,imgsize-4021322.cms"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Everpure beats expectations as AI accelerates revenue growth for ninth straight quarter",
-      "summary": "Data center infrastructure company Everpure Inc. posted third-quarter earnings and revenue that surpassed analysts’ expectations and raised its full-year forecast for the third successive quarter, and its stock gained just over 4% in after…",
-      "link": "https://siliconangle.com/2026/11/18/everpure-beats-expectations-as-ai-accelerates-revenue-growth-for-a-ninth-straight-quarter/",
-      "date": "2026-11-19T02:10:58.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Charles-CEO-of-Pure-Storage-Inc.-AI-Infrastructure-Silicon-Valley-2024-scaled.jpg"
-    },
-    {
       "source": "ET Tech",
       "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
       "summary": "Anthropic decided to barrel ahead with the IPO despite jitters among some investors over market volatility, a potential regulatory crackdown by a Democratic-led Congress next year and growing anti-AI sentiment among the public. Then there'…",
@@ -488,13 +749,7 @@
       "date": "2026-11-19T01:55:05.000Z",
       "category": "Policy & Safety",
       "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-135975275,imgsize-103.cms",
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
-        }
-      ]
+      "image": "https://img.etimg.com/photo/msid-135975275,imgsize-103.cms"
     },
     {
       "source": "TechCrunch AI",
@@ -502,76 +757,6 @@
       "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not…",
       "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
       "date": "2026-11-19T00:42:56.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Google Cloud brings AI agents to the supercomputing bottleneck",
-      "summary": "High-performance computing, or HPC, is merging with artificial intelligence faster than many research teams can adapt. Compute capacity is hard to get, and workloads now run across clouds and on-premises clusters. The metric that matters i…",
-      "link": "https://siliconangle.com/2026/11/18/hpc-meets-ai-agents-google-cloud-targets-time-discovery-sc26/",
-      "date": "2026-11-19T00:23:21.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/gRdHACEvoyI-HD.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Google upgrades Gemini’s agentic Task mode with new model, e-commerce features",
-      "summary": "Google LLC is releasing a new version of its Gemini artificial intelligence assistant that is better at performing multistep tasks. Josh Woodward, the vice president responsible for the Gemini app, detailed the update in a Tuesday blog pos…",
-      "link": "https://siliconangle.com/2026/11/18/google-upgrades-geminis-agentic-task-mode-with-new-model-e-commerce-features/",
-      "date": "2026-11-18T23:56:55.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Google2.png"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Anthropic’s record-breaking IPO priced at $83 per share, higher than expected",
-      "summary": "Artificial intelligence giant Anthropic PBC today priced one of the most eagerly anticipated initial public offerings in history at a price of $83 per share, setting the stage for the biggest stock market listing ever. The pricing, which h…",
-      "link": "https://siliconangle.com/2026/11/18/anthropics-record-breaking-ipo-priced-at-83-per-share-higher-than-expected/",
-      "date": "2026-11-18T23:50:41.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-19-06-46-04.png"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "date": "2026-11-18T23:45:00.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "date": "2026-11-18T23:25:17.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "date": "2026-11-18T23:17:28.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "date": "2026-11-18T22:58:11.000Z",
       "category": "People & Leadership",
       "region": "United States",
       "image": null
@@ -587,16 +772,6 @@
       "image": "https://media.wired.com/photos/6afe216b809613f3f77a2770/master/pass/Does-NVIDIA-Got-This-Business.jpg"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Palo Alto Networks bets $4.5B on AI startup Applied Compute as earnings top forecasts",
-      "summary": "Cybersecurity company Palo Alto Networks Inc. today announced that it has agreed to acquire artificial intelligence model training and inference startup Applied Compute Inc. in an all-stock deal valued at $4.5 billion. The news came alongs…",
-      "link": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/",
-      "date": "2026-11-18T22:13:03.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2024/05/paloaltonetworksboothlogo2.jpg"
-    },
-    {
       "source": "Wired AI",
       "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
       "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
@@ -605,16 +780,6 @@
       "category": "News",
       "region": "China",
       "image": "https://media.wired.com/photos/6afcfe9d821bf3ffcbf308a8/master/pass/politics_trump_adventures_china.jpg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-      "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-      "date": "2026-11-18T21:57:40.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "DeepMind",
@@ -627,26 +792,6 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-      "date": "2026-11-18T21:34:13.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-      "date": "2026-11-18T21:31:21.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": null
-    },
-    {
       "source": "Wired AI",
       "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
       "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
@@ -655,16 +800,6 @@
       "category": "Hardware & Infra",
       "region": "China",
       "image": "https://media.wired.com/photos/6afcdd342972080ddb9f0499/master/pass/AI-Lab-US-Chip-War-Business.jpg"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-      "date": "2026-11-18T20:07:01.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": null
     },
     {
       "source": "Hugging Face",
@@ -747,16 +882,6 @@
       "image": "https://media.wired.com/photos/6afdd3316a27dda013bf584c/master/pass/Security_Criminals%20Have%20a%20New%20Favorite%20AI%20Hacking%20Tool_v2.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "Sarvam’s Token Factory puts inference business in focus",
-      "summary": "Founder clarifies that Token Factory runs on privately procured GPUs, not government-subsidised infrastructure",
-      "link": "https://www.thehindubusinessline.com/info-tech/sarvams-token-factory-puts-inference-business-in-focus/article71716834.ece",
-      "date": "2026-11-18T16:13:27.000Z",
-      "category": "People & Leadership",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/xilb95/article70648863.ece/alternates/LANDSCAPE_1200/Pratyush%20Kumar%20-%20Sarvam.jpg"
-    },
-    {
       "source": "Wired AI",
       "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
       "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
@@ -817,16 +942,6 @@
       "image": null
     },
     {
-      "source": "MediaNama",
-      "title": "From Gmail’s 15 GB free storage to algorithm changes by search engines: Rediff.com IPO risks",
-      "summary": "In its draft red herring prospectus, Rediff said \"Gmail's dominant market position with free 15 GB storage presents significant competitive challenges\" and Rediff's \"inability to compete effectively could result in loss of market share\". T…",
-      "link": "https://www.medianama.com/2026/11/223-key-risks-investors-rediff-com-ipo/",
-      "date": "2026-11-18T12:31:53.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "LiveMint Tech",
       "title": "World’s first dual-console robotic heart bypass surgery performed in India using SSI Mantra system",
       "summary": "India has performed the world’s first dual-console, five-arm robotic beating-heart bypass surgery at Medanta, Gurugram, using the indigenous SSI Mantra Surgical Robotic System.",
@@ -878,22 +993,22 @@
     },
     {
       "source": "OpenAI",
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "date": "2026-11-18T08:00:00.000Z",
-      "category": "Research",
-      "region": "United States",
-      "image": null
-    },
-    {
-      "source": "OpenAI",
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "link": "https://openai.com/business/customer-stories/sumitomo-life",
       "date": "2026-11-18T08:00:00.000Z",
       "category": "Business & Funding",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "OpenAI",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "date": "2026-11-18T08:00:00.000Z",
+      "category": "Research",
+      "region": "United States",
       "image": null
     },
     {
@@ -925,16 +1040,6 @@
       "category": "Enterprise & Deployment",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "Wired AI",
-      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
-      "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
-      "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
-      "date": "2026-11-18T05:01:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.wired.com/photos/6afcfa9cd76c36e8270ca841/master/pass/GenZ-AI-Friendship-Culture.jpg"
     },
     {
       "source": "ET CIO",
@@ -995,16 +1100,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Wired AI",
-      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
-      "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
-      "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
-      "date": "2026-11-17T22:19:19.000Z",
-      "category": "People & Leadership",
-      "region": "United States",
-      "image": "https://media.wired.com/photos/6afce5159891667de5f2b6bb/master/pass/Nvidia-Board-Has-No-Plans-to-Bring-Back-Jensen-Business-2299990450.jpg"
     },
     {
       "source": "Ars Technica AI",
@@ -1117,36 +1212,6 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
     },
     {
-      "source": "OpenAI",
-      "title": "Introducing ChatGPT for Sales",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "date": "2026-11-17T08:00:00.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "US AI chip curbs threaten Southeast Asia data centre boom, shares slump",
-      "summary": "USA-CHINA-CHIPS-SOUTHEAST-ASIA:US AI chip curbs threaten Southeast Asia data centre boom, shares slump",
-      "link": "https://www.livemint.com/technology/us-ai-chip-curbs-threaten-southeast-asia-data-centre-boom-shares-slump-11794896626332.html",
-      "date": "2026-11-17T06:23:46.000Z",
-      "category": "Hardware & Infra",
-      "region": "China",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Amid Jensen Huang exit and stock rout, a look inside Nvidia’s ₹7,361-crore India engine",
-      "summary": "Nvidia’s Indian arm makes money—not from AI chips, but the IT services way",
-      "link": "https://www.livemint.com/technology/tech-news/nvidia-india-financials-jensen-huang-exit-stock-fall-11794885767757.html",
-      "date": "2026-11-17T06:22:20.000Z",
-      "category": "People & Leadership",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/NVIDIA-AI-FINANCING-0_1794895969001_Qxxr_1794895982035_CVhs_467f9a1d-f84b-49da-a935-4ff02ec06fb8_j1if.JPG"
-    },
-    {
       "source": "ET CIO",
       "title": "Why enterprise AI success takes more than deploying a few AI agents",
       "summary": "Organizations are increasingly adopting multi-agent AI systems, which can improve business outcomes but may weaken ethical standards. Leaders must establish governed AI operating models to address these challenges effectively. It is essent…",
@@ -1257,36 +1322,6 @@
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/vera-rubin-mlperf-training-endpoints.png"
     },
     {
-      "source": "NVIDIA",
-      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-      "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are he…",
-      "link": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
-      "date": "2026-11-16T16:00:16.000Z",
-      "category": "Research",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376.jpg"
-    },
-    {
-      "source": "NVIDIA",
-      "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
-      "summary": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect ac…",
-      "link": "https://blogs.nvidia.com/blog/20-years-cuda/",
-      "date": "2026-11-16T16:00:11.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/cuda-at-20-1920x1080-1.jpg"
-    },
-    {
-      "source": "NVIDIA",
-      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-      "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explor…",
-      "link": "https://blogs.nvidia.com/blog/rubin-hpc/",
-      "date": "2026-11-16T16:00:01.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/hpc-blog-rubin-hpc-gpu-1920x1080-5957124-1.jpg"
-    },
-    {
       "source": "Analytics Vidhya",
       "title": "How to Make Product Launch Videos with Claude Opus 5.5",
       "summary": "Here’s something that keeps happening at work. We ship a feature, somebody writes the changelog, it goes up on LinkedIn and… cricket. Maybe 11 likes, and 4 of those are from our own team. A video would fix most of that. People will happily…",
@@ -1295,16 +1330,6 @@
       "category": "Product",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Ars Technica AI",
-      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-      "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
-      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-      "date": "2026-11-16T14:06:16.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg"
     },
     {
       "source": "Google AI",
@@ -1601,26 +1626,6 @@
       "category": "Product",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Google AI",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "date": "2026-11-10T14:00:00.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp"
-    },
-    {
-      "source": "Google AI",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "date": "2026-11-10T13:00:00.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp"
     },
     {
       "source": "DeepMind",
