@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T02:20:32.551Z",
-  "count": 186,
+  "updated": "2026-11-21T11:10:41.586Z",
+  "count": 190,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,10 +44,134 @@
     "India",
     "China",
     "Japan",
+    "South Korea",
+    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "Japan Times",
+      "title": "Anthropic researcher says Claude solved math’s greatest riddle",
+      "summary": "The firm's chatbot may have helped prove the Riemann Hypothesis, a problem that has eluded mathematicians for more than 160 years.",
+      "link": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/ai-anthropic-claude-riemann-hypothesis/",
+      "date": "2026-11-21T07:46:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575307.jpg",
+      "relatedSources": [
+        {
+          "source": "SCMP Tech",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375294/anthropic-researcher-says-claude-has-solved-maths-greatest-riddle"
+        }
+      ]
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Xi, Trump agree military AI decisions must involve humans, Bessent says",
+      "summary": "Presidents Xi Jinping and Donald Trump agreed during talks at the Asia-Pacific Economic Cooperation summit that “humans should always be involved” in military decisions involving AI, according to US Treasury Secretary Scott Bessent. Speaki…",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3375321/xi-trump-agree-military-ai-decisions-must-involve-humans-bessent-says",
+      "date": "2026-11-21T07:17:15.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/973eaa80-8e2d-4542-8bbf-6119092c11f6_42ab9ebc.jpg?itok=xzwdoBFx&v=1795245425"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "South Koreas Lee says speed is vital in AI race on data centre visit",
+      "summary": "SOUTHKOREA-AI/ (TV):South Korea's Lee says speed is vital in AI race on data centre visit",
+      "link": "https://www.livemint.com/technology/south-koreas-lee-says-speed-is-vital-in-ai-race-on-data-centre-visit-11795239138273.html",
+      "date": "2026-11-21T05:32:17.000Z",
+      "category": "News",
+      "region": "South Korea",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+      "summary": "Levent Alpoge, a member of the company's technical staff, made the announcement Friday by way of a four-page explanation posted on his website. He said that he believes by working with Claude, he has found a proof of the Riemann Hypothesis.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai/articleshow/136045658.cms",
+      "date": "2026-11-21T05:20:00.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-136045658,imgsize-71732.cms",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai-11795235868960.html"
+        }
+      ]
+    },
+    {
+      "source": "Japan Times",
+      "title": "Anthropic’s post-debut stumble delivers reality check for AI trade",
+      "summary": "A dramatic unraveling of the AI trade showed that even a blockbuster listing could not shake the gloom hanging over the sector.",
+      "link": "https://www.japantimes.co.jp/business/2026/11/21/markets/anthropic-ai-stocks/",
+      "date": "2026-11-21T04:19:00.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575302.jpg"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Databricks in early talks to raise funds at $225 billion valuation: WSJ",
+      "summary": "Databricks is in early talks to raise several billion dollars in a new round that would value the data and artificial intelligence software company at about $225 billion, the Wall Street Journal reported on Friday, citing people familiar w…",
+      "link": "https://economictimes.indiatimes.com/tech/startups/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj/articleshow/136044631.cms",
+      "date": "2026-11-21T04:17:31.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-136044631,imgsize-1048881.cms"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "OpenAI strengthens GPT-6.2 Astra safeguards against unauthorised AI reasoning extraction",
+      "summary": "The company is combining model-level protections, classifiers and API restrictions to prevent competitors from extracting advanced capabilities without comparable safeguards",
+      "link": "https://www.thehindubusinessline.com/info-tech/openai-strengthens-gpt-62-astra-safeguards-against-unauthorised-ai-reasoning-extraction/article71727200.ece",
+      "date": "2026-11-21T03:46:51.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/azadsi/article71727217.ece/alternates/LANDSCAPE_1200/2026-11-20T215209Z_2122309994_RC2KROAW3X9P_RTRMADP_3_TECH-AI.JPG"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Oracle says OpenAI contract fully funded, targets over $30 billion free cash flow in FY29",
+      "summary": "The infrastructure contract with OpenAI forms part of Oracle’s efforts to support the growing computing requirements associated with advanced AI models",
+      "link": "https://www.thehindubusinessline.com/info-tech/oracle-says-openai-contract-fully-funded-targets-over-30-billion-free-cash-flow-in-fy29/article71727202.ece",
+      "date": "2026-11-21T03:45:29.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/s4y1gw/article71727228.ece/alternates/LANDSCAPE_1200/2025-05-23T182013Z_1994942576_RC2P56A4UJBY_RTRMADP_3_ORACLE-NVIDIA.JPG"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
+      "summary": "Oracle said on Friday that its infrastructure contract with OpenAI is fully funded following a final capital raise earlier this month. Shares of Oracle rose as much as 3.3% in after",
+      "link": "https://economictimes.indiatimes.com/tech/technology/oracle-says-openai-infrastructure-deal-is-fully-funded-after-final-capital-raise/articleshow/136044027.cms",
+      "date": "2026-11-21T03:40:45.000Z",
+      "category": "Business & Funding",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-136044027,imgsize-1772752.cms"
+    },
+    {
+      "source": "MediaNama",
+      "title": "MediaNama This Week: Top 10 Stories (14 November – 20 November 2026)",
+      "summary": "The ten most-read MediaNama stories this week. The full curated edition lands in newsletter inboxes on Monday morning. AI-assisted hackers… The post MediaNama This Week: Top 10 Stories (14 November – 20 November 2026) appeared first on MED…",
+      "link": "https://www.medianama.com/2026/11/223-medianama-this-week-top-10-stories-14-november-20-november-2026/",
+      "date": "2026-11-21T03:30:09.000Z",
+      "category": "Security & Cyber Risk",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "ET CIO",
+      "title": "From ideas to impact: Powering digital and AI transformation in life sciences",
+      "summary": "Artificial Intelligence is emerging as a pivotal factor in reshaping business functions within the life sciences field. Companies are urged to develop competencies that facilitate ethical growth and creativity. A well-defined framework can…",
+      "link": "https://cio.economictimes.indiatimes.com/news/cio-dispatch/from-ideas-to-impact-powering-digital-and-ai-transformation-in-life-sciences/136043000",
+      "date": "2026-11-21T02:34:37.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-62848/136043000.cms"
+    },
     {
       "source": "SCMP Tech",
       "title": "Who are you calling a ‘Chinese honeypot’?",
@@ -83,6 +207,16 @@
           "link": "https://www.thehindubusinessline.com/info-tech/trump-threatens-tremendous-tax-on-us-companies-building-data-centres-abroad/article71725913.ece"
         }
       ]
+    },
+    {
+      "source": "ET Tech",
+      "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
+      "summary": "The US Securities and Exchange Commission is reportedly investigating Nvidia's accounting practices for potential issues. This revelation adds to Nvidia's existing legal troubles, including scrutiny over CEO Jensen Huang's personal conduct…",
+      "link": "https://economictimes.indiatimes.com/tech/technology/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/articleshow/136043101.cms",
+      "date": "2026-11-21T00:39:43.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-136043101,imgsize-107744.cms"
     },
     {
       "source": "SiliconANGLE",
@@ -158,13 +292,7 @@
       "date": "2026-11-20T21:28:11.000Z",
       "category": "Product",
       "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Anthropic-2.png",
-      "relatedSources": [
-        {
-          "source": "SCMP Tech",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375294/anthropic-researcher-says-claude-has-solved-maths-greatest-riddle"
-        }
-      ]
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Anthropic-2.png"
     },
     {
       "source": "Ars Technica AI",
@@ -429,16 +557,6 @@
       "image": null
     },
     {
-      "source": "SCMP Tech",
-      "title": "After Nvidia, will AMD be a target as China’s ‘2nd-choice’ supplier for AI chips?",
-      "summary": "Short sellers have targeted Advanced Micro Devices (AMD) over alleged connections to Chinese firms blacklisted by Washington, erasing more than 10 per cent off its value in a matter of hours and fuelling speculation over whether it could b…",
-      "link": "https://www.scmp.com/tech/tech-war/article/3375249/after-nvidia-will-amd-be-target-chinas-second-choice-ai-chips",
-      "date": "2026-11-20T12:30:09.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/49074b6c-53ae-47f0-9e2e-7116419f6f35_ad89681f.jpg?itok=rCxE8-OR&v=1795169868"
-    },
-    {
       "source": "SiliconANGLE",
       "title": "Canada’s sovereign AI ambitions come with a local economic bargain",
       "summary": "Data center backlash is pushing builders to show communities what they get in return, and public-private partnerships are becoming one answer. As the race for sovereign AI heats up, the question is shifting from where intellectual property…",
@@ -485,16 +603,6 @@
       "image": "https://media.wired.com/photos/6afbae0afa103e595fff7d74/master/pass/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg"
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "EY India launches suite of AI solutions for organisations to improve productivity",
-      "summary": "The AI solutions are aimed at automating processes and improving productivity",
-      "link": "https://www.thehindubusinessline.com/info-tech/ey-india-launches-suite-of-ai-solutions-for-organisations-to-improve-productivity/article71720121.ece",
-      "date": "2026-11-20T10:43:01.000Z",
-      "category": "Product",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/todays-paper/tp-opinion/4qmkva/article71709547.ece/alternates/LANDSCAPE_1200/Edit_second-leaGBGGQBA4L.5.jpg.jpg"
-    },
-    {
       "source": "OpenAI",
       "title": "Combatting adversarial distillation",
       "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
@@ -523,16 +631,6 @@
       "category": "Business & Funding",
       "region": "India",
       "image": null
-    },
-    {
-      "source": "Japan Times",
-      "title": "Apple working on AI agent for device control, apps, browsing and coding",
-      "summary": "Apple's App Store has been dominated by artificial intelligence agents, with Muse long occupying the No. 2 spot among free apps, just behind TikTok.",
-      "link": "https://www.japantimes.co.jp/business/2026/11/20/apple-ai-agent/",
-      "date": "2026-11-20T08:14:00.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575243.jpg"
     },
     {
       "source": "LiveMint Tech",
@@ -573,16 +671,6 @@
       "category": "Hardware & Infra",
       "region": "United States",
       "image": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "TSMC invests $500 million in Anthropic, acquires 0.03% stake at IPO price",
-      "summary": "The investment follows TSMC’s board approval of separate funding commitments to Anthropic and OpenAI, signalling growing interest in AI companies",
-      "link": "https://www.thehindubusinessline.com/info-tech/tsmc-invests-500-million-in-anthropic-acquires-003-stake-at-ipo-price/article71723133.ece",
-      "date": "2026-11-20T06:18:04.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/dzahc3/article71723371.ece/alternates/LANDSCAPE_1200/2026-11-19T122324Z_1683165718_RC2TEMAUFUT8_RTRMADP_3_USA-CHINA-CHIPS-TSMC.JPG"
     },
     {
       "source": "LiveMint Tech",
@@ -643,52 +731,6 @@
       "category": "Policy & Safety",
       "region": "China",
       "image": "https://img.etimg.com/photo/msid-136010686,imgsize-4789964.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "California attorney general subpoenas Nvidia over chips, former CEO's affair",
-      "summary": "The California Department of Justice said on Thursday it is asking Nvidia whether its advanced chips or confidential information may have gone to China and whether Nvidia misled investors and the public.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/california-attorney-general-subpoenas-nvidia-over-chips-former-ceos-affair/articleshow/136010272.cms",
-      "date": "2026-11-20T02:39:19.000Z",
-      "category": "People & Leadership",
-      "region": "China",
-      "image": "https://img.etimg.com/photo/msid-136010272,imgsize-83674.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Explained: Could Huang, Nvidia and company's board be held liable over affair scandal?",
-      "summary": "Huang had a relationship with Alice Huang, an unrelated former executive of ​Singapore-based company Megaspeed, and US intelligence agencies are trying to determine her ties to China's Ministry of State Security, according to two people fa…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/explained-could-huang-nvidia-and-companys-board-be-held-liable-over-affair-scandal/articleshow/136010096.cms",
-      "date": "2026-11-20T02:03:08.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://img.etimg.com/photo/msid-136010096,imgsize-90202.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Meta to price Muse Charm gadget at $300: The Information",
-      "summary": "The device that carries the viral Muse AI agent into the real world was unveiled in September by chief executive Mark Zuckerberg during the company's annual conference. Muse Charm underscores Meta's broader push to reduce its reliance on A…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-to-price-muse-charm-gadget-at-300-the-information/articleshow/136009999.cms",
-      "date": "2026-11-20T01:59:06.000Z",
-      "category": "People & Leadership",
-      "region": "India",
-      "image": "https://img.etimg.com/photo/msid-136009999,imgsize-47402.cms",
-      "relatedSources": [
-        {
-          "source": "TechCrunch AI",
-          "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
-        }
-      ]
-    },
-    {
-      "source": "ET Tech",
-      "title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
-      "summary": "The move could close one of the last remaining routes for Chinese companies to produce powerful AI processors, complicating Beijing's efforts to develop domestic alternatives to chips designed by Nvidia and manufactured by TSMC.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole-sources-say/articleshow/136009973.cms",
-      "date": "2026-11-20T01:57:11.000Z",
-      "category": "Hardware & Infra",
-      "region": "China",
-      "image": "https://img.etimg.com/photo/msid-136009973,imgsize-80004.cms"
     },
     {
       "source": "SiliconANGLE",
@@ -758,6 +800,16 @@
       "date": "2026-11-20T00:00:00.000Z",
       "category": "News",
       "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "date": "2026-11-19T21:58:06.000Z",
+      "category": "News",
+      "region": "United States",
       "image": null
     },
     {
@@ -1111,16 +1163,6 @@
       "image": null
     },
     {
-      "source": "LiveMint Tech",
-      "title": "World’s first dual-console robotic heart bypass surgery performed in India using SSI Mantra system",
-      "summary": "India has performed the world’s first dual-console, five-arm robotic beating-heart bypass surgery at Medanta, Gurugram, using the indigenous SSI Mantra Surgical Robotic System.",
-      "link": "https://www.livemint.com/technology/tech-news/worlds-first-dual-console-robotic-heart-bypass-surgery-performed-in-india-using-ssi-mantra-system-11795001751408.html",
-      "date": "2026-11-18T11:48:27.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/robotic_1795002107382_1dND_1795002131358_q19J_6a903142-49d2-40d9-a553-50da8d62718b_9pVz.jpeg"
-    },
-    {
       "source": "MIT Tech Review",
       "title": "This smell startup says its AI nose is as good as a human’s",
       "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analy…",
@@ -1139,16 +1181,6 @@
       "category": "News",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Majority of Indian firms hit by AI agent incident in past 12 months; only 36 pc contained it in 24 hrs: Survey",
-      "summary": "Majority of Indian firms hit by AI agent incident in past 12 months; only 36 pc contained it in 24 hrs: Survey",
-      "link": "https://www.livemint.com/technology/majority-of-indian-firms-hit-by-ai-agent-incident-in-past-12-months-only-36-pc-contained-it-in-24-hrs-survey-11794995034484.html",
-      "date": "2026-11-18T09:43:53.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
       "source": "OpenAI",
@@ -1587,16 +1619,6 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp"
     },
     {
-      "source": "ET CIO",
-      "title": "India's sovereign AI ambitions must go beyond building models",
-      "summary": "India is making significant investments in AI technology, infrastructure, and indigenous models to enhance sovereignty. Enterprises face challenges in deploying AI models that work reliably and securely within real business processes. The…",
-      "link": "https://cio.economictimes.indiatimes.com/news/digital-sovereignty/indias-sovereign-ai-ambitions-must-go-beyond-building-models/135722874",
-      "date": "2026-11-11T02:30:00.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://etimg.etb2bimg.com/thumb/img-size-62748/135722874.cms"
-    },
-    {
       "source": "The Register AI",
       "title": "Anthropic tiptoes into MS Office territory",
       "summary": "Sheets, Whiteboards, and Data artifact types bring Claude closer to a productivity suite",
@@ -1955,6 +1977,26 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
+      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
+      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
+      "date": "2025-09-07T09:50:30.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
+    },
+    {
+      "source": "MenaBytes",
+      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
+      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
+      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
+      "date": "2025-09-02T19:04:44.000Z",
+      "category": "Business & Funding",
+      "region": "Middle East",
+      "image": null
     }
   ]
 }
