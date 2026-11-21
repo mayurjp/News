@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T17:59:44.682Z",
-  "count": 195,
+  "updated": "2026-11-21T23:22:04.452Z",
+  "count": 193,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -43,13 +43,93 @@
   "regions": [
     "India",
     "China",
+    "Europe",
     "Japan",
     "South Korea",
-    "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "SiliconANGLE",
+      "title": "Sovereignty starts with data, not chips, says Stuttgart AI factory chief",
+      "summary": "A sovereign AI factory is only as valuable as the companies that can actually get onto it. Across Europe, publicly funded AI factories are racing to give startups and small manufacturers supercomputer-class GPUs without pushing them into l…",
+      "link": "https://siliconangle.com/2026/11/21/sovereignty-data-not-chips-stuttgart-sovereign-ai-factory-sc26/",
+      "date": "2026-11-21T21:48:11.000Z",
+      "category": "Hardware & Infra",
+      "region": "Europe",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_6537-scaled.jpg"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "date": "2026-11-21T21:37:10.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "date": "2026-11-21T21:07:42.000Z",
+      "category": "People & Leadership",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "FT, NYT tie Alice Huang’s chip network to gaming tycoons and PLA suppliers",
+      "summary": "Alice Huang, the former Megaspeed executive at the centre of the Nvidia scandal, had links to gaming tycoons, hundreds of shell companies and an alleged Cambodian criminal group, the Financial Times reported on Saturday. Together they form…",
+      "link": "https://thenextweb.com/news/alice-huang-chip-network-ft-nyt-prince-group-pla-suppliers",
+      "date": "2026-11-21T19:44:59.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/11/nvidia-headquarters-santa-clara-sign-solar-canopy.avif"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Dan Hendrycks calls for a pause on frontier AI, Max Hodak pushes back",
+      "summary": "Dan Hendrycks used the DealBook Summit to call for an indefinite pause on frontier AI training runs. Max Hodak, on the same panel, said enforcing one would take a surveillance state. They spoke on the DealBook AGI panel, which Michael Barb…",
+      "link": "https://thenextweb.com/news/dealbook-agi-panel-hendrycks-pause-frontier-ai-hodak-surveillance",
+      "date": "2026-11-21T18:35:34.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/11/dan-hendrycks-onstage-microphone-green-curtain.avif"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Inference now drives two-thirds of AI workloads, changing where chips get deployed",
+      "summary": "AI spending is shifting from giant training clusters toward smaller, quickly built sites, and modular data centers are becoming a natural home for inference workloads. Power, cooling and memory supply now shape where tokens get generated a…",
+      "link": "https://siliconangle.com/2026/11/21/inference-two-thirds-ai-workloads-chip-deployment-positron-sc26/",
+      "date": "2026-11-21T18:28:26.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Cameron-McCaskill-head-of-sales-and-business-development-of-Positron-AI-Inc.-SC26-2026-scaled.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Meet Ishita Jain, the Google AI GTM leader driving business growth and working with enterprises across Southeast Asia",
+      "summary": "Ishita Jain has joined Google in an AI Go-to-Market role. She will work with enterprises across Southeast Asia to support AI growth. Her previous professional stints include Oracle Corporation and Infosys Limited.",
+      "link": "https://www.livemint.com/technology/tech-news/meet-ishita-jain-the-google-ai-gtm-leader-driving-business-growth-and-working-with-enterprises-across-southeast-asia-11795282632488.html",
+      "date": "2026-11-21T18:18:36.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/ishita_jain_google_ai_1795284657147_mHGS_1795284657380_Zsyl_5994d711-c96f-4ac6-a64b-8d452621b1b5_3lUN.jpg"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Satya Nadella says AI-found bugs will make outages more likely",
+      "summary": "Satya Nadella expects more outages like the one that took down Outlook last week, because AI now finds software flaws faster than companies can safely fix them. The Microsoft chief executive spoke to Andrew Ross Sorkin at The New York Time…",
+      "link": "https://thenextweb.com/news/satya-nadella-dealbook-ai-bugs-outages-alignment-world-of-hurt",
+      "date": "2026-11-21T18:12:24.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/11/satya-nadella-davos-2026-screen-audience-wef.avif"
+    },
     {
       "source": "SiliconANGLE",
       "title": "Sovereign AI: Where control becomes an architectural requirement",
@@ -101,16 +181,6 @@
       "image": "https://media.thenextweb.com/2026/11/scott-wu-cognition-ceo-headshot.avif"
     },
     {
-      "source": "The Next Web",
-      "title": "Cursor may drop Chinese AI models as India’s Sarvam starts selling them",
-      "summary": "Cursor plans to explore dropping Chinese open-weight AI models because of “geopolitical risk”, a House investigation says. The SpaceX-owned coding platform built its flagship model, Composer 2, on Moonshot AI’s Kimi K2.5. CNBC’s Kai Nicol-…",
-      "link": "https://thenextweb.com/news/cursor-chinese-ai-models-house-report-sarvam-deepseek",
-      "date": "2026-11-21T16:21:28.000Z",
-      "category": "Open Source",
-      "region": "India",
-      "image": "https://media.thenextweb.com/2026/11/andy-feliciotti-isg8AL7-6uk-unsplash.avif"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "Anthropic researcher claims to solve Riemann Problem with Claude",
       "summary": "Mathematician Levent Alpöge claimed on his personal site Friday to have a proof of the Riemann hypothesis, sharing Lean code he says supports the claim",
@@ -127,16 +197,6 @@
       ]
     },
     {
-      "source": "The Next Web",
-      "title": "China’s tech giants double AI spending to $139bn as labs earn less than 8%",
-      "summary": "China’s AI companies face a money problem as well as a chip shortage, The New York Times’ Sui-Lee Wee and Li You reported on Friday. China’s biggest tech firms will double their AI spending this year. Their AI labs bring in a fraction of i…",
-      "link": "https://thenextweb.com/news/china-ai-financing-139bn-capex-rhodium-deepseek",
-      "date": "2026-11-21T16:05:45.000Z",
-      "category": "Hardware & Infra",
-      "region": "China",
-      "image": "https://media.thenextweb.com/2026/11/shenzhen-electronics-market-shoppers-stalls.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
       "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
@@ -145,16 +205,6 @@
       "category": "News",
       "region": "China",
       "image": null
-    },
-    {
-      "source": "The Next Web",
-      "title": "Thinking Machines releases Inkling 2 Mini, a looped AI model for laptops",
-      "summary": "Thinking Machines Lab has released Inkling 2 Mini, an open-weights model small enough to run on a laptop. The lab says it leads every open-weights model under 100bn parameters on coding benchmarks such as DeepSWE. Mira Murati’s startup ann…",
-      "link": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop",
-      "date": "2026-11-21T15:49:30.000Z",
-      "category": "People & Leadership",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/11/inkling-2-mini-flight-simulator-macbook-airplane-mode.avif"
     },
     {
       "source": "LiveMint Tech",
@@ -611,16 +661,6 @@
       "image": null
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Enterprise AI hits a wall of power and cooling, not GPU supply",
-      "summary": "Enterprises racing to build AI factories and push edge inference into the field are learning that buying graphics processing units is the easy part. Power, cooling and network throughput now decide whether those costly systems produce inte…",
-      "link": "https://siliconangle.com/2026/11/20/edge-inference-hits-power-cooling-limits-gpu-supply-sc26/",
-      "date": "2026-11-20T12:55:31.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Jack-Hogan-vice-president-of-advanced-growth-technologies-of-SHI-International-Corp.-SC26.jpg"
-    },
-    {
       "source": "LiveMint Tech",
       "title": "OpenAI smartphone in the works? Foxconn subsidiary secures assembly orders; launch tipped for 2027-28",
       "summary": "OpenAI is reportedly developing its first smartphone, with Foxconn subsidiary FIH Mobile said to have secured assembly orders. Reports suggest a launch in late 2027 or 2028, with MediaTek potentially supplying a custom processor. OpenAI an…",
@@ -639,16 +679,6 @@
       "category": "News",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Canada’s sovereign AI ambitions come with a local economic bargain",
-      "summary": "Data center backlash is pushing builders to show communities what they get in return, and public-private partnerships are becoming one answer. As the race for sovereign AI heats up, the question is shifting from where intellectual property…",
-      "link": "https://siliconangle.com/2026/11/20/canadas-sovereign-ai-ambitions-come-with-local-economic-bargain-dellatsc26/",
-      "date": "2026-11-20T12:16:57.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Sharif-Virani-chief-executive-officer-of-SPUR-Innovation-Center-SC26.jpg"
     },
     {
       "source": "Wired AI",
@@ -811,16 +841,6 @@
       "image": null
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "date": "2026-11-20T00:43:50.000Z",
-      "category": "Business & Funding",
-      "region": "United States",
-      "image": null
-    },
-    {
       "source": "OpenAI",
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
@@ -858,16 +878,6 @@
       "date": "2026-11-20T00:00:00.000Z",
       "category": "News",
       "region": "Global",
-      "image": null
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "date": "2026-11-19T21:58:06.000Z",
-      "category": "News",
-      "region": "United States",
       "image": null
     },
     {
@@ -1019,16 +1029,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://fastly.restofworld.org/uploads/2026/11/GettyImages-2279457745.jpg?width=160&dpr=2&crop=1:1"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Asus ExpertBook P5 review: Can this lightweight laptop handle the demands of modern professionals?",
-      "summary": "The Asus ExpertBook P5 combines Intel Core Ultra 7 performance, a lightweight aluminium design, a sharp 2.5K display and AI-powered productivity features to deliver a premium business laptop experience.",
-      "link": "https://www.livemint.com/technology/tech-reviews/asus-expertbook-p5-review-can-this-lightweight-laptop-handle-the-demands-of-modern-professionals-11795079431647.html",
-      "date": "2026-11-19T10:21:46.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/19/1600x900/logo/best111a_1795079762938_i1Wk_1795079768223_qS2P_10a99094-00fe-4669-a940-6d83686b7c17_CtsW.png"
     },
     {
       "source": "OpenAI",
@@ -2015,26 +2015,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png"
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Saudi’s Intella raises $12.5 million in Prosus-led Series A to offer AI transcription for 25+ Arabic dialects",
-      "summary": "Riyadh-headquartered AI startup Intella has raised $12.5 million in an oversubscribed Series A funding round led by Prosus, with participation from 500 Global, Wa’ed Ventures, Hala Ventures, Idrisi Ventures, and HearstLab, it announced tod…",
-      "link": "https://www.menabytes.com/intella-series-a/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=intella-series-a",
-      "date": "2025-09-07T09:50:30.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
-    },
-    {
-      "source": "MenaBytes",
-      "title": "Qatar Investment Authority backs Anthropic’s record $13 billion round as AI firm hits $183 billion valuation",
-      "summary": "Qatar Investment Authority has joined a major group of global investors in backing Anthropic’s massive $13 billion Series F funding round. The round values Anthropic at $183 billion post-money, nearly tripling its valuation from $61.5 bill…",
-      "link": "https://www.menabytes.com/anthropic-series-f/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=anthropic-series-f",
-      "date": "2025-09-02T19:04:44.000Z",
-      "category": "Business & Funding",
-      "region": "Middle East",
-      "image": null
     }
   ]
 }
