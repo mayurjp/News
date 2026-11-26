@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T00:24:36.820Z",
-  "count": 191,
+  "updated": "2026-11-26T09:34:17.125Z",
+  "count": 188,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -44,12 +44,295 @@
     "India",
     "China",
     "Europe",
+    "Japan",
     "South Korea",
     "Middle East",
     "United States",
     "Global"
   ],
   "items": [
+    {
+      "source": "SCMP Tech",
+      "title": "Hong Kong exports post fastest growth in 70 years on AI-related goods",
+      "summary": "Runaway growth in Hong Kong’s exports, driven by demand for artificial intelligence-related electronic goods, continued into October, with shipments soaring by 65.6 per cent year on year, the fastest pace in more than 70 years, although fr…",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375917/hong-kong-exports-post-fastest-growth-70-years-ai-related-goods",
+      "date": "2026-11-26T09:23:24.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/59fb6bea-4c85-4131-a8a0-f526616a887b_cecf3395.jpg?itok=KvYdIZZ1&v=1795684811"
+    },
+    {
+      "source": "Japan Times",
+      "title": "U.S. chip curbs and distillation crackdown to impact Chinese AI model progress",
+      "summary": "American firms have made efforts to prevent use of their models to train others, while Washington has set out new rules for access to computing power.",
+      "link": "https://www.japantimes.co.jp/business/2026/11/26/companies/china-ai-development-hurdles/",
+      "date": "2026-11-26T09:21:00.000Z",
+      "category": "Hardware & Infra",
+      "region": "China",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/thumbs/400x400/576203.jpg",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/exclusiveus-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-11795677671352.html"
+        },
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-11795677620277.html"
+        }
+      ]
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Huawei advances home-grown chip design ecosystem while eyeing global push to rival Nvidia",
+      "summary": "Huawei Technologies and a local software partner claim to have made breakthroughs in domestic chip design tools built around the telecoms equipment giant’s Tau Scaling Law, marking the latest effort to cultivate a self-reliant semiconducto…",
+      "link": "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia",
+      "date": "2026-11-26T09:00:15.000Z",
+      "category": "Hardware & Infra",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/57207bb8-3db1-4af4-9585-235cac064260_1075bf2d.jpg?itok=rKh2F1nj&v=1795682501"
+    },
+    {
+      "source": "The Next Web",
+      "title": "Apple removes MiniMax’s Talkie AI app from App Store over child safety",
+      "summary": "Apple has removed Talkie, an AI companion app made by Chinese AI company MiniMax, from its App Store worldwide. The move came after reports that the app’s AI characters had sent sexualised messages to children. The removal followed a joint…",
+      "link": "https://thenextweb.com/news/apple-removes-minimax-talkie-app-store-child-safety",
+      "date": "2026-11-26T08:54:43.000Z",
+      "category": "Policy & Safety",
+      "region": "China",
+      "image": "https://media.thenextweb.com/2026/11/apple-logo-store-window-silhouettes-black-white.avif",
+      "relatedSources": [
+        {
+          "source": "Hindu BusinessLine",
+          "link": "https://www.thehindubusinessline.com/info-tech/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns/article71745327.ece"
+        },
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/technology/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns/articleshow/136180509.cms"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "SpaceX wins FCC approval for Starmind orbital data centre network",
+      "summary": "The US Federal Communications Commission has given SpaceX conditional approval to launch up to 1 million satellites that would work as data centres for AI in orbit, and it is the first time the FCC has approved an orbital data centre const…",
+      "link": "https://thenextweb.com/news/fcc-approves-spacex-orbital-data-centre-satellites",
+      "date": "2026-11-26T08:44:40.000Z",
+      "category": "Product",
+      "region": "United States",
+      "image": "https://media.thenextweb.com/2026/10/spacex-falcon-heavy-launch-pad-39a-hangar.avif"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "Nvidia halts chip shipments to South-East Asia, FT reports",
+      "summary": "Nvidia has halted chip shipments to Malaysia, Singapore, Thailand and Indonesia have been halted",
+      "link": "https://www.thehindubusinessline.com/info-tech/nvidia-halts-chip-shipments-to-south-east-asia-ft-reports/article71745340.ece",
+      "date": "2026-11-26T08:39:42.000Z",
+      "category": "Hardware & Infra",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/rlxs8u/article71714319.ece/alternates/LANDSCAPE_1200/2026-11-17T193937Z_2003416495_RC2VPOAQD6ZD_RTRMADP_3_NVIDIA-RESULTS.JPG",
+      "relatedSources": [
+        {
+          "source": "ET Tech",
+          "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-halts-chip-shipments-to-southeast-asia-ft-reports/articleshow/136180352.cms"
+        }
+      ]
+    },
+    {
+      "source": "The Next Web",
+      "title": "Nvidia reportedly stops server shipments to Malaysia, Singapore, Thailand, and Indonesia",
+      "summary": "The Financial Times reported on Thursday that Nvidia has told its manufacturing partners to stop shipping servers built with its chips to Malaysia, Singapore, Thailand, and Indonesia, citing three people familiar with the matter. Partners…",
+      "link": "https://thenextweb.com/news/nvidia-halts-server-shipments-southeast-asia",
+      "date": "2026-11-26T08:25:35.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/10/nvidia-logo-sign-building-exterior-trees.avif"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Investors see rising risk of SoftBank default as pressure grows on AI bets",
+      "summary": "SoftBank's five-year credit default swap spread, which measures the cost of insuring its bonds, widened more than 20 basis points to 534.6 bps, a four-year high. SoftBank's default probability sat at 34.8%.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/investors-see-rising-risk-of-softbank-default-as-pressure-grows-on-ai-bets/articleshow/136183977.cms",
+      "date": "2026-11-26T08:16:39.000Z",
+      "category": "News",
+      "region": "Japan",
+      "image": "https://img.etimg.com/photo/msid-136183977,imgsize-3126355.cms"
+    },
+    {
+      "source": "MediaNama",
+      "title": "IndiaMART settles dispute with OpenAI outside court over exclusion from ChatGPT results",
+      "summary": "A division bench recorded that IndiaMART was no longer willing to pursue the appeal. The post IndiaMART settles dispute with OpenAI outside court over exclusion from ChatGPT results appeared first on MEDIANAMA .",
+      "link": "https://www.medianama.com/2026/11/223-indiamart-settle-dispute-openai-outside-court-exclusion-chatgpt/",
+      "date": "2026-11-26T08:13:14.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": null
+    },
+    {
+      "source": "The Next Web",
+      "title": "Retailers face more AI-driven cyberattacks ahead of Black Friday",
+      "summary": "Retailers are heading into Black Friday on 27 November facing faster and more frequent cyberattacks, as AI helps criminals move more quickly. Many of them also have no insurance to cover the damage, Reuters reported. Claims data from insur…",
+      "link": "https://thenextweb.com/news/retailers-ai-cyberattacks-black-friday-insurance",
+      "date": "2026-11-26T07:55:21.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://media.thenextweb.com/2026/11/hooded-silhouette-computer-code-screens.avif"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says",
+      "summary": "MiniMax, which listed its shares in Hong Kong earlier this year, develops multimodal AI models - which can process multiple types of data - and consumer applications.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/data-from-chinese-ai-firm-minimax-accessed-by-unidentified-parties-researcher-says/articleshow/136180952.cms",
+      "date": "2026-11-26T06:17:07.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://img.etimg.com/photo/msid-136180952,imgsize-201924.cms",
+      "relatedSources": [
+        {
+          "source": "LiveMint Tech",
+          "link": "https://www.livemint.com/technology/data-from-chinese-ai-firm-minimax-accessed-by-unidentified-parties-researcher-says-11795673767961.html"
+        }
+      ]
+    },
+    {
+      "source": "ET Tech",
+      "title": "Amusing or addictive? The algorithms powering our social feeds",
+      "summary": "Social media algorithms are a powerful feature of online life, serving up content to users based on their browsing habits or personal data. - Under Australia's new rules, social media giants must allow users to \"opt out\" of the algorithm.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/amusing-or-addictive-the-algorithms-powering-our-social-feeds/articleshow/136180245.cms",
+      "date": "2026-11-26T05:54:17.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-136180245,imgsize-8344977.cms"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "date": "2026-11-26T05:05:36.000Z",
+      "category": "Research",
+      "region": "Global",
+      "image": null
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Nothing Ear (note) design revealed ahead of 8 December launch: AI recording, transcription and TALK buttons confirmed",
+      "summary": "Nothing has revealed the design of its Ear (note) AI earbuds ahead of the 8 December launch, showing a metallic charging case with dedicated TALK and RECORD buttons. The earbuds are expected to support AI-powered call recording, meeting tr…",
+      "link": "https://www.livemint.com/technology/gadgets/nothing-ear-note-design-revealed-ahead-of-december-8-launch-ai-recording-transcription-and-talk-buttons-confirmed-11795666730504.html",
+      "date": "2026-11-26T04:26:32.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/jsw1_1795667076785_MWWL_1795667080818_AWOH_bffdac37-a318-416a-9e89-afad64aaa788_znmY.png"
+    },
+    {
+      "source": "ET Tech",
+      "title": "US-based firms with Chinese owners buying Nvidia's most advanced chips",
+      "summary": "A CBS News investigation has found that Nvidia is selling its most advanced artificial intelligence (AI) chips to at least two US-based companies controlled by Chinese-owned firms, raising questions over the effectiveness of US export cont…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-based-firms-with-chinese-owners-buying-advanced-nvidias-most-advanced-chips/articleshow/136178351.cms",
+      "date": "2026-11-26T04:17:20.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://img.etimg.com/photo/msid-136178351,imgsize-423214.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Anthropic chief Dario Amodei denies wanting humans to 'surrender' free will to AI",
+      "summary": "Anthropic chief executive Dario Amodei on Wednesday denied wanting humanity to give up its free will to AI, calling it \"absurd\" to attribute the idea to him as rival tech leaders push back. \"No, I do not believe that we should 'surrender h…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-chief-dario-amodei-denies-wanting-humans-to-surrender-free-will-to-ai/articleshow/136178073.cms",
+      "date": "2026-11-26T04:02:36.000Z",
+      "category": "People & Leadership",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-136178073,imgsize-68686.cms"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "From AI models to football: how China plans to expand defence education by 2030",
+      "summary": "Gig economy workers, intervillage sports contests and students across China are among targets for Beijing’s new five-year blueprint for national defence education, which was released on Wednesday and will be in place until 2030. The bluepr…",
+      "link": "https://www.scmp.com/news/china/politics/article/3375850/ai-models-football-how-china-plans-expand-defence-education-2030",
+      "date": "2026-11-26T04:00:20.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/9eec367a-ab8a-4c92-9086-ecd0fa36989f_9d02f884.jpg?itok=a2BlZ7l7&v=1795664418"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "Chinese AI chips to capture 88% of home market by 2028, UBS says, as Nvidia woes mount",
+      "summary": "China’s annual domestic artificial intelligence accelerator shipments are set to jump nearly sixfold between 2025 and 2030 to more than 10 million units, with Cambricon Technologies and Biren Technology emerging as front runners, according…",
+      "link": "https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount",
+      "date": "2026-11-26T04:00:11.000Z",
+      "category": "Hardware & Infra",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/25/d81b9e33-a5f9-4bb8-8491-c90e53348b10_bf2ddfdd.jpg?itok=4okIZR-7&v=1795599700"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Your AI agents can be fully authorized and still do damage",
+      "summary": "For as long as we’ve had enterprise security, it’s been organized around one question: Who is allowed to do what? Identity, zero trust and least privilege all exist to answer that question. The internet and mobile disrupted the landscape b…",
+      "link": "https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/",
+      "date": "2026-11-26T02:52:26.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-2026-11-25-at-6.44.15-PM.png"
+    },
+    {
+      "source": "ET Tech",
+      "title": "OpenAI taps Cravath litigator for court showdown with Musk over AI dominance",
+      "summary": "OpenAI said Cravath's Gary Bornstein, co-head of the New York firm's litigation department, will be lead trial counsel in federal court in Fort Worth, where the case is set to be heard by a jury in March.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-taps-cravath-litigator-for-court-showdown-with-musk-over-ai-dominance/articleshow/136176645.cms",
+      "date": "2026-11-26T02:41:13.000Z",
+      "category": "Policy & Safety",
+      "region": "United States",
+      "image": "https://img.etimg.com/photo/msid-136176645,imgsize-597463.cms"
+    },
+    {
+      "source": "ET Tech",
+      "title": "Robots roam Singapore's urban AI testing ground",
+      "summary": "When coffee is spilled at an office block in a futuristic enclave of Singapore, AI-powered cameras and sensors detect it and send a cleaning robot right away. A district-wide \"open digital platform\" coordinates the robots and connects diff…",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/robots-roam-singapores-urban-ai-testing-ground/articleshow/136176603.cms",
+      "date": "2026-11-26T02:33:59.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://img.etimg.com/photo/msid-136176603,imgsize-29748.cms"
+    },
+    {
+      "source": "ET CIO",
+      "title": "Rethinking data centre design in an era of AI and rising energy demand",
+      "summary": "India's data centre sector is on the rise, fueled by cloud adoption and escalating AI demands. The operational capacity is anticipated to hit around 17 GW by 2031, necessitating optimal resource management. Advanced cooling technologies an…",
+      "link": "https://cio.economictimes.indiatimes.com/news/data-center/rethinking-data-centre-design-in-an-era-of-ai-and-rising-energy-demand/136176522",
+      "date": "2026-11-26T02:30:12.000Z",
+      "category": "News",
+      "region": "India",
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-103/136176522.cms"
+    },
+    {
+      "source": "SCMP Tech",
+      "title": "China sounds alarm on new and unseen tech risks, urges AI-driven security defence",
+      "summary": "China must significantly strengthen its ability to assess and prevent new and unseen security risks as technological revolutions, shifting global power balances and deepening social transformations create unprecedented challenges, accordin…",
+      "link": "https://www.scmp.com/news/china/politics/article/3375786/china-sounds-alarm-new-and-unseen-tech-risks-urges-ai-driven-security-defence",
+      "date": "2026-11-26T02:00:42.000Z",
+      "category": "News",
+      "region": "China",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/25/cf7a80ab-44cb-437a-b98e-8d251767bd44_5b3d8084.jpg?itok=4gx-PXFh&v=1795608669"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "New York bans AI toys amid concern after stuffed animals going rogue",
+      "summary": "New York Governor Kathy Hochul today signed legislation that will impose a five-year ban on children’s toys powered by artificial intelligence chatbots, amid fears that dolls, robots and stuffed animals might be leading children astray or…",
+      "link": "https://siliconangle.com/2026/11/25/new-york-bans-ai-toys-amid-concern-after-stuffed-animals-going-rogue/",
+      "date": "2026-11-26T01:46:12.000Z",
+      "category": "Policy & Safety",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/lizbeth-alvarez-gasca-DBQgVlXjLPU-unsplash.jpg"
+    },
+    {
+      "source": "SiliconANGLE",
+      "title": "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation",
+      "summary": "Artificial intelligence developer ElevenLabs Inc. is reportedly in early talks to raise capital at a $33 billion valuation. Bloomberg today cited sources as saying that the company plans to close the round in the first quarter of 2027. Acc…",
+      "link": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
+      "date": "2026-11-26T01:42:07.000Z",
+      "category": "Business & Funding",
+      "region": "Global",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/unsplash-1.png"
+    },
     {
       "source": "Hindu BusinessLine",
       "title": "How China got access to Nvidia’s AI chips despite US export restrictions",
@@ -201,26 +484,6 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "Claude rewrote the API that serves Claude. Checking its work was harder",
-      "summary": "Anthropic has moved its Messages API from Python to Rust with Claude agents writing and fixing much of the code. Its tests could not be trusted, so it compared the two versions on live traffic, and says the new API uses about 70% less CPU…",
-      "link": "https://thenextweb.com/news/anthropic-claude-messages-api-rust-migration",
-      "date": "2026-11-25T18:04:59.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/10/anthropic-sign-office-building-entrance.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "SAP staffer allegedly gave a startup partner’s demo to its rival",
-      "summary": "An SAP employee allegedly passed confidential material from British AI startup Conduct, an SAP partner, to Berlin rival Qorelo, then joined Qorelo, Bloomberg reported. SAP did not tell Conduct after a whistleblower flagged it in October; S…",
-      "link": "https://thenextweb.com/news/sap-employee-conduct-qorelo-espionage-complaint",
-      "date": "2026-11-25T17:46:30.000Z",
-      "category": "News",
-      "region": "Europe",
-      "image": "https://media.thenextweb.com/2026/11/sap-headquarters-walldorf.avif"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
       "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
@@ -231,16 +494,6 @@
       "image": null
     },
     {
-      "source": "The Next Web",
-      "title": "Siemens is building an AI robot to unpack parts at its Erlangen plant",
-      "summary": "Siemens is developing a robot that uses AI foundation models to unpack component deliveries at its Erlangen electronics plant, a job fixed robot programs cannot handle. At SPS 2026 it also showed an AI planner that it expects to cut manual…",
-      "link": "https://thenextweb.com/news/siemens-ai-unpacking-robot-production-planner-sps-2026",
-      "date": "2026-11-25T16:55:37.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/11/siemens-ai-robot-unpacking-erlangen.avif"
-    },
-    {
       "source": "Ars Technica AI",
       "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
       "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
@@ -249,26 +502,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Claude can now turn its artifacts into Mac and Windows desktop apps",
-      "summary": "Claude can now turn the artifacts it builds into desktop apps for Mac and Windows. Anthropic began rolling out the “Install as app” feature in beta on Tuesday, on every plan, it said. After installation, an artifact gets its own icon and o…",
-      "link": "https://thenextweb.com/news/claude-install-as-app-artifacts-mac-windows-desktop",
-      "date": "2026-11-25T16:36:13.000Z",
-      "category": "Product",
-      "region": "United States",
-      "image": "https://media.thenextweb.com/2026/11/claude-website-thinking-partner-screen.avif"
-    },
-    {
-      "source": "The Next Web",
-      "title": "Cloudflare wants AI agents to search websites, not crawl them",
-      "summary": "Cloudflare has launched Search for Agents in beta for all customers, including free ones. Switching it on indexes a site and adds a search endpoint on its own domain, advertised on every page, so AI agents can search the site instead of cr…",
-      "link": "https://thenextweb.com/news/cloudflare-search-for-agents-ai-website-search",
-      "date": "2026-11-25T16:25:51.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://media.thenextweb.com/2026/11/cloudflare-search-for-agents-graphic.avif"
     },
     {
       "source": "SiliconANGLE",
@@ -331,16 +564,6 @@
       "image": null
     },
     {
-      "source": "SCMP Tech",
-      "title": "China embeds ‘loyal wingman’ drone simulations in fighter pilot training",
-      "summary": "China’s military is increasingly integrating artificial intelligence – including AI-driven “loyal wingman” drones – into its routine training for frontline fighter pilots, official media reports have confirmed. People’s Liberation Army new…",
-      "link": "https://www.scmp.com/news/china/military/article/3375766/china-embeds-loyal-wingman-drone-simulations-fighter-pilot-training",
-      "date": "2026-11-25T14:00:07.000Z",
-      "category": "Product",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/25/79436e3c-444e-419b-a696-45f31e8c99e8_d991397a.jpg?itok=N7BGbKKM&v=1795601740"
-    },
-    {
       "source": "Hindu BusinessLine",
       "title": "bp, Wipro partner to transform finance operations; Wipro to absorb 3,000 bp employees",
       "summary": "The agreement, designed to boost efficiency and long-term cost competitiveness through AI, automation, and transformation",
@@ -368,13 +591,7 @@
       "date": "2026-11-25T13:00:00.000Z",
       "category": "People & Leadership",
       "region": "Global",
-      "image": null,
-      "relatedSources": [
-        {
-          "source": "SiliconANGLE",
-          "link": "https://siliconangle.com/2026/11/24/congress-scrutinizes-jensen-huangs-return-as-megaspeed-restrictions-raise-questions/"
-        }
-      ]
+      "image": null
     },
     {
       "source": "Hindu BusinessLine",
@@ -397,16 +614,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg"
     },
     {
-      "source": "Japan Times",
-      "title": "Japan to declare aim to become AI nation after U.S. and China",
-      "summary": "The government will include this goal when it revises the country's three key national security documents later this year.",
-      "link": "https://www.japantimes.co.jp/news/2026/11/25/japan/ai-nation-aim/",
-      "date": "2026-11-25T11:59:00.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/576035.jpg"
-    },
-    {
       "source": "Wired AI",
       "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
       "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
@@ -417,16 +624,6 @@
       "image": "https://media.wired.com/photos/6b0548d39ef0144d4a117a16/master/pass/GettyImages-1291069581.jpg"
     },
     {
-      "source": "SCMP Tech",
-      "title": "‘I don’t know what world will be like’ when AI understands physics, Edward Witten says",
-      "summary": "Recent AI breakthroughs in solving mathematical problems could mark a turning point in understanding modern physics, according to one of the world’s top physicists. American Edward Witten, an emeritus professor at the Institute for Advance…",
-      "link": "https://www.scmp.com/news/china/science/article/3375749/edward-witten-i-dont-know-what-world-will-be-when-ai-understands-physics",
-      "date": "2026-11-25T11:00:12.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/25/aa8a1023-20dc-4c00-9897-302d70897b6d_426916ab.jpg?itok=zdeibQQS&v=1795597125"
-    },
-    {
       "source": "Rest of World",
       "title": "How foreign AI romance apps are reshaping youth intimacy in Africa",
       "summary": "With no local safeguards in place, addictive chatbots are testing communal values and hooking children on synthetic love.",
@@ -435,16 +632,6 @@
       "category": "News",
       "region": "Global",
       "image": "https://fastly.restofworld.org/uploads/2026/11/Africa-AI-Companions-2.jpg?width=160&dpr=2&crop=1:1"
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Huawei forms patent teams for chips and AI, eyeing ecosystem to rival Nvidia",
-      "summary": "Huawei Technologies has established dedicated patent teams for semiconductors and artificial intelligence as it seeks to establish an overseas foothold for a computing ecosystem to rival Nvidia’s. Extending an intellectual property (IP) op…",
-      "link": "https://www.scmp.com/tech/big-tech/article/3375756/huawei-forms-patent-teams-chips-and-ai-eyeing-ecosystem-rival-nvidia",
-      "date": "2026-11-25T10:30:07.000Z",
-      "category": "News",
-      "region": "China",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/25/66766fc2-177c-4c19-95f1-86cd10e01979_7086cd84.jpg?itok=oCHjVNsh&v=1795599437"
     },
     {
       "source": "Hugging Face",
@@ -513,112 +700,6 @@
       "image": "https://img.etimg.com/photo/msid-136150503,imgsize-334073.cms"
     },
     {
-      "source": "ET Tech",
-      "title": "AI spending slowdown could hit memory companies as Goldman Sachs flags 2028 risks",
-      "summary": "Growing concerns over the sustainability of artificial intelligence (AI) infrastructure spending could create risks for memory chip companies in 2028, as a potential slowdown in investments by large cloud computing companies may affect dem…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-spending-slowdown-could-hit-memory-companies-as-goldman-sachs-flags-2028-risks/articleshow/136149044.cms",
-      "date": "2026-11-25T05:57:10.000Z",
-      "category": "Hardware & Infra",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-136149044,imgsize-338087.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "AI helping cyber attackers find weaknesses faster than companies can fix them, warns Cisco chief",
-      "summary": "Artificial intelligence (AI) is helping cyber attackers identify weaknesses in technology faster than companies can fix them, Cisco Chairman and CEO Chuck Robbins has warned, urging business leaders to act on the growing cyber threat while…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-helping-cyber-attackers-find-weaknesses-faster-than-companies-can-fix-them-warns-cisco-chief/articleshow/136148575.cms",
-      "date": "2026-11-25T05:16:33.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-136148575,imgsize-119619.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Tech outages are piling up, and AI is raising the stakes. Could this be the new normal?",
-      "summary": "This month alone, problems that appeared to emerge from routine updates, security patches or other malfunctions surfaced at Microsoft, JPMorgan Chase and Apple, and even the U.S. government's Federal Aviation Administration and National Se…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-outages-are-piling-up-and-ai-is-raising-the-stakes-could-this-be-the-new-normal/articleshow/136148580.cms",
-      "date": "2026-11-25T04:52:33.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-136148580,imgsize-10775903.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "AI agents set to reshape Indian workplaces as 93% of leaders plan adoption: KPMG-CII report",
-      "summary": "Indian businesses are preparing to increasingly deploy artificial intelligence agents across their operations, with 93 per cent of leaders intending to use the technology to expand workforce capabilities and 59 per cent already using AI ag…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agents-set-to-reshape-indian-workplaces-as-93-of-leaders-plan-adoption-kpmg-cii-report/articleshow/136148551.cms",
-      "date": "2026-11-25T04:50:43.000Z",
-      "category": "Enterprise & Deployment",
-      "region": "India",
-      "image": "https://img.etimg.com/photo/msid-136148551,imgsize-201924.cms",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/ai-agents-set-to-reshape-indian-workplaces-as-93-of-leaders-plan-adoption-kpmg-cii-report-11795573803148.html"
-        }
-      ]
-    },
-    {
-      "source": "ET Tech",
-      "title": "AI fails to deliver significant earnings gains for most banks despite productivity boost: McKinsey",
-      "summary": "Banks are yet to convert widespread productivity gains from artificial intelligence (AI) into significant financial returns, with only 6 per cent of surveyed organisations attributing a substantial share of their earnings to the technology…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-fails-to-deliver-significant-earnings-gains-for-most-banks-despite-productivity-boost-mckinsey/articleshow/136148515.cms",
-      "date": "2026-11-25T04:48:54.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-136148515,imgsize-254700.cms"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "India voices concern over instrumentalisation of technology for strategic one-upmanship",
-      "summary": "India calls on international community to address threats posed by misuse of emerging technologies such as AI",
-      "link": "https://www.thehindubusinessline.com/info-tech/india-voices-concern-over-instrumentalisation-of-technology-for-strategic-one-upmanship/article71741026.ece",
-      "date": "2026-11-25T04:18:23.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/62knj4/article71741061.ece/alternates/LANDSCAPE_1200/20261016152L_vR1uOFN.jpg"
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "Nvidia's AI financing commitments may face tighter US scrutiny amid stability concerns: Report",
-      "summary": "The government is expected to implement measures to curb excessive borrowing and safeguard financial stability, according to a news report by Focus Taiwan",
-      "link": "https://www.thehindubusinessline.com/info-tech/nvidias-ai-financing-commitments-may-face-tighter-us-scrutiny-amid-stability-concerns-report/article71741001.ece",
-      "date": "2026-11-25T03:51:47.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://bl-i.thgim.com/public/incoming/590gva/article71741019.ece/alternates/LANDSCAPE_1200/2026-11-23T170917Z_719253421_RC2TTOA3C1JE_RTRMADP_3_NVIDIA-CEO-TRUMP.JPG"
-    },
-    {
-      "source": "Japan Times",
-      "title": "U.S. criticizes Australia social media law as harming free speech",
-      "summary": "New legislation aims to reduce online harm by requiring providers such as social media platforms and AI chatbots to build safety into their products.",
-      "link": "https://www.japantimes.co.jp/news/2026/11/25/world/us-australia-social-media-speech/",
-      "date": "2026-11-25T03:17:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/575861.jpg"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Fake gifts, real losses as AI ads proliferate",
-      "summary": "Online shoppers endlessly scrolling through gift suggestions this holiday season risk being duped by a blizzard of AI-generated scams touting nonexistent products. Holiday gift scams are not new, but experts warn that AI has lowered the co…",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/fake-gifts-real-losses-as-ai-ads-proliferate/articleshow/136146395.cms",
-      "date": "2026-11-25T02:51:07.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-136146395,imgsize-109390.cms"
-    },
-    {
-      "source": "ET Tech",
-      "title": "Public, personal and unprecedented: Trump's extraordinary intervention with Nvidia",
-      "summary": "It was personal and it was public. \"When somebody is nice to me, I love that person,\" Trump, who is known for his candor, said in the Spring.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/public-personal-and-unprecedented-trumps-extraordinary-intervention-with-nvidia/articleshow/136146229.cms",
-      "date": "2026-11-25T02:37:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-136146229,imgsize-93750.cms"
-    },
-    {
       "source": "SiliconANGLE",
       "title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
       "summary": "Rarely a day goes by that Anthropic PBC doesn’t announce some kind of new capability, feature or model, and today wasn’t any different. Today came the ability to use Claude to create fully functional desktop applications for Windows and Ma…",
@@ -629,14 +710,14 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-25-09-34-15.png"
     },
     {
-      "source": "ET Tech",
-      "title": "Dell lifts annual forecasts after record quarter on surging AI server demand",
-      "summary": "The company has been benefiting from the generative AI boom, as more businesses and cloud providers are buying Dell's AI servers, which are powered by Nvidia chips, to run complex AI workloads and autonomous agents.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand/articleshow/136146169.cms",
-      "date": "2026-11-25T02:32:24.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://img.etimg.com/photo/msid-136146169,imgsize-103.cms"
+      "source": "LiveMint Tech",
+      "title": "AI agents set to reshape Indian workplaces as 93% of leaders plan adoption: KPMG-CII report",
+      "summary": "Indian businesses are preparing to increasingly deploy artificial intelligence agents across their operations, with 93 per cent of leaders intending to use the technology to expand workforce capabilities and 59 per cent already using AI ag…",
+      "link": "https://www.livemint.com/technology/ai-agents-set-to-reshape-indian-workplaces-as-93-of-leaders-plan-adoption-kpmg-cii-report-11795573803148.html",
+      "date": "2026-11-25T02:30:02.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "India",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
     },
     {
       "source": "ET CIO",
@@ -699,16 +780,6 @@
       "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/unsplash-1-1-1.png"
     },
     {
-      "source": "SiliconANGLE",
-      "title": "Dell and HP beat expectations, but their fortunes are diverging as AI dynamics crush the PC market",
-      "summary": "Updated with Wednesday stock prices: Dell Technologies Inc. and HP Inc. delivered strong earnings and revenue beats as they posted their latest financial results today. However, the companies have very different prospects going forward as…",
-      "link": "https://siliconangle.com/2026/11/24/dell-and-hp-beat-expectations-but-their-fortunes-are-diverging-as-ai-dynamics-crush-the-pc-market/",
-      "date": "2026-11-24T23:48:11.000Z",
-      "category": "Business & Funding",
-      "region": "Global",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_4227-1-2048x1365-1.jpg"
-    },
-    {
       "source": "Wired AI",
       "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
       "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
@@ -717,16 +788,6 @@
       "category": "People & Leadership",
       "region": "China",
       "image": "https://media.wired.com/photos/6b05a2cb470266bfec0ce9be/master/pass/GettyImages-2306037065.jpg"
-    },
-    {
-      "source": "SiliconANGLE",
-      "title": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
-      "summary": "Researchers at artificial intelligence developer Anthropic PBC today published details on Siren, a new evaluation that tests whether AI agents will break out of an insecure sandbox to get at something that would help them complete a task.…",
-      "link": "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
-      "date": "2026-11-24T22:56:59.000Z",
-      "category": "Research",
-      "region": "United States",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/anthropicsiren.png"
     },
     {
       "source": "LiveMint Tech",
@@ -779,16 +840,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg"
     },
     {
-      "source": "Hugging Face",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "date": "2026-11-24T16:34:13.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": null
-    },
-    {
       "source": "Google AI",
       "title": "How Gemini is changing the game for Golden State's organization and fans.",
       "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
@@ -833,16 +884,6 @@
           "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/"
         }
       ]
-    },
-    {
-      "source": "ET Tech",
-      "title": "Trump's Nvidia intervention rips up Wall Street playbook: McGeever",
-      "summary": "Huang's return after only 11 days, which US President Donald Trump said would not have happened without his personal intervention, calls into question US corporate ethics, governance, trust and accountability, not to mention the supposed s…",
-      "link": "https://economictimes.indiatimes.com/tech/technology/trumps-nvidia-intervention-rips-up-wall-street-playbook-mcgeever/articleshow/136133353.cms",
-      "date": "2026-11-24T14:09:25.000Z",
-      "category": "Policy & Safety",
-      "region": "United States",
-      "image": "https://img.etimg.com/photo/msid-136133353,imgsize-130016.cms"
     },
     {
       "source": "DeepMind",
@@ -933,16 +974,6 @@
       "category": "Product",
       "region": "India",
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Secret recording, AI errors and privacy risks: Why Dutch watchdog is against camera glasses",
-      "summary": "The Dutch Data Protection Authority has urged consumers not to buy AI-powered camera glasses, warning that they pose serious privacy and safety risks. The regulator also flagged cases of AI errors and said recording people in public using…",
-      "link": "https://www.livemint.com/technology/gadgets/secret-recording-ai-errors-and-privacy-risks-why-dutch-watchdog-is-against-camera-glasses-11795490827609.html",
-      "date": "2026-11-24T04:09:20.000Z",
-      "category": "Policy & Safety",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/Meta-Connect-23_1759069944352_1759069958389_1795491359880_pOI8_483e0ee2-2407-49c4-a7d5-6420a915c900_R0UY.jpg"
     },
     {
       "source": "ET CIO",
@@ -1105,16 +1136,6 @@
       "image": null
     },
     {
-      "source": "LiveMint Tech",
-      "title": "India may emerge as long-term AI winner despite dependence on foreign tech: Deutsche Bank",
-      "summary": "India could emerge as one of the biggest long-term beneficiaries of the global artificial intelligence (AI) revolution, driven by its large population, expanding digital infrastructure, technology workforce and growing demand for AI-based…",
-      "link": "https://www.livemint.com/technology/india-may-emerge-as-long-term-ai-winner-despite-dependence-on-foreign-tech-deutsche-bank-11795413563934.html",
-      "date": "2026-11-23T05:59:23.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech4_1734536476058_1734536482186.png"
-    },
-    {
       "source": "ET CIO",
       "title": "IT service must shift from managing tickets to completing work",
       "summary": "IT service management is currently navigating hurdles, as merely deflecting tickets does not lessen the workload. The integration of automation and AI proves beneficial for efficiently addressing routine requests. It's crucial for organiza…",
@@ -1133,26 +1154,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
-      "summary": "OPENAI-SAFETY/",
-      "link": "https://www.livemint.com/technology/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric-11795388594716.html",
-      "date": "2026-11-22T23:03:14.000Z",
-      "category": "News",
-      "region": "United States",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Samsung Galaxy S27 leak: 5 new features leaked so far, from an iPhone-like Now Bar to AI video creation",
-      "summary": "Samsung's Galaxy S27 series could bring a redesigned Now Bar inspired by Apple's Dynamic Island, new sports alerts and an AI tool to turn photos into videos. Early software also offers clues about the expected launch and new models.",
-      "link": "https://www.livemint.com/technology/samsung-galaxy-s27-leak-5-new-features-leaked-so-far-from-an-iphone-like-now-bar-to-ai-video-creation-11795344813020.html",
-      "date": "2026-11-22T12:25:40.000Z",
-      "category": "Product",
-      "region": "South Korea",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/Samsung_Galaxy_S27_1795350275227_53qy_1795350275510_rFL6_0f122951-f40d-4cb4-b9f3-eb2860584b01_4XsS.png"
     },
     {
       "source": "OpenAI",
@@ -1573,16 +1574,6 @@
       "category": "Policy & Safety",
       "region": "Global",
       "image": "https://fastly.restofworld.org/uploads/2026/11/20261105_Mino-AI-Lab-29-scaled.jpg?width=160&dpr=2&crop=1:1"
-    },
-    {
-      "source": "ET CIO",
-      "title": "AI solved the scarcity of code. What scarcity comes next?",
-      "summary": "The evolution of artificial intelligence is reshaping software delivery, emphasizing enhanced decision-making over traditional methods. With an increase in organizational capacity, attention will turn toward delivering business value and q…",
-      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/ai-solved-the-scarcity-of-code-what-scarcity-comes-next/135869910",
-      "date": "2026-11-16T02:30:00.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://etimg.etb2bimg.com/thumb/img-size-28688/135869910.cms"
     },
     {
       "source": "Rest of World",
