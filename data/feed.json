@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-28T03:55:30.183Z",
-  "count": 185,
+  "updated": "2026-11-28T13:04:12.643Z",
+  "count": 183,
   "sources": [
     "OpenAI",
     "DeepMind",
@@ -51,14 +51,80 @@
   ],
   "items": [
     {
-      "source": "Japan Times",
-      "title": "OpenAI says Apple pressured suppliers to shun its devices",
-      "summary": "The case has overshadowed OpenAI's bid to sell its own devices, a move that would put it in competition with the iPhone maker.",
-      "link": "https://www.japantimes.co.jp/business/2026/11/28/tech/openai-apple-pressured-suppliers/",
-      "date": "2026-11-28T01:09:00.000Z",
+      "source": "The Next Web",
+      "title": "Nvidia’s chip financing can’t sustain the AI boom alone, LBS professor says",
+      "summary": "Nvidia’s deals to finance demand for its own chips can get data centres built, but only steady customer spending can justify the next ones. That is the argument of Michael Jacobides, a professor at London Business School, in a Fortune comm…",
+      "link": "https://thenextweb.com/news/nvidias-chip-financing-cant-sustain-the-ai-boom-alone-lbs-professor-says",
+      "date": "2026-11-28T12:47:38.000Z",
+      "category": "Hardware & Infra",
+      "region": "Europe",
+      "image": "https://media.thenextweb.com/2026/10/jensen-huang-nvidia-gtc-2026-under-gtc-logo-san-jose.avif"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI adoption in India will be voice-first, more multi-lingual and Android-heavy: Prabhjeet Singh, Managing Director, OpenAI India",
+      "summary": "Having assumed the role of Managing Director starting September, Singh viewed his own role to assist Open AI understand India and deploy the technology with the right context",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-adoption-in-india-will-be-voice-first-more-multi-lingual-and-android-heavy-prabhjeet-singh-managing-director-openai-india/article71754143.ece",
+      "date": "2026-11-28T12:06:40.000Z",
+      "category": "Enterprise & Deployment",
+      "region": "India",
+      "image": "https://bl-i.thgim.com/public/incoming/uhwd0t/article71754318.ece/alternates/LANDSCAPE_1200/1789065322995.png"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "AI-led analytics, risk-based screening to shape future of employee verification: KPMG",
+      "summary": "The report says evolving workforce structures—contractors, gig workers, and remote staff—are driving broader screening practices",
+      "link": "https://www.thehindubusinessline.com/info-tech/ai-led-analytics-risk-based-screening-to-shape-future-of-employee-verification-kpmg/article71753908.ece",
+      "date": "2026-11-28T08:05:25.000Z",
+      "category": "News",
+      "region": "Global",
+      "image": "https://bl-i.thgim.com/public/incoming/1uas6/article71753937.ece/alternates/LANDSCAPE_1200/PO01_BS_AI.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "HP OmniBook Ultra 16 with Nvidia RTX Spark N1X platform launched in India at ₹5,49,999: Price, specs and features",
+      "summary": "With OmniBook Ultra 16, HP is betting on a niche segment of high-performance personal computing geared specifically toward on-device AI workloads.",
+      "link": "https://www.livemint.com/technology/tech-news/hp-omnibook-ultra-16-with-nvidia-rtx-spark-n1x-platform-launched-in-india-at-5-49-999-price-specs-and-features-11795845254850.html",
+      "date": "2026-11-28T06:50:11.000Z",
+      "category": "Product",
+      "region": "India",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/28/1600x900/logo/daytonan_omnibook_ultra_16_1795847499231_z90s_1795847509806_r5Sv_519c5c7c-8df6-4d55-8174-2737b2cadf42_PXCj.jpg"
+    },
+    {
+      "source": "LiveMint Tech",
+      "title": "Microsoft faces AI challenge: Windows 12 release date remains elusive amid user frustration over artificial intelligence",
+      "summary": "Microsoft has not set a release date for Windows 12, focusing instead on improving Windows 11 and proving that AI features offer practical benefits.",
+      "link": "https://www.livemint.com/technology/tech-news/microsoft-faces-ai-challenge-windows-12-release-date-remains-elusive-amid-user-frustration-over-artificial-intelligence-11795844211604.html",
+      "date": "2026-11-28T05:48:41.000Z",
       "category": "News",
       "region": "United States",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/thumbs/400x400/576432.jpg"
+      "image": "https://www.livemint.com/lm-img/img/2026/11/28/1600x900/logo/Windows_1795844713029_6zHU_1795844716714_gSo5_9db5f656-d828-4b3d-997d-55772a6d6021_mq12.jpg"
+    },
+    {
+      "source": "Hindu BusinessLine",
+      "title": "OpenAI says Apple pressured suppliers to shun its devices",
+      "summary": "OpenAI also accuses Apple of stealing its trade secrets",
+      "link": "https://www.thehindubusinessline.com/info-tech/openai-says-apple-pressured-suppliers-to-shun-its-devices/article71753607.ece",
+      "date": "2026-11-28T05:00:22.000Z",
+      "category": "News",
+      "region": "United States",
+      "image": "https://bl-i.thgim.com/public/incoming/fdck20/article71753620.ece/alternates/LANDSCAPE_1200/2026-11-22T225321Z_999739579_RC29KOALBWK3_RTRMADP_3_OPENAI-SAFETY.JPG",
+      "relatedSources": [
+        {
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/11/28/tech/openai-apple-pressured-suppliers/"
+        }
+      ]
+    },
+    {
+      "source": "ET CIO",
+      "title": "Handing over the keys: six AI predictions for enterprises in 2027",
+      "summary": "Enterprises across Asia Pacific are transitioning AI from experimental phases to core operations by 2027. The integration of AI aims to reshape business models and enhance efficiency in decision-making. Organizations will improve their gov…",
+      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/handing-over-the-keys-six-ai-predictions-for-enterprises-in-2027/136236678",
+      "date": "2026-11-28T02:30:00.000Z",
+      "category": "Product",
+      "region": "Global",
+      "image": "https://etimg.etb2bimg.com/thumb/img-size-3127352/136236678.cms"
     },
     {
       "source": "SiliconANGLE",
@@ -181,16 +247,6 @@
       "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech3_1734536499109_1734536513984.jpg"
     },
     {
-      "source": "SCMP Tech",
-      "title": "‘The tools change, the spirit does not’: 50 years of Hong Kong construction industry training",
-      "summary": "[The content of this article has been produced by our advertising partner.] Gone are the days when aspiring construction workers in Hong Kong relied almost entirely on experienced craftsmen to learn their trade. Today, AI, robotics and sma…",
-      "link": "https://www.scmp.com/presented/news/hong-kong/topics/50-years-construction-industry-training/article/3375854/tools-change-spirit-does-not-50-years-hong-kong-construction-industry-training",
-      "date": "2026-11-27T10:53:21.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/2026/11/26/1200x800-v2.0.jpg?itok=lCoKYiQw"
-    },
-    {
       "source": "MediaNama",
       "title": "The Government is planning a common AI platform to automate citizen services",
       "summary": "DIC seeks an AI-enabled platform to manage citizen interactions, automate workflows and track grievances across government clients, leaving data retention and consent arrangements to individual orders. The post The Government is planning a…",
@@ -209,16 +265,6 @@
       "category": "Policy & Safety",
       "region": "India",
       "image": null
-    },
-    {
-      "source": "SCMP Tech",
-      "title": "Police handle 30 cybersecurity cases as AI helps hackers exploit flaws",
-      "summary": "Hong Kong police have handled 30 cybersecurity incidents since October 1, with loopholes in communication mechanisms between software components accounting for about a third of the cases. The police force released the figures as more cyber…",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376025/hong-kong-police-handle-30-cybersecurity-cases-past-month-including-ai-assisted-hack",
-      "date": "2026-11-27T07:55:34.000Z",
-      "category": "Security & Cyber Risk",
-      "region": "Global",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/27/7fafcefa-057f-4f53-92ec-4cb03d244627_bc642ef3.jpg?itok=ZDi9f9XG&v=1795766133"
     },
     {
       "source": "LiveMint Tech",
@@ -249,16 +295,6 @@
       "category": "Hardware & Infra",
       "region": "Europe",
       "image": "https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg"
-    },
-    {
-      "source": "Japan Times",
-      "title": "Japan releases new guidelines on use of AI by Self-Defense Forces",
-      "summary": "The new guidelines build on the Defense Ministry's basic policy for promoting the use of artificial intelligence, released in 2024.",
-      "link": "https://www.japantimes.co.jp/news/2026/11/27/japan/self-defense-forces-ai-use/",
-      "date": "2026-11-27T06:30:00.000Z",
-      "category": "News",
-      "region": "Japan",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/thumbs/400x400/576348.jpg"
     },
     {
       "source": "LiveMint Tech",
@@ -536,13 +572,7 @@
       "date": "2026-11-26T06:17:07.000Z",
       "category": "News",
       "region": "China",
-      "image": "https://img.etimg.com/photo/msid-136180952,imgsize-201924.cms",
-      "relatedSources": [
-        {
-          "source": "LiveMint Tech",
-          "link": "https://www.livemint.com/technology/data-from-chinese-ai-firm-minimax-accessed-by-unidentified-parties-researcher-says-11795673767961.html"
-        }
-      ]
+      "image": "https://img.etimg.com/photo/msid-136180952,imgsize-201924.cms"
     },
     {
       "source": "Hugging Face",
@@ -553,16 +583,6 @@
       "category": "Research",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "LiveMint Tech",
-      "title": "Nothing Ear (note) design revealed ahead of 8 December launch: AI recording, transcription and TALK buttons confirmed",
-      "summary": "Nothing has revealed the design of its Ear (note) AI earbuds ahead of the 8 December launch, showing a metallic charging case with dedicated TALK and RECORD buttons. The earbuds are expected to support AI-powered call recording, meeting tr…",
-      "link": "https://www.livemint.com/technology/gadgets/nothing-ear-note-design-revealed-ahead-of-december-8-launch-ai-recording-transcription-and-talk-buttons-confirmed-11795666730504.html",
-      "date": "2026-11-26T04:26:32.000Z",
-      "category": "Product",
-      "region": "Global",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/jsw1_1795667076785_MWWL_1795667080818_AWOH_bffdac37-a318-416a-9e89-afad64aaa788_znmY.png"
     },
     {
       "source": "SiliconANGLE",
@@ -623,16 +643,6 @@
       "category": "News",
       "region": "Global",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "S&P puts Nvidia’s credit rating on downgrade watch over governance concerns",
-      "summary": "The ratings agency said Nvidia’s board structure and oversight practices may not have kept pace with its rapid growth and global influence",
-      "link": "https://www.thehindubusinessline.com/info-tech/sp-puts-nvidias-credit-rating-on-downgrade-watch-over-governance-concerns/article71744270.ece",
-      "date": "2026-11-25T23:32:39.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://bl-i.thgim.com/public/incoming/7qbt49/article71744272.ece/alternates/LANDSCAPE_1200/2026-11-25T061221Z_1863970397_RC2138APMXZC_RTRMADP_3_NVIDIA-CEO-ALICE-CHIPS.JPG"
     },
     {
       "source": "TechCrunch AI",
@@ -755,16 +765,6 @@
       "image": null
     },
     {
-      "source": "Hindu BusinessLine",
-      "title": "No contradiction in SarvamAI’s open-source models and India’s sovereign AI push, says MeitY Secretary",
-      "summary": "The government is also considering support for AI inference, a costly step needed to build full-fledged artificial intelligence platforms in India",
-      "link": "https://www.thehindubusinessline.com/info-tech/no-contradiction-in-sarvamais-open-source-models-and-indias-sovereign-ai-push-says-meity-secretary/article71743362.ece",
-      "date": "2026-11-25T15:27:20.000Z",
-      "category": "Open Source",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/57g3dx/article71743486.ece/alternates/LANDSCAPE_1200/MeitY-launches-GT5GQ3IDE.4.jpg.jpg"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
       "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
@@ -773,16 +773,6 @@
       "category": "News",
       "region": "United States",
       "image": null
-    },
-    {
-      "source": "Hindu BusinessLine",
-      "title": "bp, Wipro partner to transform finance operations; Wipro to absorb 3,000 bp employees",
-      "summary": "The agreement, designed to boost efficiency and long-term cost competitiveness through AI, automation, and transformation",
-      "link": "https://www.thehindubusinessline.com/info-tech/bp-wipro-partner-to-transform-finance-operations-wipro-to-absorb-3000-bp-employees/article71742242.ece",
-      "date": "2026-11-25T13:56:55.000Z",
-      "category": "News",
-      "region": "India",
-      "image": "https://bl-i.thgim.com/public/incoming/o25c8z/article71742920.ece/alternates/LANDSCAPE_1200/BL01_Think_agreement.jpg"
     },
     {
       "source": "Ars Technica AI",
@@ -1453,16 +1443,6 @@
       "category": "Research",
       "region": "Global",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-scaled.jpeg"
-    },
-    {
-      "source": "ET CIO",
-      "title": "Why enterprise AI success takes more than deploying a few AI agents",
-      "summary": "Organizations are increasingly adopting multi-agent AI systems, which can improve business outcomes but may weaken ethical standards. Leaders must establish governed AI operating models to address these challenges effectively. It is essent…",
-      "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/why-enterprise-ai-success-takes-more-than-deploying-a-few-ai-agents/135907820",
-      "date": "2026-11-17T02:36:54.000Z",
-      "category": "News",
-      "region": "Global",
-      "image": "https://etimg.etb2bimg.com/thumb/img-size-1601168/135907820.cms"
     },
     {
       "source": "NVIDIA",
